@@ -22,6 +22,12 @@ async function downloadImage(url, filepath) {
     });
 }
 
+// Function to extract folder name from URL
+function extractFolderNameFromUrl(url) {
+    const urlParts = url.split('/');
+    return urlParts[urlParts.length - 1]; // Get the last part of the URL
+}
+
 // Main function to scrape product data and download images
 async function scrapeProductData(productUrl, index) {
     const browser = await puppeteer.launch();
@@ -37,9 +43,6 @@ async function scrapeProductData(productUrl, index) {
         
         // Try to get additional details
         const sku = document.querySelector('.product.attribute.sku .value')?.innerText || 'N/A';
-        const additionalInfo = Array.from(document.querySelectorAll('.additional-attributes .item'))
-            .map(item => `${item.querySelector('.label')?.innerText}: ${item.querySelector('.value')?.innerText}`)
-            .join('\n');
 
         return { 
             name, 
@@ -47,14 +50,30 @@ async function scrapeProductData(productUrl, index) {
             description, 
             images, 
             sku,
-            additionalInfo,
             url: window.location.href 
         };
     });
 
-    // Sanitize product name for directory and file creation
-    const sanitizedProductName = sanitizeFilename(productData.name);
-    const productDir = path.join(__dirname, 'products', sanitizedProductName);
+    // Click on the "المواصفات" tab to reveal additional information
+    await page.click('a#tab-label-specifications-tab-title');
+    await page.waitForSelector('#specifications-tab', { visible: true });
+
+    // Extract additional information from the "المواصفات" tab
+    const additionalInfo = await page.evaluate(() => {
+        const additionalInfoElements = document.querySelectorAll('#specifications-tab ul li');
+        return Array.from(additionalInfoElements).map(el => el.innerText).join('\n');
+    });
+
+    // Add additional information to the product data
+    productData.additionalInfo = additionalInfo;
+
+    // Extract folder name from URL
+    const folderName = extractFolderNameFromUrl(productUrl);
+    const sanitizedFolderName = sanitizeFilename(folderName);
+
+    // Add index to the folder name
+    const indexedFolderName = `${index.toString().padStart(2, '0')}_${sanitizedFolderName}`;
+    const productDir = path.join(__dirname, 'products', indexedFolderName);
 
     // Create product directory if it doesn't exist
     if (!fs.existsSync(productDir)) {
@@ -62,7 +81,7 @@ async function scrapeProductData(productUrl, index) {
     }
 
     // Create product details text file
-    const productInfoFilePath = path.join(productDir, `${sanitizedProductName}_details.txt`);
+    const productInfoFilePath = path.join(productDir, `${indexedFolderName}_details.txt`);
     const productInfoContent = `Product Name: ${productData.name}
 Price: ${productData.price}
 SKU: ${productData.sku}
@@ -70,7 +89,6 @@ SKU: ${productData.sku}
 Description:
 ${productData.description}
 
-Additional Information:
 ${productData.additionalInfo}
 
 Product URL: ${productData.url}
@@ -78,10 +96,13 @@ Product URL: ${productData.url}
 
     fs.writeFileSync(productInfoFilePath, productInfoContent);
 
-    // Download images
+    // Download images with the same name as they would have if saved manually
     const imagePromises = productData.images.map(async (imageUrl, i) => {
-        const imageFilename = `${sanitizedProductName}-${i.toString().padStart(2, '0')}.jpg`;
-        const imagePath = path.join(productDir, imageFilename);
+        // Extract the image filename from the URL
+        const imageUrlParts = imageUrl.split('/');
+        const imageFilename = imageUrlParts[imageUrlParts.length - 1].split('?')[0]; // Remove query parameters
+        const indexedImageFilename = `${i.toString().padStart(2, '0')}_${imageFilename}`;
+        const imagePath = path.join(productDir, indexedImageFilename);
 
         try {
             await downloadImage(imageUrl, imagePath);
@@ -131,5 +152,5 @@ async function processProducts(jsonFilePath, limit) {
 (async () => {
     const limit = 3; // Set the limit of products to process
     const results = await processProducts('products.json', limit);
-    console.log(results);
+    // console.log(results);
 })();
