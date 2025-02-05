@@ -1,4 +1,4 @@
-const {scrapeProducts} = require('./dataCollection');
+const {scrapeProducts} = require('../dataCollection');
 const { processProducts } = require('./productsColletion');
 
 
