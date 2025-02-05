@@ -1,0 +1,1 @@
+// "SKU","GTIN, UPC, EAN, or ISBN","Name","Regular price","Categories","Images","Attribute 1 name","Attribute 1 value(s)","Attribute 1 visible","Attribute 1 global","Attribute 2 name","Attribute 2 value(s)","Attribute 2 visible","Attribute 2 global","Description"

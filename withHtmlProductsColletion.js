@@ -36,8 +36,10 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
     const productData = await page.evaluate(() => {
         const name = document.querySelector('.page-title span')?.innerText || 'Unknown Product';
         const price = document.querySelector('.price-wrapper .price')?.innerText || 'N/A';
-        const description = document.querySelector('.product.attribute.description .value')?.innerHTML || 'No description available';
-        const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerHTML || 'No short description available';
+        const descriptionElement = document.querySelector('.product.attribute.description .value');
+        const description = descriptionElement ? descriptionElement.innerHTML : 'No description available';
+        const shortDescriptionElement = document.querySelector('.product-info-main .breadcrumbs-category');
+        const shortDescription = shortDescriptionElement ? shortDescriptionElement.innerHTML : 'No short description available';
         const images = Array.from(document.querySelectorAll('.fotorama__img')).map(img => img.src);
 
         // Extract SKU from the data-sku attribute
@@ -61,8 +63,8 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
 
     // Extract additional information from the "المواصفات" tab
     const additionalInfo = await page.evaluate(() => {
-        const additionalInfoElements = document.querySelectorAll('#specifications-tab ul li');
-        return Array.from(additionalInfoElements).map(el => el.innerText).join('\n');
+        const additionalInfoElement = document.querySelector('#specifications-tab');
+        return additionalInfoElement ? additionalInfoElement.innerHTML : 'No additional information available';
     });
 
     // Add additional information to the product data
@@ -72,7 +74,7 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
 }
 
 // Main function to scrape product data and download images
-async function scrapeProductData(productUrl, index, category_subcategory) {
+async function scrapeProductData(productUrl, index) {
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
 
@@ -91,7 +93,7 @@ async function scrapeProductData(productUrl, index, category_subcategory) {
 
     // Add index to the folder name
     const indexedFolderName = `${index.toString().padStart(2, '0')}_${sanitizedFolderName}`;
-    const productDir = path.join(__dirname, 'products', category_subcategory, indexedFolderName);
+    const productDir = path.join(__dirname, 'products', indexedFolderName);
 
     // Create product directory if it doesn't exist
     if (!fs.existsSync(productDir)) {
@@ -166,7 +168,7 @@ Product URL (English): ${englishData.url}
 }
 
 // Function to process products with a limit and create a master JSON
-async function processProducts(jsonFilePath, limit, outputFile) {
+async function processProducts(jsonFilePath, limit) {
     const products = JSON.parse(fs.readFileSync(jsonFilePath, 'utf-8'));
     const results = [];
 
@@ -180,7 +182,7 @@ async function processProducts(jsonFilePath, limit, outputFile) {
         const product = products[i];
         console.log(`Processing ${i + 1}/${limit}: ${product.name}`);
         try {
-            const data = await scrapeProductData(product.url, i, outputFile);
+            const data = await scrapeProductData(product.url, i);
             results.push(data);
         } catch (error) {
             console.error(`Failed to process product: ${product.name}`, error);
@@ -188,7 +190,7 @@ async function processProducts(jsonFilePath, limit, outputFile) {
     }
 
     // Create a master JSON file with all product data
-    const masterJsonPath = path.join(__dirname, 'products', outputFile, 'master_products.json');
+    const masterJsonPath = path.join(__dirname, 'products', 'master_products.json');
     fs.writeFileSync(masterJsonPath, JSON.stringify(results, null, 2));
     console.log(`Master product data saved to ${masterJsonPath}`);
 

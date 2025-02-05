@@ -13,7 +13,7 @@ const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
  */
 const scrapeProducts = async (start, end, baseUrl, outputFile) => {
     // Launch the browser
-    const browser = await puppeteer.launch({ headless: false }); // Set headless: true for production
+    const browser = await puppeteer.launch({ headless: true }); // Set headless: true for production
     const page = await browser.newPage();
 
     // Array to store all scraped products
@@ -69,12 +69,4 @@ const scrapeProducts = async (start, end, baseUrl, outputFile) => {
     console.log(`Scraped data saved to ${outputFile}`);
 };
 
-// Example usage
-(async () => {
-    const start = 33; // starting page number
-    const end = 35; // ending page number
-    const baseUrl = 'https://www.nahdionline.com/ar/vitamins-supplements/mens-health?sortBy=prod_ar_products_price_default_asc';
-    const outputFile = 'products.json';
-
-    await scrapeProducts(start, end, baseUrl, outputFile);
-})();
+module.exports = { scrapeProducts };
