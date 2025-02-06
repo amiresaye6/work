@@ -86,7 +86,7 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
 // Function to handle failed products
 function handleFailedProduct(failedProduct) {
     const failedProductsFilePath = path.join(__dirname, 'failed_products.json');
-    let failedProducts = [];
+    let failedProducts = {};
 
     // Check if the file exists
     if (fs.existsSync(failedProductsFilePath)) {
@@ -94,8 +94,13 @@ function handleFailedProduct(failedProduct) {
         failedProducts = JSON.parse(fs.readFileSync(failedProductsFilePath, 'utf-8'));
     }
 
+    // Initialize the "SKU mismatch ar, en" key if it doesn't exist
+    if (!failedProducts["SKU mismatch ar, en"]) {
+        failedProducts["SKU mismatch ar, en"] = [];
+    }
+
     // Append the new failed product
-    failedProducts.push(failedProduct);
+    failedProducts["SKU mismatch ar, en"].push(failedProduct);
 
     // Write the updated list back to the file
     fs.writeFileSync(failedProductsFilePath, JSON.stringify(failedProducts, null, 2));
@@ -122,6 +127,17 @@ async function processProducts(inputFilePath, outputFile) {
 
             // Scrape English data
             const englishData = await scrapeProductDataForLanguage(page, englishUrl, 'en');
+
+            // Compare SKUs
+            if (arabicData.sku !== englishData.sku) {
+                // If SKUs don't match, add to failed products
+                handleFailedProduct({
+                    ar_url: product.url,
+                    en_url: englishUrl,
+                    ar_sku: arabicData.sku,
+                    en_sku: englishData.sku
+                });
+            }
 
             // Combine Arabic and English data for JSON/CSV
             const combinedData = {
@@ -218,4 +234,4 @@ Product URL: ${englishData.url}
 
 module.exports = {
     processProducts
-}
+};
