@@ -33,6 +33,12 @@ function extractFolderNameFromUrl(url) {
 async function scrapeProductDataForLanguage(page, productUrl, language) {
     await page.goto(productUrl, { waitUntil: 'networkidle2' });
 
+    // If the language is English, click the language switcher
+    if (language === 'en') {
+        await page.click('.switcher.language.switcher-language .view-en.switcher-option a');
+        await page.waitForNavigation({ waitUntil: 'networkidle2' });
+    }
+
     // Extract product data
     const productData = await page.evaluate(() => {
         const name = document.querySelector('.page-title span')?.innerText || 'Unknown Product';
@@ -40,7 +46,7 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
         const descriptionElement = document.querySelector('.product.attribute.description .value');
         const description = descriptionElement ? descriptionElement.innerText : 'No description available'; // Use innerText for plain text
         const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerText || 'No short description available'; // Use innerText for plain text
-        const images = Array.from(document.querySelectorAll('.fotorama__img')).map(img => img.src);
+        const images = [...new Set([...document.querySelectorAll('.fotorama__img')].map(img => img.src.split('?')[0]))];
 
         // Extract SKU from the data-sku attribute
         const skuElement = document.querySelector('.nahdi-promo-sku');
@@ -108,11 +114,17 @@ function handleFailedProduct(failedProduct) {
 }
 
 // Function to process products and generate JSON, CSV, and download images
-async function processProducts(inputFilePath, outputFile) {
+async function processProducts(inputFilePath, outputFile, urlCategory) {
     const products = JSON.parse(fs.readFileSync(inputFilePath, 'utf-8'));
     const results = [];
 
-    const browser = await puppeteer.launch({ headless: true });
+    const browser = await puppeteer.launch({
+        headless: true,
+        ignoreHTTPSErrors: true,
+        args: [`--window-size=${Math.floor(1920 * 0.7)},${Math.floor(1080 * 0.7)}`],
+        defaultViewport: null, // Ensure the tab takes the full window size
+    });
+    
     const page = await browser.newPage();
 
     for (let i = 0; i < products.length; i++) {
@@ -122,18 +134,15 @@ async function processProducts(inputFilePath, outputFile) {
             // Scrape Arabic data
             const arabicData = await scrapeProductDataForLanguage(page, product.url, 'ar');
 
-            // Update URL to English
-            const englishUrl = product.url.replace('/ar/', '/en/');
-
-            // Scrape English data
-            const englishData = await scrapeProductDataForLanguage(page, englishUrl, 'en');
+            // Scrape English data by clicking the language switcher
+            const englishData = await scrapeProductDataForLanguage(page, product.url, 'en');
 
             // Compare SKUs
             if (arabicData.sku !== englishData.sku) {
                 // If SKUs don't match, add to failed products
                 handleFailedProduct({
                     ar_url: product.url,
-                    en_url: englishUrl,
+                    en_url: englishData.url,
                     ar_sku: arabicData.sku,
                     en_sku: englishData.sku
                 });
@@ -144,7 +153,8 @@ async function processProducts(inputFilePath, outputFile) {
                 "SKU": arabicData.sku,
                 "Name": arabicData.name,
                 "Regular price": arabicData.price,
-                "Categories": arabicData.category,
+                "Categories": urlCategory,
+                // "Categories": arabicData.category,
                 "Images": arabicData.images.join(', '), // Combine image URLs into a single string
                 "Attribute 1 name": "الماركة",
                 "Attribute 1 value(s)": arabicData.brand,
@@ -174,9 +184,14 @@ async function processProducts(inputFilePath, outputFile) {
             const productInfoFilePath = path.join(productDir, `${indexedFolderName}_details.txt`);
             const productInfoContent = `Product Name: ${englishData.name}
 Price: ${englishData.price}
+=======================
 SKU: ${englishData.sku}
+=======================
 Brand: ${englishData.brand}
+=======================
 Category: ${englishData.category}
+Total Category: ${urlCategory}
+=======================
 
 Description:
 ${englishData.description}
@@ -186,6 +201,7 @@ ${englishData.shortDescription}
 
 Additional Information:
 ${englishData.additionalInfo}
+=======================
 
 Product URL: ${englishData.url}
 `;
