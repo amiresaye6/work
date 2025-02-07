@@ -19,11 +19,11 @@ const readOrInitializeJsonFile = (filePath) => {
 };
 
 /**
- * Extracts the hierarchical category path from the breadcrumb navigation.
+ * Extracts the category path from the breadcrumb navigation.
  * @param {Object} page - The Puppeteer page object.
- * @returns {string[]} - An array of hierarchical category paths.
+ * @returns {string} - The category path as a string.
  */
-const extractHierarchicalCategoryPath = async (page) => {
+const extractCategoryPath = async (page) => {
     const breadcrumbs = await page.$$eval('ul.items li.item', items => {
         return items.map(item => {
             const anchor = item.querySelector('a');
@@ -33,17 +33,7 @@ const extractHierarchicalCategoryPath = async (page) => {
     });
 
     // Ignore the first element (Home)
-    const categories = breadcrumbs.slice(1);
-
-    // Build hierarchical paths
-    const hierarchicalPaths = [];
-    let currentPath = '';
-    for (const category of categories) {
-        currentPath = currentPath ? `${currentPath} > ${category}` : category;
-        hierarchicalPaths.push(currentPath);
-    }
-
-    return hierarchicalPaths;
+    return breadcrumbs.slice(1).join(' > ');
 };
 
 /**
@@ -71,11 +61,11 @@ const extractLastPageNumber = async (page) => {
 };
 
 /**
- * Switches the language to English and extracts the hierarchical category path.
+ * Switches the language to English and extracts the category path.
  * @param {Object} page - The Puppeteer page object.
- * @returns {string[]} - An array of hierarchical category paths in English.
+ * @returns {string} - The category path in English.
  */
-const switchToEnglishAndExtractHierarchicalCategoryPath = async (page) => {
+const switchToEnglishAndExtractCategoryPath = async (page) => {
     try {
         // Wait for the language switcher to be visible
         await page.waitForSelector('.link-to-language .view-en a', { timeout: 5000 });
@@ -92,11 +82,11 @@ const switchToEnglishAndExtractHierarchicalCategoryPath = async (page) => {
         await page.waitForNavigation({ waitUntil: 'networkidle0' });
         console.log("Language switched to English");
 
-        // Extract the English hierarchical category path
-        return await extractHierarchicalCategoryPath(page);
+        // Extract the English category path
+        return await extractCategoryPath(page);
     } catch (error) {
         console.warn('English language switcher not found. Skipping English category extraction.');
-        return [];
+        return '';
     }
 };
 
@@ -125,11 +115,11 @@ const scrapeProducts = async (baseUrl, outputFile, start, end) => {
     await page.goto(baseUrl, { waitUntil: 'networkidle2' });
     await delay(1000); // Delay for 1 second after loading the page
 
-    // Extract the Arabic hierarchical category path
-    const categoryPathsAr = await extractHierarchicalCategoryPath(page);
+    // Extract the Arabic category path
+    const categoryPathAr = await extractCategoryPath(page);
 
-    // Switch to English and extract the English hierarchical category path
-    const categoryPathsEn = await switchToEnglishAndExtractHierarchicalCategoryPath(page);
+    // Switch to English and extract the English category path
+    const categoryPathEn = await switchToEnglishAndExtractCategoryPath(page);
 
     // Append "?sortBy=prod_ar_products_price_default_asc" to the base URL
     const baseUrlWithSort = `${baseUrl}?sortBy=prod_ar_products_price_default_asc`;
@@ -185,34 +175,23 @@ const scrapeProducts = async (baseUrl, outputFile, start, end) => {
                 // Product doesn't exist, add it with the new categories
                 products.push({
                     ...newProduct,
-                    categoryAr: categoryPathsAr.join(', '), // Join with comma
-                    categoryEn: categoryPathsEn.join(', '), // Join with comma
+                    categoryAr: [categoryPathAr], // Store categories as an array
+                    categoryEn: [categoryPathEn], // Store categories as an array
                 });
             } else {
-                // Product exists, check if the categories are different
+                // Product exists, add the new categories if they don't already exist
                 const existingProduct = products[existingProductIndex];
-                const existingCategoriesAr = existingProduct.categoryAr.split(', ');
-                const existingCategoriesEn = existingProduct.categoryEn.split(', ');
-
-                // Add new categories if they don't already exist
-                categoryPathsAr.forEach(cat => {
-                    if (!existingCategoriesAr.includes(cat)) {
-                        existingCategoriesAr.push(cat);
-                    }
-                });
-
-                categoryPathsEn.forEach(cat => {
-                    if (!existingCategoriesEn.includes(cat)) {
-                        existingCategoriesEn.push(cat);
-                    }
-                });
+                
+                if (!existingProduct.categoryAr.includes(categoryPathAr)) {
+                    existingProduct.categoryAr.push(categoryPathAr);
+                }
+                
+                if (!existingProduct.categoryEn.includes(categoryPathEn)) {
+                    existingProduct.categoryEn.push(categoryPathEn);
+                }
 
                 // Update the product with the combined categories
-                products[existingProductIndex] = {
-                    ...existingProduct,
-                    categoryAr: existingCategoriesAr.join(', '), // Join with comma
-                    categoryEn: existingCategoriesEn.join(', '), // Join with comma
-                };
+                products[existingProductIndex] = existingProduct;
             }
         });
 
