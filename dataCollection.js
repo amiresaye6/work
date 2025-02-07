@@ -94,10 +94,14 @@ const switchToEnglishAndExtractCategoryPath = async (page) => {
  * Scrapes product names, URLs, and categories from a given URL and appends to a central JSON file.
  * @param {string} baseUrl - The base URL of the first page to scrape.
  * @param {string} outputFile - The name of the output JSON file.
+ * @param {string} ivitaCategoryAr - The Arabic category path for Ivita.
+ * @param {string} ivitaCategoryEn - The English category path for Ivita.
+ * @param {string} elnahdyCategoryAr - The Arabic category path for Elnahdy.
+ * @param {string} elnahdyCategoryEn - The English category path for Elnahdy.
  * @param {number} [start] - The page number to start from (optional).
  * @param {number} [end] - The number of pages to scrape (optional).
  */
-const scrapeProducts = async (baseUrl, outputFile, start, end) => {
+const scrapeProducts = async (baseUrl, outputFile, ivitaCategoryAr, ivitaCategoryEn, elnahdyCategoryAr, elnahdyCategoryEn, start, end) => {
     // Launch the browser with the specified window size
     const browser = await puppeteer.launch({
         headless: true, // Set headless: true for production
@@ -175,19 +179,30 @@ const scrapeProducts = async (baseUrl, outputFile, start, end) => {
                 // Product doesn't exist, add it with the new categories
                 products.push({
                     ...newProduct,
-                    categoryAr: [categoryPathAr], // Store categories as an array
-                    categoryEn: [categoryPathEn], // Store categories as an array
+                    baseUrl: baseUrl,
+                    ivitaCategoryAr: [ivitaCategoryAr],
+                    ivitaCategoryEn: [ivitaCategoryEn],
+                    elnahdyCategoryAr: [elnahdyCategoryAr],
+                    elnahdyCategoryEn: [elnahdyCategoryEn],
                 });
             } else {
                 // Product exists, add the new categories if they don't already exist
                 const existingProduct = products[existingProductIndex];
                 
-                if (!existingProduct.categoryAr.includes(categoryPathAr)) {
-                    existingProduct.categoryAr.push(categoryPathAr);
+                if (!existingProduct.ivitaCategoryAr.includes(ivitaCategoryAr)) {
+                    existingProduct.ivitaCategoryAr.push(ivitaCategoryAr);
                 }
                 
-                if (!existingProduct.categoryEn.includes(categoryPathEn)) {
-                    existingProduct.categoryEn.push(categoryPathEn);
+                if (!existingProduct.ivitaCategoryEn.includes(ivitaCategoryEn)) {
+                    existingProduct.ivitaCategoryEn.push(ivitaCategoryEn);
+                }
+
+                if (!existingProduct.elnahdyCategoryAr.includes(elnahdyCategoryAr)) {
+                    existingProduct.elnahdyCategoryAr.push(elnahdyCategoryAr);
+                }
+
+                if (!existingProduct.elnahdyCategoryEn.includes(elnahdyCategoryEn)) {
+                    existingProduct.elnahdyCategoryEn.push(elnahdyCategoryEn);
                 }
 
                 // Update the product with the combined categories

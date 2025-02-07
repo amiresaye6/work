@@ -23,10 +23,12 @@ async function downloadImage(url, filepath) {
     });
 }
 
-// Function to extract folder name from URL
-function extractFolderNameFromUrl(url) {
-    const urlParts = url.split('/');
-    return urlParts[urlParts.length - 1]; // Get the last part of the URL
+// Function to create folder structure based on ivitaCategoryEn
+function createFolderStructure(ivitaCategoryEn) {
+    const categories = ivitaCategoryEn[0].split(' > ').map(cat => sanitizeFilename(cat.trim()));
+    const baseFolder = categories.slice(0, -1).join('/');
+    const finalFolder = categories.join('_');
+    return { baseFolder, finalFolder };
 }
 
 // Function to scrape product data for a given language
@@ -44,8 +46,8 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
         const name = document.querySelector('.page-title span')?.innerText || 'Unknown Product';
         const price = document.querySelector('.price-wrapper .price')?.innerText || 'N/A';
         const descriptionElement = document.querySelector('.product.attribute.description .value');
-        const description = descriptionElement ? descriptionElement.innerText : 'No description available'; // Use innerText for plain text
-        const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerText || 'No short description available'; // Use innerText for plain text
+        const description = descriptionElement ? descriptionElement.innerText : 'No description available';
+        const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerText || 'No short description available';
         const images = [...new Set([...document.querySelectorAll('.fotorama__img')].map(img => img.src.split('?')[0]))];
 
         // Extract SKU from the data-sku attribute
@@ -56,19 +58,14 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
         const brandElement = document.querySelector('.product.attribute.manufacturer .value');
         const brand = brandElement ? brandElement.innerText : 'N/A';
 
-        // Extract category (الفئة)
-        const categoryElement = document.querySelector('.breadcrumbs-category');
-        const category = categoryElement ? categoryElement.innerText : 'N/A';
-
         return {
             name,
             price,
-            description, // Plain text with new lines
-            shortDescription, // Plain text with new lines
+            description,
+            shortDescription,
             images,
             sku,
             brand,
-            category,
             url: window.location.href
         };
     });
@@ -90,8 +87,8 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
 }
 
 // Function to handle failed products
-function handleFailedProduct(failedProduct) {
-    const failedProductsFilePath = path.join(__dirname, 'failed_products.json');
+function handleFailedProduct(failedProduct, outputFolder) {
+    const failedProductsFilePath = path.join(outputFolder, 'failed_products.json');
     let failedProducts = {};
 
     // Check if the file exists
@@ -114,22 +111,22 @@ function handleFailedProduct(failedProduct) {
 }
 
 // Function to process products and generate JSON, CSV, and download images
-async function processProducts(inputFilePath, outputFile, urlCategory) {
+async function processProducts(inputFilePath) {
     const products = JSON.parse(fs.readFileSync(inputFilePath, 'utf-8'));
-    const results = [];
 
     const browser = await puppeteer.launch({
         headless: true,
         ignoreHTTPSErrors: true,
         args: [`--window-size=${Math.floor(1920 * 0.7)},${Math.floor(1080 * 0.7)}`],
-        defaultViewport: null, // Ensure the tab takes the full window size
+        defaultViewport: null,
     });
-    
+
     const page = await browser.newPage();
 
     for (let i = 0; i < products.length; i++) {
         const product = products[i];
         console.log(`Processing ${i + 1}/${products.length}: ${product.url}`);
+
         try {
             // Scrape Arabic data
             const arabicData = await scrapeProductDataForLanguage(page, product.url, 'ar');
@@ -145,43 +142,73 @@ async function processProducts(inputFilePath, outputFile, urlCategory) {
                     en_url: englishData.url,
                     ar_sku: arabicData.sku,
                     en_sku: englishData.sku
-                });
+                }, outputFolder);
             }
 
-            // Combine Arabic and English data for JSON/CSV
+            // Create folder structure based on ivitaCategoryEn
+            const { baseFolder, finalFolder } = createFolderStructure(product.ivitaCategoryEn);
+            const outputFolder = path.join(__dirname, baseFolder, finalFolder);
+
+            // Create output directory if it doesn't exist
+            if (!fs.existsSync(outputFolder)) {
+                fs.mkdirSync(outputFolder, { recursive: true });
+            }
+
+            // Combine Arabic and English data for JSON
             const combinedData = {
+                ...arabicData,
+                englishData,
+                ivitaCategoryAr: product.ivitaCategoryAr,
+                ivitaCategoryEn: product.ivitaCategoryEn
+            };
+
+            // Save JSON file
+            const jsonFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}.json`);
+            fs.writeFileSync(jsonFilePath, JSON.stringify(combinedData, null, 2));
+
+            // Generate CSV data
+            const csvData = {
                 "SKU": arabicData.sku,
                 "Name": arabicData.name,
                 "Regular price": arabicData.price,
-                "Categories": urlCategory,
-                // "Categories": arabicData.category,
-                "Images": arabicData.images.join(', '), // Combine image URLs into a single string
+                "Categories": product.ivitaCategoryEn.join(' , '),
+                "Images": arabicData.images.join(', '),
                 "Attribute 1 name": "الماركة",
                 "Attribute 1 value(s)": arabicData.brand,
                 "Attribute 1 visible": 1,
                 "Attribute 1 global": 1,
                 "Attribute 2 name": "label",
-                "Attribute 2 value(s)": "fast, verified", // You can customize this
+                "Attribute 2 value(s)": "fast, verified",
                 "Attribute 2 visible": 1,
                 "Attribute 2 global": 1,
-                "Description": arabicData.description.replace(/"/g, '""'), // Escape double quotes
+                "Description": arabicData.description.replace(/"/g, '""'),
             };
 
-            results.push(combinedData);
+            // Save CSV file
+            const csvFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}.csv`);
+            const json2csvParser = new Parser({ quote: '' });
+            const csv = json2csvParser.parse([csvData]);
+            fs.writeFileSync(csvFilePath, csv);
 
-            // Create product folder and download images
-            const folderName = extractFolderNameFromUrl(product.url);
-            const sanitizedFolderName = sanitizeFilename(folderName);
-            const indexedFolderName = `${i.toString().padStart(2, '0')}_${sanitizedFolderName}`;
-            const productDir = path.join(__dirname, 'products', outputFile, indexedFolderName);
+            // Download images
+            const imagePromises = arabicData.images.map(async (imageUrl, j) => {
+                const imageUrlParts = imageUrl.split('/');
+                const imageFilename = imageUrlParts[imageUrlParts.length - 1].split('?')[0];
+                const indexedImageFilename = `${j.toString().padStart(2, '0')}_${imageFilename}`;
+                const imagePath = path.join(outputFolder, indexedImageFilename);
 
-            // Create product directory if it doesn't exist
-            if (!fs.existsSync(productDir)) {
-                fs.mkdirSync(productDir, { recursive: true });
-            }
+                try {
+                    await downloadImage(imageUrl, imagePath);
+                    console.log(`Downloaded image: ${imagePath}`);
+                } catch (error) {
+                    console.error(`Failed to download image: ${imageUrl}`, error);
+                }
+            });
+
+            await Promise.all(imagePromises);
 
             // Create product details text file (English data)
-            const productInfoFilePath = path.join(productDir, `${indexedFolderName}_details.txt`);
+            const productInfoFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}_details.txt`);
             const productInfoContent = `Product Name: ${englishData.name}
 Price: ${englishData.price}
 =======================
@@ -189,8 +216,7 @@ SKU: ${englishData.sku}
 =======================
 Brand: ${englishData.brand}
 =======================
-Category: ${englishData.category}
-Total Category: ${urlCategory}
+Category: ${product.ivitaCategoryEn.join(' , ')}
 =======================
 
 Description:
@@ -208,44 +234,14 @@ Product URL: ${englishData.url}
 
             fs.writeFileSync(productInfoFilePath, productInfoContent);
 
-            // Download images
-            const imagePromises = arabicData.images.map(async (imageUrl, j) => {
-                const imageUrlParts = imageUrl.split('/');
-                const imageFilename = imageUrlParts[imageUrlParts.length - 1].split('?')[0]; // Remove query parameters
-                const indexedImageFilename = `${j.toString().padStart(2, '0')}_${imageFilename}`;
-                const imagePath = path.join(productDir, indexedImageFilename);
-
-                try {
-                    await downloadImage(imageUrl, imagePath);
-                    console.log(`Downloaded image: ${imagePath}`);
-                } catch (error) {
-                    console.error(`Failed to download image: ${imageUrl}`, error);
-                }
-            });
-
-            await Promise.all(imagePromises);
         } catch (error) {
             console.error(`Failed to process product: ${product.url}`, error);
             // Handle the failed product
-            handleFailedProduct(product);
+            handleFailedProduct(product, outputFolder);
         }
     }
 
     await browser.close();
-
-    // Save all results to a single JSON file
-    const jsonOutputPath = path.join(__dirname, `${outputFile}.json`);
-    fs.writeFileSync(jsonOutputPath, JSON.stringify(results, null, 2));
-    console.log(`Product data saved to ${jsonOutputPath}`);
-
-    // Save all results to a single CSV file
-    const csvOutputPath = path.join(__dirname, `${outputFile}.csv`);
-    const json2csvParser = new Parser({ quote: '' }); // Disable outer quotes for the entire field
-    const csv = json2csvParser.parse(results);
-    fs.writeFileSync(csvOutputPath, csv);
-    console.log(`Product data saved to ${csvOutputPath}`);
-
-    return results;
 }
 
 module.exports = {
