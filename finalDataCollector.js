@@ -33,18 +33,32 @@ function createFolderStructure(ivitaCategoryEn) {
 
 // Function to scrape product data for a given language
 async function scrapeProductDataForLanguage(page, productUrl, language) {
-    await page.goto(productUrl, { waitUntil: 'networkidle2' });
+    await page.goto(productUrl, { waitUntil: 'networkidle2', timeout: 60000 }); // Increased timeout to 60 seconds
 
     // If the language is English, click the language switcher
     if (language === 'en') {
         await page.click('.switcher.language.switcher-language .view-en.switcher-option a');
-        await page.waitForNavigation({ waitUntil: 'networkidle2' });
+        await page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 }); // Increased timeout to 60 seconds
     }
 
     // Extract product data
     const productData = await page.evaluate(() => {
         const name = document.querySelector('.page-title span')?.innerText || 'Unknown Product';
-        const price = document.querySelector('.price-wrapper .price')?.innerText || 'N/A';
+
+        // Check for regular price (old price) first
+        const regularPriceElement = document.querySelector('.old-price .price-wrapper .price');
+        // Check for single price (no discount)
+        const singlePriceElement = document.querySelector('.price-container .price-wrapper .price');
+
+        let price = 'N/A';
+        if (regularPriceElement) {
+            // Use the regular price if it exists (discounted product)
+            price = regularPriceElement.innerText;
+        } else if (singlePriceElement) {
+            // Use the single price if no discount is available
+            price = singlePriceElement.innerText;
+        }
+
         const descriptionElement = document.querySelector('.product.attribute.description .value');
         const description = descriptionElement ? descriptionElement.innerText : 'No description available';
         const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerText || 'No short description available';
@@ -72,7 +86,7 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
 
     // Click on the "المواصفات" tab to reveal additional information
     await page.click('a#tab-label-specifications-tab-title');
-    await page.waitForSelector('#specifications-tab', { visible: true });
+    await page.waitForSelector('#specifications-tab', { visible: true, timeout: 120000 }); // Increased timeout to 60 seconds
 
     // Extract additional information from the "المواصفات" tab
     const additionalInfo = await page.evaluate(() => {
@@ -127,7 +141,18 @@ async function processProducts(inputFilePath) {
         const product = products[i];
         console.log(`Processing ${i + 1}/${products.length}: ${product.url}`);
 
+        let outputFolder; // Define outputFolder here to make it accessible in the catch block
+
         try {
+            // Create folder structure based on ivitaCategoryEn
+            const { baseFolder, finalFolder } = createFolderStructure(product.ivitaCategoryEn);
+            outputFolder = path.join(__dirname, baseFolder, finalFolder);
+
+            // Create output directory if it doesn't exist
+            if (!fs.existsSync(outputFolder)) {
+                fs.mkdirSync(outputFolder, { recursive: true });
+            }
+
             // Scrape Arabic data
             const arabicData = await scrapeProductDataForLanguage(page, product.url, 'ar');
 
@@ -145,13 +170,10 @@ async function processProducts(inputFilePath) {
                 }, outputFolder);
             }
 
-            // Create folder structure based on ivitaCategoryEn
-            const { baseFolder, finalFolder } = createFolderStructure(product.ivitaCategoryEn);
-            const outputFolder = path.join(__dirname, baseFolder, finalFolder);
-
-            // Create output directory if it doesn't exist
-            if (!fs.existsSync(outputFolder)) {
-                fs.mkdirSync(outputFolder, { recursive: true });
+            // Create a folder for the product
+            const productFolder = path.join(outputFolder, sanitizeFilename(englishData.name));
+            if (!fs.existsSync(productFolder)) {
+                fs.mkdirSync(productFolder, { recursive: true });
             }
 
             // Combine Arabic and English data for JSON
@@ -162,16 +184,16 @@ async function processProducts(inputFilePath) {
                 ivitaCategoryEn: product.ivitaCategoryEn
             };
 
-            // Save JSON file
-            const jsonFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}.json`);
-            fs.writeFileSync(jsonFilePath, JSON.stringify(combinedData, null, 2));
+            // Append JSON data to file
+            const jsonFilePath = path.join(outputFolder, 'products.json');
+            fs.appendFileSync(jsonFilePath, JSON.stringify(combinedData, null, 2) + ',\n');
 
             // Generate CSV data
             const csvData = {
                 "SKU": arabicData.sku,
                 "Name": arabicData.name,
                 "Regular price": arabicData.price,
-                "Categories": product.ivitaCategoryEn.join(' , '),
+                "Categories": product.ivitaCategoryAr.join(' , '),
                 "Images": arabicData.images.join(', '),
                 "Attribute 1 name": "الماركة",
                 "Attribute 1 value(s)": arabicData.brand,
@@ -184,18 +206,18 @@ async function processProducts(inputFilePath) {
                 "Description": arabicData.description.replace(/"/g, '""'),
             };
 
-            // Save CSV file
-            const csvFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}.csv`);
+            // Append CSV data to file
+            const csvFilePath = path.join(outputFolder, 'products.csv');
             const json2csvParser = new Parser({ quote: '' });
-            const csv = json2csvParser.parse([csvData]);
-            fs.writeFileSync(csvFilePath, csv);
+            const csv = json2csvParser.parse([csvData], { header: i === 0 }); // Write header only for the first product
+            fs.appendFileSync(csvFilePath, csv + '\n');
 
             // Download images
             const imagePromises = arabicData.images.map(async (imageUrl, j) => {
                 const imageUrlParts = imageUrl.split('/');
                 const imageFilename = imageUrlParts[imageUrlParts.length - 1].split('?')[0];
                 const indexedImageFilename = `${j.toString().padStart(2, '0')}_${imageFilename}`;
-                const imagePath = path.join(outputFolder, indexedImageFilename);
+                const imagePath = path.join(productFolder, indexedImageFilename);
 
                 try {
                     await downloadImage(imageUrl, imagePath);
@@ -208,15 +230,26 @@ async function processProducts(inputFilePath) {
             await Promise.all(imagePromises);
 
             // Create product details text file (English data)
-            const productInfoFilePath = path.join(outputFolder, `${sanitizeFilename(arabicData.name)}_details.txt`);
+            const productInfoFilePath = path.join(productFolder, `${sanitizeFilename(englishData.name)}.txt`);
             const productInfoContent = `Product Name: ${englishData.name}
 Price: ${englishData.price}
+
 =======================
+
 SKU: ${englishData.sku}
+
 =======================
+
 Brand: ${englishData.brand}
+
 =======================
+
 Category: ${product.ivitaCategoryEn.join(' , ')}
+
+=======================
+
+Product URL: ${englishData.url}
+
 =======================
 
 Description:
@@ -227,9 +260,7 @@ ${englishData.shortDescription}
 
 Additional Information:
 ${englishData.additionalInfo}
-=======================
 
-Product URL: ${englishData.url}
 `;
 
             fs.writeFileSync(productInfoFilePath, productInfoContent);
@@ -237,7 +268,11 @@ Product URL: ${englishData.url}
         } catch (error) {
             console.error(`Failed to process product: ${product.url}`, error);
             // Handle the failed product
-            handleFailedProduct(product, outputFolder);
+            if (outputFolder) {
+                handleFailedProduct(product, outputFolder);
+            } else {
+                console.error('Output folder is not defined. Skipping failed product handling.');
+            }
         }
     }
 

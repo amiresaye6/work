@@ -17,31 +17,39 @@ const { processProducts } = require('./finalDataCollector');
 // });
 
 
-const fs = require('fs');
-const path = require('path');
+// const fs = require('fs');
+// const path = require('path');
 
-// Path to your JSON file
-const jsonFilePath = path.join(__dirname, 'ar_en_allCategories.json'); // Adjust the path to your JSON file
+// // Path to your JSON file
+// const jsonFilePath = path.join(__dirname, 'ar_en_allCategories.json'); // Adjust the path to your JSON file
 
-// Read the JSON file
-const jsonData = fs.readFileSync(jsonFilePath, 'utf8');
-const data = JSON.parse(jsonData);
+// // Read the JSON file
+// const jsonData = fs.readFileSync(jsonFilePath, 'utf8');
+// const data = JSON.parse(jsonData);
 
-// Output file where the scraped data will be saved
-const outputFile = path.join(__dirname, 'output.json'); // Adjust the output file path as needed
+// // Output file where the scraped data will be saved
+// const outputFile = path.join(__dirname, 'output.json'); // Adjust the output file path as needed
 
-// Function to run the scraper for each object in the JSON file
-const runScrapers = async () => {
-    for (const item of data) {
-        console.log(`Starting scrape for URL: ${item.url}`);
-        await scrapeUrls.scrapeProducts(item.url, outputFile, item.ivitaCategoryAr, item.ivitaCategoryEn, item.elnahdyCategoryAr, item.elnahdyCategoryEn);
-        console.log(`Finished scrape for URL: ${item.url}`);
-    }
-};
+// // Function to run the scraper for each object in the JSON file
+// const runScrapers = async () => {
+//     for (const item of data) {
+//         console.log(`Starting scrape for URL: ${item.url}`);
+//         await scrapeUrls.scrapeProducts(item.url, outputFile, item.ivitaCategoryAr, item.ivitaCategoryEn, item.elnahdyCategoryAr, item.elnahdyCategoryEn);
+//         console.log(`Finished scrape for URL: ${item.url}`);
+//     }
+// };
 
-// Run the scrapers
-runScrapers().then(() => {
-    console.log('All scrapes completed.');
-}).catch((error) => {
-    console.error('Error during scraping:', error);
-});
+// // Run the scrapers
+// runScrapers().then(() => {
+//     console.log('All scrapes completed.');
+// }).catch((error) => {
+//     console.error('Error during scraping:', error);
+// });
+
+processProducts('test.json', 10)
+    .then(() => {
+        console.log('All products processed successfully.');
+    })
+    .catch((error) => {
+        console.error('Error processing products:', error);
+    });

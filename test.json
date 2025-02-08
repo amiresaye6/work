@@ -1,10 +1,27 @@
 [
     {
-        "name": "رويال جيلي 1000 مجم + جينسنج 30 كبسولة",
-        "url": "https://www.nahdionline.com/ar/royal-jelly-1000-mg-ginseng-30-capsules"
-    },
-    {
-        "name": "رويال جيلي 2000 مجم 30 كبسولة",
-        "url": "https://www.nahdionline.com/ar/royal-jelly-2000-mg-30-capsules"
+        "name": "بيتس ويل رويال بيرفورما + جنسنج 20 قارورة شراب",
+        "url": "https://www.nahdionline.com/ar/beatswell-royal-performa-ginseng-20-drinkable-vials",
+        "baseUrl": "https://www.nahdionline.com/ar/vitamins-supplements/mens-health",
+        "ivitaCategoryAr": [
+            "التسوق حسب الهدف > صحة الرجل",
+            "التسوق حسب الهدف > صحة الرجل > الطاقة والقدرة",
+            "التسوق حسب الفيتامينات > فيتامين سي"
+        ],
+        "ivitaCategoryEn": [
+            "Shop By Goal > Men's Health",
+            "Shop By Goal > Men's Health > Energy and Virility",
+            "Shop By Vitamin > Vitamin C"
+        ],
+        "elnahdyCategoryAr": [
+            "الفيتامينات و المكملات الغذائية > صحة الرجل",
+            "الفيتامينات و المكملات الغذائية > صحة الرجل > معززات الطاقة",
+            "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين سى"
+        ],
+        "elnahdyCategoryEn": [
+            "Vitamins & Supplements > Men's Health",
+            "Vitamins & Supplements > Men's Health > Energy Booster",
+            "Vitamins & Supplements > Vitamins > Vitamin C"
+        ]
     }
 ]
