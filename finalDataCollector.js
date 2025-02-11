@@ -62,6 +62,8 @@ async function scrapeProductDataForLanguage(page, productUrl, language) {
         const descriptionElement = document.querySelector('.product.attribute.description .value');
         const description = descriptionElement ? descriptionElement.innerText : 'No description available';
         const shortDescription = document.querySelector('.product-info-main .breadcrumbs-category')?.innerText || 'No short description available';
+
+        // Extract image URLs and append query parameters
         const images = [...new Set([...document.querySelectorAll('.fotorama__img')].map(img => img.src.split('?')[0]))];
 
         // Extract SKU from the data-sku attribute
@@ -137,6 +139,8 @@ async function processProducts(inputFilePath) {
 
     const page = await browser.newPage();
 
+    const allCsvData = []; // Array to store all CSV data
+
     for (let i = 0; i < products.length; i++) {
         const product = products[i];
         console.log(`Processing ${i + 1}/${products.length}: ${product.url}`);
@@ -206,11 +210,8 @@ async function processProducts(inputFilePath) {
                 "Description": arabicData.description.replace(/"/g, '""'),
             };
 
-            // Append CSV data to file
-            const csvFilePath = path.join(outputFolder, 'products.csv');
-            const json2csvParser = new Parser({ quote: '' });
-            const csv = json2csvParser.parse([csvData], { header: i === 0 }); // Write header only for the first product
-            fs.appendFileSync(csvFilePath, csv + '\n');
+            // Add CSV data to the array
+            allCsvData.push(csvData);
 
             // Download images
             const imagePromises = arabicData.images.map(async (imageUrl, j) => {
@@ -274,6 +275,15 @@ ${englishData.additionalInfo}
                 console.error('Output folder is not defined. Skipping failed product handling.');
             }
         }
+    }
+
+    // Write all CSV data to file at once
+    if (allCsvData.length > 0) {
+        const csvFilePath = path.join(__dirname, 'products.csv');
+        const json2csvParser = new Parser({ quote: '' });
+        const csv = json2csvParser.parse(allCsvData, { header: true });
+        fs.writeFileSync(csvFilePath, csv);
+        console.log(`CSV file created at ${csvFilePath}`);
     }
 
     await browser.close();

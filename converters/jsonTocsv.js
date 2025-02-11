@@ -1,8 +1,8 @@
 const { Parser } = require('json2csv');
 const fs = require('fs');
 
-const jsonFilePath = 'id_sku_name_regularPrice_categories.json'; // Replace with your JSON file path
-const csvFilePath = 'id_sku_name_regularPrice_categories.csv'; // Replace with your desired CSV output path
+const jsonFilePath = 'updates.json'; // Replace with your JSON file path
+const csvFilePath = 'updates.csv'; // Replace with your desired CSV output path
 
 // Read the JSON file
 fs.readFile(jsonFilePath, 'utf8', (err, data) => {

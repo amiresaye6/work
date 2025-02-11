@@ -1,4 +1,4 @@
-const scrapeUrls = require('./dataCollection');
+// const scrapeUrls = require('./dataCollection');
 const { processProducts } = require('./finalDataCollector');
 
 
@@ -46,7 +46,7 @@ const { processProducts } = require('./finalDataCollector');
 //     console.error('Error during scraping:', error);
 // });
 
-processProducts('test.json', 10)
+processProducts('test.json', 5)
     .then(() => {
         console.log('All products processed successfully.');
     })
