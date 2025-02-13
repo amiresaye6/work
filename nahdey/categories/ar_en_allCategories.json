@@ -1,0 +1,226 @@
+[
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/shop-by-health-condition/sleep-relaxation",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "ivitaCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > التسوق حسب المتطلبات الصحية > النوم والإجهاد والاسترخاء",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Health Conditions > Sleep & Relaxation"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/shop-by-health-condition/heart-circulation-health",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "ivitaCategoryEn": "Shop By Goal > General Health > Heart and Circulation",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > التسوق حسب المتطلبات الصحية > القلب والدورة الدموية",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Health Conditions > Heart & Circulation"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/shop-by-health-condition/diabetes-care",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "ivitaCategoryEn": "Shop By Goal > General Health > Diabetes Supplements",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > التسوق حسب المتطلبات الصحية > رعاية مرضى السكري",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Health Conditions > Diabetic Care"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/shop-by-health-condition/immunity-enhancers",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "ivitaCategoryEn": "Shop By Goal > General Health > Immunity Support",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > التسوق حسب المتطلبات الصحية > معززات المناعة",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Health Conditions > Immunity Enhancers"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/women-s-health",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة المرأة",
+        "ivitaCategoryEn": "Shop By Goal > Women's Health",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة المرأة",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Women's Health"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/women-s-health/hair-skin-nails",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "ivitaCategoryEn": "Shop By Goal > Women's Health > Hair Skin and Nails",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة المرأة > الشعر و الجلد و الاظافر",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Health Conditions > Hair, Skin, & Nails"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/mens-health",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الرجل",
+        "ivitaCategoryEn": "Shop By Goal > Men's Health",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الرجل",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Men's Health"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/mens-health/energy-boosters",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الرجل > الطاقة والقدرة",
+        "ivitaCategoryEn": "Shop By Goal > Men's Health > Energy and Virility",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الرجل > معززات الطاقة",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Men's Health > Energy Booster"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/children-s-health",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "ivitaCategoryEn": "Shop By Goal > Kids Health",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الطفل",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Children's Health"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/children-s-health/memory-focus",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الاطفال > دماغ وجسم الاطفال",
+        "ivitaCategoryEn": "Shop By Goal > Kids Health > Kids Brain and Body",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الطفل > الذاكرة والتركيز",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Children's Health > Omega 3"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/children-s-health/immunity-boosters",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الاطفال > دعم المناعة",
+        "ivitaCategoryEn": "Shop By Goal > Kids Health > Kids Immunity Support",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الطفل > معززات المناعة",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Children's Health > Immunity Support"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/children-s-health/daily-vitamins",
+        "ivitaCategoryAr": "التسوق حسب الهدف > صحة الاطفال > فيتامينات ومعادن الاطفال",
+        "ivitaCategoryEn": "Shop By Goal > Kids Health > Kids Vitamins and Minerals",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > صحة الطفل > الفيتامينات اليومية",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Children's Health > A-Z Vitamins"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/healthy-food",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الأطعمة الصحية",
+        "ivitaCategoryEn": "Shop By Goal > Healthy Nutrition > Healthy Foods",
+        "elnahdyCategoryAr": "الأغذية الصحية",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Healthy Foods"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/healthy-food/honey",
+        "ivitaCategoryAr": "التسوق حسب الهدف > الأطعمة الصحية > العسل",
+        "ivitaCategoryEn": "Shop By Goal > Healthy Nutrition > Honey",
+        "elnahdyCategoryAr": "الأغذية الصحية > العسل",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Healthy Foods > Honey"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/minerals/calcium",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الكالسيوم",
+        "ivitaCategoryEn": "Shop By Vitamin > Calcium",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المعادن > الكالسيوم",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Minerals > Calcium"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-e",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين هـ",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin E",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين ه",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin E"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-k",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين ك",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin K",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين ك",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin K"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-c",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين سي",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin C",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين سى",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin C"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-d",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin D",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين د",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin D"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-b",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin B",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين ب",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin B"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins/vitamin-a",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > فيتامين أ",
+        "ivitaCategoryEn": "Shop By Vitamin > Vitamin A",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > الفيتامينات > فيتامين أ",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Vitamins > Vitamin A"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/minerals/zinc",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "ivitaCategoryEn": "Shop By Vitamin > Zinc",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المعادن > الزنك",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Minerals > Zinc"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/supplements/fish-oil-omega-3",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > زيت السمك",
+        "ivitaCategoryEn": "Shop By Vitamin > Fish Oil",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المكملات الغذائية > زيت السمك والاوميغا 3",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Supplements > Omega 3"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/supplements/coenzyme-q10",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "ivitaCategoryEn": "Shop By Vitamin > Coenzyme Q10",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المكملات الغذائية > كو انزيم كيو10",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Supplements > Coenzyme Q10"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/supplements/melatonin",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الميلاتونين",
+        "ivitaCategoryEn": "Shop By Vitamin > Melatonin",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المكملات الغذائية > الميلاتونين",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Supplements > Melatonin"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/minerals/magnesium",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > المغنسيوم",
+        "ivitaCategoryEn": "Shop By Vitamin > Magnesium",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المعادن > المغنسيوم",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Minerals > Magnesium"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/supplements/collagen-types-1-and-3",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "ivitaCategoryEn": "Shop By Vitamin > Collagen",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المكملات الغذائية > الكولاجين من النوعين 1 و3",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Supplements > Collagen Type 1&3"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/minerals/iron",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الحديد",
+        "ivitaCategoryEn": "Shop By Vitamin > Iron",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المعادن > الحديد",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Minerals > Iron"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/supplements/glucosamine-chondroitin",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "ivitaCategoryEn": "Shop By Vitamin > Glucosamine",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المكملات الغذائية > الجلوكوزامين و الكوندروتين",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Supplements > Glucosamine"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/herbal-remedies/garlic",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > الثوم",
+        "ivitaCategoryEn": "Shop By Vitamin > Garlic",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المنتجات العشبية > الثوم",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Herbal Remedies > Garlic"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/minerals/potassium",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > البوتاسيوم",
+        "ivitaCategoryEn": "Shop By Vitamin > Potassium",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المعادن > البوتاسيوم",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Minerals > Potassium"
+    },
+    {
+        "url": "https://www.nahdionline.com/ar/vitamins-supplements/herbal-remedies/ashwagandha",
+        "ivitaCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "ivitaCategoryEn": "Shop By Vitamin > Ashwagandha",
+        "elnahdyCategoryAr": "الفيتامينات و المكملات الغذائية > المنتجات العشبية > أشواغاندا",
+        "elnahdyCategoryEn": "Vitamins & Supplements > Herbal Remedies > Ashwagandha"
+    }
+]

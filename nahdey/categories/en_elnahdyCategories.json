@@ -1,0 +1,250 @@
+{
+    "categories": [
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Sleep & Relaxation",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/sleep-relaxation"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Heart & Circulation",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/heart-circulation-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Hair, Skin, & Nails",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/hair-skin-nails"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Diabetic Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/diabetes-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Weight Management",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/slimming-weight-management"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Immunity Enhancers",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/immunity-enhancers"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Sexual Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/sexual-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Health Conditions > Bone, Joint, & Muscle",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/shop-by-health-concern/bone-joints-muscles-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Hair Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/hair-skin-nails/for-hair"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Skin Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/hair-skin-nails/for-skin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > A-Z Vitamins",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/daily-vitamins"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Pregnancy Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/pregnancy-lactation-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Lactation Support",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/pregnancy-lactation"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Sexual Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/sexual-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Menopause",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/menopause-supplements"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Women's Health > Digestive Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/women-s-health/digestive-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > Sexual Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/sexual-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > Energy Booster",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/energy-boosters"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > A-Z Vitamins",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/a-to-z-vitamins-minerals"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > Prostate Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/prostate-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > Digestive Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/digestive-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Men's Health > Sport Nutrition",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/mens-health/sport-nutrition"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Daily Vitamins",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/daily-vitamins"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Prostate Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/prostate-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Menopause",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/menopause"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Digestive Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/digestive-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Bone & Joint",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/bone-joint"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Seniors Essentials > Cognitive Health",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/sensior-s-essentials/cognitive-health"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > Omega 3",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/memory-focus/omega-3"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > Immunity Support",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/immunity-boosters"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > A-Z Vitamins",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/daily-vitamins"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > Digestive Care",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/digestive-care"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > Sleep Aid",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/sleep-relaxation"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Children's Health > Kids Gummies",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/children-s-health/kids-gummies"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Multivitamins",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/multivitamins"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin D",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-d"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin C",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-c"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin B1",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-b/vitamin-b1"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin B2",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-b/vitamin-b2-riboflavin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin B12",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-b/vitamin-b12"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Biotin",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-b/biotin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Folic Acid",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-b/folic-acid"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Vitamins > Vitamin K",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/vitamins/vitamin-k"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Omega 3",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/fish-oil-omega-3"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Melatonin",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/melatonin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Probiotics",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/friendly-bacteria"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Cystine",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/amino-acids/cysteine"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Glucosamine",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/glucosamine-chondroitin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Coenzyme Q10",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/coenzyme-q10"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Collagen Type 1&3",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/collagen-types-1-and-3"
+        },
+
+        
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Digestive Enzymes",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/digestive-enzymes"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Supplements > Fibers",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/supplements/fiber-supplements"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Multiminerals",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/multimineral"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Calcium",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/calcium"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Iron",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/iron"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Lactoferrin",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/lactoferrin"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Zinc",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/zinc"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Magnesium",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/magnesium"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Potassium",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/potassium"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Chromium",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/chromium"
+        },
+        {
+            "categoryEn": "Vitamins & Supplements > Minerals > Iodine",
+            "url": "https://www.nahdionline.com/en/vitamins-supplements/minerals/iodine"
+        }
+    ]
+}

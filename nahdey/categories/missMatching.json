@@ -1,0 +1,92 @@
+{
+    "categories_without_urls": {
+        "general_health": [
+            {
+                "category": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+                "note": "No direct URL mapping for vitamins and minerals section"
+            },
+            {
+                "category": "التسوق حسب الهدف > الصحة العامة > الدماغ والجسم",
+                "note": "No URL for brain and body health section"
+            }
+        ],
+        "womens_health": [
+            {
+                "category": "التسوق حسب الهدف > صحة المرأة > فيتامينات الام",
+                "note": "Different naming convention used in URLs (مكملات الرضاعة)"
+            }
+        ],
+        "mens_health": [
+            {
+                "category": "التسوق حسب الهدف > صحة الرجل > مكملات الرجال",
+                "note": "No specific URL for men's supplements"
+            }
+        ],
+        "sports_and_fitness": [
+            {
+                "category": "التسوق حسب الهدف > الرياضة واللياقة البدنية",
+                "subcategories": [
+                    "الاداء الرياضى",
+                    "ملحقات الرياضة",
+                    "بروتينات الرياضة"
+                ],
+                "note": "Entire sports and fitness section missing from URLs"
+            }
+        ],
+        "vitamins_and_supplements": [
+            {
+                "category": "التسوق حسب الفيتامينات > زيت كبد الحوت",
+                "note": "No specific URL for cod liver oil"
+            },
+            {
+                "category": "التسوق حسب الفيتامينات > أوميجا 9",
+                "note": "No specific URL for omega 9"
+            },
+            {
+                "category": "التسوق حسب الفيتامينات > أوميجا 6",
+                "note": "No specific URL for omega 6"
+            },
+            {
+                "category": "التسوق حسب الفيتامينات > أوميجا 3",
+                "note": "Covered under general fish oil URL but no specific omega 3 URL"
+            },
+            {
+                "category": "التسوق حسب الفيتامينات > الشاي الأخضر",
+                "note": "No URL for green tea supplements"
+            }
+        ]
+    },
+    "urls_without_categories": {
+        "main_sections": [
+            {
+                "url": "https://www.nahdionline.com/ar/vitamins-supplements",
+                "hierarchy": "المنزل > الفيتامينات و المكملات الغذائية",
+                "note": "Base URL without specific category mapping"
+            },
+            {
+                "url": "https://www.nahdionline.com/ar/vitamins-supplements/vitamins",
+                "hierarchy": "المنزل > الفيتامينات و المكملات الغذائية > الفيتامينات",
+                "note": "General vitamins section without specific category"
+            }
+        ],
+        "specific_sections": [
+            {
+                "url": "https://www.nahdionline.com/ar/vitamins-supplements/women-s-health/pregnancy-lactation",
+                "hierarchy": "المنزل > الفيتامينات و المكملات الغذائية > صحة المرأة > مكملات الرضاعة",
+                "note": "Different naming in categories (فيتامينات الام)"
+            }
+        ]
+    },
+    "naming_variations": {
+        "children_health": {
+            "category_name": "دماغ وجسم الاطفال",
+            "url_name": "الذاكرة والتركيز",
+            "note": "Same content with different naming conventions"
+        },
+        "supplements": {
+            "category_name": "زيت السمك والاوميغا 3",
+            "url_name": "fish-oil-omega-3",
+            "note": "Multiple omega categories consolidated under one URL"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "SKU": "which one, the one from alnahdy or the one that will be added in the future ater the products being purchased",
+        "Name": "product name",
+        "Description": "product description, until now it only adds new lines",
+        "Regular price": "normal price",
+        "Categories": "this one can be be taken from the process of adding a product manually, like this two التسوق حسب الهدف > صحة المرأة, التسوق حسب الهدف > صحة المرأة > فيتامينات الأم",
+        "Images": ["here i can add the img link directly from elnahdy website and wordpress somehow donloads it and use it automatically"],
+        "Attribute 1 name": " i think it is the brancd or الماركة",
+        "Attribute 1 value(s)": "the value of the brand like سنترم",
+        "Attribute 1 visible": 1,
+        "Attribute 1 ": 1,
+        "Attribute 2 name": "label",
+        "Attribute 2 value(s)": "fast, verified",
+        "Attribute 2 visible": "1",
+        "Attribute 2 global": "1"
+    }
+]
