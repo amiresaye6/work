@@ -2,20 +2,24 @@ const fs = require('fs').promises;
 const axios = require('axios');
 
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
+807039089
 const categories = [
-    {
-        name: "تصنيفات مخصصة لاحتياجاتك",
-        url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=807039089"
-    },
-    {
-        name: "المكملات الغذائية",
-        url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=820279660"
-    },
-    {
-        name: "مستلزمات الجمال و العناية الفائقة",
-        url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=166547318"
-    },
+    // {
+    //     name: "Search According To The Medical Case",
+    //     // name: "تصنيفات مخصصة لاحتياجاتك",
+    //     url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=807039089",
+    // },
+    // {
+    //     name: "Nutritional supplements",
+    //     // name: "المكملات الغذائية",
+    //     url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=820279660"
+    // },
+    // {
+    //     name: "Beauty and skin care supplies",
+    //     // name: "مستلزمات الجمال و العناية الفائقة",
+    //     url: "https://api.salla.dev/store/v1/products?source=categories&filterable=1&source_value[]=166547318"
+    // },
+    {name: "allProductsEn", url: "https://api.salla.dev/store/v1/products"}
 ]
 
 const main = async () => {
@@ -29,12 +33,14 @@ const main = async () => {
 
             // Clear the file before starting
             await fs.writeFile(`${category_name}.json`, '');
-
+            
             while (baseUrl) {
+                console.log(`Getting product number ${counter++}, Url: ${baseUrl}`);
                 const response = await axios.get(baseUrl, {
                     headers: {
                         'Content-Type': 'application/json',
-                        'store-identifier': 888712498
+                        'store-identifier': 888712498,
+                        'accept-language': 'en'
                     }
                 });
 
@@ -42,7 +48,6 @@ const main = async () => {
                 products.push(...data.data); // Add products to the array
 
                 baseUrl = data.cursor.next ? data.cursor.next : null;
-                console.log(`Getting product number ${counter++}, Url: ${baseUrl}`);
 
                 // Add a random delay between requests
                 const getRandomDelay = () => Math.floor(Math.random() * 5000);
