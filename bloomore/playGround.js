@@ -23,7 +23,38 @@ fs.readFile(arFile, 'utf8', (err, arData) => {
       const arProducts = JSON.parse(arData);
       const enProducts = JSON.parse(enData);
 
-      console.log(arProducts.length, enProducts.length);
+      const newData = [];
+
+
+      for (let i = 0; i < arProducts.length; i++) {
+        const item = arProducts[i];
+        const enItem = enProducts.find(enItem => enItem.id === item.id && enItem.sku === item.sku);
+        if (enItem) {
+          const newItem = {
+            id: item.id || null,
+            sku: item.sku || null,
+            arabic_name: item.name || null,
+            english_name: enItem.name || null,
+            arabic_category: item.category?.name || null,
+            english_category: enItem.category?.name || null,
+            arabic_brand: item.brand?.name || null,
+            english_brand: enItem.brand?.name || null,
+            regular_price: item.regular_price || null,
+            price: item.price || null
+          };
+          newData.push(newItem);
+        }
+      }
+
+      fs.writeFile(newFilePath, JSON.stringify(newData, null, 2), (err) => {
+        if (err) {
+          console.error('Error writing the new file:', err);
+          return;
+        }
+        console.log(`New JSON file created successfully at ${newFilePath}`);
+      });
+      console.log('finished');
+
       // Step 2: Extract only the required fields (id, name, regular_price)
       // const newData = arProducts.slice(0, limit).map(item => {
       //   // Ensure all required fields are present

@@ -1,8 +1,8 @@
-const { Parser } = require('json2csv');
 const fs = require('fs');
+const XLSX = require('xlsx');
 
-const jsonFilePath = 'updates.json'; // Replace with your JSON file path
-const csvFilePath = 'updates.csv'; // Replace with your desired CSV output path
+const jsonFilePath = 'newBloomorProducts.json'; // Replace with your JSON file path
+const excelFilePath = 'newBloomorProducts.xlsx'; // Replace with your desired Excel output path
 
 // Read the JSON file
 fs.readFile(jsonFilePath, 'utf8', (err, data) => {
@@ -14,19 +14,15 @@ fs.readFile(jsonFilePath, 'utf8', (err, data) => {
   try {
     const jsonData = JSON.parse(data); // Parse the JSON data
 
-    // Convert JSON to CSV
-    const json2csvParser = new Parser();
-    const csv = json2csvParser.parse(jsonData);
+    // Convert JSON to Excel
+    const worksheet = XLSX.utils.json_to_sheet(jsonData);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, 'Sheet1');
 
-    // Write the CSV to a file
-    fs.writeFile(csvFilePath, csv, (err) => {
-      if (err) {
-        console.error('Error writing CSV file:', err);
-      } else {
-        console.log('CSV file has been saved successfully!');
-      }
-    });
+    // Write the Excel file
+    XLSX.writeFile(workbook, excelFilePath);
+    console.log('Excel file has been saved successfully!');
   } catch (err) {
-    console.error('Error parsing JSON or converting to CSV:', err);
+    console.error('Error parsing JSON or converting to Excel:', err);
   }
 });
