@@ -31,6 +31,12 @@ async function fetchImageUrls(productUrl) {
     }
 }
 
+// Function to delay execution for a random time between 1 and 5 seconds
+function delay() {
+    const delayTime = Math.floor(Math.random() * 5000) + 1000; // Random delay between 1000ms (1s) and 5000ms (5s)
+    return new Promise(resolve => setTimeout(resolve, delayTime));
+}
+
 // Function to process products
 async function processProducts() {
     // Read progress (last processed index)
@@ -53,6 +59,9 @@ async function processProducts() {
 
         // Save updated JSON (optional: save after each product to minimize data loss)
         fs.writeFileSync(outputFilePath, JSON.stringify(products, null, 2));
+
+        // Delay before processing the next product
+        await delay();
     }
 
     console.log('Processing complete!');
