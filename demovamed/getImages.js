@@ -3,9 +3,14 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 // File paths
-const inputFilePath = 'allProducts.json'; // Path to the input JSON file
+const inputFilePath = 'test.json'; // Path to the input JSON file
 const outputFilePath = 'all_products_with_images.json'; // Path to the output JSON file
 const progressFilePath = 'progress.txt'; // Path to the progress file
+
+// Function to delay execution for a specified time in milliseconds
+function delayFor(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
 
 // Load the JSON file
 const products = JSON.parse(fs.readFileSync(inputFilePath, 'utf-8'));
@@ -62,6 +67,12 @@ async function processProducts() {
 
         // Delay before processing the next product
         await delay();
+
+        // Add a delay of 5 minutes after every 85 products
+        if ((i + 1) % 60 === 0) {
+            console.log('Taking a 5-minute break...');
+            await delayFor(5 * 60 * 1000); // 5 minutes in milliseconds
+        }
     }
 
     console.log('Processing complete!');

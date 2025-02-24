@@ -22,6 +22,14 @@ const fs = require('fs');
 //     // await browser.close(); // Uncomment this line if you want to close the browser after the actions
 // })();
 
+// const products = JSON.parse(fs.readFileSync("all_products_with_images.json", 'utf-8'));
+
+// products.forEach(element => {
+//     if (element.galleryImages && element.galleryImages.length > 0) {
+//         fs.appendFileSync('finalShapeProducts.json', JSON.stringify(element, null, 2) + ',\n');
+//     }
+// });
+
 const all_products = JSON.parse(fs.readFileSync("allProducts.json", 'utf-8'));
 const products_with_images = JSON.parse(fs.readFileSync("finalShapeProducts.json", 'utf-8'));
 
