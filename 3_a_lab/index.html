@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Bar</title>
+    <style>
+        body {
+            background-color: #1a1a1a;
+            color: white;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .progress-container {
+            width: 800px;
+            position: relative;
+            padding: 40px 20px;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background-color: #333;
+            border-radius: 2px;
+            position: relative;
+        }
+
+        .progress-fill {
+            position: absolute;
+            height: 100%;
+            background-color: #8257e6;
+            border-radius: 2px;
+            width: 0;
+            transition: width 1s ease-out;
+        }
+
+        .markers {
+            position: absolute;
+            width: 100%;
+            top: -8px;
+        }
+
+        .marker {
+            width: 16px;
+            height: 16px;
+            background-color: #1a1a1a;
+            border: 2px solid #333;
+            border-radius: 50%;
+            position: absolute;
+            transform: translateX(-50%);
+            transition: all 0.3s ease;
+        }
+
+        .marker.active {
+            background-color: #8257e6;
+            border-color: #8257e6;
+        }
+
+        .marker-label {
+            position: absolute;
+            top: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: #666;
+        }
+
+        .marker-value {
+            position: absolute;
+            bottom: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: #666;
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .current-position {
+            position: absolute;
+            top: -8px;
+            width: 20px;
+            height: 20px;
+            background-color: #4ade80;
+            border-radius: 50%;
+            transform: translateX(-50%);
+            transition: left 1s ease-out;
+        }
+
+        .current-value {
+            position: absolute;
+            bottom: -45px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: #4ade80;
+            white-space: nowrap;
+            background-color: rgba(74, 222, 128, 0.1);
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+        }
+
+        .current-value::after {
+            content: '';
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            margin-left: 4px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1124.14 1256.39' fill='%234ade80'%3E%3Cpath d='M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z'/%3E%3Cpath d='M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+
+        .stage-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 60px;
+            padding: 0 8px;
+        }
+
+        .stage-label {
+            color: #666;
+            font-size: 14px;
+            transition: color 0.3s ease;
+        }
+
+        .stage-label.active {
+            color: #8257e6;
+        }
+
+        .riyal-svg {
+            width: 14px;
+            height: 14px;
+            fill: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="progress-container">
+        <div class="progress-bar">
+            <div class="progress-fill"></div>
+            <div class="current-position">
+                <span class="current-value">0</span>
+            </div>
+            <div class="markers">
+                <div class="marker" data-value="3000">
+                    <span class="marker-label">8%</span>
+                    <span class="marker-value">3,000 <svg class="riyal-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124.14 1256.39"><path d="M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z"/><path d="M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z"/></svg></span>
+                </div>
+                <div class="marker" data-value="10000">
+                    <span class="marker-label">10%</span>
+                    <span class="marker-value">10,000 <svg class="riyal-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124.14 1256.39"><path d="M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z"/><path d="M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z"/></svg></span>
+                </div>
+                <div class="marker" data-value="20000">
+                    <span class="marker-label">12.5%</span>
+                    <span class="marker-value">20,000 <svg class="riyal-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124.14 1256.39"><path d="M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z"/><path d="M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z"/></svg></span>
+                </div>
+                <div class="marker" data-value="50000">
+                    <span class="marker-label">15%</span>
+                    <span class="marker-value">50,000 <svg class="riyal-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1124.14 1256.39"><path d="M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z"/><path d="M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z"/></svg></span>
+                </div>
+            </div>
+        </div>
+        <div class="stage-labels">
+            <span class="stage-label"></span>
+            <span class="stage-label"></span>
+            <span class="stage-label"></span>
+            <span class="stage-label"></span>
+            <span class="stage-label"></span>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const maxValue = 50000;
+        let currentValue = 15000; // Example value between 10000 and 20000
+
+        function updateProgress() {
+            const progressFill = document.querySelector('.progress-fill');
+            const markers = document.querySelectorAll('.marker');
+            const stageLabels = document.querySelectorAll('.stage-label');
+            const currentPosition = document.querySelector('.current-position');
+            const currentValueDisplay = document.querySelector('.current-value');
+            
+            // Calculate progress percentage
+            const progressPercentage = (currentValue / maxValue) * 100;
+            
+            // Animate progress bar
+            progressFill.style.width = `${progressPercentage}%`;
+            
+            // Update current position indicator
+            currentPosition.style.left = `${progressPercentage}%`;
+            currentValueDisplay.textContent = `${currentValue.toLocaleString()} `;
+            
+            // Update markers and labels
+            markers.forEach((marker, index) => {
+                const markerValue = parseInt(marker.dataset.value);
+                const markerPosition = (markerValue / maxValue) * 100;
+                marker.style.left = `${markerPosition}%`;
+
+                if (currentValue >= markerValue) {
+                    marker.classList.add('active');
+                    stageLabels[index].classList.add('active');
+                } else {
+                    marker.classList.remove('active');
+                    stageLabels[index].classList.remove('active');
+                }
+            });
+        }
+
+        // Initialize progress bar on load
+        document.addEventListener('DOMContentLoaded', () => {
+            setTimeout(updateProgress, 100); // Small delay for animation to work
+        });
+
+        // Function to update progress (for when you connect to API)
+        function setProgress(value) {
+            currentValue = value;
+            updateProgress();
+        }
+
+        // Optional: Add test buttons to demonstrate functionality
+        document.body.insertAdjacentHTML('beforeend', `
+            <div style="position: fixed; top: 20px; right: 20px; display: flex; gap: 10px;">
+                <button onclick="setProgress(15000)">Set to 15,000</button>
+                <button onclick="setProgress(25000)">Set to 25,000</button>
+                <button onclick="setProgress(5000)">Set to 5,000</button>
+            </div>
+        `);
+    </script>
+</body>
+</html>
