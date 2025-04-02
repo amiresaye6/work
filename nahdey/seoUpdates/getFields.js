@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = require("./صحة_المرأة-Products.json");
+const data = require("./صحة_الرجل-Products.json");
 
 // Function to escape CSV fields
 function escapeCsvField(field) {
@@ -13,7 +13,7 @@ function escapeCsvField(field) {
 
 // Prepare the data for the CSV file
 const csvData = data
-  .map((record) => `${record.ID},${escapeCsvField(record.Seo_description)}`)
+  .map((record) => `${record.ID},${escapeCsvField(record.Seo_description ? record.Seo_description : record.Seo_name)}`)
   .join("\n");
 
 // Add headers to the CSV
