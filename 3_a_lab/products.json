@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hydrating Face Cream",
+      "category": "Moisturizer",
+      "price": 25.99,
+      "stock": 50,
+      "brand": "GlowSkin",
+      "description": "A lightweight, non-greasy moisturizer for daily hydration.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Glowskin.webp"
+    },
+    {
+      "id": 2,
+      "name": "Vitamin C Serum",
+      "category": "Serum",
+      "price": 34.99,
+      "stock": 30,
+      "brand": "RadianceBoost",
+      "description": "Brightens skin tone and reduces dark spots with powerful antioxidants.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Pureskin.webp"
+    },
+    {
+      "id": 3,
+      "name": "SPF 50 Sunscreen",
+      "category": "Sunscreen",
+      "price": 19.99,
+      "stock": 80,
+      "brand": "SunShield",
+      "description": "Broad-spectrum sun protection with a non-greasy formula.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/calm-cream250.webp"
+    },
+    {
+      "id": 4,
+      "name": "Aloe Vera Gel",
+      "category": "Gel",
+      "price": 12.99,
+      "stock": 100,
+      "brand": "NatureGlow",
+      "description": "Soothing aloe vera gel for hydration and skin repair.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Pureskin.webp"
+    },
+    {
+      "id": 5,
+      "name": "Exfoliating Face Scrub",
+      "category": "Exfoliator",
+      "price": 18.50,
+      "stock": 40,
+      "brand": "PureSkin",
+      "description": "Gentle exfoliating scrub to remove dead skin cells and refresh skin.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Glowskin.webp"
+    },
+    {
+      "id": 6,
+      "name": "Hyaluronic Acid Moisturizer",
+      "category": "Moisturizer",
+      "price": 29.99,
+      "stock": 60,
+      "brand": "HydraGlow",
+      "description": "Deep hydration with hyaluronic acid for plumper skin.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/calm-cream250.webp"
+    },
+    {
+      "id": 7,
+      "name": "Tea Tree Acne Spot Treatment",
+      "category": "Treatment",
+      "price": 15.99,
+      "stock": 25,
+      "brand": "ClearSkin",
+      "description": "Fast-acting acne treatment with tea tree oil.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Pureskin.webp"
+    },
+    {
+      "id": 8,
+      "name": "Charcoal Face Mask",
+      "category": "Mask",
+      "price": 22.99,
+      "stock": 35,
+      "brand": "DeepClean",
+      "description": "Detoxifying charcoal mask to remove impurities and excess oil.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Glowskin.webp"
+    },
+    {
+      "id": 9,
+      "name": "Retinol Night Cream",
+      "category": "Night Cream",
+      "price": 39.99,
+      "stock": 20,
+      "brand": "YouthRenew",
+      "description": "Anti-aging night cream with retinol for smoother skin.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Pureskin.webp"
+    },
+    {
+      "id": 10,
+      "name": "Cucumber Eye Gel",
+      "category": "Eye Care",
+      "price": 14.99,
+      "stock": 45,
+      "brand": "FreshEyes",
+      "description": "Cooling cucumber gel to reduce puffiness and dark circles.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/calm-cream250.webp"
+    },
+    {
+      "id": 11,
+      "name": "Rose Water Toner",
+      "category": "Toner",
+      "price": 17.50,
+      "stock": 70,
+      "brand": "FloralGlow",
+      "description": "Refreshing rose water toner for balanced and hydrated skin.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Pureskin.webp"
+    },
+    {
+      "id": 12,
+      "name": "Lip Balm SPF 15",
+      "category": "Lip Care",
+      "price": 5.99,
+      "stock": 150,
+      "brand": "SoftLips",
+      "description": "Moisturizing lip balm with sun protection.",
+      "image": "https://3alab-cosmo.com/wp-content/uploads/2025/02/Glowskin.webp"
+    }
+  ]
+}

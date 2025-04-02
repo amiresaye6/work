@@ -5,9 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Progress Bar</title>
     <style>
+        /* Color Variables from Product Order Management */
+        :root {
+            --primary-color: rgb(142,85,104);
+            --alternative-color: #fbbc34;
+            --text-color: #767676;
+            --title-color: #242424;
+            --background-color: #fff;
+            --form-border-color: rgba(0,0,0,0.1);
+            --btn-hover-color: rgb(140,84,90);
+            --gray-background: #f7f7f7;
+        }
+
         body {
-            background-color: #1a1a1a;
-            color: white;
+            background-color: var(--gray-background);
+            color: var(--text-color);
             font-family: Arial, sans-serif;
             display: flex;
             justify-content: center;
@@ -15,17 +27,20 @@
             min-height: 100vh;
             margin: 0;
         }
-
         .progress-container {
             width: 800px;
             position: relative;
+            /*
             padding: 40px 20px;
+            background-color: var(--background-color);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            */
         }
-
         .progress-bar {
             width: 100%;
             height: 4px;
-            background-color: #333;
+            background-color: var(--form-border-color);
             border-radius: 2px;
             position: relative;
         }
@@ -33,7 +48,7 @@
         .progress-fill {
             position: absolute;
             height: 100%;
-            background-color: #8257e6;
+            background-color: var(--primary-color);
             border-radius: 2px;
             width: 0;
             transition: width 1s ease-out;
@@ -48,8 +63,8 @@
         .marker {
             width: 16px;
             height: 16px;
-            background-color: #1a1a1a;
-            border: 2px solid #333;
+            background-color: var(--background-color);
+            border: 2px solid var(--form-border-color);
             border-radius: 50%;
             position: absolute;
             transform: translateX(-50%);
@@ -57,8 +72,8 @@
         }
 
         .marker.active {
-            background-color: #8257e6;
-            border-color: #8257e6;
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
         }
 
         .marker-label {
@@ -67,7 +82,7 @@
             left: 50%;
             transform: translateX(-50%);
             font-size: 14px;
-            color: #666;
+            color: var(--text-color);
         }
 
         .marker-value {
@@ -76,7 +91,7 @@
             left: 50%;
             transform: translateX(-50%);
             font-size: 14px;
-            color: #666;
+            color: var(--text-color);
             white-space: nowrap;
             display: flex;
             align-items: center;
@@ -88,7 +103,7 @@
             top: -8px;
             width: 20px;
             height: 20px;
-            background-color: #4ade80;
+            background-color: var(--alternative-color);
             border-radius: 50%;
             transform: translateX(-50%);
             transition: left 1s ease-out;
@@ -100,9 +115,9 @@
             left: 50%;
             transform: translateX(-50%);
             font-size: 14px;
-            color: #4ade80;
+            color: var(--alternative-color);
             white-space: nowrap;
-            background-color: rgba(74, 222, 128, 0.1);
+            background-color: rgba(251,188,52,0.1);
             padding: 4px 8px;
             border-radius: 4px;
             display: flex;
@@ -115,7 +130,7 @@
             width: 14px;
             height: 14px;
             margin-left: 4px;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1124.14 1256.39' fill='%234ade80'%3E%3Cpath d='M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z'/%3E%3Cpath d='M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z'/%3E%3C/svg%3E");
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1124.14 1256.39' fill='%23fbbc34'%3E%3Cpath d='M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z'/%3E%3Cpath d='M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z'/%3E%3C/svg%3E");
             background-repeat: no-repeat;
             background-position: center;
             background-size: contain;
@@ -129,19 +144,19 @@
         }
 
         .stage-label {
-            color: #666;
+            color: var(--text-color);
             font-size: 14px;
             transition: color 0.3s ease;
         }
 
         .stage-label.active {
-            color: #8257e6;
+            color: var(--primary-color);
         }
 
         .riyal-svg {
             width: 14px;
             height: 14px;
-            fill: #666;
+            fill: var(--text-color);
         }
     </style>
 </head>

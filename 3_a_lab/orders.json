@@ -1,0 +1,387 @@
+{
+    "orders": [
+        {
+            "id": 1,
+            "customer_name": "Ahmed Almasri",
+            "total_order_price": 650.75,
+            "total_order_points": 20,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 101,
+                    "name": "Face Cleanser",
+                    "price": 50.25,
+                    "points": 5,
+                    "amount": 1,
+                    "product_price": 50.25
+                },
+                {
+                    "id": 102,
+                    "name": "Moisturizing Cream",
+                    "price": 100.50,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 100.50
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "customer_name": "Fatima Khalil",
+            "total_order_price": 730.00,
+            "total_order_points": 30,
+            "status": "Pending",
+            "products": [
+                {
+                    "id": 103,
+                    "name": "Anti-aging Serum",
+                    "price": 120.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 120.00
+                },
+                {
+                    "id": 104,
+                    "name": "Sunscreen SPF 50",
+                    "price": 110.00,
+                    "points": 10,
+                    "amount": 1,
+                    "product_price": 110.00
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "customer_name": "Omar Saeed",
+            "total_order_price": 840.75,
+            "total_order_points": 45,
+            "status": "Shipped",
+            "products": [
+                {
+                    "id": 105,
+                    "name": "Vitamin C Serum",
+                    "price": 140.50,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 140.50
+                },
+                {
+                    "id": 106,
+                    "name": "Hydrating Toner",
+                    "price": 90.25,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 90.25
+                },
+                {
+                    "id": 107,
+                    "name": "Night Repair Cream",
+                    "price": 110.00,
+                    "points": 10,
+                    "amount": 1,
+                    "product_price": 110.00
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "customer_name": "Layla Nasser",
+            "total_order_price": 575.00,
+            "total_order_points": 25,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 108,
+                    "name": "Exfoliating Scrub",
+                    "price": 85.00,
+                    "points": 10,
+                    "amount": 1,
+                    "product_price": 85.00
+                },
+                {
+                    "id": 109,
+                    "name": "Hyaluronic Acid Serum",
+                    "price": 90.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 90.00
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "customer_name": "Khaled Hassan",
+            "total_order_price": 760.00,
+            "total_order_points": 35,
+            "status": "Pending",
+            "products": [
+                {
+                    "id": 110,
+                    "name": "Aloe Vera Gel",
+                    "price": 120.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 120.00
+                },
+                {
+                    "id": 111,
+                    "name": "Eye Cream",
+                    "price": 140.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 140.00
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "customer_name": "Huda Salem",
+            "total_order_price": 690.00,
+            "total_order_points": 25,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 112,
+                    "name": "Lip Balm",
+                    "price": 50.00,
+                    "points": 5,
+                    "amount": 1,
+                    "product_price": 50.00
+                },
+                {
+                    "id": 113,
+                    "name": "Body Lotion",
+                    "price": 140.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 140.00
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "customer_name": "Yousef Ali",
+            "total_order_price": 810.00,
+            "total_order_points": 40,
+            "status": "Shipped",
+            "products": [
+                {
+                    "id": 114,
+                    "name": "Hair Serum",
+                    "price": 160.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 160.00
+                },
+                {
+                    "id": 115,
+                    "name": "Shampoo",
+                    "price": 150.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 150.00
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "customer_name": "Nour Hassan",
+            "total_order_price": 720.00,
+            "total_order_points": 30,
+            "status": "Pending",
+            "products": [
+                {
+                    "id": 116,
+                    "name": "Conditioner",
+                    "price": 110.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 110.00
+                },
+                {
+                    "id": 117,
+                    "name": "Hair Mask",
+                    "price": 110.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 110.00
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "customer_name": "Salma Fawzy",
+            "total_order_price": 775.00,
+            "total_order_points": 35,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 118,
+                    "name": "Face Mask",
+                    "price": 125.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 125.00
+                },
+                {
+                    "id": 119,
+                    "name": "Hand Cream",
+                    "price": 150.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 150.00
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "customer_name": "Ali Zayed",
+            "total_order_price": 800.00,
+            "total_order_points": 40,
+            "status": "Shipped",
+            "products": [
+                {
+                    "id": 120,
+                    "name": "Foot Cream",
+                    "price": 150.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 150.00
+                },
+                {
+                    "id": 121,
+                    "name": "Body Wash",
+                    "price": 150.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 150.00
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "customer_name": "Mona Adel",
+            "total_order_price": 680.00,
+            "total_order_points": 25,
+            "status": "Pending",
+            "products": [
+                {
+                    "id": 122,
+                    "name": "Face Scrub",
+                    "price": 90.00,
+                    "points": 10,
+                    "amount": 1,
+                    "product_price": 90.00
+                },
+                {
+                    "id": 123,
+                    "name": "Toner",
+                    "price": 90.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 90.00
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "customer_name": "Hassan Omar",
+            "total_order_price": 750.00,
+            "total_order_points": 35,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 124,
+                    "name": "Shaving Cream",
+                    "price": 125.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 125.00
+                },
+                {
+                    "id": 125,
+                    "name": "Aftershave Balm",
+                    "price": 125.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 125.00
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "customer_name": "Rania Khaled",
+            "total_order_price": 700.00,
+            "total_order_points": 30,
+            "status": "Shipped",
+            "products": [
+                {
+                    "id": 126,
+                    "name": "Makeup Remover",
+                    "price": 100.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 100.00
+                },
+                {
+                    "id": 127,
+                    "name": "Face Oil",
+                    "price": 100.00,
+                    "points": 15,
+                    "amount": 1,
+                    "product_price": 100.00
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "customer_name": "Zainab Ahmed",
+            "total_order_price": 8200.00,
+            "total_order_points": 45,
+            "status": "Completed",
+            "products": [
+                {
+                    "id": 128,
+                    "name": "Night Cream",
+                    "price": 160.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 160.00
+                },
+                {
+                    "id": 129,
+                    "name": "Day Cream",
+                    "price": 160.00,
+                    "points": 25,
+                    "amount": 1,
+                    "product_price": 160.00
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "customer_name": "Tariq Mahmoud",
+            "total_order_price": 780.00,
+            "total_order_points": 40,
+            "status": "Pending",
+            "products": [
+                {
+                    "id": 130,
+                    "name": "Beard Oil",
+                    "price": 140.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 140.00
+                },
+                {
+                    "id": 131,
+                    "name": "Hair Gel",
+                    "price": 140.00,
+                    "points": 20,
+                    "amount": 1,
+                    "product_price": 140.00
+                }
+            ]
+        }
+    ]
+}

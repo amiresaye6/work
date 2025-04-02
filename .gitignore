@@ -2,3 +2,5 @@ products/
 node_modules/
 *.csv
 *.xlsx
+*.zip
+*.rar

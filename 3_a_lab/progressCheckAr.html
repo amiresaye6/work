@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تقدم الطلبات وسجلها</title>
+    <style>
+        :root {
+            --primary-color: rgb(142, 85, 104);
+            --alternative-color: #fbbc34;
+            --text-color: #767676;
+            --title-color: #242424;
+            --background-color: #fff;
+            --form-border-color: rgba(0, 0, 0, 0.1);
+            --btn-hover-color: rgb(140, 84, 90);
+            --gray-background: #f7f7f7;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--gray-background);
+            color: var(--text-color);
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            direction: rtl;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .card {
+            background-color: var(--background-color);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .progress-container {
+            width: 100%;
+            display: flex;
+            padding: 15px;
+            align-items: center;
+            position: relative;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 4px;
+            background-color: var(--form-border-color);
+            border-radius: 2px;
+            position: relative;
+        }
+
+        .progress-fill {
+            position: absolute;
+            height: 100%;
+            background-color: var(--primary-color);
+            border-radius: 2px;
+            width: 0;
+            transition: width 1s ease-out;
+            left: 0;
+        }
+
+        .markers {
+            position: absolute;
+            width: 100%;
+            top: -8px;
+        }
+
+        .marker {
+            width: 16px;
+            height: 16px;
+            background-color: var(--background-color);
+            border: 2px solid var(--form-border-color);
+            border-radius: 50%;
+            position: absolute;
+            transform: translateX(-50%);
+            transition: all 0.3s ease;
+        }
+
+        .marker.active {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+        }
+
+        .marker-label {
+            position: absolute;
+            top: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: var(--text-color);
+        }
+
+        .marker-value {
+            position: absolute;
+            bottom: -25px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: var(--text-color);
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .current-position {
+            position: absolute;
+            top: -8px;
+            width: 20px;
+            height: 20px;
+            background-color: var(--alternative-color);
+            border-radius: 50%;
+            transform: translateX(-50%);
+            transition: left 1s ease-out;
+        }
+
+        .current-value {
+            position: absolute;
+            bottom: -45px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 14px;
+            color: var(--alternative-color);
+            white-space: nowrap;
+            background-color: rgba(251, 188, 52, 0.1);
+            padding: 4px 8px;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+        }
+
+        .current-value::after {
+            content: '';
+            display: inline-block;
+            width: 14px;
+            height: 14px;
+            margin-left: 4px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1124.14 1256.39' fill='%23fbbc34'%3E%3Cpath d='M699.62,1113.02h0c-20.06,44.48-33.32,92.75-38.4,143.37l424.51-90.24c20.06-44.47,33.31-92.75,38.4-143.37l-424.51,90.24Z'/%3E%3Cpath d='M1085.73,895.8c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.33v-135.2l292.27-62.11c20.06-44.47,33.32-92.75,38.4-143.37l-330.68,70.27V66.13c-50.67,28.45-95.67,66.32-132.25,110.99v403.35l-132.25,28.11V0c-50.67,28.44-95.67,66.32-132.25,110.99v525.69l-295.91,62.88c-20.06,44.47-33.33,92.75-38.42,143.37l334.33-71.05v170.26l-358.3,76.14c-20.06,44.47-33.32,92.75-38.4,143.37l375.04-79.7c30.53-6.35,56.77-24.4,73.83-49.24l68.78-101.97v-.02c7.14-10.55,11.3-23.27,11.3-36.97v-149.98l132.25-28.11v270.4l424.53-90.28Z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+        }
+
+        .stage-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 60px;
+            padding: 0 8px;
+        }
+
+        .stage-label {
+            color: var(--text-color);
+            font-size: 14px;
+            transition: color 0.3s ease;
+        }
+
+        .stage-label.active {
+            color: var(--primary-color);
+        }
+
+        .riyal-svg {
+            width: 14px;
+            height: 14px;
+            fill: var(--text-color);
+        }
+
+        .orders-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .orders-table th,
+        .orders-table td {
+            border: 1px solid var(--form-border-color);
+            padding: 12px;
+            text-align: right;
+            /* Changed to right for RTL */
+        }
+
+        .orders-table th {
+            background-color: var(--gray-background);
+            color: var(--title-color);
+            font-weight: bold;
+        }
+
+        .orders-table tr:nth-child(even) {
+            background-color: rgba(142, 85, 104, 0.05);
+        }
+
+        .orders-table tr:hover {
+            background-color: rgba(142, 85, 104, 0.1);
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .status-completed {
+            background-color: rgba(0, 255, 0, 0.1);
+            color: green;
+        }
+
+        .status-pending {
+            background-color: rgba(255, 165, 0, 0.1);
+            color: orange;
+        }
+
+        .status-processing {
+            background-color: rgba(30, 144, 255, 0.1);
+            color: dodgerblue;
+        }
+
+        .view-details {
+            background-color: var(--primary-color);
+            color: var(--background-color);
+            border: none;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .view-details:hover {
+            background-color: var(--btn-hover-color);
+        }
+
+        @media screen and (max-width: 768px) {
+            .card {
+                padding: 10px;
+            }
+
+            .orders-table {
+                font-size: 12px;
+            }
+
+            .orders-table th,
+            .orders-table td {
+                padding: 8px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            .orders-table {
+                font-size: 10px;
+            }
+
+            .orders-table th,
+            .orders-table td {
+                padding: 4px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="card">
+            <div>
+                <h1>تقدمك</h1>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar">
+                    <div class="progress-fill"></div>
+                    <div class="current-position">
+                        <span class="current-value">0 </span>
+                    </div>
+                    <div class="markers">
+                        <div class="marker" data-value="3000">
+                            <span class="marker-label">8%</span>
+                            <span class="marker-value">3,000 <img src="sar.svg" class="riyal-svg" alt="ريال"></span>
+                        </div>
+                        <div class="marker" data-value="10000">
+                            <span class="marker-label">10%</span>
+                            <span class="marker-value">10,000 <img src="sar.svg" class="riyal-svg" alt="ريال"></span>
+                        </div>
+                        <div class="marker" data-value="15000">
+                            <span class="marker-label">11%</span>
+                            <span class="marker-value">15,000 <img src="sar.svg" class="riyal-svg" alt="ريال"></span>
+                        </div>
+                        <div class="marker" data-value="20000">
+                            <span class="marker-label">12.5%</span>
+                            <span class="marker-value">20,000 <img src="sar.svg" class="riyal-svg" alt="ريال"></span>
+                        </div>
+                        <div class="marker" data-value="50000">
+                            <span class="marker-label">15%</span>
+                            <span class="marker-value">50,000 <img src="sar.svg" class="riyal-svg" alt="ريال"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="stage-labels">
+                    <span class="stage-label"></span>
+                    <span class="stage-label"></span>
+                    <span class="stage-label"></span>
+                    <span class="stage-label"></span>
+                    <span class="stage-label"></span>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <h1>طلباتك</h1>
+        </div>
+
+        <div class="card">
+            <table class="orders-table">
+                <thead>
+                    <tr>
+                        <th>رقم الطلب</th>
+                        <th>اسم العميل</th>
+                        <th>السعر الإجمالي</th>
+                        <th>التاريخ</th>
+                        <th>الحالة</th>
+                        <th>النقطة المكتسبة</th>
+                        <th>مزيد من المعلومات</th>
+                    </tr>
+                </thead>
+                <tbody id="ordersTableBody">
+                    <!-- Orders will be dynamically inserted here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const maxValue = 50000; // Maximum value for the progress bar scale
+
+        // Fetch orders from orders.json and populate the table
+        async function fetchAndDisplayOrders() {
+            try {
+                const response = await fetch('orders.json');
+                const data = await response.json();
+                const orders = data.orders;
+                const tbody = document.getElementById('ordersTableBody');
+                let total = 0;
+
+                // Clear existing rows
+                tbody.innerHTML = '';
+
+                // Populate table with orders
+                orders.forEach(order => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>#${order.id}</td>
+                        <td>${order.customer_name}</td>
+                        <td>${order.total_order_price} <img src="sar.svg" class="riyal-svg" alt="ريال"></td>
+                        <td>${new Date().toISOString().split('T')[0]}</td> <!-- Placeholder date -->
+                        <td><span class="status-badge status-${order.status.toLowerCase()}">${order.status === 'Completed' ? 'مكتمل' : order.status === 'Pending' ? 'معلق' : 'قيد التنفيذ'}</span></td>
+                        <td>${order.total_order_points} نقطة</td>
+                        <td><button class="view-details">عرض التفاصيل</button></td>
+                    `;
+                    tbody.appendChild(row);
+                    total += order.total_order_price;
+                });
+
+                // Update progress bar after loading orders
+                updateProgress(total);
+            } catch (error) {
+                console.error('Error fetching orders:', error);
+            }
+        }
+
+        function updateProgress(totalValue) {
+            const progressFill = document.querySelector('.progress-fill');
+            const markers = document.querySelectorAll('.marker');
+            const stageLabels = document.querySelectorAll('.stage-label');
+            const currentPosition = document.querySelector('.current-position');
+            const currentValueDisplay = document.querySelector('.current-value');
+
+            // Calculate progress percentage based on total value
+            const progressPercentage = Math.min((totalValue / maxValue) * 100, 100);
+
+            // Animate progress bar
+            progressFill.style.width = `${progressPercentage}%`;
+
+            // Update current position indicator
+            currentPosition.style.left = `${progressPercentage}%`;
+            currentValueDisplay.textContent = totalValue;
+
+            // Update markers and labels
+            markers.forEach((marker, index) => {
+                const markerValue = parseInt(marker.dataset.value);
+                const markerPosition = (markerValue / maxValue) * 100;
+                marker.style.left = `${markerPosition}%`;
+
+                if (totalValue >= markerValue) {
+                    marker.classList.add('active');
+                    stageLabels[index].classList.add('active');
+                } else {
+                    marker.classList.remove('active');
+                    stageLabels[index].classList.remove('active');
+                }
+            });
+        }
+
+        // Initialize progress bar and fetch orders on load
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchAndDisplayOrders(); // Fetch and display orders
+        });
+    </script>
+</body>
+
+</html>
