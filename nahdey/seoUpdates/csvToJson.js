@@ -1,8 +1,8 @@
 const csv = require('csvtojson');
 const fs = require('fs');
 
-const csvFilePath = 'صحة_المرأة-Products.csv'; // Replace with your CSV file path
-const jsonFilePath = 'صحة_المرأة-Products.json'; // Replace with your desired JSON output path
+const csvFilePath = 'صحة_الاطفال.xlsx - Products.csv'; // Replace with your CSV file path
+const jsonFilePath = 'صحة_الاطفال.xlsx - Products.json'; // Replace with your desired JSON output path
 
 csv()
   .fromFile(csvFilePath)
