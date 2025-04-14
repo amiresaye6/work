@@ -87,7 +87,7 @@ function generateGrid() {
     }
 
     // Add time slots (8 AM to 10 PM)
-    for (let hour = 8; hour <= 22; hour++) {
+    for (let hour = 7; hour <= 23; hour++) {
         // Add time label
         const timeLabel = document.createElement('div');
         timeLabel.className = 'time-label';
