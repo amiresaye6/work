@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Logs Tracker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f9;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        .table-container {
+            max-height: 500px; /* Limit height to enable scrolling */
+            overflow-y: auto; /* Vertical scroll for many rows */
+            overflow-x: auto; /* Horizontal scroll for wide table */
+            position: relative; /* Context for sticky header */
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            table-layout: auto;
+            border-collapse: collapse;
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+            white-space: normal;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            min-width: 60px; /* Ensure columns don't collapse too small */
+        }
+        th {
+            background-color: #007bff;
+            color: white;
+            font-weight: bold;
+            position: sticky; /* Fix header at top */
+            top: 0; /* Stick to top of container */
+            z-index: 10; /* Ensure header stays above body */
+        }
+        td {
+            max-width: 200px;
+            text-overflow: ellipsis;
+        }
+        .task-coding { background-color: #28a745; color: white; }
+        .task-meeting { background-color: #dc3545; color: white; }
+        .task-planning { background-color: #ffc107; color: black; }
+        .task-review { background-color: #17a2b8; color: white; }
+        .task-break { background-color: #6c757d; color: white; }
+        .btn {
+            display: inline-block;
+            padding: 8px 16px;
+            font-size: 15px;
+            font-weight: bold;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+            cursor: pointer;
+        }
+        .btn-previous {
+            background-color: #007bff;
+            color: white;
+            border: 2px solid #007bff;
+        }
+        .btn-previous:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+        .btn-next {
+            background-color: #28a745;
+            color: white;
+            border: 2px solid #28a745;
+        }
+        .btn-next:hover {
+            background-color: #218838;
+            border-color: #218838;
+        }
+        .btn-filter {
+            background-color: #6c757d;
+            color: white;
+            border: 2px solid #6c757d;
+        }
+        .btn-filter:hover {
+            background-color: #5a6268;
+            border-color: #5a6268;
+        }
+        .btn + .btn {
+            margin-left: 10px;
+        }
+        .date-picker {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .date-picker input {
+            padding: 8px;
+            font-size: 16px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            margin-right: 10px;
+        }
+        .navigation {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2 id="date-title">Employee Logs for Tuesday, April 15, 2025</h2>
+
+    <div class="date-picker">
+        <label for="date">Select Date:</label>
+        <input type="date" id="date" value="2025-04-15">
+        <button class="btn btn-filter" onclick="filterDate()">Filter</button>
+    </div>
+
+    <div class="navigation">
+        <a href="#" class="btn btn-previous" onclick="changeDate(-1)">Previous Day</a>
+        <a href="#" class="btn btn-next" onclick="changeDate(1)">Next Day</a>
+    </div>
+
+    <div class="table-container">
+        <table id="logs-table">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>8-9</th>
+                    <th>9-10</th>
+                    <th>10-11</th>
+                    <th>11-12</th>
+                    <th>12-13</th>
+                    <th>13-14</th>
+                    <th>14-15</th>
+                    <th>15-16</th>
+                    <th>16-17</th>
+                    <th>17-18</th>
+                    <th>18-19</th>
+                    <th>19-20</th>
+                    <th>20-21</th>
+                    <th>21-22</th>
+                    <th>22-23</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <script>
+        // Mockup data for April 15, 2025 (expanded to 10 users for scrolling demo)
+        const mockData = [
+            {
+                email: "alice.smith@company.com",
+                logs: [
+                    { title: "Coding", hour: 8, duration: 4, type: "coding" },
+                    { title: "Team Meeting", hour: 14, duration: 2, type: "meeting" },
+                    { title: "Code Review", hour: 16, duration: 2, type: "review" }
+                ]
+            },
+            {
+                email: "bob.johnson@company.com",
+                logs: [
+                    { title: "Planning", hour: 8, duration: 3, type: "planning" },
+                    { title: "Coding", hour: 11, duration: 4, type: "coding" },
+                    { title: "Break", hour: 15, duration: 1, type: "break" }
+                ]
+            },
+            {
+                email: "charlie.davis@company.com",
+                logs: [
+                    { title: "Code Review", hour: 9, duration: 3, type: "review" },
+                    { title: "Coding", hour: 13, duration: 3, type: "coding" },
+                    { title: "Meeting", hour: 16, duration: 1, type: "meeting" }
+                ]
+            },
+            {
+                email: "diana.wilson@company.com",
+                logs: [
+                    { title: "Coding", hour: 10, duration: 5, type: "coding" },
+                    { title: "Planning", hour: 16, duration: 2, type: "planning" }
+                ]
+            },
+            {
+                email: "ethan.brown@company.com",
+                logs: [
+                    { title: "Meeting", hour: 8, duration: 2, type: "meeting" },
+                    { title: "Coding", hour: 12, duration: 4, type: "coding" },
+                    { title: "Break", hour: 17, duration: 1, type: "break" }
+                ]
+            },
+            {
+                email: "fiona.green@company.com",
+                logs: [
+                    { title: "Coding", hour: 9, duration: 3, type: "coding" },
+                    { title: "Meeting", hour: 13, duration: 2, type: "meeting" }
+                ]
+            },
+            {
+                email: "george.taylor@company.com",
+                logs: [
+                    { title: "Planning", hour: 8, duration: 2, type: "planning" },
+                    { title: "Review", hour: 11, duration: 3, type: "review" }
+                ]
+            },
+            {
+                email: "hannah.moore@company.com",
+                logs: [
+                    { title: "Coding", hour: 10, duration: 4, type: "coding" },
+                    { title: "Break", hour: 15, duration: 1, type: "break" }
+                ]
+            },
+            {
+                email: "ian.white@company.com",
+                logs: [
+                    { title: "Meeting", hour: 9, duration: 2, type: "meeting" },
+                    { title: "Coding", hour: 12, duration: 3, type: "coding" }
+                ]
+            },
+            {
+                email: "julia.black@company.com",
+                logs: [
+                    { title: "Review", hour: 8, duration: 3, type: "review" },
+                    { title: "Planning", hour: 14, duration: 2, type: "planning" }
+                ]
+            },
+            {
+                email: "george.taylor@company.com",
+                logs: [
+                    { title: "Planning", hour: 8, duration: 2, type: "planning" },
+                    { title: "Review", hour: 11, duration: 3, type: "review" }
+                ]
+            },
+            {
+                email: "hannah.moore@company.com",
+                logs: [
+                    { title: "Coding", hour: 10, duration: 4, type: "coding" },
+                    { title: "Break", hour: 15, duration: 1, type: "break" }
+                ]
+            },
+            {
+                email: "ian.white@company.com",
+                logs: [
+                    { title: "Meeting", hour: 9, duration: 2, type: "meeting" },
+                    { title: "Coding", hour: 12, duration: 3, type: "coding" }
+                ]
+            },
+            {
+                email: "julia.black@company.com",
+                logs: [
+                    { title: "Review", hour: 8, duration: 3, type: "review" },
+                    { title: "Planning", hour: 14, duration: 2, type: "planning" }
+                ]
+            },
+            {
+                email: "george.taylor@company.com",
+                logs: [
+                    { title: "Planning", hour: 8, duration: 2, type: "planning" },
+                    { title: "Review", hour: 11, duration: 3, type: "review" }
+                ]
+            },
+            {
+                email: "hannah.moore@company.com",
+                logs: [
+                    { title: "Coding", hour: 10, duration: 4, type: "coding" },
+                    { title: "Break", hour: 15, duration: 1, type: "break" }
+                ]
+            },
+            {
+                email: "ian.white@company.com",
+                logs: [
+                    { title: "Meeting", hour: 9, duration: 2, type: "meeting" },
+                    { title: "Coding", hour: 12, duration: 3, type: "coding" }
+                ]
+            },
+            {
+                email: "julia.black@company.com",
+                logs: [
+                    { title: "Review", hour: 8, duration: 3, type: "review" },
+                    { title: "Planning", hour: 14, duration: 2, type: "planning" }
+                ]
+            }
+        ];
+
+        // Format date for display
+        function formatDate(date) {
+            const options = { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' };
+            return date.toLocaleDateString('en-US', options);
+        }
+
+        // Render table with logs
+        function renderTable(date) {
+            const tbody = document.querySelector("#logs-table tbody");
+            tbody.innerHTML = ""; // Clear previous content
+            document.getElementById("date-title").textContent = `Employee Logs for ${formatDate(date)}`;
+
+            mockData.forEach(user => {
+                const row = document.createElement("tr");
+                const emailName = user.email.split('@')[0];
+                row.innerHTML = `<td>${emailName}</td>`;
+
+                // Initialize time slots (8:00 to 23:00, 15 hours)
+                const timeSlotLogs = Array(15).fill(null);
+
+                // Populate time slots
+                user.logs.forEach(log => {
+                    const startHour = log.hour - 8; // Adjust to 0-based index (8:00 = 0)
+                    for (let i = startHour; i < startHour + log.duration && i < 15; i++) {
+                        if (i >= 0) timeSlotLogs[i] = { title: log.title, type: log.type };
+                    }
+                });
+
+                // Render time slots with colspan
+                let colIndex = 0;
+                while (colIndex < 15) {
+                    const log = timeSlotLogs[colIndex];
+                    if (!log) {
+                        row.innerHTML += `<td></td>`;
+                        colIndex++;
+                    } else {
+                        let colspan = 1;
+                        while (colIndex + colspan < 15 && timeSlotLogs[colIndex + colspan]?.title === log.title) {
+                            colspan++;
+                        }
+                        row.innerHTML += `<td colspan="${colspan}" class="task-${log.type}">${log.title}</td>`;
+                        colIndex += colspan;
+                    }
+                }
+
+                tbody.appendChild(row);
+            });
+        }
+
+        // Handle date change (Previous/Next)
+        function changeDate(offset) {
+            const dateInput = document.getElementById("date");
+            const currentDate = new Date(dateInput.value);
+            currentDate.setDate(currentDate.getDate() + offset);
+            dateInput.value = currentDate.toISOString().split('T')[0];
+            renderTable(currentDate);
+        }
+
+        // Handle date filter
+        function filterDate() {
+            const dateInput = document.getElementById("date").value;
+            const selectedDate = new Date(dateInput);
+            renderTable(selectedDate);
+        }
+
+        // Initial render
+        renderTable(new Date("2025-04-15"));
+    </script>
+</body>
+</html>
