@@ -1,0 +1,387 @@
+Phase 1: Initial Setup 
+1. Set Up Project Environment  
+o Initialize version control (e.g., Git repository). 
+o Set up development, staging, and production environments. 
+o Install framework (e.g., React, Vue) and dependencies. 
+o Configure build tools and testing setup. 
+2. Define Project Structure  
+o Create folder structure for pages, components, assets, and 
+utilities. 
+o Set up routing configuration for 40 pages. 
+o Establish naming conventions for files and components. 
+3. Set Up Styling System  
+o Define global CSS variables for colors, fonts, and spacing. 
+o Create light/dark mode toggle logic and styles. 
+o Set up responsive design breakpoints (mobile, tablet, desktop). 
+o Choose CSS framework or custom styles (e.g., Tailwind, SCSS). 
+4. Implement Multi-Language Support  
+o Integrate localization library (e.g., i18next). 
+o Create language files for initial languages (e.g., English, Arabic). 
+o Set up language switcher logic and storage. 
+o Add translation placeholders for all static text. 
+5. Implement Multi-Currency Support  
+o Integrate currency conversion API or library. 
+o Create currency switcher logic and storage. 
+o Set up currency formatting for prices (e.g., USD, EUR, SAR). 
+o Add currency placeholders for product prices and payments. 
+6. Create Asset Management System  
+o Set up folder structure for 15 image asset types (hero banners, 
+icons, etc.). 
+o Create image optimization pipeline (e.g., compression, lazy 
+loading). 
+o Add placeholder images for development. 
+Phase 2: Build Reusable Components 
+These components are built once and reused across the platform, so they 
+won’t appear in later page-specific tasks. 
+7. Develop Core UI Components  
+o Button: Primary, secondary, outline variants, with hover/active 
+states. 
+o Link: Text and image link styles, with hover effects. 
+o Modal: Pop-up for confirmations, alerts, forms. 
+o Tooltip: Hover info for icons/fields. 
+o Pagination: For lists (products, consultations). 
+o Dropdown Menu: For filters, navigation, user actions. 
+o Loading Spinner: For async actions. 
+o Error Message: For failed actions. 
+o Success Message: For confirmations. 
+o Form Input Field: Text, email, password, with validation. 
+o Checkbox/Radio Button: For forms and filters. 
+o Tabs: For view switching (e.g., dashboards). 
+o Breadcrumb: Navigation trail. 
+o Avatar: User/doctor profile images or initials. 
+o Badge: Indicators (e.g., "New", "Top Rated"). 
+o Sidebar: Collapsible menu for dashboards. 
+o File Uploader: For images, reports. 
+o Date Picker: For forms. 
+o Search Filter: Advanced filters (price, availability). 
+o Social Share Button: For affiliate links, blogs. 
+o Rating Stars: For reviews. 
+8. Develop Core Layout Components  
+o Headers: Navigation, logo, user menu, language/currency 
+switcher, light/dark toggle. 
+o Footers: Policy links, contact, social media, affiliate link. 
+o Search Bar: Filters for doctors, products, content. 
+9. Develop Core Content Components  
+o Categories Accordion: Collapsible list for specialties, products. 
+o Hero Sections: Promotional banners with text, images, CTAs. 
+o Images Links Carousel: Clickable images for doctors, labs, 
+products. 
+o Products Carousel: Featured/related products. 
+o Images Links Grid: Grid for categories, doctors, labs. 
+o Doctor’s Specialties Carousel: Specialty links to booking. 
+o Product Card: Image, name, price (with currency), rating stars, 
+add-to-cart button. Added explicitly as a reusable component. 
+Phase 3: Build Functional Components 
+These are built once but specific to features, reused where applicable. 
+10. Develop Virtual Consultation Components  
+o Consultation Mockup: Video call UI visual. 
+o Doctor Profile Card: Photo, name, specialty, rating, booking 
+button. 
+o Booking Calendar: Date/time picker for scheduling. 
+o Video Consultation Interface: Video call, chat, comments, 
+controls. 
+o Consultation Summary Card: Details, prescriptions, chat, 
+comments. 
+o Chat Interface: Real-time messaging. 
+o Comments Section: Post-consultation notes. 
+11. Develop Payment Components  
+o Payment Gateway Integration: Card, wallet options. 
+o Confirmation Notification: Booking/payment confirmation. 
+12. Develop Affiliate Components  
+o Affiliate Program Card: Link, earnings, referral stats. 
+o Affiliate Signup Form: For doctors/labs. 
+13. Develop Other Functional Components  
+o Lab Examination Card: Test details, booking option. 
+o Vitamins Selection Questions Form: Personalized 
+recommendations. 
+o AI Questions Form: Health query form. 
+o Contact Us Form: User inquiry form. 
+14. Develop Admin Components  
+o Admin Dashboard Widgets: Stats, recent activity. 
+o Product Management Form: Add/edit product fields. 
+o Product List Table: Filterable table, edit/delete. 
+o Analytics Charts: Sales, consultations, user growth. 
+o Content Editor Interface: WYSIWYG editor. 
+o Site Settings Panel: Feature toggles, themes. 
+o User Management Table: User list, roles, edit. 
+o Role Permission Form: Admin access levels. 
+o Admin Notification Bar: Task alerts. 
+Phase 4: Build Pages 
+Each page uses reusable components from Phases 2–3, with specific content 
+or logic added. Product Card is reused where needed and not listed again. 
+15. Home Page  
+o Add hero section with home-specific banner. 
+o Add images links carousel for featured doctors/products. 
+o Add products carousel for top items. 
+o Add categories accordion for specialties. 
+o Add social share buttons for promotions. 
+o Ensure multi-language and currency display. 
+16. Categories Page  
+o Add categories accordion for all specialties/products. 
+o Add images links grid for category visuals. 
+o Add search filter for browsing. 
+o Add pagination for large lists. 
+17. Medical Consultation Page  
+o Add hero section for consultation benefits. 
+o Add doctor’s specialties carousel. 
+o Add doctor profile cards with booking links. 
+o Add FAQ section with accordion. 
+18. Laboratory Page  
+o Add hero section for lab services. 
+o Add lab examination cards. 
+o Add images links carousel for lab partners. 
+o Add booking calendar for test scheduling. 
+19. Questions Page  
+o Add AI questions form. 
+o Add vitamins selection questions form. 
+o Add FAQ accordion. 
+o Add contact us form link. 
+20. Contact Us Page  
+o Add contact us form. 
+o Add map embed (if applicable). 
+o Add support contact details. 
+o Add social media links. 
+21. Profile Page  
+o Add avatar and user details. 
+o Add form input fields for editing info. 
+o Add consultation summary cards for history. 
+o Add affiliate program card (if user is affiliate). 
+22. Orders Page  
+o Add table for order history (products, tests). 
+o Add pagination and filters. 
+o Add order status badges. 
+o Add links to product details. 
+23. Dashboard Page (User Dashboard)  
+o Add user dashboard widgets (consultations, affiliate earnings, 
+points). 
+o Add consultation summary cards. 
+o Add chat interface for recent messages. 
+o Add sidebar for navigation. 
+24. Account Details Page  
+o Add form input fields for personal info. 
+o Add password reset form. 
+o Add multi-language/currency preferences. 
+o Add light/dark mode toggle. 
+25. Points System Page  
+o Add points balance display. 
+o Add table for points history. 
+o Add redemption options with buttons. 
+o Add FAQ accordion for rules. 
+26. Shopping Cart Page  
+o Add product list with quantity inputs (using product cards). 
+o Add payment gateway integration. 
+o Add currency display. 
+o Add confirmation notification. 
+27. About Us Page  
+o Add hero section with company mission. 
+o Add images links grid for team/partners. 
+o Add text content with multi-language support. 
+o Add social share buttons. 
+28. Our Purple Story Page  
+o Add hero section with story banner. 
+o Add timeline or images links carousel. 
+o Add text content with translations. 
+o Add social share buttons. 
+29. Blogs Page  
+o Add blog post cards with images, titles. 
+o Add pagination and search filter. 
+o Add social share buttons. 
+o Add categories accordion for blog topics. 
+30. Delivery Info Page  
+o Add text content with delivery details. 
+o Add FAQ accordion. 
+o Add images for shipping visuals. 
+o Add contact us form link. 
+31. Return and Exchange Policy Page  
+o Add text content with policy details. 
+o Add FAQ accordion. 
+o Add contact us form link. 
+o Add multi-language support. 
+32. Terms & Conditions Page  
+o Add text content with terms. 
+o Add accordion for key sections. 
+o Add multi-language support. 
+o Add printable version button. 
+33. Privacy and Policy Page  
+o Add text content with privacy details. 
+o Add accordion for key sections. 
+o Add multi-language support. 
+o Add contact us form link. 
+34. Doctor Dashboard  
+o Add doctor dashboard widgets (schedule, earnings). 
+o Add chat interface for patient communication. 
+o Add consultation summary cards. 
+o Add affiliate program card. 
+35. Lab Dashboard  
+o Add lab dashboard widgets (test bookings, earnings). 
+o Add lab examination cards. 
+o Add affiliate program card. 
+o Add sidebar for navigation. 
+36. Medical Center Dashboard  
+o Add center dashboard widgets (appointments, stats). 
+o Add doctor profile cards for staff. 
+o Add booking calendar for center services. 
+o Add affiliate program card. 
+37. Virtual Consultation Landing Page  
+o Add hero section for telehealth. 
+o Add doctor’s specialties carousel. 
+o Add consultation mockup. 
+o Add booking button linking to selection page. 
+38. Doctor Selection & Booking Page  
+o Add doctor profile cards. 
+o Add booking calendar. 
+o Add search filter for specialties/availability. 
+o Add rating stars for doctor reviews. 
+39. Virtual Consultation Room Page  
+o Add video consultation interface. 
+o Add chat interface. 
+o Add comments section. 
+o Add consultation summary card post-call. 
+40. Consultation History Page  
+o Add consultation summary cards. 
+o Add pagination and filters. 
+o Add downloadable PDF button. 
+o Add follow-up booking button. 
+41. Payment & Confirmation Page  
+o Add payment gateway integration. 
+o Add confirmation notification. 
+o Add currency selector. 
+o Add order summary. 
+42. Affiliate Program Page  
+o Add hero section for affiliate benefits. 
+o Add affiliate program card. 
+o Add affiliate signup form. 
+o Add FAQ accordion. 
+43. Product Details Page  
+o Add product images with carousel. 
+o Add price with currency display (using product card elements). 
+o Add rating stars and reviews. 
+o Add add-to-cart button. 
+44. Products List Page  
+o Add products carousel for featured items. 
+o Add images links grid with product cards. 
+o Add search filter and pagination. 
+o Add price with currency display. 
+45. Admin Dashboard  
+o Add admin dashboard widgets. 
+o Add admin notification bar. 
+o Add sidebar with links to admin pages. 
+o Add analytics charts. 
+46. Admin Product Management Page  
+o Add product management form. 
+o Add product list table. 
+o Add file uploader for images. 
+o Add search filter for products. 
+47. Admin Analytics Page  
+o Add analytics charts (sales, users, consultations). 
+o Add filters for date ranges. 
+o Add export data button. 
+o Add summary stats. 
+48. Admin Content Editor Page  
+o Add content editor interface. 
+o Add preview mode. 
+o Add save/publish buttons. 
+o Add multi-language support. 
+49. Admin User Management Page  
+o Add user management table. 
+o Add role permission form. 
+o Add search filter for users. 
+o Add bulk action buttons. 
+50. Login Page  
+o Add form input fields for credentials. 
+o Add social login buttons (if applicable). 
+o Add password reset link. 
+o Add multi-language support. 
+51. Signup Page  
+o Add form input fields for registration. 
+o Add role selection (patient, doctor, lab). 
+o Add terms checkbox. 
+o Add multi-language support. 
+52. Password Reset Page  
+o Add form input fields for email, new password. 
+o Add confirmation notification. 
+o Add back-to-login button. 
+o Add multi-language support. 
+53. FAQ Page  
+o Add FAQ accordion. 
+o Add search bar for FAQs. 
+o Add contact us form link. 
+o Add multi-language support. 
+54. Notifications Page  
+o Add notification list with badges. 
+o Add filters (read/unread). 
+o Add mark-all-read button. 
+o Add pagination. 
+Phase 5: Integration and Testing 
+55. Integrate Multi-Language Across Platform  
+o Replace all static text with translation keys. 
+o Test language switching on all pages. 
+o Verify RTL support for languages like Arabic. 
+56. Integrate Multi-Currency Across Platform  
+o Update prices on product, cart, and payment pages. 
+o Test currency switching and formatting. 
+o Verify payment gateway currency support. 
+57. Implement Light/Dark Mode  
+o Apply light/dark styles to all pages and components. 
+o Test toggle functionality. 
+o Ensure accessibility (e.g., contrast ratios). 
+58. Ensure Responsive Design  
+o Test all pages on mobile, tablet, desktop. 
+o Adjust layouts for breakpoints. 
+o Verify touch interactions (e.g., carousels, modals). 
+59. Test Reusable Components  
+o Verify headers, footers, buttons, product cards, etc., across 
+pages. 
+o Check context in styling and behavior. 
+o Test multi-language/currency in components. 
+60. Test Virtual Consultation Features  
+o Test video call, chat, and comments functionality. 
+o Verify booking and payment flows. 
+o Check consultation history and summaries. 
+61. Test Admin Features  
+o Test product add/edit/delete. 
+o Verify analytics data accuracy. 
+o Check content editor and user management. 
+62. Test Affiliate System  
+o Verify signup form and affiliate card. 
+o Test referral tracking and earnings. 
+o Check promotional link generation. 
+63. Perform Accessibility Testing  
+o Ensure screen reader compatibility. 
+o Verify keyboard navigation. 
+o Check color contrast and font sizes. 
+64. Perform Cross-Browser Testing  
+o Test on Chrome, Firefox, Safari, Edge. 
+o Verify responsive design and functionality. 
+o Fix browser-specific bugs. 
+65. Perform Performance Optimization  
+o Optimize image loading (lazy load, compression). 
+o Minimize CSS/JS bundle sizes. 
+o Test page load times. 
+Phase 6: Deployment Preparation 
+66. Set Up Production Environment  
+o Configure hosting and domain. 
+o Set up CDN for assets. 
+o Enable HTTPS and security headers. 
+67. Migrate Data  
+o Import initial products, doctors, and content. 
+o Set up default languages and currencies. 
+o Populate FAQs and policies. 
+68. Perform Final Testing  
+o Test end-to-end flows (signup to payment). 
+o Verify multi-language/currency functionality. 
+o Check light/dark mode and responsiveness. 
+69. Create Documentation  
+o Write user guides for patients, doctors, admins. 
+o Document admin tasks (e.g., product management). 
+o Add FAQ for common issues. 
+Phase 7: Deployment 
+70. Deploy to Production  
+o Push code to production server. 
+o Verify deployment with smoke tests. 
+o Monitor initial user interactions. 
+71. Set Up Monitoring  
+o Configure error tracking (e.g., Sentry). 
+o Set up analytics for user behavior. 
+o Monitor server performance. 
+ 

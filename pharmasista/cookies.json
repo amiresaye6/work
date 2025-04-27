@@ -1,0 +1,93 @@
+[
+    {
+        "domain": ".www.nahdionline.com",
+        "expirationDate": 1770147326,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "preferred_method",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22default_shipping%22%3Anull%2C%22preferred_shipping_method%22%3Anull%2C%22preferred_shipping_address_id%22%3Anull%2C%22preferred_shipping_address%22%3Anull%2C%22preferred_store_id%22%3Anull%2C%22preferred_store_details%22%3Anull%7D"
+    },
+    {
+        "domain": ".nahdionline.com",
+        "expirationDate": 1745761436.940602,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "jzdn4Wj2tP1KmGGgzQUS5thbIethJ5Zlty7CuEdfcDo-1745759638-1.0.1.1-U1F0M7dAL8QQCrdQo112m1dD.bfP4zsOmS78FfjyPVyoJinPj._l.xchh2WlvPIC_ipp7O5k21cVdJKlhxOxFFS.9Qp9GQVkyVNMzrGZw.U"
+    },
+    {
+        "domain": "www.nahdionline.com",
+        "expirationDate": 1748269102,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "__privaci_cookie_consent_uuid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "01c1c04a-1a78-41be-9f30-b38919ff377a:1"
+    },
+    {
+        "domain": "www.nahdionline.com",
+        "expirationDate": 1748269102,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "__privaci_cookie_consent_generated",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "01c1c04a-1a78-41be-9f30-b38919ff377a:1"
+    },
+    {
+        "domain": "www.nahdionline.com",
+        "expirationDate": 1770426483.250659,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "private_content_version",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "updated-67a55cf345c3e9.68234709"
+    },
+    {
+        "domain": "www.nahdionline.com",
+        "expirationDate": 1748269102,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "__privaci_cookie_consents",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "{\"consents\":{\"235\":1,\"236\":1,\"238\":1,\"240\":1},\"location\":\"SHR#EG\",\"lang\":\"en\",\"gpcInBrowserOnConsent\":false,\"gpcStatusInPortalOnConsent\":false,\"status\":\"record-consent-success\",\"implicit_consent\":false}"
+    },
+    {
+        "domain": "www.nahdionline.com",
+        "expirationDate": 1748269102,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "__privaci_latest_published_version",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "2"
+    }
+]

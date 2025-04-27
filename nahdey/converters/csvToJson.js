@@ -1,8 +1,8 @@
 const csv = require('csvtojson');
 const fs = require('fs');
 
-const csvFilePath = 'ivitaProductsAr.csv'; // Replace with your CSV file path
-const jsonFilePath = 'ivitaProductsAr.json'; // Replace with your desired JSON output path
+const csvFilePath = 'BackUP___wc-product-export-15-4-2025-1744724765391.csv'; // Replace with your CSV file path
+const jsonFilePath = 'BackUP___wc-product-export-15-4-2025-1744724765391.json'; // Replace with your desired JSON output path
 
 csv()
   .fromFile(csvFilePath)
