@@ -1,6 +1,7 @@
 [
   {
-    "العناية بالبشرة": [
+    "mainCategory": "العناية بالبشرة",
+    "subCategories": [
       {
         "name": "المرطبات للبشرة",
         "url": "https://www.nahdionline.com/ar-sa/العناية-بالبشرة/المرطبات-للبشرة/plp/70207"
@@ -40,159 +41,8 @@
     ]
   },
   {
-    "العطور": [
-      {
-        "name": "عطر للنساء",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/عطر-للنساء/plp/57900"
-      },
-      {
-        "name": "عطر للرجال",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/عطر-للرجال/plp/57897"
-      },
-      {
-        "name": "عطور للجنسين",
-        "url": "https://www.nahdionline.com/ar-sa/plp/fargrance-unisex"
-      },
-      {
-        "name": "عطور شرقية",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/عطور-شرقية/plp/68880"
-      },
-      {
-        "name": "عطور الأطفال",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/عطور-الأطفال/plp/68889"
-      },
-      {
-        "name": "مجموعات عطور هدايا",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/مجموعات-هدايا/plp/68892"
-      },
-      {
-        "name": "عطور المتخصصة",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/العطور-المتخصصة/plp/68886"
-      },
-      {
-        "name": "معطرات الشعر",
-        "url": "https://www.nahdionline.com/ar-sa/العطور/معطر-الشعر/plp/68883"
-      }
-    ]
-  },
-  {
-    "المكياج والاكسسوارات": [
-      {
-        "name": "مكياج الشفاه",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/الشفاه/plp/69388"
-      },
-      {
-        "name": "مكياج العيون",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/العيون/plp/69409"
-      },
-      {
-        "name": "مكياج الوجه",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/الوجه/plp/69358"
-      },
-      {
-        "name": "مكياج الأظافر",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/الأظافر/plp/69460"
-      },
-      {
-        "name": "مكياج الرموش",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/الرموش/plp/69424"
-      },
-      {
-        "name": "رموش لاصقة",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/الرموش-اللاصقة/plp/69487"
-      },
-      {
-        "name": "مستلزمات المكياج",
-        "url": "https://www.nahdionline.com/ar-sa/المكياج/مستلزمات-المكياج/plp/69439"
-      },
-      {
-        "name": "أقراط",
-        "url": "https://www.nahdionline.com/ar-sa/اكسسوارات/أقراط/plp/69577"
-      },
-      {
-        "name": "أدوات الجمال",
-        "url": "https://www.nahdionline.com/ar-sa/اكسسوارات/أدوات-الجمال/plp/69520"
-      }
-    ]
-  },
-  {
-    "منتجات الأطفال": [
-      {
-        "name": "حفاضات عادية",
-        "url": "https://www.nahdionline.com/ar-sa/حفاضات-عادية/plp/71111"
-      },
-      {
-        "name": "حفاضات التدريب",
-        "url": "https://www.nahdionline.com/ar-sa/حفاضات-التدريب/plp/71117"
-      },
-      {
-        "name": "حفاضات حماية فائقة",
-        "url": "https://www.nahdionline.com/ar-sa/حفاضات-حماية-فائقة/plp/71120"
-      },
-      {
-        "name": "مناديل مبللة",
-        "url": "https://www.nahdionline.com/ar-sa/مناديل-مبللة-للاطفال/plp/70967"
-      },
-      {
-        "name": "طعام الأطفال - قسم أول",
-        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70838"
-      },
-      {
-        "name": "طعام الأطفال - قسم ثاني",
-        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70652"
-      },
-      {
-        "name": "طعام الأطفال - قسم ثالث",
-        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70718"
-      },
-      {
-        "name": "حليب الأطفال",
-        "url": "https://www.nahdionline.com/ar-sa/حليب-للأطفال/plp/70964"
-      },
-      {
-        "name": "مستلزمات تغيير الطفل",
-        "url": "https://www.nahdionline.com/ar-sa/مستلزمات-تغيير-الطفل/plp/70835"
-      }
-    ]
-  },
-  {
-    "منتجات الأطفال - إضافي": [
-      {
-        "name": "منتجات استحمام الأطفال - قسم أول",
-        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70895"
-      },
-      {
-        "name": "منتجات استحمام الأطفال - قسم ثاني",
-        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70646"
-      },
-      {
-        "name": "منتجات استحمام الأطفال - قسم ثالث",
-        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/71894"
-      },
-      {
-        "name": "منتجات استحمام الأطفال - قسم رابع",
-        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70883"
-      },
-      {
-        "name": "مقاعد وأكسسوارات السيارة للأطفال",
-        "url": "https://www.nahdionline.com/ar-sa/مقاعد-السيارة/plp/70889"
-      },
-      {
-        "name": "ملابس وأزياء أطفال",
-        "url": "https://www.nahdionline.com/ar-sa/أزياء-أطفال/plp/70901"
-      },
-      {
-        "name": "منتجات حماية الأطفال",
-        "url": "https://www.nahdionline.com/ar-sa/حماية-للأطفال/plp/70886"
-      },
-      {
-        "name": "مستلزمات غرفة النوم للأطفال",
-        "url": "https://www.nahdionline.com/ar-sa/غرفة-النوم/plp/71753"
-      }
-    ]
-  },
-  {
-    "منتجات العناية بالشعر": [
+    "mainCategory": "منتجات العناية بالشعر",
+    "subCategories": [
       {
         "name": "شامبو الشعر",
         "url": "https://www.nahdionline.com/ar-sa/العناية-بالشعر/شامبو/plp/70141"
@@ -232,7 +82,49 @@
     ]
   },
   {
-    "العناية الشخصية المتنوعة": [
+    "mainCategory": "منتجات الأطفال",
+    "subCategories": [
+      {
+        "name": "حفاضات عادية",
+        "url": "https://www.nahdionline.com/ar-sa/حفاضات-عادية/plp/71111"
+      },
+      {
+        "name": "حفاضات التدريب",
+        "url": "https://www.nahdionline.com/ar-sa/حفاضات-التدريب/plp/71117"
+      },
+      {
+        "name": "حفاضات حماية فائقة",
+        "url": "https://www.nahdionline.com/ar-sa/حفاضات-حماية-فائقة/plp/71120"
+      },
+      {
+        "name": "مناديل مبللة",
+        "url": "https://www.nahdionline.com/ar-sa/مناديل-مبللة-للاطفال/plp/70967"
+      },
+      {
+        "name": "طعام الأطفال - قسم أول",
+        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70838"
+      },
+      {
+        "name": "طعام الأطفال - قسم ثاني",
+        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70652"
+      },
+      {
+        "name": "طعام الأطفال - قسم ثالث",
+        "url": "https://www.nahdionline.com/ar-sa/طعام-الأطفال/plp/70718"
+      },
+      {
+        "name": "حليب الأطفال",
+        "url": "https://www.nahdionline.com/ar-sa/حليب-للأطفال/plp/70964"
+      },
+      {
+        "name": "مستلزمات تغيير الطفل",
+        "url": "https://www.nahdionline.com/ar-sa/مستلزمات-تغيير-الطفل/plp/70835"
+      }
+    ]
+  },
+  {
+    "mainCategory": "العناية الشخصية المتنوعة",
+    "subCategories": [
       {
         "name": "مزيل العرق",
         "url": "https://www.nahdionline.com/ar-sa/clp/deaoderant-clp"
@@ -268,7 +160,86 @@
     ]
   },
   {
-    "عناية الأطفال والرضع": [
+    "mainCategory": "المكياج والاكسسوارات",
+    "subCategories": [
+      {
+        "name": "مكياج الشفاه",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/الشفاه/plp/69388"
+      },
+      {
+        "name": "مكياج العيون",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/العيون/plp/69409"
+      },
+      {
+        "name": "مكياج الوجه",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/الوجه/plp/69358"
+      },
+      {
+        "name": "مكياج الأظافر",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/الأظافر/plp/69460"
+      },
+      {
+        "name": "مكياج الرموش",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/الرموش/plp/69424"
+      },
+      {
+        "name": "رموش لاصقة",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/الرموش-اللاصقة/plp/69487"
+      },
+      {
+        "name": "مستلزمات المكياج",
+        "url": "https://www.nahdionline.com/ar-sa/المكياج/مستلزمات-المكياج/plp/69439"
+      },
+      {
+        "name": "أقراط",
+        "url": "https://www.nahdionline.com/ar-sa/اكسسوارات/أقراط/plp/69577"
+      },
+      {
+        "name": "أدوات الجمال",
+        "url": "https://www.nahdionline.com/ar-sa/اكسسوارات/أدوات-الجمال/plp/69520"
+      }
+    ]
+  },
+  {
+    "mainCategory": "العطور",
+    "subCategories": [
+      {
+        "name": "عطر للنساء",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/عطر-للنساء/plp/57900"
+      },
+      {
+        "name": "عطر للرجال",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/عطر-للرجال/plp/57897"
+      },
+      {
+        "name": "عطور للجنسين",
+        "url": "https://www.nahdionline.com/ar-sa/plp/fargrance-unisex"
+      },
+      {
+        "name": "عطور شرقية",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/عطور-شرقية/plp/68880"
+      },
+      {
+        "name": "عطور الأطفال",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/عطور-الأطفال/plp/68889"
+      },
+      {
+        "name": "مجموعات عطور هدايا",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/مجموعات-هدايا/plp/68892"
+      },
+      {
+        "name": "عطور المتخصصة",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/العطور-المتخصصة/plp/68886"
+      },
+      {
+        "name": "معطرات الشعر",
+        "url": "https://www.nahdionline.com/ar-sa/العطور/معطر-الشعر/plp/68883"
+      }
+    ]
+  },
+  {
+    "mainCategory": "عناية الأطفال والرضع",
+    "subCategories": [
       {
         "name": "مستلزمات الأطفال",
         "url": "https://www.nahdionline.com/ar-sa/مستلزمات-الأطفال/plp/70643"
@@ -300,6 +271,43 @@
       {
         "name": "مقاعد أطفال بارتفاع عالي",
         "url": "https://www.nahdionline.com/ar-sa/مقاعد-أطفال-بارتفاع-مرتفع/plp/70892"
+      }
+    ]
+  },
+  {
+    "mainCategory": "منتجات الأطفال - إضافي",
+    "subCategories": [
+      {
+        "name": "منتجات استحمام الأطفال - قسم أول",
+        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70895"
+      },
+      {
+        "name": "منتجات استحمام الأطفال - قسم ثاني",
+        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70646"
+      },
+      {
+        "name": "منتجات استحمام الأطفال - قسم ثالث",
+        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/71894"
+      },
+      {
+        "name": "منتجات استحمام الأطفال - قسم رابع",
+        "url": "https://www.nahdionline.com/ar-sa/منتجات-استحمام-الأطفال/plp/70883"
+      },
+      {
+        "name": "مقاعد وأكسسوارات السيارة للأطفال",
+        "url": "https://www.nahdionline.com/ar-sa/مقاعد-السيارة/plp/70889"
+      },
+      {
+        "name": "ملابس وأزياء أطفال",
+        "url": "https://www.nahdionline.com/ar-sa/أزياء-أطفال/plp/70901"
+      },
+      {
+        "name": "منتجات حماية الأطفال",
+        "url": "https://www.nahdionline.com/ar-sa/حماية-للأطفال/plp/70886"
+      },
+      {
+        "name": "مستلزمات غرفة النوم للأطفال",
+        "url": "https://www.nahdionline.com/ar-sa/غرفة-النوم/plp/71753"
       }
     ]
   }
