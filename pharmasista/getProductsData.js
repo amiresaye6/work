@@ -132,7 +132,7 @@ async function getProductData(url) {
 async function processProducts() {
   try {
     // Read the input JSON file
-    const jsonData = await fs.readFile('العناية_بالبشرة/أدوات_العناية_بالبشرة_إلكترونية.json', 'utf8');
+    const jsonData = await fs.readFile('العناية_بالبشرة/أقنعة_البشرة.json', 'utf8');
     const products = JSON.parse(jsonData);
 
     // Load existing results, progress, and failed products
