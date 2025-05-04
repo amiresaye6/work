@@ -129,10 +129,10 @@ async function getProductData(url) {
   }
 }
 
-async function processProducts() {
+async function processProducts(folder, fileName) {
   try {
     // Read the input JSON file
-    const jsonData = await fs.readFile('العناية_بالبشرة/أقنعة_البشرة.json', 'utf8');
+    const jsonData = await fs.readFile(`${folder}/${fileName}`, 'utf8');
     const products = JSON.parse(jsonData);
 
     // Load existing results, progress, and failed products
@@ -200,11 +200,11 @@ async function processProducts() {
           combinedData.categories_en.push(jsonCategoryPathEn);
         }
 
-        // Update main and subcategories
-        combinedData.main_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[0]).filter(Boolean))];
-        combinedData.main_categories_en = [...new Set(combinedData.categories_en.map(path => path[0]).filter(Boolean))];
-        combinedData.sub_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[path.length - 1]).filter(Boolean))];
-        combinedData.sub_categories_en = [...new Set(combinedData.categories_en.map(path => path[path.length - 1]).filter(Boolean))];
+        // // Update main and subcategories
+        // combinedData.main_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[0]).filter(Boolean))];
+        // combinedData.main_categories_en = [...new Set(combinedData.categories_en.map(path => path[0]).filter(Boolean))];
+        // combinedData.sub_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[path.length - 1]).filter(Boolean))];
+        // combinedData.sub_categories_en = [...new Set(combinedData.categories_en.map(path => path[path.length - 1]).filter(Boolean))];
       } else {
         // New or partially processed product
         const arUrl = product.url;
@@ -254,10 +254,10 @@ async function processProducts() {
           brand_en: enData.data.brand,
           categories_ar: [arData.data.categories].filter(path => path.length > 0),
           categories_en: [enData.data.categories].filter(path => path.length > 0),
-          main_categories_ar: [...new Set([arData.data.categories[1]].filter(Boolean))],
-          main_categories_en: [...new Set([enData.data.categories[1]].filter(Boolean))],
-          sub_categories_ar: [...new Set([arData.data.categories[arData.data.categories.length - 1]].filter(Boolean))],
-          sub_categories_en: [...new Set([enData.data.categories[enData.data.categories.length - 1]].filter(Boolean))],
+          // main_categories_ar: [...new Set([arData.data.categories[1]].filter(Boolean))],
+          // main_categories_en: [...new Set([enData.data.categories[1]].filter(Boolean))],
+          // sub_categories_ar: [...new Set([arData.data.categories[arData.data.categories.length - 1]].filter(Boolean))],
+          // sub_categories_en: [...new Set([enData.data.categories[enData.data.categories.length - 1]].filter(Boolean))],
           description_ar: arData.data.description,
           description_en: enData.data.description,
           images: arData.data.images
@@ -293,7 +293,7 @@ async function processProducts() {
 
 // Run the script
 (async () => {
-  const result = await processProducts();
+  const result = await processProducts("العناية_بالبشرة", "الجمال_الطبيعي.json");
   if (result) {
     return;
   };
