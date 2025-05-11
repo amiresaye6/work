@@ -293,7 +293,7 @@ async function processProducts(folder, fileName) {
 
 // Run the script
 (async () => {
-  const result = await processProducts("العناية_بالبشرة", "الجمال_الطبيعي.json");
+  const result = await processProducts("العناية_بالبشرة", "العناية_الكورية_بالبشرة.json");
   if (result) {
     return;
   };

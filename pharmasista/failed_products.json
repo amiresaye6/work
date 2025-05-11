@@ -8,5 +8,25 @@
       "en": "Navigation timeout of 30000 ms exceeded"
     },
     "timestamp": "2025-04-29T14:13:12.097Z"
+  },
+  {
+    "productId": "103231397",
+    "url_ar": "https://www.nahdionline.com/ar-sa/tocobo-calamine-pore-control-cleansing-oil-200ml/pdp/103231397",
+    "url_en": "https://www.nahdionline.com/en-sa/tocobo-calamine-pore-control-cleansing-oil-200ml/pdp/103231397",
+    "error": {
+      "ar": null,
+      "en": "Navigation timeout of 30000 ms exceeded"
+    },
+    "timestamp": "2025-05-11T14:10:02.821Z"
+  },
+  {
+    "productId": "102958439",
+    "url_ar": "https://www.nahdionline.com/ar-sa/coxir-intensive-egf-peptide-cream/pdp/102958439",
+    "url_en": "https://www.nahdionline.com/en-sa/coxir-intensive-egf-peptide-cream/pdp/102958439",
+    "error": {
+      "ar": null,
+      "en": "Navigation timeout of 30000 ms exceeded"
+    },
+    "timestamp": "2025-05-11T14:12:36.130Z"
   }
 ]
