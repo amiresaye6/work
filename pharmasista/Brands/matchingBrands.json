@@ -1,0 +1,1851 @@
+{
+  "matchingBrandsCount": 142,
+  "matchingBrands": [
+    {
+      "firstFile": {
+        "brand": "Flormar",
+        "productCount": 257,
+        "checkboxId": "BrandsFlormar",
+        "isDisabled": false,
+        "cacheId": "39"
+      },
+      "secondFile": {
+        "name": "Flormar",
+        "count": 227
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Clara",
+        "productCount": 10,
+        "checkboxId": "BrandsClara",
+        "isDisabled": false,
+        "cacheId": "778"
+      },
+      "secondFile": {
+        "name": "Clara",
+        "count": 190
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Garnier",
+        "productCount": 72,
+        "checkboxId": "BrandsGarnier",
+        "isDisabled": false,
+        "cacheId": "128"
+      },
+      "secondFile": {
+        "name": "Garnier",
+        "count": 150
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nivea",
+        "productCount": 123,
+        "checkboxId": "BrandsNivea",
+        "isDisabled": false,
+        "cacheId": "9"
+      },
+      "secondFile": {
+        "name": "Nivea",
+        "count": 114
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Pampers",
+        "productCount": 194,
+        "checkboxId": "BrandsPampers",
+        "isDisabled": false,
+        "cacheId": "45"
+      },
+      "secondFile": {
+        "name": "Pampers",
+        "count": 61
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Vaseline",
+        "productCount": 63,
+        "checkboxId": "BrandsVaseline",
+        "isDisabled": false,
+        "cacheId": "147"
+      },
+      "secondFile": {
+        "name": "Vaseline",
+        "count": 57
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Essence",
+        "productCount": 366,
+        "checkboxId": "BrandsEssence",
+        "isDisabled": false,
+        "cacheId": "32"
+      },
+      "secondFile": {
+        "name": "Essence",
+        "count": 54
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Giovanni",
+        "productCount": 20,
+        "checkboxId": "BrandsGiovanni",
+        "isDisabled": false,
+        "cacheId": "484"
+      },
+      "secondFile": {
+        "name": "Giovanni",
+        "count": 54
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Sensodyne",
+        "productCount": 62,
+        "checkboxId": "BrandsSensodyne",
+        "isDisabled": false,
+        "cacheId": "149"
+      },
+      "secondFile": {
+        "name": "Sensodyne",
+        "count": 50
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Dove",
+        "productCount": 133,
+        "checkboxId": "BrandsDove",
+        "isDisabled": false,
+        "cacheId": "63"
+      },
+      "secondFile": {
+        "name": "Dove",
+        "count": 47
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Gillette",
+        "productCount": 77,
+        "checkboxId": "BrandsGillette",
+        "isDisabled": false,
+        "cacheId": "114"
+      },
+      "secondFile": {
+        "name": "Gillette",
+        "count": 44
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Eucerin",
+        "productCount": 56,
+        "checkboxId": "BrandsEucerin",
+        "isDisabled": false,
+        "cacheId": "19"
+      },
+      "secondFile": {
+        "name": "Eucerin",
+        "count": 42
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Beesline",
+        "productCount": 77,
+        "checkboxId": "BrandsBeesline",
+        "isDisabled": false,
+        "cacheId": "113"
+      },
+      "secondFile": {
+        "name": "Beesline",
+        "count": 40
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Pantene",
+        "productCount": 80,
+        "checkboxId": "BrandsPantene",
+        "isDisabled": false,
+        "cacheId": "106"
+      },
+      "secondFile": {
+        "name": "Pantene",
+        "count": 35
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Cantu",
+        "productCount": 59,
+        "checkboxId": "BrandsCantu",
+        "isDisabled": false,
+        "cacheId": "156"
+      },
+      "secondFile": {
+        "name": "Cantu",
+        "count": 35
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nunu",
+        "productCount": 16,
+        "checkboxId": "BrandsNunu",
+        "isDisabled": false,
+        "cacheId": "579"
+      },
+      "secondFile": {
+        "name": "Nunu",
+        "count": 31
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Koleston",
+        "productCount": 50,
+        "checkboxId": "BrandsKoleston",
+        "isDisabled": false,
+        "cacheId": "189"
+      },
+      "secondFile": {
+        "name": "Koleston",
+        "count": 30
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Sunsilk",
+        "productCount": 65,
+        "checkboxId": "BrandsSunsilk",
+        "isDisabled": false,
+        "cacheId": "142"
+      },
+      "secondFile": {
+        "name": "Sunsilk",
+        "count": 29
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Studex",
+        "productCount": 119,
+        "checkboxId": "BrandsStudex",
+        "isDisabled": false,
+        "cacheId": "69"
+      },
+      "secondFile": {
+        "name": "Studex",
+        "count": 25
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Herbal Essences",
+        "productCount": 39,
+        "checkboxId": "BrandsHerbal Essences",
+        "isDisabled": false,
+        "cacheId": "242"
+      },
+      "secondFile": {
+        "name": "Herbal Essences",
+        "count": 24
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lens Me",
+        "productCount": 161,
+        "checkboxId": "BrandsLens Me",
+        "isDisabled": false,
+        "cacheId": "51"
+      },
+      "secondFile": {
+        "name": "Lens Me",
+        "count": 23
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Always",
+        "productCount": 41,
+        "checkboxId": "BrandsAlways",
+        "isDisabled": false,
+        "cacheId": "221"
+      },
+      "secondFile": {
+        "name": "Always",
+        "count": 22
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Clear",
+        "productCount": 33,
+        "checkboxId": "BrandsClear",
+        "isDisabled": false,
+        "cacheId": "287"
+      },
+      "secondFile": {
+        "name": "Clear",
+        "count": 22
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Byphasse",
+        "productCount": 30,
+        "checkboxId": "BrandsByphasse",
+        "isDisabled": false,
+        "cacheId": "318"
+      },
+      "secondFile": {
+        "name": "Byphasse",
+        "count": 22
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Head & Shoulders",
+        "productCount": 52,
+        "checkboxId": "BrandsHead & Shoulders",
+        "isDisabled": false,
+        "cacheId": "181"
+      },
+      "secondFile": {
+        "name": "Head & Shoulders",
+        "count": 21
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Yardley",
+        "productCount": 22,
+        "checkboxId": "BrandsYardley",
+        "isDisabled": false,
+        "cacheId": "448"
+      },
+      "secondFile": {
+        "name": "Yardley",
+        "count": 21
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Bioderma",
+        "productCount": 94,
+        "checkboxId": "BrandsBioderma",
+        "isDisabled": false,
+        "cacheId": "4"
+      },
+      "secondFile": {
+        "name": "Bioderma",
+        "count": 18
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Vichy",
+        "productCount": 63,
+        "checkboxId": "BrandsVichy",
+        "isDisabled": false,
+        "cacheId": "148"
+      },
+      "secondFile": {
+        "name": "Vichy",
+        "count": 18
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Palette",
+        "productCount": 39,
+        "checkboxId": "BrandsPalette",
+        "isDisabled": false,
+        "cacheId": "243"
+      },
+      "secondFile": {
+        "name": "Palette",
+        "count": 17
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Crest",
+        "productCount": 22,
+        "checkboxId": "BrandsCrest",
+        "isDisabled": false,
+        "cacheId": "430"
+      },
+      "secondFile": {
+        "name": "Crest",
+        "count": 17
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Diva",
+        "productCount": 352,
+        "checkboxId": "BrandsDiva",
+        "isDisabled": false,
+        "cacheId": "34"
+      },
+      "secondFile": {
+        "name": "Diva",
+        "count": 16
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "CHI",
+        "productCount": 35,
+        "checkboxId": "BrandsCHI",
+        "isDisabled": false,
+        "cacheId": "266"
+      },
+      "secondFile": {
+        "name": "CHI",
+        "count": 16
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Dabur Amla",
+        "productCount": 22,
+        "checkboxId": "BrandsDabur Amla",
+        "isDisabled": false,
+        "cacheId": "431"
+      },
+      "secondFile": {
+        "name": "Dabur Amla",
+        "count": 16
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Ousha",
+        "productCount": 18,
+        "checkboxId": "BrandsOusha",
+        "isDisabled": false,
+        "cacheId": "526"
+      },
+      "secondFile": {
+        "name": "Ousha",
+        "count": 16
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Arm & Hammer",
+        "productCount": 15,
+        "checkboxId": "BrandsArm & Hammer",
+        "isDisabled": false,
+        "cacheId": "591"
+      },
+      "secondFile": {
+        "name": "Arm & Hammer",
+        "count": 16
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Avalon",
+        "productCount": 26,
+        "checkboxId": "BrandsAvalon",
+        "isDisabled": false,
+        "cacheId": "362"
+      },
+      "secondFile": {
+        "name": "Avalon",
+        "count": 15
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Bigen",
+        "productCount": 17,
+        "checkboxId": "BrandsBigen",
+        "isDisabled": false,
+        "cacheId": "532"
+      },
+      "secondFile": {
+        "name": "Bigen",
+        "count": 15
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Ajmal",
+        "productCount": 6,
+        "checkboxId": "BrandsAjmal",
+        "isDisabled": false,
+        "cacheId": "995"
+      },
+      "secondFile": {
+        "name": "Ajmal",
+        "count": 15
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Sofy",
+        "productCount": 22,
+        "checkboxId": "BrandsSofy",
+        "isDisabled": false,
+        "cacheId": "444"
+      },
+      "secondFile": {
+        "name": "Sofy",
+        "count": 14
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Masculan",
+        "productCount": 13,
+        "checkboxId": "BrandsMasculan",
+        "isDisabled": false,
+        "cacheId": "677"
+      },
+      "secondFile": {
+        "name": "Masculan",
+        "count": 14
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Cool & Cool",
+        "productCount": 9,
+        "checkboxId": "BrandsCool & Cool",
+        "isDisabled": false,
+        "cacheId": "833"
+      },
+      "secondFile": {
+        "name": "Cool & Cool",
+        "count": 14
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Shea Miracles",
+        "productCount": 8,
+        "checkboxId": "BrandsShea Miracles",
+        "isDisabled": false,
+        "cacheId": "914"
+      },
+      "secondFile": {
+        "name": "Shea Miracles",
+        "count": 14
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Genove",
+        "productCount": 18,
+        "checkboxId": "BrandsGenove",
+        "isDisabled": false,
+        "cacheId": "517"
+      },
+      "secondFile": {
+        "name": "Genove",
+        "count": 13
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Jergens",
+        "productCount": 16,
+        "checkboxId": "BrandsJergens",
+        "isDisabled": false,
+        "cacheId": "572"
+      },
+      "secondFile": {
+        "name": "Jergens",
+        "count": 13
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lip Smacker",
+        "productCount": 14,
+        "checkboxId": "BrandsLip Smacker",
+        "isDisabled": false,
+        "cacheId": "645"
+      },
+      "secondFile": {
+        "name": "Lip Smacker",
+        "count": 13
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Maybelline",
+        "productCount": 359,
+        "checkboxId": "BrandsMaybelline",
+        "isDisabled": false,
+        "cacheId": "33"
+      },
+      "secondFile": {
+        "name": "Maybelline",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Cosrx",
+        "productCount": 93,
+        "checkboxId": "BrandsCosrx",
+        "isDisabled": false,
+        "cacheId": "2"
+      },
+      "secondFile": {
+        "name": "Cosrx",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Rexona",
+        "productCount": 40,
+        "checkboxId": "BrandsRexona",
+        "isDisabled": false,
+        "cacheId": "235"
+      },
+      "secondFile": {
+        "name": "Rexona",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Signal",
+        "productCount": 36,
+        "checkboxId": "BrandsSignal",
+        "isDisabled": false,
+        "cacheId": "264"
+      },
+      "secondFile": {
+        "name": "Signal",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Cetaphil",
+        "productCount": 33,
+        "checkboxId": "BrandsCetaphil",
+        "isDisabled": false,
+        "cacheId": "286"
+      },
+      "secondFile": {
+        "name": "Cetaphil",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Fa",
+        "productCount": 27,
+        "checkboxId": "BrandsFa",
+        "isDisabled": false,
+        "cacheId": "355"
+      },
+      "secondFile": {
+        "name": "Fa",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lifree",
+        "productCount": 17,
+        "checkboxId": "BrandsLifree",
+        "isDisabled": false,
+        "cacheId": "540"
+      },
+      "secondFile": {
+        "name": "Lifree",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Fam",
+        "productCount": 11,
+        "checkboxId": "BrandsFam",
+        "isDisabled": false,
+        "cacheId": "740"
+      },
+      "secondFile": {
+        "name": "Fam",
+        "count": 12
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lifebuoy",
+        "productCount": 51,
+        "checkboxId": "BrandsLifebuoy",
+        "isDisabled": false,
+        "cacheId": "187"
+      },
+      "secondFile": {
+        "name": "Lifebuoy",
+        "count": 11
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Cerelac",
+        "productCount": 44,
+        "checkboxId": "BrandsCerelac",
+        "isDisabled": false,
+        "cacheId": "211"
+      },
+      "secondFile": {
+        "name": "Cerelac",
+        "count": 11
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Sebamed",
+        "productCount": 26,
+        "checkboxId": "BrandsSebamed",
+        "isDisabled": false,
+        "cacheId": "374"
+      },
+      "secondFile": {
+        "name": "Sebamed",
+        "count": 11
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Olay",
+        "productCount": 15,
+        "checkboxId": "BrandsOlay",
+        "isDisabled": false,
+        "cacheId": "613"
+      },
+      "secondFile": {
+        "name": "Olay",
+        "count": 11
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Durex",
+        "productCount": 36,
+        "checkboxId": "BrandsDurex",
+        "isDisabled": false,
+        "cacheId": "259"
+      },
+      "secondFile": {
+        "name": "Durex",
+        "count": 10
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Anua",
+        "productCount": 20,
+        "checkboxId": "BrandsAnua",
+        "isDisabled": false,
+        "cacheId": "477"
+      },
+      "secondFile": {
+        "name": "Anua",
+        "count": 10
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Labello",
+        "productCount": 18,
+        "checkboxId": "BrandsLabello",
+        "isDisabled": false,
+        "cacheId": "521"
+      },
+      "secondFile": {
+        "name": "Labello",
+        "count": 10
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mentos",
+        "productCount": 17,
+        "checkboxId": "BrandsMentos",
+        "isDisabled": false,
+        "cacheId": "542"
+      },
+      "secondFile": {
+        "name": "Mentos",
+        "count": 10
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Glysolid",
+        "productCount": 12,
+        "checkboxId": "BrandsGlysolid",
+        "isDisabled": false,
+        "cacheId": "706"
+      },
+      "secondFile": {
+        "name": "Glysolid",
+        "count": 10
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Kotex",
+        "productCount": 28,
+        "checkboxId": "BrandsKotex",
+        "isDisabled": false,
+        "cacheId": "346"
+      },
+      "secondFile": {
+        "name": "Kotex",
+        "count": 9
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Listerine",
+        "productCount": 18,
+        "checkboxId": "BrandsListerine",
+        "isDisabled": false,
+        "cacheId": "524"
+      },
+      "secondFile": {
+        "name": "Listerine",
+        "count": 9
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Pigeon",
+        "productCount": 139,
+        "checkboxId": "BrandsPigeon",
+        "isDisabled": false,
+        "cacheId": "60"
+      },
+      "secondFile": {
+        "name": "Pigeon",
+        "count": 8
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Adidas",
+        "productCount": 43,
+        "checkboxId": "BrandsAdidas",
+        "isDisabled": false,
+        "cacheId": "215"
+      },
+      "secondFile": {
+        "name": "Adidas",
+        "count": 8
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Similac",
+        "productCount": 25,
+        "checkboxId": "BrandsSimilac",
+        "isDisabled": false,
+        "cacheId": "390"
+      },
+      "secondFile": {
+        "name": "Similac",
+        "count": 8
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Grenade",
+        "productCount": 16,
+        "checkboxId": "BrandsGrenade",
+        "isDisabled": false,
+        "cacheId": "564"
+      },
+      "secondFile": {
+        "name": "Grenade",
+        "count": 8
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Old Spice",
+        "productCount": 8,
+        "checkboxId": "BrandsOld Spice",
+        "isDisabled": false,
+        "cacheId": "905"
+      },
+      "secondFile": {
+        "name": "Old Spice",
+        "count": 8
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "NOW",
+        "productCount": 557,
+        "checkboxId": "BrandsNOW",
+        "isDisabled": false,
+        "cacheId": "28"
+      },
+      "secondFile": {
+        "name": "NOW",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Colgate",
+        "productCount": 94,
+        "checkboxId": "BrandsColgate",
+        "isDisabled": false,
+        "cacheId": "92"
+      },
+      "secondFile": {
+        "name": "Colgate",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Close Up",
+        "productCount": 28,
+        "checkboxId": "BrandsClose Up",
+        "isDisabled": false,
+        "cacheId": "343"
+      },
+      "secondFile": {
+        "name": "Close Up",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mustela",
+        "productCount": 26,
+        "checkboxId": "BrandsMustela",
+        "isDisabled": false,
+        "cacheId": "372"
+      },
+      "secondFile": {
+        "name": "Mustela",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Novalac",
+        "productCount": 21,
+        "checkboxId": "BrandsNovalac",
+        "isDisabled": false,
+        "cacheId": "462"
+      },
+      "secondFile": {
+        "name": "Novalac",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nuralac",
+        "productCount": 19,
+        "checkboxId": "BrandsNuralac",
+        "isDisabled": false,
+        "cacheId": "510"
+      },
+      "secondFile": {
+        "name": "Nuralac",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ACM",
+        "productCount": 13,
+        "checkboxId": "BrandsACM",
+        "isDisabled": false,
+        "cacheId": "660"
+      },
+      "secondFile": {
+        "name": "ACM",
+        "count": 7
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Parachute",
+        "productCount": 36,
+        "checkboxId": "BrandsParachute",
+        "isDisabled": false,
+        "cacheId": "261"
+      },
+      "secondFile": {
+        "name": "Parachute",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Veet",
+        "productCount": 34,
+        "checkboxId": "BrandsVeet",
+        "isDisabled": false,
+        "cacheId": "279"
+      },
+      "secondFile": {
+        "name": "Veet",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mielle",
+        "productCount": 27,
+        "checkboxId": "BrandsMielle",
+        "isDisabled": false,
+        "cacheId": "357"
+      },
+      "secondFile": {
+        "name": "Mielle",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Aptamil",
+        "productCount": 20,
+        "checkboxId": "BrandsAptamil",
+        "isDisabled": false,
+        "cacheId": "478"
+      },
+      "secondFile": {
+        "name": "Aptamil",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Marvis",
+        "productCount": 14,
+        "checkboxId": "BrandsMarvis",
+        "isDisabled": false,
+        "cacheId": "646"
+      },
+      "secondFile": {
+        "name": "Marvis",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Shea Moisture",
+        "productCount": 14,
+        "checkboxId": "BrandsShea Moisture",
+        "isDisabled": false,
+        "cacheId": "655"
+      },
+      "secondFile": {
+        "name": "Shea Moisture",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Primalac",
+        "productCount": 11,
+        "checkboxId": "BrandsPrimalac",
+        "isDisabled": false,
+        "cacheId": "752"
+      },
+      "secondFile": {
+        "name": "Primalac",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Gisou",
+        "productCount": 7,
+        "checkboxId": "BrandsGisou",
+        "isDisabled": false,
+        "cacheId": "961"
+      },
+      "secondFile": {
+        "name": "Gisou",
+        "count": 6
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Rimmel",
+        "productCount": 307,
+        "checkboxId": "BrandsRimmel",
+        "isDisabled": false,
+        "cacheId": "35"
+      },
+      "secondFile": {
+        "name": "Rimmel",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nature's Bounty",
+        "productCount": 83,
+        "checkboxId": "BrandsNature's Bounty",
+        "isDisabled": false,
+        "cacheId": "102"
+      },
+      "secondFile": {
+        "name": "Nature's Bounty",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Fabimilk",
+        "productCount": 16,
+        "checkboxId": "BrandsFabimilk",
+        "isDisabled": false,
+        "cacheId": "562"
+      },
+      "secondFile": {
+        "name": "Fabimilk",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Olaplex",
+        "productCount": 16,
+        "checkboxId": "BrandsOlaplex",
+        "isDisabled": false,
+        "cacheId": "580"
+      },
+      "secondFile": {
+        "name": "Olaplex",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Canderel",
+        "productCount": 15,
+        "checkboxId": "BrandsCanderel",
+        "isDisabled": false,
+        "cacheId": "596"
+      },
+      "secondFile": {
+        "name": "Canderel",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Biomil",
+        "productCount": 10,
+        "checkboxId": "BrandsBiomil",
+        "isDisabled": false,
+        "cacheId": "769"
+      },
+      "secondFile": {
+        "name": "Biomil",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Blevit",
+        "productCount": 7,
+        "checkboxId": "BrandsBlevit",
+        "isDisabled": false,
+        "cacheId": "940"
+      },
+      "secondFile": {
+        "name": "Blevit",
+        "count": 5
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Uriage",
+        "productCount": 90,
+        "checkboxId": "BrandsUriage",
+        "isDisabled": false,
+        "cacheId": "6"
+      },
+      "secondFile": {
+        "name": "Uriage",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Franck Olivier",
+        "productCount": 44,
+        "checkboxId": "BrandsFranck Olivier",
+        "isDisabled": false,
+        "cacheId": "212"
+      },
+      "secondFile": {
+        "name": "Franck Olivier",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Coxir",
+        "productCount": 22,
+        "checkboxId": "BrandsCoxir",
+        "isDisabled": false,
+        "cacheId": "429"
+      },
+      "secondFile": {
+        "name": "Coxir",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Bepanthen",
+        "productCount": 16,
+        "checkboxId": "BrandsBepanthen",
+        "isDisabled": false,
+        "cacheId": "557"
+      },
+      "secondFile": {
+        "name": "Bepanthen",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Foltene",
+        "productCount": 15,
+        "checkboxId": "BrandsFoltene",
+        "isDisabled": false,
+        "cacheId": "604"
+      },
+      "secondFile": {
+        "name": "Foltene",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nido",
+        "productCount": 15,
+        "checkboxId": "BrandsNido",
+        "isDisabled": false,
+        "cacheId": "611"
+      },
+      "secondFile": {
+        "name": "Nido",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Ronalac",
+        "productCount": 15,
+        "checkboxId": "BrandsRonalac",
+        "isDisabled": false,
+        "cacheId": "619"
+      },
+      "secondFile": {
+        "name": "Ronalac",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Laser White",
+        "productCount": 14,
+        "checkboxId": "BrandsLaser White",
+        "isDisabled": false,
+        "cacheId": "643"
+      },
+      "secondFile": {
+        "name": "Laser White",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Private",
+        "productCount": 13,
+        "checkboxId": "BrandsPrivate",
+        "isDisabled": false,
+        "cacheId": "681"
+      },
+      "secondFile": {
+        "name": "Private",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nair",
+        "productCount": 12,
+        "checkboxId": "BrandsNair",
+        "isDisabled": false,
+        "cacheId": "720"
+      },
+      "secondFile": {
+        "name": "Nair",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Batiste",
+        "productCount": 11,
+        "checkboxId": "BrandsBatiste",
+        "isDisabled": false,
+        "cacheId": "731"
+      },
+      "secondFile": {
+        "name": "Batiste",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Carmex",
+        "productCount": 10,
+        "checkboxId": "BrandsCarmex",
+        "isDisabled": false,
+        "cacheId": "773"
+      },
+      "secondFile": {
+        "name": "Carmex",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Centrum",
+        "productCount": 10,
+        "checkboxId": "BrandsCentrum",
+        "isDisabled": false,
+        "cacheId": "775"
+      },
+      "secondFile": {
+        "name": "Centrum",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Pears",
+        "productCount": 9,
+        "checkboxId": "BrandsPears",
+        "isDisabled": false,
+        "cacheId": "855"
+      },
+      "secondFile": {
+        "name": "Pears",
+        "count": 4
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "NYX",
+        "productCount": 145,
+        "checkboxId": "BrandsNYX",
+        "isDisabled": false,
+        "cacheId": "56"
+      },
+      "secondFile": {
+        "name": "NYX",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Himalaya",
+        "productCount": 77,
+        "checkboxId": "BrandsHimalaya",
+        "isDisabled": false,
+        "cacheId": "115"
+      },
+      "secondFile": {
+        "name": "Himalaya",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "SVR",
+        "productCount": 48,
+        "checkboxId": "BrandsSVR",
+        "isDisabled": false,
+        "cacheId": "24"
+      },
+      "secondFile": {
+        "name": "SVR",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mavala",
+        "productCount": 30,
+        "checkboxId": "BrandsMavala",
+        "isDisabled": false,
+        "cacheId": "323"
+      },
+      "secondFile": {
+        "name": "Mavala",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Humana",
+        "productCount": 29,
+        "checkboxId": "BrandsHumana",
+        "isDisabled": false,
+        "cacheId": "332"
+      },
+      "secondFile": {
+        "name": "Humana",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Revlon",
+        "productCount": 22,
+        "checkboxId": "BrandsRevlon",
+        "isDisabled": false,
+        "cacheId": "442"
+      },
+      "secondFile": {
+        "name": "Revlon",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Laneige",
+        "productCount": 18,
+        "checkboxId": "BrandsLaneige",
+        "isDisabled": false,
+        "cacheId": "523"
+      },
+      "secondFile": {
+        "name": "Laneige",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Vicks",
+        "productCount": 17,
+        "checkboxId": "BrandsVicks",
+        "isDisabled": false,
+        "cacheId": "551"
+      },
+      "secondFile": {
+        "name": "Vicks",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lacalut",
+        "productCount": 12,
+        "checkboxId": "BrandsLacalut",
+        "isDisabled": false,
+        "cacheId": "715"
+      },
+      "secondFile": {
+        "name": "Lacalut",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mom's Bath",
+        "productCount": 11,
+        "checkboxId": "BrandsMom's Bath",
+        "isDisabled": false,
+        "cacheId": "747"
+      },
+      "secondFile": {
+        "name": "Mom's Bath",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Taft",
+        "productCount": 9,
+        "checkboxId": "BrandsTaft",
+        "isDisabled": false,
+        "cacheId": "867"
+      },
+      "secondFile": {
+        "name": "Taft",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ARS",
+        "productCount": 7,
+        "checkboxId": "BrandsARS",
+        "isDisabled": false,
+        "cacheId": "926"
+      },
+      "secondFile": {
+        "name": "ARS",
+        "count": 3
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Dabur Vatika",
+        "productCount": 131,
+        "checkboxId": "BrandsDabur Vatika",
+        "isDisabled": false,
+        "cacheId": "64"
+      },
+      "secondFile": {
+        "name": "Dabur Vatika",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Avene",
+        "productCount": 69,
+        "checkboxId": "BrandsAvene",
+        "isDisabled": false,
+        "cacheId": "10"
+      },
+      "secondFile": {
+        "name": "Avene",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Axis-Y",
+        "productCount": 24,
+        "checkboxId": "BrandsAxis-Y",
+        "isDisabled": false,
+        "cacheId": "398"
+      },
+      "secondFile": {
+        "name": "Axis-Y",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Dabur Herbolene",
+        "productCount": 11,
+        "checkboxId": "BrandsDabur Herbolene",
+        "isDisabled": false,
+        "cacheId": "735"
+      },
+      "secondFile": {
+        "name": "Dabur Herbolene",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "K18",
+        "productCount": 11,
+        "checkboxId": "BrandsK18",
+        "isDisabled": false,
+        "cacheId": "743"
+      },
+      "secondFile": {
+        "name": "K18",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Strepsils",
+        "productCount": 11,
+        "checkboxId": "BrandsStrepsils",
+        "isDisabled": false,
+        "cacheId": "756"
+      },
+      "secondFile": {
+        "name": "Strepsils",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Bebelac",
+        "productCount": 10,
+        "checkboxId": "BrandsBebelac",
+        "isDisabled": false,
+        "cacheId": "767"
+      },
+      "secondFile": {
+        "name": "Bebelac",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Blanx",
+        "productCount": 7,
+        "checkboxId": "BrandsBlanx",
+        "isDisabled": false,
+        "cacheId": "938"
+      },
+      "secondFile": {
+        "name": "Blanx",
+        "count": 2
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Nature's Way",
+        "productCount": 297,
+        "checkboxId": "BrandsNature's Way",
+        "isDisabled": false,
+        "cacheId": "36"
+      },
+      "secondFile": {
+        "name": "Nature's Way",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Bourjois",
+        "productCount": 283,
+        "checkboxId": "BrandsBourjois",
+        "isDisabled": false,
+        "cacheId": "38"
+      },
+      "secondFile": {
+        "name": "Bourjois",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Mason Natural",
+        "productCount": 175,
+        "checkboxId": "BrandsMason Natural",
+        "isDisabled": false,
+        "cacheId": "49"
+      },
+      "secondFile": {
+        "name": "Mason Natural",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "First Step",
+        "productCount": 26,
+        "checkboxId": "BrandsFirst Step",
+        "isDisabled": false,
+        "cacheId": "365"
+      },
+      "secondFile": {
+        "name": "First Step",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Carefree",
+        "productCount": 24,
+        "checkboxId": "BrandsCarefree",
+        "isDisabled": false,
+        "cacheId": "402"
+      },
+      "secondFile": {
+        "name": "Carefree",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Kanechom",
+        "productCount": 23,
+        "checkboxId": "BrandsKanechom",
+        "isDisabled": false,
+        "cacheId": "417"
+      },
+      "secondFile": {
+        "name": "Kanechom",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Panadol",
+        "productCount": 21,
+        "checkboxId": "BrandsPanadol",
+        "isDisabled": false,
+        "cacheId": "466"
+      },
+      "secondFile": {
+        "name": "Panadol",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Lansinoh",
+        "productCount": 20,
+        "checkboxId": "BrandsLansinoh",
+        "isDisabled": false,
+        "cacheId": "488"
+      },
+      "secondFile": {
+        "name": "Lansinoh",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Sensilab",
+        "productCount": 19,
+        "checkboxId": "BrandsSensilab",
+        "isDisabled": false,
+        "cacheId": "511"
+      },
+      "secondFile": {
+        "name": "Sensilab",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Anivagene",
+        "productCount": 17,
+        "checkboxId": "BrandsAnivagene",
+        "isDisabled": false,
+        "cacheId": "529"
+      },
+      "secondFile": {
+        "name": "Anivagene",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Aveeno",
+        "productCount": 14,
+        "checkboxId": "BrandsAveeno",
+        "isDisabled": false,
+        "cacheId": "626"
+      },
+      "secondFile": {
+        "name": "Aveeno",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Embryolisse",
+        "productCount": 14,
+        "checkboxId": "BrandsEmbryolisse",
+        "isDisabled": false,
+        "cacheId": "635"
+      },
+      "secondFile": {
+        "name": "Embryolisse",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Contour",
+        "productCount": 11,
+        "checkboxId": "BrandsContour",
+        "isDisabled": false,
+        "cacheId": "733"
+      },
+      "secondFile": {
+        "name": "Contour",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Citizen",
+        "productCount": 10,
+        "checkboxId": "BrandsCitizen",
+        "isDisabled": false,
+        "cacheId": "776"
+      },
+      "secondFile": {
+        "name": "Citizen",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Agadir",
+        "productCount": 9,
+        "checkboxId": "BrandsAgadir",
+        "isDisabled": false,
+        "cacheId": "817"
+      },
+      "secondFile": {
+        "name": "Agadir",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "BOD",
+        "productCount": 8,
+        "checkboxId": "BrandsBOD",
+        "isDisabled": false,
+        "cacheId": "874"
+      },
+      "secondFile": {
+        "name": "BOD",
+        "count": 1
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "Glow & Lovely",
+        "productCount": 8,
+        "checkboxId": "BrandsGlow & Lovely",
+        "isDisabled": false,
+        "cacheId": "891"
+      },
+      "secondFile": {
+        "name": "Glow & Lovely",
+        "count": 1
+      }
+    }
+  ]
+}
