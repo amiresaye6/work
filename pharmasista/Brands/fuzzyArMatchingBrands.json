@@ -1,0 +1,2357 @@
+{
+  "matchingBrandsCount": 168,
+  "matchingBrands": [
+    {
+      "firstFile": {
+        "brand": "فلورمار",
+        "productCount": 257,
+        "checkboxId": "العلامة التجاريةفلورمار",
+        "isDisabled": false,
+        "cacheId": "18"
+      },
+      "secondFile": {
+        "name": "فلورمار",
+        "count": 227,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كلارا",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةكلارا",
+        "isDisabled": false,
+        "cacheId": "796"
+      },
+      "secondFile": {
+        "name": "كلارا",
+        "count": 190,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جارنييه",
+        "productCount": 72,
+        "checkboxId": "العلامة التجاريةجارنييه",
+        "isDisabled": false,
+        "cacheId": "115"
+      },
+      "secondFile": {
+        "name": "غارنييه",
+        "count": 149,
+        "similarity": "0.83"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لوريال",
+        "productCount": 244,
+        "checkboxId": "العلامة التجاريةلوريال",
+        "isDisabled": false,
+        "cacheId": "19"
+      },
+      "secondFile": {
+        "name": "لوريال",
+        "count": 127,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لوفيرا",
+        "productCount": 42,
+        "checkboxId": "العلامة التجاريةلوفيرا",
+        "isDisabled": false,
+        "cacheId": "219"
+      },
+      "secondFile": {
+        "name": "بلوفير",
+        "count": 121,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نيفيا",
+        "productCount": 123,
+        "checkboxId": "العلامة التجاريةنيفيا",
+        "isDisabled": false,
+        "cacheId": "47"
+      },
+      "secondFile": {
+        "name": "نيفيا",
+        "count": 114,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لوكا",
+        "productCount": 51,
+        "checkboxId": "العلامة التجاريةلوكا",
+        "isDisabled": false,
+        "cacheId": "182"
+      },
+      "secondFile": {
+        "name": "لوكا",
+        "count": 79,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جونسون",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةجونسون",
+        "isDisabled": false,
+        "cacheId": "534"
+      },
+      "secondFile": {
+        "name": "جونسون",
+        "count": 77,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بامبرز",
+        "productCount": 194,
+        "checkboxId": "العلامة التجاريةبامبرز",
+        "isDisabled": false,
+        "cacheId": "24"
+      },
+      "secondFile": {
+        "name": "بامبرز",
+        "count": 60,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فازلين",
+        "productCount": 63,
+        "checkboxId": "العلامة التجاريةفازلين",
+        "isDisabled": false,
+        "cacheId": "137"
+      },
+      "secondFile": {
+        "name": "فازلين",
+        "count": 58,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جيوفاني",
+        "productCount": 20,
+        "checkboxId": "العلامة التجاريةجيوفاني",
+        "isDisabled": false,
+        "cacheId": "479"
+      },
+      "secondFile": {
+        "name": "جيوفاني",
+        "count": 54,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سنسوداين",
+        "productCount": 62,
+        "checkboxId": "العلامة التجاريةسنسوداين",
+        "isDisabled": false,
+        "cacheId": "139"
+      },
+      "secondFile": {
+        "name": "سنسوداين",
+        "count": 49,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "دوف",
+        "productCount": 135,
+        "checkboxId": "العلامة التجاريةدوف",
+        "isDisabled": false,
+        "cacheId": "42"
+      },
+      "secondFile": {
+        "name": "دوف",
+        "count": 47,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيبي جوي",
+        "productCount": 82,
+        "checkboxId": "العلامة التجاريةبيبي جوي",
+        "isDisabled": false,
+        "cacheId": "89"
+      },
+      "secondFile": {
+        "name": "بيبي جوي",
+        "count": 44,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيزلين",
+        "productCount": 78,
+        "checkboxId": "العلامة التجاريةبيزلين",
+        "isDisabled": false,
+        "cacheId": "98"
+      },
+      "secondFile": {
+        "name": "بيزلين",
+        "count": 42,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جيليت",
+        "productCount": 77,
+        "checkboxId": "العلامة التجاريةجيليت",
+        "isDisabled": false,
+        "cacheId": "100"
+      },
+      "secondFile": {
+        "name": "جيليت",
+        "count": 39,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بانتين",
+        "productCount": 80,
+        "checkboxId": "العلامة التجاريةبانتين",
+        "isDisabled": false,
+        "cacheId": "92"
+      },
+      "secondFile": {
+        "name": "بانتين",
+        "count": 35,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كانتو",
+        "productCount": 59,
+        "checkboxId": "العلامة التجاريةكانتو",
+        "isDisabled": false,
+        "cacheId": "147"
+      },
+      "secondFile": {
+        "name": "كانتو",
+        "count": 35,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "وادي-النحل",
+        "productCount": 21,
+        "checkboxId": "العلامة التجاريةوادي-النحل",
+        "isDisabled": false,
+        "cacheId": "471"
+      },
+      "secondFile": {
+        "name": "وادي النحل",
+        "count": 35,
+        "similarity": "0.82"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نونو",
+        "productCount": 16,
+        "checkboxId": "العلامة التجاريةنونو",
+        "isDisabled": false,
+        "cacheId": "579"
+      },
+      "secondFile": {
+        "name": "نونو",
+        "count": 31,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لوكس",
+        "productCount": 56,
+        "checkboxId": "العلامة التجاريةلوكس",
+        "isDisabled": false,
+        "cacheId": "161"
+      },
+      "secondFile": {
+        "name": "لوكس",
+        "count": 30,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كوليستون",
+        "productCount": 50,
+        "checkboxId": "العلامة التجاريةكوليستون",
+        "isDisabled": false,
+        "cacheId": "184"
+      },
+      "secondFile": {
+        "name": "كوليستون",
+        "count": 30,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بالمرز",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةبالمرز",
+        "isDisabled": false,
+        "cacheId": "511"
+      },
+      "secondFile": {
+        "name": "بالمرز",
+        "count": 27,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كلير",
+        "productCount": 33,
+        "checkboxId": "العلامة التجاريةكلير",
+        "isDisabled": false,
+        "cacheId": "291"
+      },
+      "secondFile": {
+        "name": "كلير",
+        "count": 22,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اولويز",
+        "productCount": 41,
+        "checkboxId": "العلامة التجاريةاولويز",
+        "isDisabled": false,
+        "cacheId": "221"
+      },
+      "secondFile": {
+        "name": "أولويز",
+        "count": 21,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيرافي",
+        "productCount": 23,
+        "checkboxId": "العلامة التجاريةسيرافي",
+        "isDisabled": false,
+        "cacheId": "414"
+      },
+      "secondFile": {
+        "name": "سيرافي",
+        "count": 21,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ياردلي",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةياردلي",
+        "isDisabled": false,
+        "cacheId": "445"
+      },
+      "secondFile": {
+        "name": "ياردلي",
+        "count": 21,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "باليت",
+        "productCount": 39,
+        "checkboxId": "العلامة التجاريةباليت",
+        "isDisabled": false,
+        "cacheId": "237"
+      },
+      "secondFile": {
+        "name": "باليت",
+        "count": 20,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ارم اند هامر",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةارم اند هامر",
+        "isDisabled": false,
+        "cacheId": "587"
+      },
+      "secondFile": {
+        "name": "ارم اند هامر",
+        "count": 17,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "يوسرين",
+        "productCount": 58,
+        "checkboxId": "العلامة التجاريةيوسرين",
+        "isDisabled": false,
+        "cacheId": "151"
+      },
+      "secondFile": {
+        "name": "بيوسرين",
+        "count": 16,
+        "similarity": "0.91"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "تشي",
+        "productCount": 35,
+        "checkboxId": "العلامة التجاريةتشي",
+        "isDisabled": false,
+        "cacheId": "263"
+      },
+      "secondFile": {
+        "name": "تشي",
+        "count": 16,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "هيد اند شولدرز",
+        "productCount": 52,
+        "checkboxId": "العلامة التجاريةهيد اند شولدرز",
+        "isDisabled": false,
+        "cacheId": "177"
+      },
+      "secondFile": {
+        "name": "هيد اند شولدرز",
+        "count": 15,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نيتروجينا",
+        "productCount": 34,
+        "checkboxId": "العلامة التجاريةنيتروجينا",
+        "isDisabled": false,
+        "cacheId": "279"
+      },
+      "secondFile": {
+        "name": "نيتروجينا",
+        "count": 15,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "دابر-املا",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةدابر-املا",
+        "isDisabled": false,
+        "cacheId": "432"
+      },
+      "secondFile": {
+        "name": "دابر املا",
+        "count": 15,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اوشا",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةاوشا",
+        "isDisabled": false,
+        "cacheId": "510"
+      },
+      "secondFile": {
+        "name": "اوشا",
+        "count": 15,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "افالون",
+        "productCount": 28,
+        "checkboxId": "العلامة التجاريةافالون",
+        "isDisabled": false,
+        "cacheId": "336"
+      },
+      "secondFile": {
+        "name": "افالون",
+        "count": 14,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سوفي",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةسوفي",
+        "isDisabled": false,
+        "cacheId": "436"
+      },
+      "secondFile": {
+        "name": "سوفي",
+        "count": 14,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "شيا ميراكلز",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةشيا ميراكلز",
+        "isDisabled": false,
+        "cacheId": "899"
+      },
+      "secondFile": {
+        "name": "شيا ميراكلز",
+        "count": 14,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ديفا",
+        "productCount": 352,
+        "checkboxId": "العلامة التجاريةديفا",
+        "isDisabled": false,
+        "cacheId": "10"
+      },
+      "secondFile": {
+        "name": "ديفا ",
+        "count": 13,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيتافيل",
+        "productCount": 33,
+        "checkboxId": "العلامة التجاريةسيتافيل",
+        "isDisabled": false,
+        "cacheId": "289"
+      },
+      "secondFile": {
+        "name": "سيتافيل ",
+        "count": 13,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جينوفى",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةجينوفى",
+        "isDisabled": false,
+        "cacheId": "515"
+      },
+      "secondFile": {
+        "name": "جينوفي",
+        "count": 13,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جرجنز",
+        "productCount": 16,
+        "checkboxId": "العلامة التجاريةجرجنز",
+        "isDisabled": false,
+        "cacheId": "561"
+      },
+      "secondFile": {
+        "name": "جرجنز",
+        "count": 13,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ليب سماكر",
+        "productCount": 14,
+        "checkboxId": "العلامة التجاريةليب سماكر",
+        "isDisabled": false,
+        "cacheId": "642"
+      },
+      "secondFile": {
+        "name": "ليب سماكر",
+        "count": 13,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ميبيلين",
+        "productCount": 359,
+        "checkboxId": "العلامة التجاريةميبيلين",
+        "isDisabled": false,
+        "cacheId": "9"
+      },
+      "secondFile": {
+        "name": "ميبيلين",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كوسركس",
+        "productCount": 93,
+        "checkboxId": "العلامة التجاريةكوسركس",
+        "isDisabled": false,
+        "cacheId": "77"
+      },
+      "secondFile": {
+        "name": "كوسركس",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ريكسونا",
+        "productCount": 42,
+        "checkboxId": "العلامة التجاريةريكسونا",
+        "isDisabled": false,
+        "cacheId": "218"
+      },
+      "secondFile": {
+        "name": "ريكسونا ",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيجنال",
+        "productCount": 36,
+        "checkboxId": "العلامة التجاريةسيجنال",
+        "isDisabled": false,
+        "cacheId": "259"
+      },
+      "secondFile": {
+        "name": "سيجنال",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيباميد",
+        "productCount": 26,
+        "checkboxId": "العلامة التجاريةسيباميد",
+        "isDisabled": false,
+        "cacheId": "366"
+      },
+      "secondFile": {
+        "name": "سيباميد",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لابيل",
+        "productCount": 20,
+        "checkboxId": "العلامة التجاريةلابيل",
+        "isDisabled": false,
+        "cacheId": "485"
+      },
+      "secondFile": {
+        "name": "لابيلا",
+        "count": 12,
+        "similarity": "0.89"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ليفري",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةليفري",
+        "isDisabled": false,
+        "cacheId": "541"
+      },
+      "secondFile": {
+        "name": "ليفري",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فابيلا",
+        "productCount": 12,
+        "checkboxId": "العلامة التجاريةفابيلا",
+        "isDisabled": false,
+        "cacheId": "699"
+      },
+      "secondFile": {
+        "name": "لابيلا",
+        "count": 12,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فام",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةفام",
+        "isDisabled": false,
+        "cacheId": "745"
+      },
+      "secondFile": {
+        "name": "فام",
+        "count": 12,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيريلاك",
+        "productCount": 45,
+        "checkboxId": "العلامة التجاريةسيريلاك",
+        "isDisabled": false,
+        "cacheId": "207"
+      },
+      "secondFile": {
+        "name": "سيريلاك",
+        "count": 11,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لايفبوى",
+        "productCount": 51,
+        "checkboxId": "العلامة التجاريةلايفبوى",
+        "isDisabled": false,
+        "cacheId": "181"
+      },
+      "secondFile": {
+        "name": "لايف بوى",
+        "count": 10,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لابيلو",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةلابيلو",
+        "isDisabled": false,
+        "cacheId": "442"
+      },
+      "secondFile": {
+        "name": "لابيلو",
+        "count": 10,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "منتوس",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةمنتوس",
+        "isDisabled": false,
+        "cacheId": "520"
+      },
+      "secondFile": {
+        "name": "منتوس",
+        "count": 10,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اولاي",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةاولاي",
+        "isDisabled": false,
+        "cacheId": "588"
+      },
+      "secondFile": {
+        "name": "اولاي",
+        "count": 10,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جليسوليد",
+        "productCount": 12,
+        "checkboxId": "العلامة التجاريةجليسوليد",
+        "isDisabled": false,
+        "cacheId": "693"
+      },
+      "secondFile": {
+        "name": "جليسوليد",
+        "count": 10,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "موود ماتشر",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةموود ماتشر",
+        "isDisabled": false,
+        "cacheId": "753"
+      },
+      "secondFile": {
+        "name": "مود ماتشر",
+        "count": 10,
+        "similarity": "0.93"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كوتكس",
+        "productCount": 28,
+        "checkboxId": "العلامة التجاريةكوتكس",
+        "isDisabled": false,
+        "cacheId": "347"
+      },
+      "secondFile": {
+        "name": "كوتكس",
+        "count": 9,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ليسترين",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةليسترين",
+        "isDisabled": false,
+        "cacheId": "519"
+      },
+      "secondFile": {
+        "name": "ليسترين",
+        "count": 9,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ناو",
+        "productCount": 556,
+        "checkboxId": "العلامة التجاريةناو",
+        "isDisabled": false,
+        "cacheId": "4"
+      },
+      "secondFile": {
+        "name": "ناو",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيجون",
+        "productCount": 139,
+        "checkboxId": "العلامة التجاريةبيجون",
+        "isDisabled": false,
+        "cacheId": "38"
+      },
+      "secondFile": {
+        "name": "بيجون",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سوم باي مي",
+        "productCount": 57,
+        "checkboxId": "العلامة التجاريةسوم باي مي",
+        "isDisabled": false,
+        "cacheId": "154"
+      },
+      "secondFile": {
+        "name": "سوم باي مي",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "أديداس",
+        "productCount": 43,
+        "checkboxId": "العلامة التجاريةأديداس",
+        "isDisabled": false,
+        "cacheId": "213"
+      },
+      "secondFile": {
+        "name": "اديداس",
+        "count": 8,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نان",
+        "productCount": 28,
+        "checkboxId": "العلامة التجاريةنان",
+        "isDisabled": false,
+        "cacheId": "354"
+      },
+      "secondFile": {
+        "name": "نان",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "هجيز",
+        "productCount": 28,
+        "checkboxId": "العلامة التجاريةهجيز",
+        "isDisabled": false,
+        "cacheId": "356"
+      },
+      "secondFile": {
+        "name": "هجيز",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيميلاك",
+        "productCount": 25,
+        "checkboxId": "العلامة التجاريةسيميلاك",
+        "isDisabled": false,
+        "cacheId": "386"
+      },
+      "secondFile": {
+        "name": "سيميلاك",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ليدي سبيد ستيك",
+        "productCount": 23,
+        "checkboxId": "العلامة التجاريةليدي سبيد ستيك",
+        "isDisabled": false,
+        "cacheId": "418"
+      },
+      "secondFile": {
+        "name": "ليدي سبيد ستيك",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيم فريش",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةفيم فريش",
+        "isDisabled": false,
+        "cacheId": "793"
+      },
+      "secondFile": {
+        "name": "فيم فريش",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اغادير",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةاغادير",
+        "isDisabled": false,
+        "cacheId": "820"
+      },
+      "secondFile": {
+        "name": "اغادير",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "أولد سبايس",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةأولد سبايس",
+        "isDisabled": false,
+        "cacheId": "868"
+      },
+      "secondFile": {
+        "name": "أولد سبايس",
+        "count": 8,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ديتول",
+        "productCount": 106,
+        "checkboxId": "العلامة التجاريةديتول",
+        "isDisabled": false,
+        "cacheId": "61"
+      },
+      "secondFile": {
+        "name": "ديتول",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كولجيت",
+        "productCount": 94,
+        "checkboxId": "العلامة التجاريةكولجيت",
+        "isDisabled": false,
+        "cacheId": "74"
+      },
+      "secondFile": {
+        "name": "كولجيت",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كريم 21",
+        "productCount": 35,
+        "checkboxId": "العلامة التجاريةكريم 21",
+        "isDisabled": false,
+        "cacheId": "270"
+      },
+      "secondFile": {
+        "name": "كريم 21",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "موستيلا",
+        "productCount": 28,
+        "checkboxId": "العلامة التجاريةموستيلا",
+        "isDisabled": false,
+        "cacheId": "352"
+      },
+      "secondFile": {
+        "name": "موستيلا",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بليميل",
+        "productCount": 25,
+        "checkboxId": "العلامة التجاريةبليميل",
+        "isDisabled": false,
+        "cacheId": "378"
+      },
+      "secondFile": {
+        "name": "بليميل",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نوفالاك",
+        "productCount": 21,
+        "checkboxId": "العلامة التجاريةنوفالاك",
+        "isDisabled": false,
+        "cacheId": "468"
+      },
+      "secondFile": {
+        "name": "نوفالاك",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نيورالاك",
+        "productCount": 19,
+        "checkboxId": "العلامة التجاريةنيورالاك",
+        "isDisabled": false,
+        "cacheId": "507"
+      },
+      "secondFile": {
+        "name": "نيورالاك",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيم",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةفيم",
+        "isDisabled": false,
+        "cacheId": "907"
+      },
+      "secondFile": {
+        "name": "فيم",
+        "count": 7,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "شيكو",
+        "productCount": 133,
+        "checkboxId": "العلامة التجاريةشيكو",
+        "isDisabled": false,
+        "cacheId": "43"
+      },
+      "secondFile": {
+        "name": "شيك",
+        "count": 6,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيتو",
+        "productCount": 68,
+        "checkboxId": "العلامة التجاريةفيتو",
+        "isDisabled": false,
+        "cacheId": "123"
+      },
+      "secondFile": {
+        "name": "فيت",
+        "count": 6,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ميلي",
+        "productCount": 55,
+        "checkboxId": "العلامة التجاريةميلي",
+        "isDisabled": false,
+        "cacheId": "166"
+      },
+      "secondFile": {
+        "name": "ميلي",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ايزيس فارما",
+        "productCount": 46,
+        "checkboxId": "العلامة التجاريةايزيس فارما",
+        "isDisabled": false,
+        "cacheId": "197"
+      },
+      "secondFile": {
+        "name": "ايزيس فارما",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "براون",
+        "productCount": 46,
+        "checkboxId": "العلامة التجاريةبراون",
+        "isDisabled": false,
+        "cacheId": "198"
+      },
+      "secondFile": {
+        "name": "براون",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "باراشوت",
+        "productCount": 36,
+        "checkboxId": "العلامة التجاريةباراشوت",
+        "isDisabled": false,
+        "cacheId": "257"
+      },
+      "secondFile": {
+        "name": "باراشوت",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيت",
+        "productCount": 34,
+        "checkboxId": "العلامة التجاريةفيت",
+        "isDisabled": false,
+        "cacheId": "276"
+      },
+      "secondFile": {
+        "name": "فيت",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ابتاميل",
+        "productCount": 20,
+        "checkboxId": "العلامة التجاريةابتاميل",
+        "isDisabled": false,
+        "cacheId": "474"
+      },
+      "secondFile": {
+        "name": "أبتاميل",
+        "count": 6,
+        "similarity": "0.83"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فابي ميلك",
+        "productCount": 16,
+        "checkboxId": "العلامة التجاريةفابي ميلك",
+        "isDisabled": false,
+        "cacheId": "568"
+      },
+      "secondFile": {
+        "name": "فابي ميلك",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بريمالاك",
+        "productCount": 14,
+        "checkboxId": "العلامة التجاريةبريمالاك",
+        "isDisabled": false,
+        "cacheId": "628"
+      },
+      "secondFile": {
+        "name": "بريمالاك",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ماسكولان",
+        "productCount": 13,
+        "checkboxId": "العلامة التجاريةماسكولان",
+        "isDisabled": false,
+        "cacheId": "675"
+      },
+      "secondFile": {
+        "name": "ماسكولان",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اوكيفيز",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةاوكيفيز",
+        "isDisabled": false,
+        "cacheId": "871"
+      },
+      "secondFile": {
+        "name": "اوكيفيز",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيراند لفلي",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةفيراند لفلي",
+        "isDisabled": false,
+        "cacheId": "905"
+      },
+      "secondFile": {
+        "name": "فير اند لفلي",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جيسو",
+        "productCount": 7,
+        "checkboxId": "العلامة التجاريةجيسو",
+        "isDisabled": false,
+        "cacheId": "950"
+      },
+      "secondFile": {
+        "name": "جيسو",
+        "count": 6,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ريميل",
+        "productCount": 307,
+        "checkboxId": "العلامة التجاريةريميل",
+        "isDisabled": false,
+        "cacheId": "11"
+      },
+      "secondFile": {
+        "name": "ريميل",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جليتز",
+        "productCount": 74,
+        "checkboxId": "العلامة التجاريةجليتز",
+        "isDisabled": false,
+        "cacheId": "111"
+      },
+      "secondFile": {
+        "name": "جليت",
+        "count": 5,
+        "similarity": "0.86"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "إل صالون",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةإل صالون",
+        "isDisabled": false,
+        "cacheId": "509"
+      },
+      "secondFile": {
+        "name": "ال صالون",
+        "count": 5,
+        "similarity": "0.83"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اكس",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةاكس",
+        "isDisabled": false,
+        "cacheId": "527"
+      },
+      "secondFile": {
+        "name": "اكس",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كاندريل",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةكاندريل",
+        "isDisabled": false,
+        "cacheId": "614"
+      },
+      "secondFile": {
+        "name": "كاندريل",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "مارفيس",
+        "productCount": 13,
+        "checkboxId": "العلامة التجاريةمارفيس",
+        "isDisabled": false,
+        "cacheId": "673"
+      },
+      "secondFile": {
+        "name": "مارفيس ",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيوميل",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةبيوميل",
+        "isDisabled": false,
+        "cacheId": "770"
+      },
+      "secondFile": {
+        "name": "بيوميل",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ايزي كير",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةايزي كير",
+        "isDisabled": false,
+        "cacheId": "823"
+      },
+      "secondFile": {
+        "name": "ايزي كير",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ايم سوري فور ماي سكين",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةايم سوري فور ماي سكين",
+        "isDisabled": false,
+        "cacheId": "825"
+      },
+      "secondFile": {
+        "name": "ايم سوري فور ماي سكين",
+        "count": 5,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيوديرما",
+        "productCount": 95,
+        "checkboxId": "العلامة التجاريةبيوديرما",
+        "isDisabled": false,
+        "cacheId": "72"
+      },
+      "secondFile": {
+        "name": "بيوديرما",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "يورياج",
+        "productCount": 90,
+        "checkboxId": "العلامة التجاريةيورياج",
+        "isDisabled": false,
+        "cacheId": "79"
+      },
+      "secondFile": {
+        "name": "يورياج",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فرانك أوليفييه",
+        "productCount": 44,
+        "checkboxId": "العلامة التجاريةفرانك أوليفييه",
+        "isDisabled": false,
+        "cacheId": "210"
+      },
+      "secondFile": {
+        "name": "فرانك أوليفر",
+        "count": 4,
+        "similarity": "0.82"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "رونالاك",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةرونالاك",
+        "isDisabled": false,
+        "cacheId": "604"
+      },
+      "secondFile": {
+        "name": "رونالاك",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فولتين",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةفولتين",
+        "isDisabled": false,
+        "cacheId": "609"
+      },
+      "secondFile": {
+        "name": "فولتين",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نيدو",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةنيدو",
+        "isDisabled": false,
+        "cacheId": "617"
+      },
+      "secondFile": {
+        "name": "نيدو",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ليزر وايت",
+        "productCount": 14,
+        "checkboxId": "العلامة التجاريةليزر وايت",
+        "isDisabled": false,
+        "cacheId": "643"
+      },
+      "secondFile": {
+        "name": "ليزر وايت ",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "برايفت",
+        "productCount": 13,
+        "checkboxId": "العلامة التجاريةبرايفت",
+        "isDisabled": false,
+        "cacheId": "652"
+      },
+      "secondFile": {
+        "name": "برايفت",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نير",
+        "productCount": 12,
+        "checkboxId": "العلامة التجاريةنير",
+        "isDisabled": false,
+        "cacheId": "720"
+      },
+      "secondFile": {
+        "name": "نير",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "باتيست",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةباتيست",
+        "isDisabled": false,
+        "cacheId": "730"
+      },
+      "secondFile": {
+        "name": "باتيست",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سنترم",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةسنترم",
+        "isDisabled": false,
+        "cacheId": "782"
+      },
+      "secondFile": {
+        "name": "سنترم",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيرز",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةبيرز",
+        "isDisabled": false,
+        "cacheId": "831"
+      },
+      "secondFile": {
+        "name": "بيرز",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اكيور",
+        "productCount": 6,
+        "checkboxId": "العلامة التجاريةاكيور",
+        "isDisabled": false,
+        "cacheId": "996"
+      },
+      "secondFile": {
+        "name": "اكيور",
+        "count": 4,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ايفلين",
+        "productCount": 76,
+        "checkboxId": "العلامة التجاريةايفلين",
+        "isDisabled": false,
+        "cacheId": "104"
+      },
+      "secondFile": {
+        "name": "ايفلين",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيشي",
+        "productCount": 63,
+        "checkboxId": "العلامة التجاريةفيشي",
+        "isDisabled": false,
+        "cacheId": "138"
+      },
+      "secondFile": {
+        "name": "فيشي",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ديوركس",
+        "productCount": 37,
+        "checkboxId": "العلامة التجاريةديوركس",
+        "isDisabled": false,
+        "cacheId": "253"
+      },
+      "secondFile": {
+        "name": "ديوركس",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "مافالا",
+        "productCount": 30,
+        "checkboxId": "العلامة التجاريةمافالا",
+        "isDisabled": false,
+        "cacheId": "323"
+      },
+      "secondFile": {
+        "name": "مافالا",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "هيومانا",
+        "productCount": 29,
+        "checkboxId": "العلامة التجاريةهيومانا",
+        "isDisabled": false,
+        "cacheId": "333"
+      },
+      "secondFile": {
+        "name": "هيومانا",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بانادول",
+        "productCount": 21,
+        "checkboxId": "العلامة التجاريةبانادول",
+        "isDisabled": false,
+        "cacheId": "453"
+      },
+      "secondFile": {
+        "name": "بانادول",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فيكس",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةفيكس",
+        "isDisabled": false,
+        "cacheId": "538"
+      },
+      "secondFile": {
+        "name": "فيكس",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيبانثين",
+        "productCount": 16,
+        "checkboxId": "العلامة التجاريةبيبانثين",
+        "isDisabled": false,
+        "cacheId": "558"
+      },
+      "secondFile": {
+        "name": "بيبانثين",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "أفينو",
+        "productCount": 15,
+        "checkboxId": "العلامة التجاريةأفينو",
+        "isDisabled": false,
+        "cacheId": "585"
+      },
+      "secondFile": {
+        "name": "فينو",
+        "count": 3,
+        "similarity": "0.86"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لاكالوت",
+        "productCount": 12,
+        "checkboxId": "العلامة التجاريةلاكالوت",
+        "isDisabled": false,
+        "cacheId": "713"
+      },
+      "secondFile": {
+        "name": "لاكالوت",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "مومز باث",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةمومز باث",
+        "isDisabled": false,
+        "cacheId": "752"
+      },
+      "secondFile": {
+        "name": "مومز باث",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "تافت",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةتافت",
+        "isDisabled": false,
+        "cacheId": "835"
+      },
+      "secondFile": {
+        "name": "تافت",
+        "count": 3,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جولي",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةجولي",
+        "isDisabled": false,
+        "cacheId": "886"
+      },
+      "secondFile": {
+        "name": "جولين",
+        "count": 3,
+        "similarity": "0.86"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "هيمالايا",
+        "productCount": 77,
+        "checkboxId": "العلامة التجاريةهيمالايا",
+        "isDisabled": false,
+        "cacheId": "102"
+      },
+      "secondFile": {
+        "name": "هيمالايا ",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "نارس",
+        "productCount": 73,
+        "checkboxId": "العلامة التجاريةنارس",
+        "isDisabled": false,
+        "cacheId": "114"
+      },
+      "secondFile": {
+        "name": "ارس",
+        "count": 2,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "افين",
+        "productCount": 68,
+        "checkboxId": "العلامة التجاريةافين",
+        "isDisabled": false,
+        "cacheId": "122"
+      },
+      "secondFile": {
+        "name": "افين",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "إس في ار",
+        "productCount": 48,
+        "checkboxId": "العلامة التجاريةإس في ار",
+        "isDisabled": false,
+        "cacheId": "188"
+      },
+      "secondFile": {
+        "name": "اس في ار",
+        "count": 2,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيبي لاف",
+        "productCount": 23,
+        "checkboxId": "العلامة التجاريةبيبي لاف",
+        "isDisabled": false,
+        "cacheId": "406"
+      },
+      "secondFile": {
+        "name": "بيبيلاك",
+        "count": 2,
+        "similarity": "0.83"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لا نيج",
+        "productCount": 18,
+        "checkboxId": "العلامة التجاريةلا نيج",
+        "isDisabled": false,
+        "cacheId": "517"
+      },
+      "secondFile": {
+        "name": "لانيج",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيجين",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةبيجين",
+        "isDisabled": false,
+        "cacheId": "531"
+      },
+      "secondFile": {
+        "name": "بيجين",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كليف",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةكليف",
+        "isDisabled": false,
+        "cacheId": "539"
+      },
+      "secondFile": {
+        "name": "ليف",
+        "count": 2,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بدياشور",
+        "productCount": 16,
+        "checkboxId": "العلامة التجاريةبدياشور",
+        "isDisabled": false,
+        "cacheId": "557"
+      },
+      "secondFile": {
+        "name": "بدياشور",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كيه 18",
+        "productCount": 12,
+        "checkboxId": "العلامة التجاريةكيه 18",
+        "isDisabled": false,
+        "cacheId": "711"
+      },
+      "secondFile": {
+        "name": "كيه 18",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "دابور هيربولين",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةدابور هيربولين",
+        "isDisabled": false,
+        "cacheId": "736"
+      },
+      "secondFile": {
+        "name": "دابر هيربولين",
+        "count": 2,
+        "similarity": "0.87"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ستربسلز",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةستربسلز",
+        "isDisabled": false,
+        "cacheId": "741"
+      },
+      "secondFile": {
+        "name": "ستربسلز",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيبيلاك",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةبيبيلاك",
+        "isDisabled": false,
+        "cacheId": "767"
+      },
+      "secondFile": {
+        "name": "بيبيلاك",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ارس",
+        "productCount": 7,
+        "checkboxId": "العلامة التجاريةارس",
+        "isDisabled": false,
+        "cacheId": "930"
+      },
+      "secondFile": {
+        "name": "ارس",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بلانكس",
+        "productCount": 7,
+        "checkboxId": "العلامة التجاريةبلانكس",
+        "isDisabled": false,
+        "cacheId": "939"
+      },
+      "secondFile": {
+        "name": "بلانكس",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "الضيافة",
+        "productCount": 6,
+        "checkboxId": "العلامة التجاريةالضيافة",
+        "isDisabled": false,
+        "cacheId": "999"
+      },
+      "secondFile": {
+        "name": "الضيافة",
+        "count": 2,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ماسون ناتشورال",
+        "productCount": 176,
+        "checkboxId": "العلامة التجاريةماسون ناتشورال",
+        "isDisabled": false,
+        "cacheId": "28"
+      },
+      "secondFile": {
+        "name": "ماسون ناتشورال",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كيليز",
+        "productCount": 132,
+        "checkboxId": "العلامة التجاريةكيليز",
+        "isDisabled": false,
+        "cacheId": "44"
+      },
+      "secondFile": {
+        "name": "كيلي",
+        "count": 1,
+        "similarity": "0.86"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "دابر فاتيكا",
+        "productCount": 131,
+        "checkboxId": "العلامة التجاريةدابر فاتيكا",
+        "isDisabled": false,
+        "cacheId": "45"
+      },
+      "secondFile": {
+        "name": "دابر فاتيكا",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "جويل",
+        "productCount": 52,
+        "checkboxId": "العلامة التجاريةجويل",
+        "isDisabled": false,
+        "cacheId": "173"
+      },
+      "secondFile": {
+        "name": "جوي",
+        "count": 1,
+        "similarity": "0.80"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "أورجانيكس",
+        "productCount": 30,
+        "checkboxId": "العلامة التجاريةأورجانيكس",
+        "isDisabled": false,
+        "cacheId": "314"
+      },
+      "secondFile": {
+        "name": "اورجانيكس",
+        "count": 1,
+        "similarity": "0.88"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فرست ستيب",
+        "productCount": 26,
+        "checkboxId": "العلامة التجاريةفرست ستيب",
+        "isDisabled": false,
+        "cacheId": "367"
+      },
+      "secondFile": {
+        "name": "فرست ستيب",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كير فري",
+        "productCount": 24,
+        "checkboxId": "العلامة التجاريةكير فري",
+        "isDisabled": false,
+        "cacheId": "402"
+      },
+      "secondFile": {
+        "name": "كيرفري",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "دايسون",
+        "productCount": 23,
+        "checkboxId": "العلامة التجاريةدايسون",
+        "isDisabled": false,
+        "cacheId": "409"
+      },
+      "secondFile": {
+        "name": "دايسو",
+        "count": 1,
+        "similarity": "0.89"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كانشوم",
+        "productCount": 23,
+        "checkboxId": "العلامة التجاريةكانشوم",
+        "isDisabled": false,
+        "cacheId": "416"
+      },
+      "secondFile": {
+        "name": "كانشوم",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "ريفلون",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةريفلون",
+        "isDisabled": false,
+        "cacheId": "434"
+      },
+      "secondFile": {
+        "name": "ريفلون",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كرست",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةكرست",
+        "isDisabled": false,
+        "cacheId": "439"
+      },
+      "secondFile": {
+        "name": "كرست",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كوكسير",
+        "productCount": 22,
+        "checkboxId": "العلامة التجاريةكوكسير",
+        "isDisabled": false,
+        "cacheId": "441"
+      },
+      "secondFile": {
+        "name": "كو كسير",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "لانسينو",
+        "productCount": 21,
+        "checkboxId": "العلامة التجاريةلانسينو",
+        "isDisabled": false,
+        "cacheId": "463"
+      },
+      "secondFile": {
+        "name": "لانسينوه",
+        "count": 1,
+        "similarity": "0.92"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "انيفاجين",
+        "productCount": 17,
+        "checkboxId": "العلامة التجاريةانيفاجين",
+        "isDisabled": false,
+        "cacheId": "528"
+      },
+      "secondFile": {
+        "name": "انيفاجين",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "امبريوليس",
+        "productCount": 14,
+        "checkboxId": "العلامة التجاريةامبريوليس",
+        "isDisabled": false,
+        "cacheId": "624"
+      },
+      "secondFile": {
+        "name": "امبيريوليس",
+        "count": 1,
+        "similarity": "0.82"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اي سي ام",
+        "productCount": 14,
+        "checkboxId": "العلامة التجاريةاي سي ام",
+        "isDisabled": false,
+        "cacheId": "625"
+      },
+      "secondFile": {
+        "name": "اي سي ام",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "كونتور",
+        "productCount": 11,
+        "checkboxId": "العلامة التجاريةكونتور",
+        "isDisabled": false,
+        "cacheId": "749"
+      },
+      "secondFile": {
+        "name": "كونتور",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بيتادين",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةبيتادين",
+        "isDisabled": false,
+        "cacheId": "768"
+      },
+      "secondFile": {
+        "name": "بيتادين",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "سيتزن",
+        "productCount": 10,
+        "checkboxId": "العلامة التجاريةسيتزن",
+        "isDisabled": false,
+        "cacheId": "785"
+      },
+      "secondFile": {
+        "name": "سيتزن",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "فريشدايز",
+        "productCount": 9,
+        "checkboxId": "العلامة التجاريةفريشدايز",
+        "isDisabled": false,
+        "cacheId": "853"
+      },
+      "secondFile": {
+        "name": "فريش دايز",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "بود",
+        "productCount": 8,
+        "checkboxId": "العلامة التجاريةبود",
+        "isDisabled": false,
+        "cacheId": "877"
+      },
+      "secondFile": {
+        "name": "بود",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "أجمل",
+        "productCount": 6,
+        "checkboxId": "العلامة التجاريةأجمل",
+        "isDisabled": false,
+        "cacheId": "989"
+      },
+      "secondFile": {
+        "name": "أجمل",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    },
+    {
+      "firstFile": {
+        "brand": "اكوافريش",
+        "productCount": 6,
+        "checkboxId": "العلامة التجاريةاكوافريش",
+        "isDisabled": false,
+        "cacheId": "995"
+      },
+      "secondFile": {
+        "name": "اكوا فريش",
+        "count": 1,
+        "similarity": "1.00"
+      }
+    }
+  ]
+}

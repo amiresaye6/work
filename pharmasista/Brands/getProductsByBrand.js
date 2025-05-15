@@ -14,7 +14,7 @@ function logWithTime(message) {
     console.log(`[${timestamp}] ${message}`);
 }
 
-async function loadBrands(jsonFile = 'matchingBrands.json') {
+async function loadBrands(jsonFile = 'fuzzyArMatchingBrands.json') {
     try {
         const data = await fs.readFile(jsonFile, 'utf8');
         return JSON.parse(data);
@@ -24,7 +24,7 @@ async function loadBrands(jsonFile = 'matchingBrands.json') {
     }
 }
 
-async function saveProgress(progress, file = 'brand_progress.json') {
+async function saveProgress(progress, file = 'arBrand_progress.json') {
     try {
         progress.timestamp = getCurrentDateTime();
         progress.user = 'amiresaye6';
@@ -35,7 +35,7 @@ async function saveProgress(progress, file = 'brand_progress.json') {
     }
 }
 
-async function loadProgress(file = 'brand_progress.json') {
+async function loadProgress(file = 'arBrand_progress.json') {
     try {
         const data = await fs.readFile(file, 'utf8');
         return JSON.parse(data);
@@ -215,7 +215,7 @@ async function main() {
     logWithTime(`Starting brand scraper - User: amiresaye6`);
 
     // Create brands folder if it doesn't exist
-    const brandsFolder = 'brands';
+    const brandsFolder = 'brandsAr';
     await fs.mkdir(brandsFolder, { recursive: true });
 
     // Load brands data
@@ -264,11 +264,11 @@ async function main() {
 
         // Create URL for this brand - properly encode the brand name
         const encodedBrand = encodeURIComponent(brandName);
-        const url = `https://www.nahdionline.com/en-sa/search?refinementList%5Bmanufacturer%5D%5B0%5D=${encodedBrand}`;
+        const url = `https://www.nahdionline.com/ar-sa/search?refinementList%5Bmanufacturer%5D%5B0%5D=${encodedBrand}`;
         logWithTime(`Generated URL for ${brandName}: ${url}`);
 
         // Output file for this brand
-        const safeFileName = brandName.replace(/[^a-zA-Z0-9]/g, '_');
+        const safeFileName = brandName.replace(/\s+/g, '').replace(/[^a-zA-Z0-9\u0600-\u06FF]/g, '_');
         const outputFile = path.join(brandsFolder, `${safeFileName}.json`);
 
         try {

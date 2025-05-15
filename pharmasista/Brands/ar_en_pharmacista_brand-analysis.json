@@ -1,0 +1,3041 @@
+{
+  "totalProducts": 5239,
+  "totalUniqueBrands": 607,
+  "brands": [
+    {
+      "en": "Brskin",
+      "ar": "برسكين",
+      "count": 17
+    },
+    {
+      "en": "Giovanni",
+      "ar": "جيوفاني",
+      "count": 54
+    },
+    {
+      "en": "Lakme",
+      "ar": "لاكمي",
+      "count": 29
+    },
+    {
+      "en": "Nido",
+      "ar": "نيدو",
+      "count": 4
+    },
+    {
+      "en": "Coxir",
+      "ar": "كو كسير",
+      "count": 1
+    },
+    {
+      "en": "ACCU-CHEK",
+      "ar": "أكيو-تشيك",
+      "count": 1
+    },
+    {
+      "en": "ACCUFAST",
+      "ar": "اكيوفاست",
+      "count": 1
+    },
+    {
+      "en": "ACRETIN",
+      "ar": "اكريتين",
+      "count": 2
+    },
+    {
+      "en": "Avalon",
+      "ar": "افالون",
+      "count": 14
+    },
+    {
+      "en": "AVOGAIN",
+      "ar": "أفوجين",
+      "count": 1
+    },
+    {
+      "en": "BETADINE",
+      "ar": "بيتادين",
+      "count": 1
+    },
+    {
+      "en": "BioLife",
+      "ar": "بيولايف",
+      "count": 7
+    },
+    {
+      "en": "CONTRACTUBEX",
+      "ar": "كونتراكيتابكس",
+      "count": 1
+    },
+    {
+      "en": "Carefree",
+      "ar": "كيرفري",
+      "count": 1
+    },
+    {
+      "en": "DIFFERIN",
+      "ar": "ديفرين",
+      "count": 3
+    },
+    {
+      "en": "ELICA",
+      "ar": "اليكا",
+      "count": 1
+    },
+    {
+      "en": "ELICA",
+      "ar": "أليكا",
+      "count": 1
+    },
+    {
+      "en": "ELICA-M",
+      "ar": "اليكا-ام",
+      "count": 1
+    },
+    {
+      "en": "FIXIT",
+      "ar": "فيكسيت",
+      "count": 1
+    },
+    {
+      "en": "FUCIDIN",
+      "ar": "فيوسيدين",
+      "count": 1
+    },
+    {
+      "en": "Silva",
+      "ar": "سيلفا",
+      "count": 4
+    },
+    {
+      "en": "GERATHERM",
+      "ar": "جيراثيرم",
+      "count": 1
+    },
+    {
+      "en": "Gloves",
+      "ar": "جوانتي",
+      "count": 2
+    },
+    {
+      "en": "HANSAPLAST",
+      "ar": "هانزبلاست",
+      "count": 11
+    },
+    {
+      "en": "HIQUIN",
+      "ar": "هاي كوين",
+      "count": 2
+    },
+    {
+      "en": "ALCOHOL",
+      "ar": "كحول اثيلي",
+      "count": 1
+    },
+    {
+      "en": "Johnson's",
+      "ar": "جونسون",
+      "count": 77
+    },
+    {
+      "en": "MEBO",
+      "ar": "ميبو",
+      "count": 1
+    },
+    {
+      "en": "NIZORAL",
+      "ar": "نيوزرال",
+      "count": 1
+    },
+    {
+      "en": "PANADOL",
+      "ar": "بانادول",
+      "count": 2
+    },
+    {
+      "en": "Bebecom",
+      "ar": "بيبيكوم",
+      "count": 8
+    },
+    {
+      "en": "SKINOREN",
+      "ar": "سكينورين",
+      "count": 1
+    },
+    {
+      "en": "SmarTherapy",
+      "ar": "سمارت ثيرابي",
+      "count": 1
+    },
+    {
+      "en": "STERIMAR",
+      "ar": "استيريمار",
+      "count": 2
+    },
+    {
+      "en": "Septofort",
+      "ar": "سيبتوفرت",
+      "count": 1
+    },
+    {
+      "en": "VAVO",
+      "ar": "فافو",
+      "count": 1
+    },
+    {
+      "en": "VICHY",
+      "ar": "فيتشي",
+      "count": 1
+    },
+    {
+      "en": "Organics",
+      "ar": "اورجانيكس",
+      "count": 1
+    },
+    {
+      "en": "Fem",
+      "ar": "فيم",
+      "count": 7
+    },
+    {
+      "en": "Spa System",
+      "ar": "سبا سيستم",
+      "count": 17
+    },
+    {
+      "en": "Arganmidas",
+      "ar": "ارجان ميداس",
+      "count": 3
+    },
+    {
+      "en": "Vichy",
+      "ar": "فيشي",
+      "count": 3
+    },
+    {
+      "en": "Cantu",
+      "ar": "كانتو",
+      "count": 33
+    },
+    {
+      "en": "Lacalut",
+      "ar": "لاكالوت",
+      "count": 3
+    },
+    {
+      "en": "Jardin Oleane",
+      "ar": "جاردن اوليان",
+      "count": 35
+    },
+    {
+      "en": "Bigen",
+      "ar": "بايجن",
+      "count": 12
+    },
+    {
+      "en": "Princess Chamsy",
+      "ar": "برنسيس شمسي",
+      "count": 2
+    },
+    {
+      "en": "Pantene",
+      "ar": "بانتين",
+      "count": 35
+    },
+    {
+      "en": "Veet",
+      "ar": "فيت",
+      "count": 6
+    },
+    {
+      "en": "Bio Oil",
+      "ar": "بيو اويل",
+      "count": 2
+    },
+    {
+      "en": "AlFaparf Milano",
+      "ar": "الفابارف ميلانو",
+      "count": 11
+    },
+    {
+      "en": "Pampers",
+      "ar": "بامبرز",
+      "count": 60
+    },
+    {
+      "en": "Kotex",
+      "ar": "كوتكس",
+      "count": 9
+    },
+    {
+      "en": "Fam",
+      "ar": "فام",
+      "count": 12
+    },
+    {
+      "en": "L'oreal",
+      "ar": "لوريال",
+      "count": 127
+    },
+    {
+      "en": "Moroccan Oil",
+      "ar": "موروكان اويل",
+      "count": 1
+    },
+    {
+      "en": "Garnier",
+      "ar": "غارنييه",
+      "count": 149
+    },
+    {
+      "en": "Energy",
+      "ar": "إنرجي",
+      "count": 2
+    },
+    {
+      "en": "Butentity",
+      "ar": "بيوتنتي",
+      "count": 10
+    },
+    {
+      "en": "Listerine",
+      "ar": "ليسترين",
+      "count": 9
+    },
+    {
+      "en": "Gellys",
+      "ar": "جيليز",
+      "count": 66
+    },
+    {
+      "en": "Covix",
+      "ar": "كوفكيس",
+      "count": 3
+    },
+    {
+      "en": "O'Keeffe's",
+      "ar": "اوكيفيز",
+      "count": 6
+    },
+    {
+      "en": "FemFresh",
+      "ar": "فيم فريش",
+      "count": 8
+    },
+    {
+      "en": "Eucerin",
+      "ar": "يوسيرين",
+      "count": 42
+    },
+    {
+      "en": "Baby Joy",
+      "ar": "بيبي جوي",
+      "count": 44
+    },
+    {
+      "en": "QV",
+      "ar": "كيو في",
+      "count": 25
+    },
+    {
+      "en": "Gillette",
+      "ar": "جيليت",
+      "count": 39
+    },
+    {
+      "en": "Oral B",
+      "ar": "اورل بي",
+      "count": 2
+    },
+    {
+      "en": "Crest ",
+      "ar": "كرست",
+      "count": 1
+    },
+    {
+      "en": "Dove",
+      "ar": "دوف",
+      "count": 47
+    },
+    {
+      "en": "Pears",
+      "ar": "بيرز",
+      "count": 4
+    },
+    {
+      "en": "ARS",
+      "ar": "ارس",
+      "count": 2
+    },
+    {
+      "en": "I'm Sorry For my Skin",
+      "ar": "ايم سوري فور ماي سكين",
+      "count": 5
+    },
+    {
+      "en": "Genove",
+      "ar": "جينوفي",
+      "count": 13
+    },
+    {
+      "en": "NOW",
+      "ar": "ناو",
+      "count": 7
+    },
+    {
+      "en": "Sensodyne",
+      "ar": "سنسوداين",
+      "count": 48
+    },
+    {
+      "en": "Blanx",
+      "ar": "بلانكس",
+      "count": 2
+    },
+    {
+      "en": "Nair",
+      "ar": "نير",
+      "count": 4
+    },
+    {
+      "en": "Durex",
+      "ar": "ديوركس",
+      "count": 3
+    },
+    {
+      "en": "Creme 21",
+      "ar": "كريم 21",
+      "count": 7
+    },
+    {
+      "en": "Beesline",
+      "ar": "بيزلين",
+      "count": 40
+    },
+    {
+      "en": "Laneige",
+      "ar": "لانيج",
+      "count": 2
+    },
+    {
+      "en": "Blover",
+      "ar": "بلوفير",
+      "count": 121
+    },
+    {
+      "en": "UniPro",
+      "ar": "يوني برو",
+      "count": 46
+    },
+    {
+      "en": "NYDA ",
+      "ar": "نايدا ",
+      "count": 2
+    },
+    {
+      "en": "Other",
+      "ar": "مستلزمات عنايه",
+      "count": 31
+    },
+    {
+      "en": "Moov",
+      "ar": "مووف",
+      "count": 1
+    },
+    {
+      "en": "Pyary",
+      "ar": "بياري",
+      "count": 2
+    },
+    {
+      "en": "Dabur Vatika",
+      "ar": "دابر فاتيكا",
+      "count": 1
+    },
+    {
+      "en": "Touch",
+      "ar": "تاتش",
+      "count": 5
+    },
+    {
+      "en": "Sofy",
+      "ar": "سوفي",
+      "count": 14
+    },
+    {
+      "en": "Professional",
+      "ar": "بروفيشنال",
+      "count": 18
+    },
+    {
+      "en": "Parachute",
+      "ar": "باراشوت",
+      "count": 6
+    },
+    {
+      "en": "Yoko",
+      "ar": "يوكو",
+      "count": 14
+    },
+    {
+      "en": "Glysolid",
+      "ar": "جليسوليد",
+      "count": 10
+    },
+    {
+      "en": "Herbal Essences",
+      "ar": "هيربل اسنسز",
+      "count": 24
+    },
+    {
+      "en": "Rose Aroma",
+      "ar": "روز اروما",
+      "count": 8
+    },
+    {
+      "en": "Bioderma",
+      "ar": "بيوديرما",
+      "count": 4
+    },
+    {
+      "en": "Rose Aroma",
+      "ar": "روز أروما ",
+      "count": 17
+    },
+    {
+      "en": "Vebix",
+      "ar": "فيبكس",
+      "count": 3
+    },
+    {
+      "en": "Bepanthen",
+      "ar": "فيبكس",
+      "count": 1
+    },
+    {
+      "en": "Corega",
+      "ar": "كوريغا",
+      "count": 2
+    },
+    {
+      "en": "Gellys",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Arm & Hammer",
+      "ar": "ارم اند هامر",
+      "count": 16
+    },
+    {
+      "en": "Pigeon",
+      "ar": "بيجون",
+      "count": 8
+    },
+    {
+      "en": "Cotton Plus",
+      "ar": "قطن بلس",
+      "count": 1
+    },
+    {
+      "en": "Baby Zone",
+      "ar": "بيبي زون",
+      "count": 57
+    },
+    {
+      "en": "Teemo",
+      "ar": "تيمو",
+      "count": 8
+    },
+    {
+      "en": "Beauty of joseon",
+      "ar": "بيوتي اوف جوسون",
+      "count": 10
+    },
+    {
+      "en": "Mavala",
+      "ar": "مافالا",
+      "count": 3
+    },
+    {
+      "en": "Ajmal",
+      "ar": "اجمل",
+      "count": 14
+    },
+    {
+      "en": "Larilac",
+      "ar": "لاريلاك",
+      "count": 6
+    },
+    {
+      "en": "Cerelac",
+      "ar": "سيريلاك",
+      "count": 11
+    },
+    {
+      "en": "Neo Hair ",
+      "ar": "نيو هير",
+      "count": 1
+    },
+    {
+      "en": "Centrum",
+      "ar": "سنترم",
+      "count": 4
+    },
+    {
+      "en": "Century Beauty",
+      "ar": "سينشري بيوتي",
+      "count": 1
+    },
+    {
+      "en": "Sebamed",
+      "ar": "سيباميد",
+      "count": 11
+    },
+    {
+      "en": "Malizia",
+      "ar": "ماليزيا",
+      "count": 7
+    },
+    {
+      "en": "Kaminomoto",
+      "ar": "كامينوموتو",
+      "count": 2
+    },
+    {
+      "en": "ACURE",
+      "ar": "اكيور",
+      "count": 4
+    },
+    {
+      "en": "ACM",
+      "ar": "أي سي أم ",
+      "count": 1
+    },
+    {
+      "en": "Detol",
+      "ar": "ديتول",
+      "count": 7
+    },
+    {
+      "en": "Bioderma",
+      "ar": "بيودرما",
+      "count": 2
+    },
+    {
+      "en": "Palette",
+      "ar": "باليت",
+      "count": 17
+    },
+    {
+      "en": "Biomil",
+      "ar": "بيوميل",
+      "count": 5
+    },
+    {
+      "en": "FabiMilk",
+      "ar": "فابي ميلك",
+      "count": 1
+    },
+    {
+      "en": "PediaSure",
+      "ar": "بدياشور",
+      "count": 2
+    },
+    {
+      "en": "Etude House",
+      "ar": "اتيود هاوس",
+      "count": 2
+    },
+    {
+      "en": "Nivea",
+      "ar": "نيفيا",
+      "count": 114
+    },
+    {
+      "en": "ARS",
+      "ar": "آرس",
+      "count": 1
+    },
+    {
+      "en": "Aptamil",
+      "ar": "أبتاميل",
+      "count": 6
+    },
+    {
+      "en": "Ajmal",
+      "ar": "أجمل",
+      "count": 1
+    },
+    {
+      "en": "Avogain",
+      "ar": "أفوجين",
+      "count": 1
+    },
+    {
+      "en": "Ousha",
+      "ar": "أوشا",
+      "count": 1
+    },
+    {
+      "en": "Olay",
+      "ar": "أولاي",
+      "count": 1
+    },
+    {
+      "en": "Old Spice",
+      "ar": "أولد سبايس",
+      "count": 8
+    },
+    {
+      "en": "Always",
+      "ar": "أولويز",
+      "count": 21
+    },
+    {
+      "en": "Essence",
+      "ar": "أيسنس",
+      "count": 3
+    },
+    {
+      "en": "S-26",
+      "ar": "إس-26",
+      "count": 8
+    },
+    {
+      "en": "Essence",
+      "ar": "إيسنس",
+      "count": 1
+    },
+    {
+      "en": "Evelene",
+      "ar": "إيفيلين",
+      "count": 1
+    },
+    {
+      "en": "Philips Avent",
+      "ar": "فيليبس - افنت",
+      "count": 34
+    },
+    {
+      "en": "Flamingo-S",
+      "ar": "فلامينجو اس",
+      "count": 1
+    },
+    {
+      "en": "Advanced Clinicals",
+      "ar": "ادفانسد كلينيكالز",
+      "count": 32
+    },
+    {
+      "en": "Adidas",
+      "ar": "اديداس",
+      "count": 8
+    },
+    {
+      "en": "RDL",
+      "ar": "ار دي ال",
+      "count": 4
+    },
+    {
+      "en": "S-26",
+      "ar": "اس 26",
+      "count": 1
+    },
+    {
+      "en": "SVR",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "SVR",
+      "ar": "اس في ار",
+      "count": 2
+    },
+    {
+      "en": "Make Up",
+      "ar": "ميكب",
+      "count": 3
+    },
+    {
+      "en": "Eskinol",
+      "ar": "اسكينول",
+      "count": 4
+    },
+    {
+      "en": "Avene",
+      "ar": "افين",
+      "count": 2
+    },
+    {
+      "en": "AXE",
+      "ar": "اكس",
+      "count": 4
+    },
+    {
+      "en": "EXA",
+      "ar": "اكسا",
+      "count": 1
+    },
+    {
+      "en": "Explode",
+      "ar": "اكسبلود",
+      "count": 1
+    },
+    {
+      "en": "AquaFresh",
+      "ar": "اكوا فريش",
+      "count": 1
+    },
+    {
+      "en": "IL Salone",
+      "ar": "ال صالون",
+      "count": 5
+    },
+    {
+      "en": "Nubian Heritage",
+      "ar": "نوبيان هيرتاج",
+      "count": 6
+    },
+    {
+      "en": "Aloe EVA",
+      "ar": "الو ايفا",
+      "count": 3
+    },
+    {
+      "en": "Allura",
+      "ar": "الورا",
+      "count": 1
+    },
+    {
+      "en": "Always",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Mbeauty",
+      "ar": "ام بيوتي",
+      "count": 2
+    },
+    {
+      "en": "Embryolisse",
+      "ar": "امبيريوليس",
+      "count": 1
+    },
+    {
+      "en": "NYX",
+      "ar": "ان واي اكس",
+      "count": 3
+    },
+    {
+      "en": "Intesa",
+      "ar": "انتيسا",
+      "count": 2
+    },
+    {
+      "en": "Anua",
+      "ar": "انوا",
+      "count": 10
+    },
+    {
+      "en": "Anivagene",
+      "ar": "انيفاجين",
+      "count": 1
+    },
+    {
+      "en": "OGX",
+      "ar": "او جي اكس",
+      "count": 4
+    },
+    {
+      "en": "Jovan",
+      "ar": "جوفان",
+      "count": 5
+    },
+    {
+      "en": "Oral B",
+      "ar": "اورال بي",
+      "count": 25
+    },
+    {
+      "en": "OZ",
+      "ar": "اوز",
+      "count": 2
+    },
+    {
+      "en": "Ousha",
+      "ar": "اوشا",
+      "count": 15
+    },
+    {
+      "en": "Olaplex",
+      "ar": "اولابلكس",
+      "count": 5
+    },
+    {
+      "en": "Olay",
+      "ar": "اولاي",
+      "count": 10
+    },
+    {
+      "en": "ACM",
+      "ar": "اي سي ام",
+      "count": 1
+    },
+    {
+      "en": "Etude House",
+      "ar": "ايتودي هاوس",
+      "count": 1
+    },
+    {
+      "en": "Easy Care",
+      "ar": "ايزي كير",
+      "count": 5
+    },
+    {
+      "en": "Easy max",
+      "ar": "ايزي ماكس",
+      "count": 1
+    },
+    {
+      "en": "ISIS pharma",
+      "ar": "ايزيس فارما",
+      "count": 6
+    },
+    {
+      "en": "Essence",
+      "ar": "ايسنس",
+      "count": 50
+    },
+    {
+      "en": "Evelene",
+      "ar": "ايفلين",
+      "count": 3
+    },
+    {
+      "en": "Ecotools",
+      "ar": "ايكو تولز",
+      "count": 4
+    },
+    {
+      "en": "Elegant",
+      "ar": "ايليغانت",
+      "count": 1
+    },
+    {
+      "en": "Energizer",
+      "ar": "اينرجيزر",
+      "count": 1
+    },
+    {
+      "en": "ACM",
+      "ar": "ايه سي ام",
+      "count": 4
+    },
+    {
+      "en": "Ayu My Unicorn",
+      "ar": "ايو ماي يونيكورن",
+      "count": 1
+    },
+    {
+      "en": "Bubble",
+      "ar": "بابل",
+      "count": 1
+    },
+    {
+      "en": "Batiste",
+      "ar": "باتيست",
+      "count": 4
+    },
+    {
+      "en": "Paradontax",
+      "ar": "بارادونتكس",
+      "count": 15
+    },
+    {
+      "en": "Palmer's",
+      "ar": "بالمرز",
+      "count": 25
+    },
+    {
+      "en": "Pallette",
+      "ar": "باليت",
+      "count": 3
+    },
+    {
+      "en": "Pampers",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Panadol",
+      "ar": "بانادول",
+      "count": 1
+    },
+    {
+      "en": "Panoxyl",
+      "ar": "بانوكسيل ",
+      "count": 2
+    },
+    {
+      "en": "Byphasse",
+      "ar": "باي فيز",
+      "count": 22
+    },
+    {
+      "en": "FOGG",
+      "ar": "فوج",
+      "count": 2
+    },
+    {
+      "en": "Global white",
+      "ar": "جلوبال وايت",
+      "count": 6
+    },
+    {
+      "en": "Wella",
+      "ar": "ويلا",
+      "count": 10
+    },
+    {
+      "en": "PediaSure",
+      "ar": "بدياشور ",
+      "count": 2
+    },
+    {
+      "en": "BrAun",
+      "ar": "براون",
+      "count": 6
+    },
+    {
+      "en": "Private",
+      "ar": "برايفت",
+      "count": 4
+    },
+    {
+      "en": "Pert plus",
+      "ar": "برت بلاس",
+      "count": 6
+    },
+    {
+      "en": "Pretty",
+      "ar": "بريتي",
+      "count": 5
+    },
+    {
+      "en": "Brylcream",
+      "ar": "بريلكريم",
+      "count": 1
+    },
+    {
+      "en": "Primalac",
+      "ar": "بريمالاك",
+      "count": 6
+    },
+    {
+      "en": "Covix Care",
+      "ar": "كوفكيس كير",
+      "count": 52
+    },
+    {
+      "en": "Sunsilk",
+      "ar": " صانسيلك",
+      "count": 3
+    },
+    {
+      "en": "Arganmidas",
+      "ar": " ارجان ميداس",
+      "count": 1
+    },
+    {
+      "en": "Blemil plus",
+      "ar": "بليميل",
+      "count": 7
+    },
+    {
+      "en": "BOD",
+      "ar": "بود",
+      "count": 1
+    },
+    {
+      "en": "Oralhoe",
+      "ar": "أورالهو",
+      "count": 1
+    },
+    {
+      "en": "Make up",
+      "ar": "ميكب",
+      "count": 1
+    },
+    {
+      "en": "Bonawell",
+      "ar": "بوناويل",
+      "count": 2
+    },
+    {
+      "en": "Beau Bella",
+      "ar": "بيا بيلا",
+      "count": 3
+    },
+    {
+      "en": "Bepanthen",
+      "ar": "بيبانثين",
+      "count": 3
+    },
+    {
+      "en": "PaperMints",
+      "ar": "بيبرمنتس",
+      "count": 3
+    },
+    {
+      "en": "Baby Zone",
+      "ar": "بيبى زون",
+      "count": 1
+    },
+    {
+      "en": "Bigen",
+      "ar": "بيجين",
+      "count": 2
+    },
+    {
+      "en": "Pert plus",
+      "ar": "بيرت بلاس",
+      "count": 14
+    },
+    {
+      "en": "Becave",
+      "ar": "بيكاف",
+      "count": 1
+    },
+    {
+      "en": "Pink Bath",
+      "ar": "بينك باث",
+      "count": 1
+    },
+    {
+      "en": "Bio oil",
+      "ar": "بيو اويل",
+      "count": 1
+    },
+    {
+      "en": "Butentity",
+      "ar": "بيوتنتتي",
+      "count": 42
+    },
+    {
+      "en": "Beauty & You",
+      "ar": "بيوتي اند يو",
+      "count": 7
+    },
+    {
+      "en": "Bioderma",
+      "ar": "بيودرما ",
+      "count": 12
+    },
+    {
+      "en": "Purelife",
+      "ar": "بيور لايف",
+      "count": 3
+    },
+    {
+      "en": "Biocerine",
+      "ar": "بيوسرين",
+      "count": 16
+    },
+    {
+      "en": "Bea's",
+      "ar": "بييز",
+      "count": 62
+    },
+    {
+      "en": "Taft",
+      "ar": "تافت",
+      "count": 3
+    },
+    {
+      "en": "TUNG",
+      "ar": "تانج",
+      "count": 4
+    },
+    {
+      "en": "Thayers",
+      "ar": "ثايرس",
+      "count": 1
+    },
+    {
+      "en": "Timeless",
+      "ar": "تايم ليس",
+      "count": 2
+    },
+    {
+      "en": "True Gum",
+      "ar": "ترو جم",
+      "count": 7
+    },
+    {
+      "en": "Trisa",
+      "ar": "تريزا",
+      "count": 6
+    },
+    {
+      "en": "TRESemme",
+      "ar": "تريسمي",
+      "count": 4
+    },
+    {
+      "en": "Soma",
+      "ar": "سوما",
+      "count": 22
+    },
+    {
+      "en": "Choice",
+      "ar": "تشويس",
+      "count": 2
+    },
+    {
+      "en": "Tece",
+      "ar": "تيسى",
+      "count": 7
+    },
+    {
+      "en": "3D Colors",
+      "ar": "ثري دي كالرز",
+      "count": 12
+    },
+    {
+      "en": "Gatsby",
+      "ar": "جاتسبي",
+      "count": 1
+    },
+    {
+      "en": "Grow Me",
+      "ar": "جرو مي",
+      "count": 1
+    },
+    {
+      "en": "Green Wonderland",
+      "ar": "جرين واندر لاند",
+      "count": 1
+    },
+    {
+      "en": "Grenade",
+      "ar": "جرينيد",
+      "count": 8
+    },
+    {
+      "en": "Nature Republic",
+      "ar": "ناتشر ريبابليك",
+      "count": 1
+    },
+    {
+      "en": "Glow & Lovely",
+      "ar": "جلو & لفلي",
+      "count": 1
+    },
+    {
+      "en": "Fair & Lovely",
+      "ar": "فير& لفلي",
+      "count": 5
+    },
+    {
+      "en": "Gillette",
+      "ar": "جليت",
+      "count": 5
+    },
+    {
+      "en": "Gellys",
+      "ar": "جليز",
+      "count": 7
+    },
+    {
+      "en": "Water Flosser",
+      "ar": "بخاخ مياه لتنظيف الاسنان",
+      "count": 1
+    },
+    {
+      "en": "Jawahir AlReem",
+      "ar": "جواهر الريم ",
+      "count": 12
+    },
+    {
+      "en": "Got2b",
+      "ar": "جوت تو بي",
+      "count": 3
+    },
+    {
+      "en": "Golden Scent",
+      "ar": "جولدن سنت",
+      "count": 11
+    },
+    {
+      "en": "Jolen",
+      "ar": "جولين",
+      "count": 3
+    },
+    {
+      "en": "Junsui",
+      "ar": "جونسوي",
+      "count": 2
+    },
+    {
+      "en": "Gisou",
+      "ar": "جيسو",
+      "count": 6
+    },
+    {
+      "en": "Ginema",
+      "ar": "جينما",
+      "count": 1
+    },
+    {
+      "en": "MX",
+      "ar": "ام اكس",
+      "count": 2
+    },
+    {
+      "en": "Tooth Pick",
+      "ar": "خله اسنان",
+      "count": 2
+    },
+    {
+      "en": "Dabur Herbal",
+      "ar": "دابر اعشاب",
+      "count": 9
+    },
+    {
+      "en": "Dabur Amla",
+      "ar": "دابر املا",
+      "count": 15
+    },
+    {
+      "en": "Dabur Herbolene",
+      "ar": "دابر هيربولين",
+      "count": 2
+    },
+    {
+      "en": "Dalfour",
+      "ar": "دالفور",
+      "count": 2
+    },
+    {
+      "en": "Maria",
+      "ar": "ماريا",
+      "count": 1
+    },
+    {
+      "en": "Dr Althea",
+      "ar": "دكتور الثيا",
+      "count": 2
+    },
+    {
+      "en": "Dr Brush",
+      "ar": "دكتور برش",
+      "count": 2
+    },
+    {
+      "en": "Dr Rashel",
+      "ar": "دكتور راشيل",
+      "count": 2
+    },
+    {
+      "en": "Dr Scent",
+      "ar": "دكتور سينت",
+      "count": 2
+    },
+    {
+      "en": "Dorco",
+      "ar": "دوركو",
+      "count": 13
+    },
+    {
+      "en": "Derma roll",
+      "ar": "ديرما رول",
+      "count": 2
+    },
+    {
+      "en": "Derma tulle",
+      "ar": "ديرماتول",
+      "count": 1
+    },
+    {
+      "en": "Derma Future",
+      "ar": "ديرموفيوتشر ",
+      "count": 2
+    },
+    {
+      "en": "Disaar",
+      "ar": "ديسار",
+      "count": 5
+    },
+    {
+      "en": "Diva",
+      "ar": "ديفا ",
+      "count": 13
+    },
+    {
+      "en": "Diva",
+      "ar": "ديفا",
+      "count": 3
+    },
+    {
+      "en": "De LaCruz",
+      "ar": "ديلا كروز",
+      "count": 1
+    },
+    {
+      "en": "Daily Scent",
+      "ar": "ديلي سنت",
+      "count": 8
+    },
+    {
+      "en": "Denx",
+      "ar": "دينكس",
+      "count": 4
+    },
+    {
+      "en": "Durex",
+      "ar": "ديوركس ",
+      "count": 7
+    },
+    {
+      "en": "The Ordinary",
+      "ar": "ذا اورديناري",
+      "count": 9
+    },
+    {
+      "en": "Breath Co",
+      "ar": "بريث كو",
+      "count": 3
+    },
+    {
+      "en": "RapidLash",
+      "ar": "رابيدلاش",
+      "count": 2
+    },
+    {
+      "en": "Ruby Girl",
+      "ar": "روبي جيرل",
+      "count": 1
+    },
+    {
+      "en": "Rolana",
+      "ar": "رولانا",
+      "count": 1
+    },
+    {
+      "en": "Ronagrow",
+      "ar": "روناجرو",
+      "count": 3
+    },
+    {
+      "en": "Ronalac",
+      "ar": "رونالاك",
+      "count": 4
+    },
+    {
+      "en": "Redoxone",
+      "ar": "ريدوكسون",
+      "count": 1
+    },
+    {
+      "en": "Revlon",
+      "ar": "ريفولون",
+      "count": 3
+    },
+    {
+      "en": "Rexona",
+      "ar": "ريكسونا ",
+      "count": 12
+    },
+    {
+      "en": "Make up",
+      "ar": "ميكيب",
+      "count": 4
+    },
+    {
+      "en": "Real Techniques",
+      "ar": "ريل تكنيكس",
+      "count": 2
+    },
+    {
+      "en": "Lotus",
+      "ar": "لوتس",
+      "count": 1
+    },
+    {
+      "en": "Wadi AlNahil",
+      "ar": "وادي النحل",
+      "count": 33
+    },
+    {
+      "en": "AlMojezah oil",
+      "ar": "زيت المعجزة السحري",
+      "count": 1
+    },
+    {
+      "en": "Sara Beauty",
+      "ar": "سارة بيوتي",
+      "count": 2
+    },
+    {
+      "en": "Sakura ",
+      "ar": "ساكورا",
+      "count": 1
+    },
+    {
+      "en": "Steve's",
+      "ar": "سانت ايفز",
+      "count": 4
+    },
+    {
+      "en": "Stylist",
+      "ar": "ستايلست",
+      "count": 5
+    },
+    {
+      "en": "Stridex",
+      "ar": "ستريدكس",
+      "count": 3
+    },
+    {
+      "en": "Stella White",
+      "ar": "ستيلا وايت",
+      "count": 3
+    },
+    {
+      "en": "Skala",
+      "ar": "سكالا",
+      "count": 20
+    },
+    {
+      "en": "Centella",
+      "ar": "سنتيلا",
+      "count": 22
+    },
+    {
+      "en": "Skinoren",
+      "ar": "سكينورين",
+      "count": 1
+    },
+    {
+      "en": "Smart Therapy",
+      "ar": "سمارت ثيرابى",
+      "count": 5
+    },
+    {
+      "en": "SunDown Naturals",
+      "ar": "صن داون ناتشورال",
+      "count": 1
+    },
+    {
+      "en": "Sudocrem",
+      "ar": "سودوكريم",
+      "count": 2
+    },
+    {
+      "en": "Sorciere",
+      "ar": "سورسير",
+      "count": 1
+    },
+    {
+      "en": "Soffell",
+      "ar": "سوفيل",
+      "count": 1
+    },
+    {
+      "en": "Some By Me",
+      "ar": "سوم باي مي",
+      "count": 7
+    },
+    {
+      "en": "Soehnle",
+      "ar": "سونله",
+      "count": 4
+    },
+    {
+      "en": "Cetaphil",
+      "ar": "سيتافيل ",
+      "count": 12
+    },
+    {
+      "en": "Citizen",
+      "ar": "سيتزن",
+      "count": 1
+    },
+    {
+      "en": "City Baby",
+      "ar": "سيتي بيبي",
+      "count": 5
+    },
+    {
+      "en": "City Man",
+      "ar": "سيتي مان",
+      "count": 5
+    },
+    {
+      "en": "Signal",
+      "ar": "سيجنال",
+      "count": 12
+    },
+    {
+      "en": "CeraVe",
+      "ar": "سيرافي",
+      "count": 21
+    },
+    {
+      "en": "Circle Scent",
+      "ar": "سيركل سنت",
+      "count": 7
+    },
+    {
+      "en": "SilkPlast",
+      "ar": "سيلك بلاست",
+      "count": 3
+    },
+    {
+      "en": "Silky Touch",
+      "ar": "سيلكي تاتش",
+      "count": 60
+    },
+    {
+      "en": "Similac",
+      "ar": "سيميلاك",
+      "count": 8
+    },
+    {
+      "en": "Sensilab",
+      "ar": "سينسيلاب",
+      "count": 1
+    },
+    {
+      "en": "Sensodyne",
+      "ar": "سينسوداين",
+      "count": 2
+    },
+    {
+      "en": "Syoss",
+      "ar": "سيوس",
+      "count": 5
+    },
+    {
+      "en": "Pert plus",
+      "ar": "برت بلس",
+      "count": 6
+    },
+    {
+      "en": "Karseell",
+      "ar": "كارسيل",
+      "count": 3
+    },
+    {
+      "en": "Head & Shoulders",
+      "ar": "هيد أند شولدرز",
+      "count": 6
+    },
+    {
+      "en": "Angle Beauty",
+      "ar": "أنجل بيوتي",
+      "count": 1
+    },
+    {
+      "en": "Skin System",
+      "ar": "سكين سستم ",
+      "count": 1
+    },
+    {
+      "en": "Shea Moisture",
+      "ar": "شيا موستر",
+      "count": 6
+    },
+    {
+      "en": "Shea Miracles",
+      "ar": "شيا ميراكلز",
+      "count": 14
+    },
+    {
+      "en": "Fino",
+      "ar": "فينو",
+      "count": 3
+    },
+    {
+      "en": "Tsubaki",
+      "ar": "تسوباكي",
+      "count": 1
+    },
+    {
+      "en": "Schick",
+      "ar": "شيك",
+      "count": 6
+    },
+    {
+      "en": "PhytOflora",
+      "ar": "فيتوفلورا",
+      "count": 1
+    },
+    {
+      "en": "Lifebuoy",
+      "ar": "لايف بوي",
+      "count": 1
+    },
+    {
+      "en": "Salon System",
+      "ar": "صالون سيستم",
+      "count": 7
+    },
+    {
+      "en": "Sunsilk",
+      "ar": "صانسيلك",
+      "count": 26
+    },
+    {
+      "en": "Koleston",
+      "ar": "كوليستون",
+      "count": 30
+    },
+    {
+      "en": "Bigen",
+      "ar": "بيجن",
+      "count": 1
+    },
+    {
+      "en": "Alchole",
+      "ar": "كحول",
+      "count": 1
+    },
+    {
+      "en": "LaBella",
+      "ar": "لابيلا",
+      "count": 12
+    },
+    {
+      "en": "Herb & Oil",
+      "ar": "عشبه وزيت ",
+      "count": 2
+    },
+    {
+      "en": "Ginjer Gum",
+      "ar": "علك جنجر",
+      "count": 4
+    },
+    {
+      "en": "DUO",
+      "ar": "ديو",
+      "count": 7
+    },
+    {
+      "en": "Fa",
+      "ar": "فا",
+      "count": 12
+    },
+    {
+      "en": "Fabimilk",
+      "ar": "فابي ميلك",
+      "count": 5
+    },
+    {
+      "en": "Vatika",
+      "ar": "فاتكيا",
+      "count": 72
+    },
+    {
+      "en": "Vaseline",
+      "ar": "فازلين",
+      "count": 57
+    },
+    {
+      "en": "Fashkool",
+      "ar": "فاشكول",
+      "count": 5
+    },
+    {
+      "en": "Fashion Care",
+      "ar": "فاشن كير",
+      "count": 1
+    },
+    {
+      "en": "Vibrant Glamour",
+      "ar": "فايبرنت جلامور",
+      "count": 1
+    },
+    {
+      "en": "Fit Me",
+      "ar": "فيت مي",
+      "count": 11
+    },
+    {
+      "en": "Franck Olivier",
+      "ar": "فرانك أوليفر",
+      "count": 4
+    },
+    {
+      "en": "First Step",
+      "ar": "فرست ستيب",
+      "count": 1
+    },
+    {
+      "en": "Fresh Dream",
+      "ar": "فريش دريم",
+      "count": 1
+    },
+    {
+      "en": "Freemay",
+      "ar": "فريماي",
+      "count": 1
+    },
+    {
+      "en": "Flormar",
+      "ar": "فلورمار",
+      "count": 227
+    },
+    {
+      "en": "Fogg",
+      "ar": "فوج",
+      "count": 3
+    },
+    {
+      "en": "CareFree",
+      "ar": "كير فري",
+      "count": 18
+    },
+    {
+      "en": "Foltene",
+      "ar": "فولتين",
+      "count": 4
+    },
+    {
+      "en": "Perfectil",
+      "ar": "بيرفيكتيل",
+      "count": 1
+    },
+    {
+      "en": "Vichy",
+      "ar": "فيتشي ",
+      "count": 14
+    },
+    {
+      "en": "Vichy",
+      "ar": "فيتشي",
+      "count": 1
+    },
+    {
+      "en": "V-Drop",
+      "ar": "فيدروب",
+      "count": 1
+    },
+    {
+      "en": "Fair & Lovely",
+      "ar": "فير اند لفلي",
+      "count": 6
+    },
+    {
+      "en": "Fair & White",
+      "ar": "فير اند وايت",
+      "count": 3
+    },
+    {
+      "en": "Fair Lady",
+      "ar": "فير ليدي",
+      "count": 3
+    },
+    {
+      "en": "Feroglobin",
+      "ar": "فيروجلوبين",
+      "count": 1
+    },
+    {
+      "en": "Vicrea",
+      "ar": "فيكريا ",
+      "count": 2
+    },
+    {
+      "en": "Vicks",
+      "ar": "فيكس",
+      "count": 3
+    },
+    {
+      "en": "Velamints",
+      "ar": "فيلامنت",
+      "count": 5
+    },
+    {
+      "en": "Other",
+      "ar": "مستلزمات",
+      "count": 1
+    },
+    {
+      "en": "CottonPlus",
+      "ar": "قطن بلس",
+      "count": 5
+    },
+    {
+      "en": "Mond's Sub",
+      "ar": "موند ساب",
+      "count": 10
+    },
+    {
+      "en": "Krem Kap",
+      "ar": "كريم كاب",
+      "count": 2
+    },
+    {
+      "en": "Maybelline",
+      "ar": "ميبيلين",
+      "count": 12
+    },
+    {
+      "en": "Carmex",
+      "ar": "كارمكس",
+      "count": 4
+    },
+    {
+      "en": "Carrot Sun",
+      "ar": "كاروت صن",
+      "count": 1
+    },
+    {
+      "en": "Colour me",
+      "ar": "كالر مي",
+      "count": 4
+    },
+    {
+      "en": "Kamill",
+      "ar": "كاميل",
+      "count": 6
+    },
+    {
+      "en": "Kaminomoto",
+      "ar": "كامينوموتو ",
+      "count": 1
+    },
+    {
+      "en": "Canderel",
+      "ar": "كاندريل",
+      "count": 5
+    },
+    {
+      "en": "Kanechom",
+      "ar": "كانشوم",
+      "count": 1
+    },
+    {
+      "en": "LaVuv",
+      "ar": "لافوف",
+      "count": 50
+    },
+    {
+      "en": "Kerdan",
+      "ar": "كردان",
+      "count": 20
+    },
+    {
+      "en": "Crest",
+      "ar": "كريست",
+      "count": 17
+    },
+    {
+      "en": "Cristal",
+      "ar": "كريستال ",
+      "count": 2
+    },
+    {
+      "en": "LaRoche Posay",
+      "ar": "لاروش بوزيه",
+      "count": 22
+    },
+    {
+      "en": "Cantu",
+      "ar": " كانتو",
+      "count": 1
+    },
+    {
+      "en": "Creme of nature",
+      "ar": "كريم اوف نيتشر",
+      "count": 3
+    },
+    {
+      "en": "Cream Silk",
+      "ar": "كريم سيلك",
+      "count": 5
+    },
+    {
+      "en": "KAP",
+      "ar": "كاب",
+      "count": 1
+    },
+    {
+      "en": "Clara",
+      "ar": "كلارا",
+      "count": 190
+    },
+    {
+      "en": "Close Up",
+      "ar": "كلوس اب",
+      "count": 7
+    },
+    {
+      "en": "Clovata",
+      "ar": "كلوفاتا",
+      "count": 4
+    },
+    {
+      "en": "Clear",
+      "ar": "كلير",
+      "count": 22
+    },
+    {
+      "en": "Clairol",
+      "ar": "كليرول",
+      "count": 1
+    },
+    {
+      "en": "Clean & Clear",
+      "ar": "كلين اند كلير",
+      "count": 7
+    },
+    {
+      "en": "Cleopatra",
+      "ar": "كليوباترا",
+      "count": 1
+    },
+    {
+      "en": "Face Mask",
+      "ar": "كمامه",
+      "count": 1
+    },
+    {
+      "en": "Kunooz H",
+      "ar": "كنوز اتش",
+      "count": 1
+    },
+    {
+      "en": "Kojie.san",
+      "ar": "كوجي سان",
+      "count": 5
+    },
+    {
+      "en": "Kojic Acid",
+      "ar": "كوجيك اسيد",
+      "count": 3
+    },
+    {
+      "en": "Cornells",
+      "ar": "كورنلز",
+      "count": 8
+    },
+    {
+      "en": "Corega",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Cosmo",
+      "ar": "كوزمو",
+      "count": 71
+    },
+    {
+      "en": "Cosrx",
+      "ar": "كوسركس",
+      "count": 12
+    },
+    {
+      "en": "Coxir",
+      "ar": "كوكسير",
+      "count": 3
+    },
+    {
+      "en": "Cool & Cool",
+      "ar": "كول اند كول",
+      "count": 14
+    },
+    {
+      "en": "Colgate",
+      "ar": "كولجيت",
+      "count": 7
+    },
+    {
+      "en": "Contour",
+      "ar": "كونتور",
+      "count": 1
+    },
+    {
+      "en": "Queen Line",
+      "ar": "كوين لاين",
+      "count": 2
+    },
+    {
+      "en": "Kelly Cream",
+      "ar": "كيلي",
+      "count": 1
+    },
+    {
+      "en": "Kenta",
+      "ar": "كينتا",
+      "count": 2
+    },
+    {
+      "en": "K18",
+      "ar": "كيه 18",
+      "count": 2
+    },
+    {
+      "en": "Labello",
+      "ar": "لابيلو",
+      "count": 10
+    },
+    {
+      "en": "Larilac",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Lovly",
+      "ar": "لافلي",
+      "count": 7
+    },
+    {
+      "en": "Lala",
+      "ar": "لالا",
+      "count": 6
+    },
+    {
+      "en": "Lamer",
+      "ar": "لامير",
+      "count": 16
+    },
+    {
+      "en": "Lansinoh",
+      "ar": "لانسينوه",
+      "count": 1
+    },
+    {
+      "en": "Lanolin ",
+      "ar": "لانولين",
+      "count": 2
+    },
+    {
+      "en": "Lifebuoy",
+      "ar": "لايف بوى",
+      "count": 10
+    },
+    {
+      "en": "Lifree",
+      "ar": "لايفري",
+      "count": 1
+    },
+    {
+      "en": "Le Visage Plus",
+      "ar": "لو فيزاج بلس",
+      "count": 1
+    },
+    {
+      "en": "Lorance",
+      "ar": "لورانس",
+      "count": 33
+    },
+    {
+      "en": "L'oreal",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "LOCA",
+      "ar": "لوكا",
+      "count": 79
+    },
+    {
+      "en": "LUX",
+      "ar": "لوكس",
+      "count": 30
+    },
+    {
+      "en": "Lady speed Stick",
+      "ar": "ليدي سبيد ستيك",
+      "count": 8
+    },
+    {
+      "en": "Laser White",
+      "ar": "ليزر وايت ",
+      "count": 4
+    },
+    {
+      "en": "LEF",
+      "ar": "ليف",
+      "count": 2
+    },
+    {
+      "en": "Lifree",
+      "ar": "ليفري",
+      "count": 11
+    },
+    {
+      "en": "Lens Me",
+      "ar": "لنس مي",
+      "count": 23
+    },
+    {
+      "en": "Laneige",
+      "ar": "لينيج",
+      "count": 1
+    },
+    {
+      "en": "Marvis",
+      "ar": "مارفيس ",
+      "count": 5
+    },
+    {
+      "en": "Marvis",
+      "ar": "مارفيس",
+      "count": 1
+    },
+    {
+      "en": "Skinlite",
+      "ar": "سكين لايت",
+      "count": 2
+    },
+    {
+      "en": "Garnier",
+      "ar": "غارنيه",
+      "count": 1
+    },
+    {
+      "en": "Mason Natural",
+      "ar": "ماسون ناتشورال",
+      "count": 1
+    },
+    {
+      "en": "Malisia",
+      "ar": "ماليزيا",
+      "count": 4
+    },
+    {
+      "en": "MUM",
+      "ar": "مام",
+      "count": 9
+    },
+    {
+      "en": "MyLense",
+      "ar": "ماي لينس",
+      "count": 23
+    },
+    {
+      "en": "Voge Ortho kit",
+      "ar": "فوج مجموعه تقويم الاسنان",
+      "count": 1
+    },
+    {
+      "en": "Elizabeth Helen",
+      "ar": "اليزابيث هيلين",
+      "count": 2
+    },
+    {
+      "en": "Norsina",
+      "ar": "نورسينا",
+      "count": 1
+    },
+    {
+      "en": "Mr Tumee",
+      "ar": "مستر تومي",
+      "count": 2
+    },
+    {
+      "en": "Nagowan Musk",
+      "ar": "مسك النقاوة",
+      "count": 1
+    },
+    {
+      "en": "Masculan",
+      "ar": "مسكولان",
+      "count": 8
+    },
+    {
+      "en": "PaperMints",
+      "ar": "بيبر مينت",
+      "count": 1
+    },
+    {
+      "en": "Monesh",
+      "ar": "منعش",
+      "count": 3
+    },
+    {
+      "en": "Moroccan Oil",
+      "ar": "موركان اويل",
+      "count": 8
+    },
+    {
+      "en": "Mustela",
+      "ar": "موستيلا",
+      "count": 7
+    },
+    {
+      "en": "Mofi",
+      "ar": "موفي",
+      "count": 2
+    },
+    {
+      "en": "Mom's Bath",
+      "ar": "مومز باث",
+      "count": 3
+    },
+    {
+      "en": "Mia Beauty",
+      "ar": "ميا بيوتى",
+      "count": 11
+    },
+    {
+      "en": "Medone",
+      "ar": "ميدون",
+      "count": 5
+    },
+    {
+      "en": "Medicube",
+      "ar": "ميديكيوب",
+      "count": 2
+    },
+    {
+      "en": "Missha",
+      "ar": "ميشا",
+      "count": 1
+    },
+    {
+      "en": "Mica Ella",
+      "ar": "ميكا إيلا",
+      "count": 14
+    },
+    {
+      "en": "Mixup!",
+      "ar": "ميكس اب",
+      "count": 6
+    },
+    {
+      "en": "Mielle",
+      "ar": "ميلي",
+      "count": 6
+    },
+    {
+      "en": "Nature's Answer",
+      "ar": "ناتشر انسر",
+      "count": 2
+    },
+    {
+      "en": "Nature Republic",
+      "ar": "ناتيشر ريببلك",
+      "count": 2
+    },
+    {
+      "en": "NAN",
+      "ar": "نان",
+      "count": 8
+    },
+    {
+      "en": "Nature's Bounty",
+      "ar": "نايتشرز باونتي",
+      "count": 5
+    },
+    {
+      "en": "Rouge Velvet",
+      "ar": "روج فلفيت",
+      "count": 5
+    },
+    {
+      "en": "Novell",
+      "ar": "نوفال",
+      "count": 2
+    },
+    {
+      "en": "Novalac",
+      "ar": "نوفالاك",
+      "count": 7
+    },
+    {
+      "en": "Nunu",
+      "ar": "نونو",
+      "count": 31
+    },
+    {
+      "en": "Neutogena",
+      "ar": "نيتروجينا",
+      "count": 15
+    },
+    {
+      "en": "Nature Pure",
+      "ar": "نيتشر بيور",
+      "count": 1
+    },
+    {
+      "en": "Gloves ",
+      "ar": "جوانتي ",
+      "count": 3
+    },
+    {
+      "en": "Nuralac",
+      "ar": "نيورالاك",
+      "count": 7
+    },
+    {
+      "en": "Head & Shoulders",
+      "ar": "هيد اند شولدرز",
+      "count": 15
+    },
+    {
+      "en": "Himalaya",
+      "ar": "هيمالايا ",
+      "count": 2
+    },
+    {
+      "en": "Humana",
+      "ar": "هيومانا",
+      "count": 3
+    },
+    {
+      "en": "Disaar",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": " Disaar ",
+      "ar": "ديسار",
+      "count": 1
+    },
+    {
+      "en": "ONE",
+      "ar": "ون",
+      "count": 5
+    },
+    {
+      "en": "EVA",
+      "ar": "أيفا",
+      "count": 4
+    },
+    {
+      "en": "Winmax",
+      "ar": "وينماكس",
+      "count": 1
+    },
+    {
+      "en": "Yardley",
+      "ar": "ياردلي",
+      "count": 21
+    },
+    {
+      "en": "Yellow",
+      "ar": "يلو",
+      "count": 1
+    },
+    {
+      "en": "Uriage",
+      "ar": "يورياج",
+      "count": 4
+    },
+    {
+      "en": "Cantu",
+      "ar": "شيا موستر",
+      "count": 1
+    },
+    {
+      "en": "Astera",
+      "ar": "أستيرا",
+      "count": 28
+    },
+    {
+      "en": "Avalon",
+      "ar": "أفالون",
+      "count": 1
+    },
+    {
+      "en": "IKT",
+      "ar": "أي كي تي",
+      "count": 1
+    },
+    {
+      "en": "Ayob Sabry",
+      "ar": "أيوب صبري",
+      "count": 58
+    },
+    {
+      "en": "Unknown",
+      "ar": "ارم اند هامر",
+      "count": 1
+    },
+    {
+      "en": "Aghadir",
+      "ar": "اغادير",
+      "count": 7
+    },
+    {
+      "en": "Aveeno",
+      "ar": "افينو",
+      "count": 1
+    },
+    {
+      "en": "Avius",
+      "ar": "افيوس",
+      "count": 28
+    },
+    {
+      "en": "Unknown",
+      "ar": "اكس",
+      "count": 1
+    },
+    {
+      "en": "Axis-Y",
+      "ar": "اكسيس واي",
+      "count": 2
+    },
+    {
+      "en": "Ultra-Fem",
+      "ar": "الترافيم",
+      "count": 1
+    },
+    {
+      "en": "Al Diafa",
+      "ar": "الضيافة",
+      "count": 2
+    },
+    {
+      "en": "NG",
+      "ar": "ان جي",
+      "count": 2
+    },
+    {
+      "en": "Isilac",
+      "ar": "ايزيلاك",
+      "count": 7
+    },
+    {
+      "en": "Paradont",
+      "ar": "بارادونت",
+      "count": 9
+    },
+    {
+      "en": "Unknown",
+      "ar": "بالمرز",
+      "count": 2
+    },
+    {
+      "en": "Biovene",
+      "ar": "بايوفين",
+      "count": 2
+    },
+    {
+      "en": "Bourjois",
+      "ar": "برجوا",
+      "count": 1
+    },
+    {
+      "en": "Perfume Co",
+      "ar": "برفيوم كو",
+      "count": 18
+    },
+    {
+      "en": "Blevit",
+      "ar": "بلفيت",
+      "count": 5
+    },
+    {
+      "en": "Bebelac",
+      "ar": "بيبيلاك",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "بيزلين",
+      "count": 2
+    },
+    {
+      "en": "BioLife",
+      "ar": "بيو لايف",
+      "count": 8
+    },
+    {
+      "en": "Beauty system",
+      "ar": "بيوتي سيستم",
+      "count": 2
+    },
+    {
+      "en": "Pure & Clean",
+      "ar": "بيور اند كلين",
+      "count": 1
+    },
+    {
+      "en": "CHI",
+      "ar": "تشي",
+      "count": 16
+    },
+    {
+      "en": "Toniderma",
+      "ar": "تونيدرما",
+      "count": 12
+    },
+    {
+      "en": "Tinker bell",
+      "ar": "تينكر بيل",
+      "count": 12
+    },
+    {
+      "en": "Jadayel",
+      "ar": "جدايل",
+      "count": 2
+    },
+    {
+      "en": "Jergens",
+      "ar": "جرجنز",
+      "count": 13
+    },
+    {
+      "en": "Glupa",
+      "ar": "جلوبا",
+      "count": 1
+    },
+    {
+      "en": "WAX System",
+      "ar": "واكس سيسم",
+      "count": 1
+    },
+    {
+      "en": "Joy",
+      "ar": "جوي",
+      "count": 1
+    },
+    {
+      "en": "Daiso",
+      "ar": "دايسو",
+      "count": 1
+    },
+    {
+      "en": "Royal Care",
+      "ar": "Unknown",
+      "count": 1
+    },
+    {
+      "en": "Resoul",
+      "ar": "ريسول",
+      "count": 1
+    },
+    {
+      "en": "Rimmel",
+      "ar": "ريميل",
+      "count": 5
+    },
+    {
+      "en": "Strepsils",
+      "ar": "ستربسلز",
+      "count": 2
+    },
+    {
+      "en": "Selective collection",
+      "ar": "سيليكتف كوليكشن",
+      "count": 21
+    },
+    {
+      "en": "Studex",
+      "ar": "ستودكس",
+      "count": 24
+    },
+    {
+      "en": "Unknown",
+      "ar": "ستودكس",
+      "count": 1
+    },
+    {
+      "en": "Cinderella",
+      "ar": "سندريلا",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "سنسوداين",
+      "count": 1
+    },
+    {
+      "en": "Snow White",
+      "ar": "سنو وايت",
+      "count": 1
+    },
+    {
+      "en": "Supramil",
+      "ar": "سوبراميل",
+      "count": 3
+    },
+    {
+      "en": "Softy",
+      "ar": "سوفتي",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "سوم باي مي",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "سوما",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "سيباميد",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "سيتافيل ",
+      "count": 1
+    },
+    {
+      "en": "CelTec",
+      "ar": "سيلتيك",
+      "count": 1
+    },
+    {
+      "en": "Simpak",
+      "ar": "سيمباك",
+      "count": 4
+    },
+    {
+      "en": "Emergency Bag",
+      "ar": "شنطه الاسعافات الاولية",
+      "count": 3
+    },
+    {
+      "en": "Vagisil",
+      "ar": "فاجيسال",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "فازلين",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "فاشن كير",
+      "count": 1
+    },
+    {
+      "en": "Freeze",
+      "ar": "فريز",
+      "count": 2
+    },
+    {
+      "en": "FreshDays",
+      "ar": "فريش دايز",
+      "count": 1
+    },
+    {
+      "en": "Vitafos",
+      "ar": "فيتافوس",
+      "count": 1
+    },
+    {
+      "en": "Femisept",
+      "ar": "فيميسيبت",
+      "count": 1
+    },
+    {
+      "en": "Carlotta",
+      "ar": "كارولوتا",
+      "count": 6
+    },
+    {
+      "en": "Crest ",
+      "ar": "كريست",
+      "count": 1
+    },
+    {
+      "en": "Now",
+      "ar": "ناو",
+      "count": 1
+    },
+    {
+      "en": "Color Wow",
+      "ar": "كلر واو",
+      "count": 2
+    },
+    {
+      "en": "Kleenex",
+      "ar": "كلينكس",
+      "count": 2
+    },
+    {
+      "en": "Coogie",
+      "ar": "كوجي",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "لاروش بوزيه",
+      "count": 2
+    },
+    {
+      "en": "Selective Collection",
+      "ar": "سيليكتف كوليكشن",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "لاكمي",
+      "count": 1
+    },
+    {
+      "en": "Louis Widmer",
+      "ar": "لويس - وايدمر",
+      "count": 3
+    },
+    {
+      "en": "Lip Smacker",
+      "ar": "ليب سماكر",
+      "count": 13
+    },
+    {
+      "en": "Lady Mary",
+      "ar": "ليدي ماري",
+      "count": 1
+    },
+    {
+      "en": "Masculan",
+      "ar": "ماسكولان",
+      "count": 6
+    },
+    {
+      "en": "Sakura",
+      "ar": "ساكورا",
+      "count": 2
+    },
+    {
+      "en": "Maxi-rest",
+      "ar": "ماكسي ريست",
+      "count": 1
+    },
+    {
+      "en": "Maxiheal",
+      "ar": "ماكسي هيل ",
+      "count": 1
+    },
+    {
+      "en": "Mamy Wipes",
+      "ar": "مامي وايبس",
+      "count": 2
+    },
+    {
+      "en": "Some By Me",
+      "ar": "سوم بي مي",
+      "count": 2
+    },
+    {
+      "en": "Different Colour",
+      "ar": "ديفرنت كلر",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "ديفرنت كلر",
+      "count": 1
+    },
+    {
+      "en": "Mlay",
+      "ar": "ملاي",
+      "count": 1
+    },
+    {
+      "en": "Number 1",
+      "ar": "نمبر 1",
+      "count": 2
+    },
+    {
+      "en": "Mentos",
+      "ar": "منتوس",
+      "count": 10
+    },
+    {
+      "en": "Mood Matcher",
+      "ar": "مود ماتشر",
+      "count": 10
+    },
+    {
+      "en": "Unknown",
+      "ar": "موركان اويل",
+      "count": 1
+    },
+    {
+      "en": "Moon Face",
+      "ar": "موون فيس",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "ميدون",
+      "count": 1
+    },
+    {
+      "en": "Media",
+      "ar": "ميديا",
+      "count": 2
+    },
+    {
+      "en": "Mentasept",
+      "ar": "مينتاسيبت",
+      "count": 1
+    },
+    {
+      "en": "Nitro Canada",
+      "ar": "نيترو كندا",
+      "count": 1
+    },
+    {
+      "en": "HUGGIES",
+      "ar": "هجيز",
+      "count": 8
+    },
+    {
+      "en": "Hair System",
+      "ar": "هير سيستم",
+      "count": 4
+    },
+    {
+      "en": "Unknown",
+      "ar": "وادي النحل",
+      "count": 2
+    },
+    {
+      "en": "Wax System",
+      "ar": "واكس سيستم",
+      "count": 1
+    },
+    {
+      "en": "Welziad",
+      "ar": "ويلزياد",
+      "count": 1
+    },
+    {
+      "en": "YONA",
+      "ar": "يونا",
+      "count": 3
+    },
+    {
+      "en": "United",
+      "ar": "يونايتد",
+      "count": 3
+    },
+    {
+      "en": "Unknown",
+      "ar": "كانتو",
+      "count": 2
+    },
+    {
+      "en": "Unknown",
+      "ar": "أستيرا",
+      "count": 1
+    },
+    {
+      "en": "Enrgy",
+      "ar": "إنرجي",
+      "count": 1
+    },
+    {
+      "en": "Agadir",
+      "ar": "اغادير",
+      "count": 1
+    },
+    {
+      "en": "ACM",
+      "ar": "اي سي ام ",
+      "count": 1
+    },
+    {
+      "en": "BioLife",
+      "ar": "بيو لايف ",
+      "count": 1
+    },
+    {
+      "en": "Beauty System",
+      "ar": "بيوتي سيستم",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "بيودرما",
+      "count": 1
+    },
+    {
+      "en": "T5",
+      "ar": "تي 5",
+      "count": 1
+    },
+    {
+      "en": "Dabur Amla",
+      "ar": "دابر املا ",
+      "count": 1
+    },
+    {
+      "en": "Dabur Vatika",
+      "ar": "دابر فاتيكا ",
+      "count": 1
+    },
+    {
+      "en": "DASH",
+      "ar": "داش",
+      "count": 1
+    },
+    {
+      "en": "Unknown",
+      "ar": "ذا اورديناري",
+      "count": 1
+    },
+    {
+      "en": "Revelon",
+      "ar": "ريفلون",
+      "count": 1
+    },
+    {
+      "en": "SARA",
+      "ar": "سارا",
+      "count": 1
+    },
+    {
+      "en": "Studex",
+      "ar": "ستريدكس",
+      "count": 1
+    },
+    {
+      "en": "Freez",
+      "ar": "فريز",
+      "count": 1
+    },
+    {
+      "en": "FemFresh",
+      "ar": "فيم فرش",
+      "count": 1
+    },
+    {
+      "en": "Completely Bare",
+      "ar": "كومبليتلي بير",
+      "count": 1
+    },
+    {
+      "en": "Lipobase",
+      "ar": "ليبوبيز",
+      "count": 1
+    },
+    {
+      "en": "Liceel",
+      "ar": "ليسيل",
+      "count": 2
+    },
+    {
+      "en": "LiFree",
+      "ar": "ليفري",
+      "count": 1
+    },
+    {
+      "en": "Nature's Way",
+      "ar": "ناتشرز واي",
+      "count": 1
+    },
+    {
+      "en": "Himalaya",
+      "ar": "هيمالايا",
+      "count": 1
+    }
+  ]
+}

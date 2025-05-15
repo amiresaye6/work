@@ -59,9 +59,9 @@
 const fs = require('fs');
 
 // Paths to your files - update these with your actual file paths
-const firstFilePath = './allBrands.json';
-const secondFilePath = './pharmacista_brand-analysis.json'; // Contains the totalProducts, uniqueBrands, etc.
-const outputFilePath = './matchingBrands.json';
+const firstFilePath = './allBrandsAr.json';
+const secondFilePath = './arPharmacista_brand-analysis.json'; // Contains the totalProducts, uniqueBrands, etc.
+const outputFilePath = './arMatchingBrands.json';
 
 // Read and parse the files
 try {

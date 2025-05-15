@@ -13,7 +13,7 @@ function analyzeBrands(inputFilePath, outputFilePath) {
         // Loop through each product
         products.forEach(product => {
             // Use the "Brand" field, but fall back to "براند" if "Brand" is empty
-            const brand = product.Brand || product["براند"] || "Unknown";
+            const brand = product["براند"] || product.Brand || "Unknown";
 
             // If this brand is not yet in our counts, initialize it
             if (!brandCounts[brand]) {
@@ -45,7 +45,7 @@ function analyzeBrands(inputFilePath, outputFilePath) {
 
 // File paths
 const inputFilePath = 'pharmacista_master_data_updated_5_7_2025_2025-05-12_16-56-47.json';
-const outputFilePath = 'pharmacista_brand-analysis.json';
+const outputFilePath = 'arPharmacista_brand-analysis.json';
 
 // Run the analysis
 analyzeBrands(inputFilePath, outputFilePath);
