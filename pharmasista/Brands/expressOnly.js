@@ -1,10 +1,11 @@
 const fs = require('fs');
 
-const inputFilepath = './all_brands_and_products_combined.json';
-const outputFilePath = './expreeProducts.json';
+const inputFilepath = './Arall_brands_combined.json';
+const outputFilePath = './ArexpreeProducts.json';
 
 // Read and parse the files
 try {
+    console.log("hi")
     const inputFile = JSON.parse(fs.readFileSync(inputFilepath, 'utf8'));
 
     // Extract brands from second file (object with brandBreakdown property)

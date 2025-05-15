@@ -10,8 +10,8 @@ function getCurrentDateTime() {
 // Configuration
 const currentDateTime = "2025-05-13 15:20:09"; // From your input
 const currentUser = "amiresaye6"; // From your input
-const brandsFolder = './brands';
-const outputFile = './all_brands_combined.json';
+const brandsFolder = './brandsAr';
+const outputFile = './Arall_brands_combined.json';
 
 async function combineFiles() {
     try {
