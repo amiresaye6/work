@@ -1,0 +1,4214 @@
+[
+  {
+    "product1": {
+      "Internal Reference": "3061370834029",
+      "Barcode": null,
+      "Name": "لوريال باريس كريم هيالورون اكسبرت النهاري 50 مل",
+      "Display Name": "[3061370834029] لوريال باريس كريم هيالورون اكسبرت النهاري 50 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 39.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم ريفيتاليفت نهار 50 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-cream-revitalift-day-50-ml/pdp/100571847",
+      "productId": "100571847",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-cream-revitalift-day-50-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}45.85",
+      "originalPrice": "65.50",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "69",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6842025637626648,
+    "text_similarity": 0.9368102550506592,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1409",
+      "Barcode": "6941594521165",
+      "Name": "لوريال جليكوليك برايت تونر مقشر للإشراقة الفورية 128مل",
+      "Display Name": "[a-1409] لوريال جليكوليك برايت تونر مقشر للإشراقة الفورية 128مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 62.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جليكوليك برايت تونر مقشر 128 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-glowing-peeling-toner-128ml/pdp/102688758",
+      "productId": "102688758",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-glowing-peeling-toner-128ml-0pjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}52.33",
+      "originalPrice": "74.75",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "57",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6783694148063659,
+    "text_similarity": 0.9134776592254639,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": null,
+      "Barcode": "3600524042684",
+      "Name": "لوريال هيالورون سيروم ترطيب 150 مل",
+      "Display Name": "لوريال هيالورون سيروم ترطيب 150 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 7,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 65.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال سكن اكسبرت جل غسول للنضارة 150 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-skin-expert-clay-brightening-gel-wash-150-ml/pdp/101144151",
+      "productId": "101144151",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-skin-expert-clay-brightening-gel-wash-150-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}28.21",
+      "originalPrice": "40.31",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "61",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6631750285625457,
+    "text_similarity": 0.8527001142501831,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1404",
+      "Barcode": "3610340662782",
+      "Name": "لوريال باريس سيروم الوجه لإشراقة فورية بحمض الجلايكوليك 15مل",
+      "Display Name": "[a-1404] لوريال باريس سيروم الوجه لإشراقة فورية بحمض الجلايكوليك 15مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 47.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس سيروم غلايكوليك برايت ميلاسيل 15 مل",
+      "url": "https://www.nahdionline.com/ar-sa/l-oreal-paris-glycolic-bright-melasyl-serum-15-ml/pdp/102177691",
+      "productId": "102177691",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/102177691_a1a744cf157a77231_5303.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}33.59",
+      "originalPrice": "47.99",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "49",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6369833022356033,
+    "text_similarity": 0.7479332089424133,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1403",
+      "Barcode": "3610340662775",
+      "Name": "لوريال باريس سيروم الوجه لإشراقة فورية بحمض الجلايكوليك 30مل",
+      "Display Name": "[a-1403] لوريال باريس سيروم الوجه لإشراقة فورية بحمض الجلايكوليك 30مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 72.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس سيروم غلايكوليك برايت ميلاسيل 30 مل",
+      "url": "https://www.nahdionline.com/ar-sa/l-oreal-paris-glycolic-bright-melasyl-serum-30ml/pdp/102177704",
+      "productId": "102177704",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/102177704_a53f1bf4a545a3c19_86979.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}56.11",
+      "originalPrice": "80.16",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "41",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6329640865325927,
+    "text_similarity": 0.7318563461303711,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3980",
+      "Barcode": "3610340671012",
+      "Name": "لوريال الفيف شامبو بالهيالورونيك لفروة الرأس الدهنية",
+      "Display Name": "[a-3980] لوريال الفيف شامبو بالهيالورونيك لفروة الرأس الدهنية",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 28,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 23.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيسيونال مجموعة سكالب",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-scalp-set/pdp/103436860",
+      "productId": "103436860",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103436860_ac48ad72b3875fd41_56413.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}163.78",
+      "originalPrice": "204.73",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "65",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6318624436855316,
+    "text_similarity": 0.7274497747421265,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": null,
+      "Barcode": "3610340670992",
+      "Name": "لوريال شامبو هيالورون بيور مل200",
+      "Display Name": "لوريال شامبو هيالورون بيور مل200",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": 0
+    },
+    "product2": {
+      "title": "لوريال كونسيلر ترو ماتش 2N ﭬانيلا",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-true-match-concealer-2n-vanilla/pdp/101300281",
+      "productId": "101300281",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-concealer-2n-vanille_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}37.00",
+      "originalPrice": "56.93",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "196",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:04",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6285478591918945,
+    "text_similarity": 0.7141914367675781,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600523959716",
+      "Barcode": null,
+      "Name": "لوريال باريس صبغه شعر ماجيك ريتاش بيج 75 مل",
+      "Display Name": "[3600523959716] لوريال باريس صبغه شعر ماجيك ريتاش بيج 75 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 25.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال ماجيك ريتاتاش لإخفاء لون جذور الشعر أسود 75 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-magic-retouch-black-75-ml/pdp/101119086",
+      "productId": "101119086",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-spray-instant-root-concealer-black-75-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}31.67",
+      "originalPrice": "39.59",
+      "discount": "وفر20 %",
+      "isExpress": true,
+      "position": "17",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6220998883247375,
+    "text_similarity": 0.6883995532989502,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1366",
+      "Barcode": "3610340636646",
+      "Name": "لوريال شامبو دريم لونج للشعرالطويل الضعيف 200 مل",
+      "Display Name": "[a-1366] لوريال شامبو دريم لونج للشعرالطويل الضعيف 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 16,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6187006503343582,
+    "text_similarity": 0.6748026013374329,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600523823611",
+      "Barcode": null,
+      "Name": "لوريال باريس غسول جل الوجه هيالورون اكسبرت 200 مل",
+      "Display Name": "[3600523823611] لوريال باريس غسول جل الوجه هيالورون اكسبرت 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 43.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال هيالورون إكسبرت غسول جل لتعزيز مرونة البشرة  200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hyaluron-expert-replumping-gel-wash-200-ml/pdp/101811646",
+      "productId": "101811646",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hyaluron-expert-replumping-gel-wash-200-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}24.15",
+      "originalPrice": "34.50",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "44",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6171778261661529,
+    "text_similarity": 0.6687113046646118,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3610340663192",
+      "Barcode": null,
+      "Name": "لوريال باريس غسول يومي للإشراقة الوجه 100 مل",
+      "Display Name": "[3610340663192] لوريال باريس غسول يومي للإشراقة الوجه 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 33.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6128482490777969,
+    "text_similarity": 0.6513929963111877,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1352",
+      "Barcode": "3600521230404",
+      "Name": "لوريال كاستنج  كريم غلوس صبغة للشعر700 أشقر",
+      "Display Name": "[a-1352] لوريال كاستنج  كريم غلوس صبغة للشعر700 أشقر",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم أساس ترو ماتش6N - عسلي",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-foundation-6n-honey/pdp/101025231",
+      "productId": "101025231",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-true-match-foundation-honey-6n_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}74.00",
+      "originalPrice": "113.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "174",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6080775380134582,
+    "text_similarity": 0.632310152053833,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1358",
+      "Barcode": "3610340006302",
+      "Name": "لوريال باريس إلفيف شامبو لحماية الشعر المصبوغ 200 مل",
+      "Display Name": "[a-1358] لوريال باريس إلفيف شامبو لحماية الشعر المصبوغ 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 41,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6059094339609146,
+    "text_similarity": 0.6236377358436584,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1350",
+      "Barcode": "3600521230336",
+      "Name": "لوريال كاستنج  كريم غلوس صبغة للشعر550 بني فاتح أرجواني",
+      "Display Name": "[a-1350] لوريال كاستنج  كريم غلوس صبغة للشعر550 بني فاتح أرجواني",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم أساس ترو ماتش6N - عسلي",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-foundation-6n-honey/pdp/101025231",
+      "productId": "101025231",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-true-match-foundation-honey-6n_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}74.00",
+      "originalPrice": "113.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "174",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6051030278205871,
+    "text_similarity": 0.6204121112823486,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3981",
+      "Barcode": "3610340649653",
+      "Name": "شامبو مقوي للشعر الفيف المقاومة الكاملة من لوريال باريس",
+      "Display Name": "[a-3981] شامبو مقوي للشعر الفيف المقاومة الكاملة من لوريال باريس",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 12,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.604599517583847,
+    "text_similarity": 0.6183980703353882,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3577",
+      "Barcode": "3061375119015",
+      "Name": "لوريال صبغة شعر اكسلانس بني فاتح 5",
+      "Display Name": "[a-3577] لوريال صبغة شعر اكسلانس بني فاتح 5",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال محدد حواجب انفالبيل 5 لايت برونيت",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-infaillible-24h-50-light-brunette/pdp/102845581",
+      "productId": "102845581",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-infaillible-24h-5-0-light-brunette-0ajpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}36.39",
+      "originalPrice": "55.99",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "235",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:14",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6038276374340057,
+    "text_similarity": 0.615310549736023,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3061370824013",
+      "Barcode": null,
+      "Name": "لوريال باريس بخاخ شعر ايلنت مثبت عادي 75 مل",
+      "Display Name": "[3061370824013] لوريال باريس بخاخ شعر ايلنت مثبت عادي 75 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 13.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال ماجيك ريتاتاش لإخفاء لون جذور الشعر بني 75 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-magic-retouch-brown-75-ml/pdp/101119115",
+      "productId": "101119115",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-spray-instant-root-concealer-brown-75-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}31.67",
+      "originalPrice": "39.59",
+      "discount": "وفر20 %",
+      "isExpress": true,
+      "position": "14",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.601575744152069,
+    "text_similarity": 0.6063029766082764,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1353",
+      "Barcode": "3600521230435",
+      "Name": "لوريال كاستنج كريم غلوس صبغة للشعر810 أشقر رمادي",
+      "Display Name": "[a-1353] لوريال كاستنج كريم غلوس صبغة للشعر810 أشقر رمادي",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم أساس ترو ماتش6N - عسلي",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-foundation-6n-honey/pdp/101025231",
+      "productId": "101025231",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-true-match-foundation-honey-6n_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}74.00",
+      "originalPrice": "113.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "174",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.6011674225330352,
+    "text_similarity": 0.6046696901321411,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "6281006586697",
+      "Barcode": null,
+      "Name": "لوريال مسكرا بانوراما فوليوم ذهبي",
+      "Display Name": "[6281006586697] لوريال مسكرا بانوراما فوليوم ذهبي",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 30.25,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس ماسكرا بانوراما  فوليوم مليون لاشز للتكثيف",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-volume-million-lashes-panorama-mascara/pdp/102986616",
+      "productId": "102986616",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/-/l-oreal-volume-million-lashes-panorama-mascara-0djpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}50.04",
+      "originalPrice": "76.99",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "2",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5994491845369339,
+    "text_similarity": 0.5977967381477356,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1374",
+      "Barcode": "3610340653636",
+      "Name": "لوريال باريس إلفيف شامبو بانسيابية الكرياتين لتمليس الشعر 200 مل",
+      "Display Name": "[a-1374] لوريال باريس إلفيف شامبو بانسيابية الكرياتين لتمليس الشعر 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 11,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5984875380992889,
+    "text_similarity": 0.5939501523971558,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1354",
+      "Barcode": "3600522562016",
+      "Name": "لوريال كاستنج  كريم غلوس صبغة للشعر100 أسود",
+      "Display Name": "[a-1354] لوريال كاستنج  كريم غلوس صبغة للشعر100 أسود",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم أساس ترو ماتش6N - عسلي",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-foundation-6n-honey/pdp/101025231",
+      "productId": "101025231",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-true-match-foundation-honey-6n_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}74.00",
+      "originalPrice": "113.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "174",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5979444950819015,
+    "text_similarity": 0.5917779803276062,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3578",
+      "Barcode": "3610340050350",
+      "Name": "لوريال باريس إكسلنس كريم صبغة شعر 5.1بني فاتح عميق",
+      "Display Name": "[a-3578] لوريال باريس إكسلنس كريم صبغة شعر 5.1بني فاتح عميق",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "كوليستون صبغة شعر ناتشورال بنى لامع 5/37",
+      "url": "https://www.nahdionline.com/ar-sa/koleston-hair-color-naturals-brilliant-brown-537/pdp/100638212",
+      "productId": "100638212",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/k/o/koleston-hair-color-naturals-brilliant-brown-5-37-0bjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}13.95",
+      "originalPrice": "27.50",
+      "discount": "وفر49 %",
+      "isExpress": true,
+      "position": "240",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:14",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5933424770832062,
+    "text_similarity": 0.7733699083328247,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3594",
+      "Barcode": "3600522599319",
+      "Name": "بوريال صبغه شعر برودجي 5.0بني فاتح",
+      "Display Name": "[a-3594] بوريال صبغه شعر برودجي 5.0بني فاتح",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 51.75,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "كوليستون صبغة شعر ناتشورال بنى لامع 5/37",
+      "url": "https://www.nahdionline.com/ar-sa/koleston-hair-color-naturals-brilliant-brown-537/pdp/100638212",
+      "productId": "100638212",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/k/o/koleston-hair-color-naturals-brilliant-brown-5-37-0bjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}13.95",
+      "originalPrice": "27.50",
+      "discount": "وفر49 %",
+      "isExpress": true,
+      "position": "240",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:14",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5930654048919678,
+    "text_similarity": 0.7722616195678711,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1537",
+      "Barcode": "3600523627158",
+      "Name": "لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني ذهبي",
+      "Display Name": "[a-1537] لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني ذهبي",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 8,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5925555795431137,
+    "text_similarity": 0.5702223181724548,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1533",
+      "Barcode": "3600523192779",
+      "Name": "لوريال باريس ماجك ري تتش سبراي فوري لإخفاء لون جذورالشعر- أسود",
+      "Display Name": "[a-1533] لوريال باريس ماجك ري تتش سبراي فوري لإخفاء لون جذورالشعر- أسود",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 8,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5925016224384307,
+    "text_similarity": 0.5700064897537231,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1381",
+      "Barcode": "3610340655197",
+      "Name": "لوريال إلفيف شامبو بحمض الهيالورونيك لترطيب الشعرالجاف 400 مل",
+      "Display Name": "[a-1381] لوريال إلفيف شامبو بحمض الهيالورونيك لترطيب الشعرالجاف 400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 4,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "ماء ميسيلار مرطب من لوريال 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451630/pdp/103451630",
+      "productId": "103451630",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451630_abfe612c08390c28e_66669.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "43",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.588191670179367,
+    "text_similarity": 0.5527666807174683,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1535",
+      "Barcode": "3600523192748",
+      "Name": "لوريال باريس ماجك ري تتش سبراي مؤقت لإخفاء لون جذور الشعر- بني",
+      "Display Name": "[a-1535] لوريال باريس ماجك ري تتش سبراي مؤقت لإخفاء لون جذور الشعر- بني",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 7,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5854957669973373,
+    "text_similarity": 0.5419830679893494,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1348",
+      "Barcode": "3600521230268",
+      "Name": "لوريال كاستنج كريم غلوس صبغة للشعر400 بني",
+      "Display Name": "[a-1348] لوريال كاستنج كريم غلوس صبغة للشعر400 بني",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 4,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم أساس ترو ماتش6N - عسلي",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-foundation-6n-honey/pdp/101025231",
+      "productId": "101025231",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-true-match-foundation-honey-6n_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}74.00",
+      "originalPrice": "113.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "174",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5854052424430847,
+    "text_similarity": 0.5416209697723389,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1534",
+      "Barcode": "3600523192731",
+      "Name": "لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني غامق",
+      "Display Name": "[a-1534] لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني غامق",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 7,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5829327523708343,
+    "text_similarity": 0.5317310094833374,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1536",
+      "Barcode": "3600523627141",
+      "Name": "لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني غامق بارد",
+      "Display Name": "[a-1536] لوريال باريس ماجك ري تتش سبراي فوري لاخفاء لون جذور الشعر - بني غامق بارد",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 6,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس تلسكوبيك ليفت ماسكارا للطول و الكثافة لون أسود",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-telescopic-lift-mascara-black/pdp/102736060",
+      "productId": "102736060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-telescopic-lift-mascara-black-0mjpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}23.37",
+      "originalPrice": "35.96",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "155",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5819593638181686,
+    "text_similarity": 0.5278374552726746,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3386",
+      "Barcode": "3600523944354",
+      "Name": "لوريال الفيف كريم حليف الشعر  ضد التساقط 200 مل",
+      "Display Name": "[a-3386] لوريال الفيف كريم حليف الشعر  ضد التساقط 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 22.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5812745511531829,
+    "text_similarity": 0.5250982046127319,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1378",
+      "Barcode": "3600523976584",
+      "Name": "لوريال إلفيف دريم لونج ستريت سيروم مقاوم للتجاعيد للشعرالطويل والمجعد 100 مل",
+      "Display Name": "[a-1378] لوريال إلفيف دريم لونج ستريت سيروم مقاوم للتجاعيد للشعرالطويل والمجعد 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 28.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5809721171855926,
+    "text_similarity": 0.5238884687423706,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1365",
+      "Barcode": "3610340636691",
+      "Name": "لوريال شامبو دريم لونج للشعرالطويل الضعيف 400 مل",
+      "Display Name": "[a-1365] لوريال شامبو دريم لونج للشعرالطويل الضعيف 400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "ماء ميسيلار مرطب من لوريال 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451630/pdp/103451630",
+      "productId": "103451630",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451630_abfe612c08390c28e_66669.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "43",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5783399909734726,
+    "text_similarity": 0.5133599638938904,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1357",
+      "Barcode": "3600522263685",
+      "Name": "لوريال باريس إلفيف زيت شعر لجميع أنواع الشعر 100 مل",
+      "Display Name": "[a-1357] لوريال باريس إلفيف زيت شعر لجميع أنواع الشعر 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 8,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 53.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5751660585403442,
+    "text_similarity": 0.500664234161377,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3333",
+      "Barcode": "3600524026202",
+      "Name": "لوريال إلفيف كريم مغذي للشعر شديد الجفاف 200 مل",
+      "Display Name": "[a-3333] لوريال إلفيف كريم مغذي للشعر شديد الجفاف 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 22.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5733959048986434,
+    "text_similarity": 0.493583619594574,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-4491",
+      "Barcode": "3600523431182",
+      "Name": "لوريال غسول منظف بالطين يزيل الدهون 150مل",
+      "Display Name": "[a-4491] لوريال غسول منظف بالطين يزيل الدهون 150مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 34.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال سكن اكسبرت جل غسول التخلص 150 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-skin-expert-clay-exfoliating-gel-wash-150-ml/pdp/101144142",
+      "productId": "101144142",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-skin-expert-clay-exfoliating-gel-wash-150-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}28.21",
+      "originalPrice": "40.31",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "90",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:47",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5720087856054306,
+    "text_similarity": 0.4880351424217224,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1361",
+      "Barcode": "3600522680147",
+      "Name": "لوريال باريس إكسترا أوردينيري زيت للشعرالجاف 100 مل",
+      "Display Name": "[a-1361] لوريال باريس إكسترا أوردينيري زيت للشعرالجاف 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 9,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 53.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5698787912726402,
+    "text_similarity": 0.4795151650905609,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1392",
+      "Barcode": "3600523431168",
+      "Name": "لوريال باريس غسول مقشر من الطحالب الحمراء والطين النقي 150 مل",
+      "Display Name": "[a-1392] لوريال باريس غسول مقشر من الطحالب الحمراء والطين النقي 150 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 34.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال سكن اكسبرت جل غسول للنضارة 150 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-skin-expert-clay-brightening-gel-wash-150-ml/pdp/101144151",
+      "productId": "101144151",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-skin-expert-clay-brightening-gel-wash-150-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}28.21",
+      "originalPrice": "40.31",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "61",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.569529977440834,
+    "text_similarity": 0.4781199097633362,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600521924679",
+      "Barcode": null,
+      "Name": "لوريال بخاخ شعر ايلنت مثبت قوي 200 مل",
+      "Display Name": "[3600521924679] لوريال بخاخ شعر ايلنت مثبت قوي 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال بلسم  برو لونغر 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-conditioner-pro-longer-200ml/pdp/102961339",
+      "productId": "102961339",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-conditioner-pro-longer-200ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.67",
+      "originalPrice": "130.85",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "72",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5694197386503219,
+    "text_similarity": 0.47767895460128784,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1359",
+      "Barcode": "3610340006463",
+      "Name": "لوريال باريس إلفيف شامبو اصلاح الشعرالتالف 200 مل",
+      "Display Name": "[a-1359] لوريال باريس إلفيف شامبو اصلاح الشعرالتالف 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 16,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال علاج سكالب دسكمفرت 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-scalp-anti-discomfort-treatment-200ml/pdp/102961531",
+      "productId": "102961531",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-scalp-anti-discomfort-treatment-200ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}108.86",
+      "originalPrice": "136.08",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "215",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:11",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5691428005695343,
+    "text_similarity": 0.4765712022781372,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1364",
+      "Barcode": "3610340019982",
+      "Name": "لوريال إلفيف شامبو مغذى بالزيت للشعرالجاف والعادي 400 مل",
+      "Display Name": "[a-1364] لوريال إلفيف شامبو مغذى بالزيت للشعرالجاف والعادي 400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 11,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "ماء ميسيلار مرطب من لوريال 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451630/pdp/103451630",
+      "productId": "103451630",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451630_abfe612c08390c28e_66669.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "43",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5690062910318374,
+    "text_similarity": 0.47602516412734985,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3600",
+      "Barcode": "3600523126309",
+      "Name": "لوريال بروديجى صبغة الشعر اشقر رمادى فاتح8.1",
+      "Display Name": "[a-3600] لوريال بروديجى صبغة الشعر اشقر رمادى فاتح8.1",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 6,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 51.75,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس لوريال باريس 24H إنفاليبل سيروم ملون بلون وردي فاتح 1-2",
+      "url": "https://www.nahdionline.com/ar-sa/103368060/pdp/103368060",
+      "productId": "103368060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103368060_aae4b569f3e8dfe7f_79118.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}57.19",
+      "originalPrice": "88.00",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "47",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.568923944234848,
+    "text_similarity": 0.6756957769393921,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3575",
+      "Barcode": "3061375116014",
+      "Name": "لوريال صبغه شعر اكسلانس 4 بني",
+      "Display Name": "[a-3575] لوريال صبغه شعر اكسلانس 4 بني",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "اير سنس حلق طبي ES 4 MM -D43",
+      "url": "https://www.nahdionline.com/ar-sa/ear-sense-4-mm-d43/pdp/100982814",
+      "productId": "100982814",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/e/a/ear-sense-4-mm-d43-0ajpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}30.00",
+      "originalPrice": "",
+      "discount": "2 + 2 مجانا",
+      "isExpress": true,
+      "position": "159",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5684487119317054,
+    "text_similarity": 0.4737948477268219,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600522736646",
+      "Barcode": null,
+      "Name": "لوريال ايلفيف الماسك المرمم للشعر التالف 300 مل",
+      "Display Name": "[3600522736646] لوريال ايلفيف الماسك المرمم للشعر التالف 300 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 47.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو ميتال ديتوكس 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-metal-detox-300ml/pdp/102961401",
+      "productId": "102961401",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-metal-detox-300ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.94",
+      "originalPrice": "131.18",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "101",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:50",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5678595274686813,
+    "text_similarity": 0.47143810987472534,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1349",
+      "Barcode": "3600521230299",
+      "Name": "لوريال كاستنج  كريم غلوس صبغة للشعر 500 بني فاتح",
+      "Display Name": "[a-1349] لوريال كاستنج  كريم غلوس صبغة للشعر 500 بني فاتح",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال أحمر شفاه سائل مطفي انفالبيل مات 500",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-matte-resist-wine-not-500/pdp/102846701",
+      "productId": "102846701",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-oa-matte-resist-wine-not-500-0ajpeg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}58.49",
+      "originalPrice": "90.00",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "141",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5651567548513412,
+    "text_similarity": 0.460627019405365,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3332",
+      "Barcode": "3600524044145",
+      "Name": "لوريال الفيف هيالورن كريم الليل للشعر فاقد الترطيب 200 مل",
+      "Display Name": "[a-3332] لوريال الفيف هيالورن كريم الليل للشعر فاقد الترطيب 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 4,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 22.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال بلسم  برو لونغر 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-conditioner-pro-longer-200ml/pdp/102961339",
+      "productId": "102961339",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-conditioner-pro-longer-200ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.67",
+      "originalPrice": "130.85",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "72",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.563244779407978,
+    "text_similarity": 0.45297911763191223,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1356",
+      "Barcode": "3600522263609",
+      "Name": "لوريال باريس إيلفيف زيت للشعر المصبوغ 100 مل",
+      "Display Name": "[a-1356] لوريال باريس إيلفيف زيت للشعر المصبوغ 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 53.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5627113923430442,
+    "text_similarity": 0.4508455693721771,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3982",
+      "Barcode": "3600524146665",
+      "Name": "لوريال الفيف زيت الكاميليا للشعر الجاف 100 مل",
+      "Display Name": "[a-3982] لوريال الفيف زيت الكاميليا للشعر الجاف 100 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 53.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال جلايكوليك برايت غسول يومي رغوي 100 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-glycolic-bright-daily-cleanser-foam-100-ml/pdp/102177675",
+      "productId": "102177675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-glycolic-bright-wash-100ml-1100x1100.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}21.33",
+      "originalPrice": "30.48",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "56",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5626503944396972,
+    "text_similarity": 0.45060157775878906,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1367",
+      "Barcode": "3610340650772",
+      "Name": "لوريال باريس فل رزيست شامبو لتساقط الشعر 200 مل",
+      "Display Name": "[a-1367] لوريال باريس فل رزيست شامبو لتساقط الشعر 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 11,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 12.65,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال علاج سكالب دسكمفرت 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-scalp-anti-discomfort-treatment-200ml/pdp/102961531",
+      "productId": "102961531",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-scalp-anti-discomfort-treatment-200ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}108.86",
+      "originalPrice": "136.08",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "215",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:11",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5618630766868591,
+    "text_similarity": 0.4474523067474365,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-4140",
+      "Barcode": "3610340670978",
+      "Name": "لوريال شامبو منقي ومرطب لفروة الرأس الدهنية 400مل",
+      "Display Name": "[a-4140] لوريال شامبو منقي ومرطب لفروة الرأس الدهنية 400مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 20,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "ماء ميسيلار مرطب من لوريال 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451630/pdp/103451630",
+      "productId": "103451630",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451630_abfe612c08390c28e_66669.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "43",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5583969175815582,
+    "text_similarity": 0.4335876703262329,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3334",
+      "Barcode": "3600520837963",
+      "Name": "لوريال ايلفيف شامبو  للشعر المصبوغ  400 مل",
+      "Display Name": "[a-3334] لوريال ايلفيف شامبو  للشعر المصبوغ  400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 27,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بيفيس ماء ميسيلار 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451621/pdp/103451621",
+      "productId": "103451621",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451621_abd8bfc8093e71cfd_717.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "93",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:47",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5562248274683952,
+    "text_similarity": 0.42489930987358093,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1391",
+      "Barcode": "3600523306169",
+      "Name": "[a-1391] لوريال باريس قناع الطين النقي للبشرة 50 مل",
+      "Display Name": "[a-1391] [a-1391] لوريال باريس قناع الطين النقي للبشرة 50 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 32.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال سكن اكسبرتيس قناع ارجيل النقى 50 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-pure-clay-mask-detoxifies-clarifies-50-ml/pdp/101110461",
+      "productId": "101110461",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-skin-expert-clay-massque-detox-argile-pure-50-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}28.21",
+      "originalPrice": "40.31",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "20",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5533226788043976,
+    "text_similarity": 0.8132907152175903,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1376",
+      "Barcode": "3610340653650",
+      "Name": "لوريال باريس إلفيف شامبو بانسيابية الكرياتين لتمليس الشعر 400 مل",
+      "Display Name": "[a-1376] لوريال باريس إلفيف شامبو بانسيابية الكرياتين لتمليس الشعر 400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بيفيس ماء ميسيلار 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451621/pdp/103451621",
+      "productId": "103451621",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451621_abd8bfc8093e71cfd_717.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "93",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:47",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5529320061206817,
+    "text_similarity": 0.41172802448272705,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-4141",
+      "Barcode": "3610340020025",
+      "Name": "شامبو الفيف بالزيوت الثمينه من رويال باريس 400مل",
+      "Display Name": "[a-4141] شامبو الفيف بالزيوت الثمينه من رويال باريس 400مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "ماء ميسيلار مرطب من لوريال 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451630/pdp/103451630",
+      "productId": "103451630",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451630_abfe612c08390c28e_66669.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "43",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.552372720837593,
+    "text_similarity": 0.4094908833503723,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1355",
+      "Barcode": "3600521767818",
+      "Name": "لوريال شامبو معالجة كاملة للشعر التالف 400 مل",
+      "Display Name": "[a-1355] لوريال شامبو معالجة كاملة للشعر التالف 400 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 20,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 14.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بيفيس ماء ميسيلار 400 مل",
+      "url": "https://www.nahdionline.com/ar-sa/103451621/pdp/103451621",
+      "productId": "103451621",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103451621_abd8bfc8093e71cfd_717.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}32.89",
+      "originalPrice": "47.00",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "93",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:47",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5514592498540878,
+    "text_similarity": 0.4058369994163513,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1373",
+      "Barcode": "3610340650659",
+      "Name": "لوريال باريس بديل الزيت ضد التساقط 300 مل",
+      "Display Name": "[a-1373] لوريال باريس بديل الزيت ضد التساقط 300 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 27.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو ميتال ديتوكس 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-metal-detox-300ml/pdp/102961401",
+      "productId": "102961401",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-metal-detox-300ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.94",
+      "originalPrice": "131.18",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "101",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:50",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5501731976866722,
+    "text_similarity": 0.40069279074668884,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-4539",
+      "Barcode": "3610340028502",
+      "Name": "لوريال بديل الزيت ايلفيف300مل",
+      "Display Name": "[a-4539] لوريال بديل الزيت ايلفيف300مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 27.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو ميتال ديتوكس 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-metal-detox-300ml/pdp/102961401",
+      "productId": "102961401",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-metal-detox-300ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.94",
+      "originalPrice": "131.18",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "101",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:50",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.547445823252201,
+    "text_similarity": 0.3897832930088043,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600523363360",
+      "Barcode": null,
+      "Name": "لوريال ايلفيف ماسك بالزيت للشعر الجاف و الكثيف 300 مل",
+      "Display Name": "[3600523363360] لوريال ايلفيف ماسك بالزيت للشعر الجاف و الكثيف 300 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 43.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو سكالب ضدّ القشرة 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-scalp-anti-dandruff-300ml/pdp/102961574",
+      "productId": "102961574",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-scalp-anti-dandruff-300ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}98.85",
+      "originalPrice": "123.57",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "209",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:11",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.546071034669876,
+    "text_similarity": 0.3842841386795044,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1377",
+      "Barcode": "3610340653865",
+      "Name": "لوريال باريس إلفيف بديل الزيت بانسيابية الكرياتين لتمليس الشعر 300 مل",
+      "Display Name": "[a-1377] لوريال باريس إلفيف بديل الزيت بانسيابية الكرياتين لتمليس الشعر 300 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 27.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو ميتال ديتوكس 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-metal-detox-300ml/pdp/102961401",
+      "productId": "102961401",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-metal-detox-300ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.94",
+      "originalPrice": "131.18",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "101",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:50",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5450558930635452,
+    "text_similarity": 0.3802235722541809,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1405",
+      "Barcode": "3600524051044",
+      "Name": "لوريال باريس كريم النهار جليكوليك برايت للإشراقة مع عامل وقاية من الشمس 17- 50مل",
+      "Display Name": "[a-1405] لوريال باريس كريم النهار جليكوليك برايت للإشراقة مع عامل وقاية من الشمس 17- 50مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 1,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 54.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس ريفايتاليفت ليزرX3 كريم ماسك الليل 50 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-revitalift-laser-x3-night-50-ml/pdp/100889345",
+      "productId": "100889345",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-revitalift-laser-x3-night-50-ml-0pjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}76.43",
+      "originalPrice": "109.19",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "162",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5318616837263107,
+    "text_similarity": 0.7274467349052429,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1360",
+      "Barcode": "3610340017421",
+      "Name": "لوريال إلفيف بديل الزيت المغذي للشعر 300 مل",
+      "Display Name": "[a-1360] لوريال إلفيف بديل الزيت المغذي للشعر 300 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 6,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 24.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال شامبو سكالب ضدّ القشرة 300مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-shampoo-scalp-anti-dandruff-300ml/pdp/102961574",
+      "productId": "102961574",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-shampoo-scalp-anti-dandruff-300ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}98.85",
+      "originalPrice": "123.57",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "209",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:11",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5303263634443283,
+    "text_similarity": 0.32130545377731323,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1408",
+      "Barcode": "3600524053147",
+      "Name": "[a-1408] لوريال باريس هيالورون جل منظف بعمق للتحكم باللمعان 200 مل",
+      "Display Name": "[a-1408] [a-1408] لوريال باريس هيالورون جل منظف بعمق للتحكم باللمعان 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 37.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال  هيالورون إيكسبيرت جل منظف للتحكم باللمعان 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hyaluron-expert-oily-skin-gel-wash-200ml/pdp/102626661",
+      "productId": "102626661",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hyaluron-expert-oily-skin-gel-wash-200ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}31.40",
+      "originalPrice": "44.85",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "99",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:47",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.52852383852005,
+    "text_similarity": 0.7140953540802002,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1395",
+      "Barcode": "3600520564838",
+      "Name": "لوريال باريس ريفيتاليفت كريم النهار يقاوم التجاعيد بعامل حماية 25 -50 مل",
+      "Display Name": "[a-1395] لوريال باريس ريفيتاليفت كريم النهار يقاوم التجاعيد بعامل حماية 25 -50 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 62.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس ريفايتاليفت ليزرX3 كريم 50 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-revitalift-laser-x3-day-cream-50-ml/pdp/100851671",
+      "productId": "100851671",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-revitalift-laser-x3-day-cream-50-ml-0pjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}76.43",
+      "originalPrice": "109.19",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "117",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:50",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5264209568500519,
+    "text_similarity": 0.7056838274002075,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1346",
+      "Barcode": "3600521230220",
+      "Name": "لوريال كاستنج غلوس كريم غلوس صبغة للشعر 200 أسود عميق",
+      "Display Name": "[a-1346] لوريال كاستنج غلوس كريم غلوس صبغة للشعر 200 أسود عميق",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال كريم الاساس إنفيلبل مات كوفر 200 - بيج",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-paris-infaillible-matte-cover-foundation-200-beige/pdp/101575866",
+      "productId": "101575866",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-paris-infaillible-matte-cover-foundation-200_1_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}56.22",
+      "originalPrice": "86.50",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "149",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5185476660728454,
+    "text_similarity": 0.27419066429138184,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1347",
+      "Barcode": "3600521230244",
+      "Name": "[a-1347] لوريال كاستنج  كريم غلوس صبغة للشعر 300 بني داكن",
+      "Display Name": "[a-1347] [a-1347] لوريال كاستنج  كريم غلوس صبغة للشعر 300 بني داكن",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال إنفاليبل برونزر 300",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-infallible-bronzer-300/pdp/102736001",
+      "productId": "102736001",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-oa-infa-bronz-com-300-co9gr-260-0ujpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}69.45",
+      "originalPrice": "106.85",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "161",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5110079735517502,
+    "text_similarity": 0.44403189420700073,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1379",
+      "Barcode": "3610340655210",
+      "Name": "[a-1379] لوريال إلفيف شامبو بحمض الهيالورونيك لترطيب الشعرالجاف 200 مل",
+      "Display Name": "[a-1379] [a-1379] لوريال إلفيف شامبو بحمض الهيالورونيك لترطيب الشعرالجاف 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.507151997089386,
+    "text_similarity": 0.628607988357544,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1398",
+      "Barcode": "3600523967988",
+      "Name": "[a-1398] لوريال باريس سيروم هيالورون إكسبرت لإعادة مرونة البشرة بحمض الهيالورونيك 30 مل",
+      "Display Name": "[a-1398] [a-1398] لوريال باريس سيروم هيالورون إكسبرت لإعادة مرونة البشرة بحمض الهيالورونيك 30 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 63.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال هيالورون إكسبرت سيروم 30 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hyaluron-expert-serum-30-ml/pdp/101756940",
+      "productId": "101756940",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hyalluron-expert-serum-30ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}52.33",
+      "originalPrice": "74.75",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "3",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5062605202198028,
+    "text_similarity": 0.6250420808792114,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1393",
+      "Barcode": "3600523431175",
+      "Name": "[a-1393] لوريال باريس غسول ديتوكس بالطين النقي للجنسين 150مل",
+      "Display Name": "[a-1393] [a-1393] لوريال باريس غسول ديتوكس بالطين النقي للجنسين 150مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 34.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال سكن اكسبرت جل غسول للنضارة 150 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-skin-expert-clay-brightening-gel-wash-150-ml/pdp/101144151",
+      "productId": "101144151",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-skin-expert-clay-brightening-gel-wash-150-ml_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}28.21",
+      "originalPrice": "40.31",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "61",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:41",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.505121773481369,
+    "text_similarity": 0.6204870939254761,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3586",
+      "Barcode": "3600522490432",
+      "Name": "لوريال اكسلانس صبغه شعر 8 اشقر فاتح",
+      "Display Name": "[a-3586] لوريال اكسلانس صبغه شعر 8 اشقر فاتح",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 4,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال ترو ماتش نيود سيروم ملون تغطية خفيفة 7-8 تان جدا",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-nude-serum-shade-7-8-tan-deep/pdp/102986675",
+      "productId": "102986675",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/-/l-oreal-true-match-nude-serum-shade-7-8-tan-deep-0hjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}63.54",
+      "originalPrice": "97.75",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "203",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:11",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.504300007224083,
+    "text_similarity": 0.4172000288963318,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3582",
+      "Barcode": "3061375125016",
+      "Name": "لوريال اكسلانس صبغة الشعر اشقر 7",
+      "Display Name": "[a-3582] لوريال اكسلانس صبغة الشعر اشقر 7",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال ترو ماتش نيود يروم ملون تغطية خفيفة 6-7 تان",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-nude-serum-shade-6-7-tan/pdp/102986667",
+      "productId": "102986667",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/-/l-oreal-true-match-nude-serum-shade-6-7-tan-0hjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}63.54",
+      "originalPrice": "97.75",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "233",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:14",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.503283241391182,
+    "text_similarity": 0.4131329655647278,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3573",
+      "Barcode": "3061375114010",
+      "Name": "اكسلانس صبغة شعر اسود طبيعي 1",
+      "Display Name": "[a-3573] اكسلانس صبغة شعر اسود طبيعي 1",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 5,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس لوريال باريس 24H إنفاليبل سيروم ملون بلون وردي فاتح 1-2",
+      "url": "https://www.nahdionline.com/ar-sa/103368060/pdp/103368060",
+      "productId": "103368060",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103368060_aae4b569f3e8dfe7f_79118.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}57.19",
+      "originalPrice": "88.00",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "47",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5026130616664887,
+    "text_similarity": 0.4104522466659546,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-3979",
+      "Barcode": "3061375122015",
+      "Name": "صبغة شعر لوريال اكسلانس أشقر غامق 6",
+      "Display Name": "[a-3979] صبغة شعر لوريال اكسلانس أشقر غامق 6",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 3,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 48.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال ترو ماتش نيود يروم ملون تغطية خفيفة 6-7 تان",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-true-match-nude-serum-shade-6-7-tan/pdp/102986667",
+      "productId": "102986667",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/-/l-oreal-true-match-nude-serum-shade-6-7-tan-0hjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}63.54",
+      "originalPrice": "97.75",
+      "discount": "وفر35 %",
+      "isExpress": true,
+      "position": "233",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:14",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.5023092865943909,
+    "text_similarity": 0.4092371463775635,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1382",
+      "Barcode": "3600524026141",
+      "Name": "[a-1382] لوريال إلفيف سيروم مجمل للشعر 50 مل",
+      "Display Name": "[a-1382] [a-1382] لوريال إلفيف سيروم مجمل للشعر 50 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 29.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال هيالورون إكسبرت كريم للنهار SPF 20 50 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hyaluron-expert-day-cream-spf-20-50-ml/pdp/101573191",
+      "productId": "101573191",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hyaluron-expert-day-50ml-0mjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}34.62",
+      "originalPrice": "49.45",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "50",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.49973072707653043,
+    "text_similarity": 0.5989229083061218,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1402",
+      "Barcode": "3610340658730",
+      "Name": "[a-1402] لوريال باريس هيالورون اكسبيرت سيروم لتعزيز مرونة البشرة مع حمض الهيالورونيك 15 مل",
+      "Display Name": "[a-1402] [a-1402] لوريال باريس هيالورون اكسبيرت سيروم لتعزيز مرونة البشرة مع حمض الهيالورونيك 15 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالبشرة",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 47.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال باريس سيروم غلايكوليك برايت ميلاسيل 15 مل",
+      "url": "https://www.nahdionline.com/ar-sa/l-oreal-paris-glycolic-bright-melasyl-serum-15-ml/pdp/102177691",
+      "productId": "102177691",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/102177691_a1a744cf157a77231_5303.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}33.59",
+      "originalPrice": "47.99",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "49",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:37",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.49251516759395597,
+    "text_similarity": 0.570060670375824,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1363",
+      "Barcode": "3610340019944",
+      "Name": "[a-1363] لوريال باريس شامبو إلفيف بالزيت المغذي 200 مل",
+      "Display Name": "[a-1363] [a-1363] لوريال باريس شامبو إلفيف بالزيت المغذي 200 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 0,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "مووف شامبو لقتل قمل الرأس 200 مل",
+      "url": "https://www.nahdionline.com/ar-sa/moov-head-lice-shampoo-200-ml/pdp/101585968",
+      "productId": "101585968",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/m/o/moov-head-lice-shampoo-200-ml-0wjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}70.00",
+      "originalPrice": "",
+      "discount": "Express",
+      "isExpress": true,
+      "position": "151",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:57",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.486232852935791,
+    "text_similarity": 0.5449314117431641,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600522599210",
+      "Barcode": null,
+      "Name": "لوريال باريس جل الترطيب فائق 72 ساعة للبشره المختلطة 70 مل",
+      "Display Name": "[3600522599210] لوريال باريس جل الترطيب فائق 72 ساعة للبشره المختلطة 70 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 8,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 51.75,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال هيدرا جينيوس مرطب سائل للبشرة العادية إلي المختلطة 70 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hydra-genius-aloe-water-liquid-moisturizer-for-normal-to-combination-skin-70-ml/pdp/101435281",
+      "productId": "101435281",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hydra-genius-moisturizer-combination-skin-70-ml-1100x1100_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}33.98",
+      "originalPrice": "48.55",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "11",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.47463338673114774,
+    "text_similarity": 0.49853354692459106,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "3600523363339",
+      "Barcode": null,
+      "Name": "لوريال باريس جل الترطيب فائق 72 ساعة للبشره العادية الجافة 70 مل",
+      "Display Name": "[3600523363339] لوريال باريس جل الترطيب فائق 72 ساعة للبشره العادية الجافة 70 مل",
+      "Brand": "L'oreal",
+      "Product Category": "All",
+      "Quantity On Hand": 2,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 43.0,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال هيدرا جينيوس مرطب سائل للبشرة العادية إلي المختلطة 70 مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-hydra-genius-aloe-water-liquid-moisturizer-for-normal-to-combination-skin-70-ml/pdp/101435281",
+      "productId": "101435281",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-hydra-genius-moisturizer-combination-skin-70-ml-1100x1100_1.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}33.98",
+      "originalPrice": "48.55",
+      "discount": "وفر30 %",
+      "isExpress": true,
+      "position": "11",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:05:28",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.45759490728378294,
+    "text_similarity": 0.43037962913513184,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  },
+  {
+    "product1": {
+      "Internal Reference": "a-1362",
+      "Barcode": "3610340019906",
+      "Name": "لوريال شامبو 6 زيوت غنية من زهور نادرة للشعرالعادي 200مل",
+      "Display Name": "[a-1362] لوريال شامبو 6 زيوت غنية من زهور نادرة للشعرالعادي 200مل",
+      "Brand": "L'oreal",
+      "Product Category": "All / العناية بالشعر",
+      "Quantity On Hand": 14,
+      "Vendor Taxes": "15 Purchase",
+      "Sales Price": 11.95,
+      "براند": "لوريال"
+    },
+    "product2": {
+      "title": "لوريال بروفيشنال بلسم إنفورسر 200مل",
+      "url": "https://www.nahdionline.com/ar-sa/loreal-professionnel-conditioner-inforcer-200ml/pdp/102961451",
+      "productId": "102961451",
+      "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/l/o/loreal-professionnel-conditioner-inforcer-200ml-0qjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+      "price": ".sar_symbol_svg__cls-1{fill:#231f20}104.67",
+      "originalPrice": "130.85",
+      "discount": "وفر20 %",
+      "isExpress": false,
+      "position": "179",
+      "brand": "لوريال",
+      "brandData": {
+        "firstFile": {
+          "brand": "لوريال",
+          "productCount": 244,
+          "checkboxId": "العلامة التجاريةلوريال",
+          "isDisabled": false,
+          "cacheId": "19"
+        },
+        "secondFile": {
+          "name": "لوريال",
+          "count": 127,
+          "similarity": "1.00"
+        }
+      },
+      "scrapedAt": "2025-05-14 15:06:00",
+      "scrapedBy": "amiresaye6"
+    },
+    "overall_score": 0.4247121125459671,
+    "text_similarity": 0.2988484501838684,
+    "volume_similarity": 1.0,
+    "price_match": {
+      "is_match": true,
+      "confidence": 0.0,
+      "tier": "unknown",
+      "percent_diff": 100.0,
+      "price1": 0.0,
+      "price2": 0.0
+    },
+    "numbers_match": true
+  }
+]
