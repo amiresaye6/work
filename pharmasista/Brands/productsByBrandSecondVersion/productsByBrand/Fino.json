@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Fino Premium Touch Hair Mask 230g",
+    "url": "https://www.nahdionline.com/en-sa/fino-premium-touch-hair-mask-230g/pdp/103076403",
+    "productId": "103076403",
+    "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/f/i/fino-premium-touch-hair-mask-230g-0ipng.png?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+    "price": ".sar_symbol_svg__cls-1{fill:#231f20}51.95",
+    "originalPrice": "89.00",
+    "discount": "Save 42%",
+    "isExpress": true,
+    "position": "1",
+    "brand": "Fino",
+    "brandData": {
+      "similarityScore": 1,
+      "arabicSimilarityScore": 0.86,
+      "englishSimilarityScore": 1,
+      "pharmacistaBrandArabic": "فينو",
+      "pharmacistaBrandEnglish": "Fino",
+      "pharmacistaCount": 3,
+      "nahdiBrandArabic": "أفينو",
+      "nahdiBrandEnglish": "Fino",
+      "nahdiProductCount": 16,
+      "correctMatch": true
+    },
+    "scrapedAt": "2025-05-18 15:13:07",
+    "scrapedBy": "amiresaye6",
+    "language": "en"
+  },
+  {
+    "title": "Fino Premium Touch Hair Oil 70ml",
+    "url": "https://www.nahdionline.com/en-sa/fino-premium-touch-hair-oil-70ml/pdp/103220698",
+    "productId": "103220698",
+    "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/1/0/103220698_5.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+    "price": ".sar_symbol_svg__cls-1{fill:#231f20}67.47",
+    "originalPrice": "149.95",
+    "discount": "Save 55%",
+    "isExpress": true,
+    "position": "2",
+    "brand": "Fino",
+    "brandData": {
+      "similarityScore": 1,
+      "arabicSimilarityScore": 0.86,
+      "englishSimilarityScore": 1,
+      "pharmacistaBrandArabic": "فينو",
+      "pharmacistaBrandEnglish": "Fino",
+      "pharmacistaCount": 3,
+      "nahdiBrandArabic": "أفينو",
+      "nahdiBrandEnglish": "Fino",
+      "nahdiProductCount": 16,
+      "correctMatch": true
+    },
+    "scrapedAt": "2025-05-18 15:13:07",
+    "scrapedBy": "amiresaye6",
+    "language": "en"
+  },
+  {
+    "title": "Fino Premium Touch Shampoo - 550ml",
+    "url": "https://www.nahdionline.com/en-sa/fino-premium-touch-shampoo-550ml/pdp/103076411",
+    "productId": "103076411",
+    "imageUrl": "https://ecombe.nahdionline.com/media/catalog/product/f/i/fino-premium-touch-shampoo-550ml-0rjpg.jpg?width=265&height=265&canvas=265,265&optimize=high&bg-color=255,255,255&fit=bounds",
+    "price": ".sar_symbol_svg__cls-1{fill:#231f20}54.95",
+    "originalPrice": "89.00",
+    "discount": "Save 38%",
+    "isExpress": false,
+    "position": "3",
+    "brand": "Fino",
+    "brandData": {
+      "similarityScore": 1,
+      "arabicSimilarityScore": 0.86,
+      "englishSimilarityScore": 1,
+      "pharmacistaBrandArabic": "فينو",
+      "pharmacistaBrandEnglish": "Fino",
+      "pharmacistaCount": 3,
+      "nahdiBrandArabic": "أفينو",
+      "nahdiBrandEnglish": "Fino",
+      "nahdiProductCount": 16,
+      "correctMatch": true
+    },
+    "scrapedAt": "2025-05-18 15:13:07",
+    "scrapedBy": "amiresaye6",
+    "language": "en"
+  }
+]
