@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "testName",
+    "Description": "testDescription",
+    "Sale price": 10,
+    "Regular price": 100,
+    "Categories": "Baby Accessories, Baby Accessories > Baby Beds, Baby Accessories > Baby Carrier",
+    "Images": "https://stage2.pharmacista-sa.com/wp-content/uploads/2025/05/soonAr.webp, https://stage2.pharmacista-sa.com/wp-content/uploads/2025/05/listerine-mouthwash-miswak-250-ml-0jjpg.jpg, https://stage2.pharmacista-sa.com/wp-content/uploads/2025/05/the-body-shop-1.png, https://stage2.pharmacista-sa.com/wp-content/uploads/2025/05/nuxe-1.png",
+    "Brands": "Listerine"
+  }
+]

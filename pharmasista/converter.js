@@ -59,7 +59,7 @@ if (!inputFilePath) {
     process.exit(1);
 }
 
-// Get current date and time formatted as YYYY-MM-DD HH:MM:SS
+// Get current date and time formatted as YYYY-MM-DD_HH-MM-SS
 const getCurrentDateTime = () => {
     const date = new Date();
     const year = date.getFullYear();
@@ -106,7 +106,8 @@ if (outputFilePath) {
 
     // Generate output filename with date and time
     const currentDateTime = getCurrentDateTime();
-    outputFilePath = `${inputFileInfo.dir}/${inputFileInfo.name}_${currentDateTime}.${outputFormat}`;
+    const dir = inputFileInfo.dir ? inputFileInfo.dir : process.cwd();
+    outputFilePath = path.join(dir, `${inputFileInfo.name}_${currentDateTime}.${outputFormat}`);
 }
 
 // Read and convert the input file
