@@ -46,22 +46,22 @@ function main() {
     const imagesString = joinImages(cleanImages);
 
     output_en.push({
-      SKU,
+      SKU: "en_" + SKU,
       Name: product.title_en || "",
       Description: product.description_en || "",
       "Sale price": product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : "",
+      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
       Categories: joinCategories(product.categories_en),
       Images: imagesString,
       Brands: product.brand_en || "",
     });
 
     output_ar.push({
-      SKU,
+      SKU: "ar_" + SKU,
       Name: product.title_ar || "",
       Description: product.description_ar || "",
       "Sale price": product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : "",
+      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
       Categories: joinCategories(product.categories_ar),
       Images: imagesString,
       Brands: product.brand_ar || "",
