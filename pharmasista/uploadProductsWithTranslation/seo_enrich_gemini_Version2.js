@@ -9,19 +9,26 @@ if (!apiKey) {
 }
 const genAI = new GoogleGenerativeAI(apiKey);
 
-// Main function to get enriched fields
+// Main function to get enriched fields using both Arabic and English data in one prompt
 async function getSeoFields(product) {
-    // --- MOCK PROMPT, improve for production ---
-    // You can enhance this prompt for more control over output!
+    // Updated prompt: send both Arabic and English data, get back updated fields for both
     const prompt = `
-Given this product information in Arabic and English, return SEO-optimized fields for BOTH Arabic and English:
+You are a professional SEO product copywriter tasked with rewriting product descriptions for our website. Every response must adhere to these instructions for consistency, SEO optimization, and market relevance:
 
-- Rewrite the title (ar and en) to be more SEO-friendly.
-- Rewrite the description (ar and en) to be more SEO-friendly and concise.
-- Generate a short meta description (ar and en, 140 characters max) for search engines.
+* Mention the product name exactly three times in each language:
+  * First, at the very start of the description.
+  * Second, in a section titled: 🔹 إرشادات استخدام [اسم المنتج] (Usage Instructions for [Product Name]) (for Arabic) or 🔹 Usage Instructions for [Product Name] (for English).
+  * Third, in a section titled: 🔹 مكونات [اسم المنتج] (Ingredients of [Product Name]) (for Arabic) or 🔹 Ingredients of [Product Name] (for English).
+* Bold the product name wherever it appears.
+* Use star bullets (⭐) to list product features, benefits, usage instructions, or ingredients.
+* At the end of each language block, include 10 relevant, popular hashtags optimized for the Saudi market.
+* Output a single, clean, well-formatted text block per language, suitable for direct website publishing.
+* Do not include explanations, notes, code blocks, or commentary—only the SEO-optimized description.
+* Output the Arabic block first, then the English block.
 
-Output a JSON object matching this structure, and wrap it in a code block:
+Below is the current product data in both Arabic and English. Your job is to rewrite the titles, descriptions, and generate a short description (max 140 characters) for SEO in both languages, keeping the object structure the same and adding two new fields: shortdescription_ar and shortdescription_en.
 
+Respond ONLY with a valid JSON object, matching this structure:
 {
   "title_ar": "string",
   "title_en": "string",
@@ -40,8 +47,6 @@ Brand (ar): ${product.brand_ar}
 Brand (en): ${product.brand_en}
 Categories (ar): ${product.categories_ar ? product.categories_ar.join(' > ') : ''}
 Categories (en): ${product.categories_en ? product.categories_en.join(' > ') : ''}
-
-Respond ONLY with the JSON object wrapped in a code block.
     `.trim();
 
     const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
@@ -103,7 +108,7 @@ async function enrichSeoBatch(inputFile, outputFile) {
 }
 
 // USAGE: node seo_enrich_gemini.js input.json output.json
-const [,, inputFile, outputFile] = process.argv;
+const [, , inputFile, outputFile] = process.argv;
 if (!inputFile || !outputFile) {
     console.error('Usage: node seo_enrich_gemini.js input.json output.json');
     process.exit(1);
