@@ -1,101 +1,59 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 
-async function getProductData(url) {
+/**
+ * Scrapes detailed product information from a given Nahdi URL.
+ * @param {string} url The URL of the product page to scrape.
+ * @returns {Promise<object>} A promise that resolves to the scraped data.
+ */
+async function getProductData(url, browser) {
+  let page;
   try {
-    const browser = await puppeteer.launch({ headless: true });
-    const page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+    page = await browser.newPage();
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 }); // Increased timeout
 
     const productData = await page.evaluate(() => {
-      console.log('Evaluating page content...');
+      // Helper to select an element and get its text content safely
+      const getText = (selector) => {
+        const element = document.querySelector(selector);
+        return element ? element.textContent.trim() : 'Not Found';
+      };
+
+      // --- Scrape all data points directly from the page ---
+
+      // Scrape Breadcrumb Categories
       const breadcrumbElement = document.querySelector('div.my-4.hidden.text-xs.md\\:flex nav');
       const categories = breadcrumbElement
         ? Array.from(breadcrumbElement.querySelectorAll('li a')).map(item => item.textContent.trim())
-        : ['Breadcrumb not found'];
+        : ['Category breadcrumb not found'];
 
-      const productNameElement = document.querySelector('h1[data-badge="contentful"]');
-      const productName = productNameElement
-        ? productNameElement.textContent.trim()
-        : 'Product name not found';
+      // Scrape Product Name
+      const productName = getText('h1[data-badge="contentful"]');
 
-      const brandElement = document.querySelector('div.flex.items-center.space-x-2 a span span');
-      const brand = brandElement
-        ? brandElement.textContent.trim()
-        : 'Brand not found';
+      // Scrape Brand
+      const brand = getText('div.flex.items-center.space-x-2 a span span');
 
+      // Scrape Description
       const sectionElement = document.querySelector('div.pdp-about-section');
-      let description = '';
-
+      let description = 'Description section not found';
       if (sectionElement) {
-        function processNode(node, indentLevel = 0) {
-          let output = '';
-          if (!node) return output;
-
-          if (node.tagName === 'P' && node.querySelector('strong')) {
-            const headerText = node.querySelector('strong').textContent.trim().replace(':', '');
-            output += `${headerText}:\n`;
-          } else if (node.tagName === 'P') {
-            const text = node.textContent.trim();
-            if (text && !node.querySelector('strong')) {
-              output += `${text}\n`;
-            }
-          } else if (node.tagName === 'UL') {
-            const items = node.querySelectorAll('li');
-            items.forEach((li) => {
-              const liText = li.textContent.trim();
-              if (li.querySelector('strong') || liText.length < 50 && liText.includes(':')) {
-                output += `:: ${liText}\n`;
-              } else {
-                output += `- ${liText}\n`;
-              }
-            });
-          } else if (node.tagName === 'DIV') {
-            const children = node.childNodes;
-            children.forEach((child) => {
-              if (child.nodeType === 1) {
-                output += processNode(child, indentLevel);
-              }
-            });
-          }
-          return output;
-        }
-
-        const children = sectionElement.childNodes;
-        children.forEach((child) => {
-          if (child.nodeType === 1) {
-            description += processNode(child);
-          }
-        });
-      } else {
-        description = 'Description section not found';
+        // This simplified logic just gets all the text content from the description section.
+        // You can restore your complex processNode function here if needed.
+        description = sectionElement.innerText.trim();
       }
 
-      const images = [];
-      let mainImageElement = null;
-      const mainImageSelectors = [
-        'div.h-\\\[400px\\\] img',
-        'div.relative.aspect-square img',
-        'div.lg\\:max-w-\\[427px\\] img'
-      ];
-
-      for (const selector of mainImageSelectors) {
-        mainImageElement = document.querySelector(selector);
-        console.log(`Trying main image selector: ${selector}, Found: ${!!mainImageElement}`);
-        if (mainImageElement) break;
+      // Scrape Images
+      const images = new Set(); // Use a Set to avoid duplicate images
+      // Main image
+      const mainImageElement = document.querySelector('div.relative.aspect-square img.object-contain');
+      if (mainImageElement && mainImageElement.src) {
+        images.add(mainImageElement.src);
       }
-
-      if (mainImageElement) {
-        images.push(mainImageElement.src);
-      } else {
-        console.log('Main image not found with any selector');
-      }
-
+      // Thumbnail images
       const thumbnailElements = document.querySelectorAll('div.swiper-wrapper img');
-      console.log(`Found ${thumbnailElements.length} thumbnail images`);
-      thumbnailElements.forEach((img) => {
-        if (!images.includes(img.src)) {
-          images.push(img.src);
+      thumbnailElements.forEach(img => {
+        if (img.src) {
+          images.add(img.src);
         }
       });
 
@@ -104,197 +62,156 @@ async function getProductData(url) {
         data: {
           productName: productName,
           brand: brand,
-          categories: categories,
-          description: description.trim() || 'No description content found',
-          images: images.length > 0 ? images : ['No images found']
+          categories: categories.length > 1 ? categories.slice(1) : categories, // Remove "Home"
+          description: description,
+          images: Array.from(images)
         }
       };
     });
 
-    await browser.close();
+    await page.close();
     return productData;
+
   } catch (error) {
-    console.error('Error:', error.message);
+    console.error(`Error scraping ${url}:`, error.message);
+    if (page) await page.close();
     return {
       success: false,
       error: error.message,
-      data: {
-        productName: 'An error occurred',
-        brand: 'An error occurred',
-        categories: ['An error occurred'],
-        description: 'An error occurred',
-        images: ['An error occurred']
-      }
+      data: {} // Return empty data object on failure
     };
   }
 }
 
-async function processProducts(folder, fileName) {
+/**
+ * Main function to process the matched products file.
+ * @param {string} inputFileName The name of the JSON file from the Python script.
+ */
+async function processMatchedProducts(inputFileName) {
+  // --- 1. Load Input and State Files ---
+  let matchedProducts = [];
   try {
-    // Read the input JSON file
-    const jsonData = await fs.readFile(`${folder}/${fileName}`, 'utf8');
-    const products = JSON.parse(jsonData);
+    const jsonData = await fs.readFile(inputFileName, 'utf8');
+    matchedProducts = JSON.parse(jsonData);
+  } catch (error) {
+    console.error(`❌ Critical Error: Could not read input file "${inputFileName}". Halting execution.`);
+    return;
+  }
 
-    // Load existing results, progress, and failed products
-    let result = [];
-    let processedProductIds = new Set();
-    let failedProducts = [];
-    const outputFile = 'combined_product_data.json';
-    const progressFile = 'progress.json';
-    const failedFile = 'failed_products.json';
+  const outputFile = 'scraped_product_details.json';
+  const progressFile = 'progress.json';
+  const failedFile = 'failed_products.json';
 
+  let finalResults = [];
+  let processedProductIds = new Set();
+  let failedProducts = [];
+
+  try {
+    finalResults = JSON.parse(await fs.readFile(outputFile, 'utf8'));
+    processedProductIds = new Set(finalResults.map(p => p.productId));
+    console.log(`Loaded ${finalResults.length} existing results from ${outputFile}.`);
+  } catch (e) {
+    console.log('No existing output file found. Starting a new one.');
+  }
+
+  try {
+    const progressData = JSON.parse(await fs.readFile(progressFile, 'utf8'));
+    processedProductIds = new Set([...processedProductIds, ...progressData.processedProductIds]);
+    console.log(`Loaded progress. Total processed products to skip: ${processedProductIds.size}.`);
+  } catch (e) {
+    console.log('No progress file found.');
+  }
     try {
-      const existingData = await fs.readFile(outputFile, 'utf8');
-      result = JSON.parse(existingData);
-      processedProductIds = new Set(result.map(product => product.productId));
-      console.log(`Loaded ${result.length} existing products from ${outputFile}`);
-    } catch (error) {
-      console.log('No existing output file found, starting fresh.');
-    }
+    failedProducts = JSON.parse(await fs.readFile(failedFile, 'utf8'));
+    console.log(`Loaded ${failedProducts.length} previously failed products.`);
+  } catch (e) {
+    console.log('No failed products file found.');
+  }
 
-    try {
-      const progressData = await fs.readFile(progressFile, 'utf8');
-      const progress = JSON.parse(progressData);
-      processedProductIds = new Set([...processedProductIds, ...progress.processedProductIds]);
-      console.log(`Loaded progress with ${processedProductIds.size} processed products`);
-    } catch (error) {
-      console.log('No progress file found, starting fresh.');
-    }
 
-    try {
-      const failedData = await fs.readFile(failedFile, 'utf8');
-      failedProducts = JSON.parse(failedData);
-      console.log(`Loaded ${failedProducts.length} failed products from ${failedFile}`);
-    } catch (error) {
-      console.log('No failed products file found, starting fresh.');
-    }
+  console.log(`\nFound ${matchedProducts.length} matched pairs to process.`);
+  const browser = await puppeteer.launch({ headless: true });
 
-    // Process each product
-    for (const product of products) {
-      const productId = product.productId;
+  // --- 2. Process Each Matched Product ---
+  for (const match of matchedProducts) {
+    const nahdiProduct = match;
 
-      // Skip non-express products
-      if (!product.isExpress) {
-        console.log(`Skipping non-express product: ${productId}`);
+    const productId = nahdiProduct.productId;
+
+    // Skip if already processed
+    if (processedProductIds.has(productId)) {
+        console.log(`⏭️ Skipping already processed product: ${productId}`);
         continue;
-      }
+    }
 
-      // Find existing product in result, if any
-      const existingProductIndex = result.findIndex(p => p.productId === productId);
-      let combinedData;
+    const enUrl = nahdiProduct.url.includes('/en-sa/')
+      ? nahdiProduct.url
+      : nahdiProduct.url.replace('/ar-sa/', '/en-sa/');
+    const arUrl = enUrl.replace('/en-sa/', '/ar-sa/');
 
-      if (existingProductIndex !== -1 && processedProductIds.has(productId)) {
-        // Product already fully processed, update categories only
-        console.log(`Updating categories for already processed product: ${productId}`);
-        combinedData = result[existingProductIndex];
+    console.log(`\nProcessing Product ID: ${productId}`);
+    console.log(`EN URL: ${enUrl}`);
+    const enData = await getProductData(enUrl, browser);
 
-        // Build category path from JSON data
-        const jsonCategoryPathAr = [product.main_category, product.sub_category].filter(Boolean);
-        const jsonCategoryPathEn = combinedData.categories_en[0] || []; // Use existing English categories as fallback
+    console.log(`AR URL: ${arUrl}`);
+    const arData = await getProductData(arUrl, browser);
 
-        // Add new category paths if not already present
-        if (jsonCategoryPathAr.length > 0 && !combinedData.categories_ar.some(path => path.join(' > ') === jsonCategoryPathAr.join(' > '))) {
-          combinedData.categories_ar.push(jsonCategoryPathAr);
-        }
-        if (jsonCategoryPathEn.length > 0 && !combinedData.categories_en.some(path => path.join(' > ') === jsonCategoryPathEn.join(' > '))) {
-          combinedData.categories_en.push(jsonCategoryPathEn);
-        }
-
-        // // Update main and subcategories
-        // combinedData.main_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[0]).filter(Boolean))];
-        // combinedData.main_categories_en = [...new Set(combinedData.categories_en.map(path => path[0]).filter(Boolean))];
-        // combinedData.sub_categories_ar = [...new Set(combinedData.categories_ar.map(path => path[path.length - 1]).filter(Boolean))];
-        // combinedData.sub_categories_en = [...new Set(combinedData.categories_en.map(path => path[path.length - 1]).filter(Boolean))];
-      } else {
-        // New or partially processed product
-        const arUrl = product.url;
-        const enUrl = arUrl.replace('ar-sa', 'en-sa');
-
-        console.log(`Processing Arabic URL: ${arUrl}`);
-        const arData = await getProductData(arUrl);
-
-        console.log(`Processing English URL: ${enUrl}`);
-        const enData = await getProductData(enUrl);
-
-        // Check for errors in either scrape
-        if (!arData.success || !enData.success) {
-          const failedEntry = {
+    // --- 3. Handle Failures ---
+    if (!enData.success || !arData.success) {
+        const failureLog = {
             productId: productId,
-            url_ar: arUrl,
             url_en: enUrl,
+            url_ar: arUrl,
             error: {
-              ar: arData.success ? null : arData.error,
-              en: enData.success ? null : enData.error
+                en: enData.error || null,
+                ar: arData.error || null,
             },
             timestamp: new Date().toISOString()
-          };
-          failedProducts.push(failedEntry);
-          await fs.writeFile(failedFile, JSON.stringify(failedProducts, null, 2));
-          console.log(`Logged failure for product ${productId} to ${failedFile}`);
-          continue; // Skip to next product
-        }
-
-        // Build category path from JSON data
-        // const jsonCategoryPathAr = [product.main_category, product.sub_category].filter(Boolean);
-
-        // Combine data
-        combinedData = {
-          productId: productId,
-          title_ar: product.title,
-          title_en: enData.data.productName,
-          url_ar: arUrl,
-          url_en: enUrl,
-          imageUrl: product.imageUrl,
-          price: product.price,
-          originalPrice: product.originalPrice,
-          discount: product.discount,
-          isExpress: product.isExpress,
-          position: product.position,
-          brand_ar: arData.data.brand,
-          brand_en: enData.data.brand,
-          categories_ar: [arData.data.categories].filter(path => path.length > 0),
-          categories_en: [enData.data.categories].filter(path => path.length > 0),
-          // main_categories_ar: [...new Set([arData.data.categories[1]].filter(Boolean))],
-          // main_categories_en: [...new Set([enData.data.categories[1]].filter(Boolean))],
-          // sub_categories_ar: [...new Set([arData.data.categories[arData.data.categories.length - 1]].filter(Boolean))],
-          // sub_categories_en: [...new Set([enData.data.categories[enData.data.categories.length - 1]].filter(Boolean))],
-          description_ar: arData.data.description,
-          description_en: enData.data.description,
-          images: arData.data.images
         };
-
-        // Add or update result
-        if (existingProductIndex !== -1) {
-          result[existingProductIndex] = combinedData;
-        } else {
-          result.push(combinedData);
-        }
-
-        // Mark as processed
-        processedProductIds.add(productId);
-      }
-
-      // Save results and progress
-      await fs.writeFile(outputFile, JSON.stringify(result, null, 2));
-      await fs.writeFile(progressFile, JSON.stringify({ processedProductIds: Array.from(processedProductIds) }, null, 2));
-      console.log(`Saved data for product ${productId} to ${outputFile} and updated ${progressFile}`);
+        failedProducts.push(failureLog);
+        await fs.writeFile(failedFile, JSON.stringify(failedProducts, null, 2));
+        console.error(`❌ Failed to scrape data for ${productId}. Logged to ${failedFile}.`);
+        continue; // Move to the next product
     }
 
-    console.log('Processing complete. All data saved to combined_product_data.json');
-    return result;
-  } catch (error) {
-    console.error('Error processing products:', error);
-    // Save current progress and failed products
+    // --- 4. Combine Scraped Data ---
+    const combinedData = {
+      productId: productId,
+      url_en: enUrl,
+      url_ar: arUrl,
+      title_en: enData.data.productName,
+      title_ar: arData.data.productName,
+      brand_en: enData.data.brand,
+      brand_ar: arData.data.brand,
+      categories_en: enData.data.categories,
+      categories_ar: arData.data.categories,
+      description_en: enData.data.description,
+      description_ar: arData.data.description,
+      // Use English images as the primary source, as they are usually higher quality
+      images: enData.data.images.length > 0 ? arData.data.images : enData.data.images,
+      // Include original pricing info from the JSON for reference
+      priceInfo: {
+        price: nahdiProduct.price,
+        originalPrice: nahdiProduct.originalPrice,
+        discount: nahdiProduct.discount,
+      },
+    };
+
+    finalResults.push(combinedData);
+    processedProductIds.add(productId);
+
+    // --- 5. Save Progress Periodically ---
+    await fs.writeFile(outputFile, JSON.stringify(finalResults, null, 2));
     await fs.writeFile(progressFile, JSON.stringify({ processedProductIds: Array.from(processedProductIds) }, null, 2));
-    await fs.writeFile(failedFile, JSON.stringify(failedProducts, null, 2));
-    return result;
+    console.log(`✅ Successfully saved data for product ${productId}.`);
   }
+
+  await browser.close();
+  console.log('\n🚀 Processing complete. All data saved.');
 }
 
-// Run the script
+// --- Script Execution ---
 (async () => {
-  const result = await processProducts("العناية_بالبشرة", "العناية_الكورية_بالبشرة.json");
-  if (result) {
-    return;
-  };
+  // The input file is the output from your Python script
+  await processMatchedProducts("deduplicated_products.json");
 })();
