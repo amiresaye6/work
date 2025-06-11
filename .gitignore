@@ -5,3 +5,4 @@ node_modules/
 *.zip
 *.rar
 pharmacista_master_data_updated_5_7_2025_2025-05-12_16-56-47.json
+.env
