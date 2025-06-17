@@ -1,8 +1,8 @@
 const fs = require('fs');
 
 // Load exported JSON file
-const data = JSON.parse(fs.readFileSync('pm.json', 'utf8'));
-const products = data.find(d => d.type === 'table' && d.name === 'pm').data;
+const data = JSON.parse(fs.readFileSync('wp_posts (1).json', 'utf8'));
+const products = data.find(d => d.type === 'table' && d.name === 'wp_posts').data;
 
 // Build a map for quick SKU lookup
 const skuMap = {};
@@ -25,7 +25,7 @@ products.forEach(ar => {
 });
 
 if (updates.length) {
-  fs.writeFileSync('update_trid.sql', updates.join('\n') + '\n');
+  fs.writeFileSync('trid1.sql', updates.join('\n') + '\n');
   console.log(`SQL statements written to update_trid.sql (${updates.length} updates).`);
 } else {
   console.log('No updates necessary, all trids are already matched.');

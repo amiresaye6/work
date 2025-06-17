@@ -11,7 +11,6 @@ const genAI = new GoogleGenerativeAI(apiKey);
 
 // Main function to get enriched fields using both Arabic and English data in one prompt
 async function getSeoFields(product) {
-    // Updated prompt: send both Arabic and English data, get back updated fields for both
     const prompt = `
 You are a professional SEO product copywriter tasked with rewriting product descriptions for our website. Every response must adhere to these instructions for consistency, SEO optimization, and market relevance:
 
@@ -72,17 +71,27 @@ Categories (en): ${product.categories_en ? product.categories_en.join(' > ') : '
     }
 }
 
-// Batch enrichment
-async function enrichSeoBatch(inputFile, outputFile) {
+// Stream enrichment: write each enriched product as soon as it's ready
+async function enrichSeoStream(inputFile, outputFile, failedFile) {
     const raw = await fs.readFile(inputFile, 'utf-8');
     const products = JSON.parse(raw);
 
-    const enriched = [];
+    // Prepare output file for streaming JSON array
+    const handle = await fs.open(outputFile, 'w');
+    await handle.write('[');
+
+    // Prepare failed products file for streaming JSON array
+    const failedHandle = await fs.open(failedFile, 'w');
+    await failedHandle.write('[');
+
+    let first = true;
+    let firstFailed = true;
     for (const product of products) {
+        let enrichedObject;
+        let isError = false;
         try {
             const seo = await getSeoFields(product);
-            // Output object as original, but with overwritten/added fields
-            enriched.push({
+            enrichedObject = {
                 ...product,
                 title_ar: seo.title_ar,
                 title_en: seo.title_en,
@@ -90,28 +99,44 @@ async function enrichSeoBatch(inputFile, outputFile) {
                 description_en: seo.description_en,
                 shortdescription_ar: seo.shortdescription_ar,
                 shortdescription_en: seo.shortdescription_en
-            });
+            };
             console.log(`Enriched: ${product.productId || product.title_ar}`);
         } catch (err) {
-            enriched.push({
+            isError = true;
+            enrichedObject = {
                 ...product,
                 seo_error: err.message
-            });
+            };
             console.error(`Failed: ${product.productId || product.title_ar}`);
         }
-        // Optional: avoid Gemini rate-limits
-        await new Promise(r => setTimeout(r, 1100));
+
+        if (!isError) {
+            const toWrite = (first ? '' : ',\n') + JSON.stringify(enrichedObject, null, 2);
+            await handle.write(toWrite);
+            first = false;
+        } else {
+            const toWriteFailed = (firstFailed ? '' : ',\n') + JSON.stringify(enrichedObject, null, 2);
+            await failedHandle.write(toWriteFailed);
+            firstFailed = false;
+        }
+        // Delay to avoid Gemini rate-limits
+        await new Promise(r => setTimeout(r, 1500));
     }
 
-    await fs.writeFile(outputFile, JSON.stringify(enriched, null, 2), 'utf-8');
+    await handle.write(']\n');
+    await handle.close();
+    await failedHandle.write(']\n');
+    await failedHandle.close();
     console.log(`Done! Output -> ${outputFile}`);
+    console.log(`Failed products -> ${failedFile}`);
 }
 
-// USAGE: node seo_enrich_gemini.js input.json output.json
+// USAGE: node seo_enrich_gemini_stream.js input.json output.json
 const [, , inputFile, outputFile] = process.argv;
+const failedFile = "seo_failed_products.json";
 if (!inputFile || !outputFile) {
-    console.error('Usage: node seo_enrich_gemini.js input.json output.json');
+    console.error('Usage: node seo_enrich_gemini_stream.js input.json output.json');
     process.exit(1);
 }
 
-enrichSeoBatch(inputFile, outputFile);
+enrichSeoStream(inputFile, outputFile, failedFile);

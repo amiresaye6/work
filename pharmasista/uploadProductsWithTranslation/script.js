@@ -1,9 +1,9 @@
 const fs = require('fs');
+// LAST SKU WAS ar_915
 
 // Helper to extract only the direct image URL, stripping all params and decoding if from /_next/image
 function extractDirectImage(url) {
   if (typeof url !== "string") return url;
-  // If it's a Nahdi proxy image, extract the real URL from the 'url' parameter
   if (url.startsWith("https://www.nahdionline.com/_next/image")) {
     try {
       const parsed = new URL(url);
@@ -14,7 +14,6 @@ function extractDirectImage(url) {
       return url;
     }
   }
-  // If already direct, just strip any params after extension
   const match = url.match(/^(.*?\.(jpg|jpeg|png|webp|gif|bmp))/i);
   return match ? match[1] : url;
 }
@@ -29,15 +28,47 @@ function joinImages(images) {
   return typeof images === "string" ? images : "";
 }
 
+// Loads category mappings and returns two lookup maps (EN, AR)
+function loadCategoryMaps(filepath) {
+  const mappingArr = JSON.parse(fs.readFileSync(filepath, 'utf8'));
+  const mapEn = {};
+  const mapAr = {};
+  mappingArr.forEach(entry => {
+    if (entry.foreigncagetgorty_en) {
+      mapEn[entry.foreigncagetgorty_en.trim().toLowerCase()] = entry.local_category_en || [];
+    }
+    if (entry.foreigncagetgorty_ar) {
+      mapAr[entry.foreigncagetgorty_ar.trim().toLowerCase()] = entry.local_category_ar || [];
+    }
+  });
+  return { mapEn, mapAr };
+}
+
+// Map array of foreign categories to local categories using the lookup map
+function mapForeignToLocalCategories(foreignCategories, mapObj) {
+  if (!Array.isArray(foreignCategories)) foreignCategories = [foreignCategories];
+  const localSet = new Set();
+  foreignCategories.forEach(cat => {
+    if (!cat) return;
+    const lookup = mapObj[cat.trim().toLowerCase()];
+    if (Array.isArray(lookup)) {
+      lookup.forEach(lc => localSet.add(lc));
+    }
+  });
+  return Array.from(localSet);
+}
+
 function main() {
-  const inputFile = 'scraped_product_details.json';
+  const inputFile = 'output3.json';
+  const mappingFile = 'categoriesMapped.json';
   const products = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
+  const { mapEn, mapAr } = loadCategoryMaps(mappingFile);
 
   const output_en = [];
   const output_ar = [];
 
   products.forEach((product, idx) => {
-    const SKU = idx + 1;
+    const SKU = idx + 1 + 460;
     // Clean images array into comma-separated string, with direct URLs only
     let cleanImages = [];
     if (Array.isArray(product.images)) {
@@ -45,13 +76,18 @@ function main() {
     }
     const imagesString = joinImages(cleanImages);
 
+    // Map foreign categories to local categories
+    const localCategoriesEn = mapForeignToLocalCategories(product.categories_en, mapEn);
+    const localCategoriesAr = mapForeignToLocalCategories(product.categories_ar, mapAr);
+
     output_en.push({
       SKU: "en_" + SKU,
       Name: product.title_en || "",
       Description: product.description_en || "",
-      "Sale price": product.priceInfo?.price ? Number(product.priceInfo.price) : "",
+      "Short description": product.shortdescription_en || "",
       "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      Categories: joinCategories(product.categories_en),
+      foreignCategories: joinCategories(product.categories_en),
+      Categories: joinCategories(localCategoriesEn),
       Images: imagesString,
       Brands: product.brand_en || "",
     });
@@ -60,17 +96,18 @@ function main() {
       SKU: "ar_" + SKU,
       Name: product.title_ar || "",
       Description: product.description_ar || "",
-      "Sale price": product.priceInfo?.price ? Number(product.priceInfo.price) : "",
+      "Short description": product.shortdescription_ar || "",
       "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      Categories: joinCategories(product.categories_ar),
+      foreignCategories: joinCategories(product.categories_ar),
+      Categories: joinCategories(localCategoriesAr),
       Images: imagesString,
       Brands: product.brand_ar || "",
     });
   });
 
-  fs.writeFileSync('products_en.json', JSON.stringify(output_en, null, 2), 'utf8');
-  fs.writeFileSync('products_ar.json', JSON.stringify(output_ar, null, 2), 'utf8');
-  console.log('Done! Generated products_en.json and products_ar.json');
+  fs.writeFileSync('products2_en.json', JSON.stringify(output_en, null, 2), 'utf8');
+  fs.writeFileSync('products2_ar.json', JSON.stringify(output_ar, null, 2), 'utf8');
+  console.log('Done! Generated products_en.json and products_ar.json with local categories');
 }
 
 main();
