@@ -1,0 +1,32 @@
+[
+  {
+    "productId": "101747824",
+    "url_en": "https://www.nahdionline.com/en-sa/oral-b-star-wars-mild-mint-toothpaste-junior-6-years-75ml/pdp/101747824",
+    "url_ar": "https://www.nahdionline.com/ar-sa/oral-b-star-wars-mild-mint-toothpaste-junior-6-years-75ml/pdp/101747824",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": "Navigation timeout of 60000 ms exceeded"
+    },
+    "timestamp": "2025-06-18T13:51:42.503Z"
+  },
+  {
+    "productId": "100602746",
+    "url_en": "https://www.nahdionline.com/en-sa/oral-b-pro-expert-extra-clean-soft-manual-toothbrush-1-count/pdp/100602746",
+    "url_ar": "https://www.nahdionline.com/ar-sa/oral-b-pro-expert-extra-clean-soft-manual-toothbrush-1-count/pdp/100602746",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": "Navigation timeout of 60000 ms exceeded"
+    },
+    "timestamp": "2025-06-18T13:53:42.721Z"
+  },
+  {
+    "productId": "102132645",
+    "url_en": "https://www.nahdionline.com/en-sa/oral-b-clic-replacement-brush-head-fits-all-clic-handles-2-count/pdp/102132645",
+    "url_ar": "https://www.nahdionline.com/ar-sa/oral-b-clic-replacement-brush-head-fits-all-clic-handles-2-count/pdp/102132645",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": "Navigation timeout of 60000 ms exceeded"
+    },
+    "timestamp": "2025-06-18T13:55:42.930Z"
+  }
+]
