@@ -28,5 +28,15 @@
       "ar": "Navigation timeout of 60000 ms exceeded"
     },
     "timestamp": "2025-06-18T13:55:42.930Z"
+  },
+  {
+    "productId": "103077941",
+    "url_en": "https://www.nahdionline.com/en-sa/shea-moisture-coconut-hibiscus-mousse-frizz-free-curl-222ml/pdp/103077941",
+    "url_ar": "https://www.nahdionline.com/ar-sa/shea-moisture-coconut-hibiscus-mousse-frizz-free-curl-222ml/pdp/103077941",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": "Navigation timeout of 60000 ms exceeded"
+    },
+    "timestamp": "2025-06-19T14:11:51.665Z"
   }
 ]

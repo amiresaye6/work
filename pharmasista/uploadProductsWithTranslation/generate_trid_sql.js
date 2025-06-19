@@ -25,7 +25,7 @@ products.forEach(ar => {
 });
 
 if (updates.length) {
-  fs.writeFileSync('trid2.sql', updates.join('\n') + '\n');
+  fs.writeFileSync('trid3.sql', updates.join('\n') + '\n');
   console.log(`SQL statements written to update_trid.sql (${updates.length} updates).`);
 } else {
   console.log('No updates necessary, all trids are already matched.');
