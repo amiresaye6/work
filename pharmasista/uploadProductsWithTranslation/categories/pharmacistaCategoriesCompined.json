@@ -1,0 +1,326 @@
+[
+  {
+    "ar": "العناية بالبشرة",
+    "en": "Skin Care"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات تقشير البشرة",
+    "en": "Skin Care > Skin exfoliation products"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات ترطيب البشرة",
+    "en": "Skin Care > Skin moisturizing products"
+  },
+  {
+    "ar": "العناية بالبشرة > غسول البشرة",
+    "en": "Skin Care > Skin cleansers"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات الحماية من الشمس",
+    "en": "Skin Care > Sun protection products"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات تفتيح البشرة",
+    "en": "Skin Care > Skin whitening products"
+  },
+  {
+    "ar": "العناية بالبشرة > سيروم البشرة",
+    "en": "Skin Care > Skin serums"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات العناية بالبشرة الكورية",
+    "en": "Skin Care > Korean skin care products"
+  },
+  {
+    "ar": "العناية بالبشرة > ماسكات للبشرة",
+    "en": "Skin Care > Skin masks"
+  },
+  {
+    "ar": "العناية بالبشرة > منتجات طبيعية للعناية بالبشرة",
+    "en": "Skin Care > Natural skin care products"
+  },
+  {
+    "ar": "العناية بالبشرة > أدوات العناية بالبشرة",
+    "en": "Skin Care > Skin care tools"
+  },
+  {
+    "ar": "العناية بالبشرة > فيتامينات للعناية بالبشرة",
+    "en": "Skin Care > Skin care vitamins"
+  },
+  {
+    "ar": "العناية بالشعر",
+    "en": "Hair Care"
+  },
+  {
+    "ar": "العناية بالشعر > الشامبو",
+    "en": "Hair Care > Shampoo"
+  },
+  {
+    "ar": "العناية بالشعر > البلسم",
+    "en": "Hair Care > Conditioner"
+  },
+  {
+    "ar": "العناية بالشعر > حمام كريم وماسك للشعر",
+    "en": "Hair Care > Hair cream bath and masks"
+  },
+  {
+    "ar": "العناية بالشعر > منتجات تصفيف الشعر",
+    "en": "Hair Care > Hair styling products"
+  },
+  {
+    "ar": "العناية بالشعر > زيوت وسيروم للشعر",
+    "en": "Hair Care > Hair oils and serums"
+  },
+  {
+    "ar": "العناية بالشعر > صبغات الشعر",
+    "en": "Hair Care > Hair dyes"
+  },
+  {
+    "ar": "العناية بالشعر > معالجات الشعر",
+    "en": "Hair Care > Hair treatments"
+  },
+  {
+    "ar": "العناية بالشعر > منتجات طبيعية للشعر",
+    "en": "Hair Care > Natural hair products"
+  },
+  {
+    "ar": "العناية بالشعر > أجهزة تصفيف الشعر",
+    "en": "Hair Care > Hair styling devices"
+  },
+  {
+    "ar": "العناية بالشعر > فيتامينات للعناية بالشعر",
+    "en": "Hair Care > Hair care vitamins"
+  },
+  {
+    "ar": "العناية بالطفل",
+    "en": "Baby Care"
+  },
+  {
+    "ar": "العناية بالطفل > العناية بالبشره للأطفال",
+    "en": "Baby Care > Skin care for babies"
+  },
+  {
+    "ar": "العناية بالطفل > العناية بنظافة الأطفال",
+    "en": "Baby Care > Baby hygiene care"
+  },
+  {
+    "ar": "العناية بالطفل > حفائض",
+    "en": "Baby Care > Diapers"
+  },
+  {
+    "ar": "العناية بالطفل > عطور للأطفال",
+    "en": "Baby Care > Perfumes for babies"
+  },
+  {
+    "ar": "العناية الشخصية",
+    "en": "Personal Care"
+  },
+  {
+    "ar": "العناية الشخصية > مزيلات العرق",
+    "en": "Personal Care > Deodorants"
+  },
+  {
+    "ar": "العناية الشخصية > العناية بالجسم والإستحمام",
+    "en": "Personal Care > Body and shower care"
+  },
+  {
+    "ar": "العناية الشخصية > منتجات العناية بالمرأه",
+    "en": "Personal Care > Women’s care products"
+  },
+  {
+    "ar": "العناية الشخصية > منتجات العناية بالرجل",
+    "en": "Personal Care > Men’s care products"
+  },
+  {
+    "ar": "العناية الشخصية > الصحة الجنسية",
+    "en": "Personal Care > Sexual health"
+  },
+  {
+    "ar": "العناية بالفم والأسنان",
+    "en": "Oral and Dental Care"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > معجون الأسنان",
+    "en": "Oral and Dental Care > Toothpaste"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > فرش الأسنان",
+    "en": "Oral and Dental Care > Toothbrushes"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > أدوات تنظيف الأسنان",
+    "en": "Oral and Dental Care > Dental cleaning tools"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > منتجات تبييض الأسنان",
+    "en": "Oral and Dental Care > Teeth whitening products"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > غسول الفم",
+    "en": "Oral and Dental Care > Mouthwash"
+  },
+  {
+    "ar": "العناية بالفم والأسنان > معطرات الفم",
+    "en": "Oral and Dental Care > Mouth fresheners"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات",
+    "en": "Beauty Products and Accessories"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > أحمر شفاه",
+    "en": "Beauty Products and Accessories > Lipsticks"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > مكياج العيون",
+    "en": "Beauty Products and Accessories > Eye makeup"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > مكياج الوجه",
+    "en": "Beauty Products and Accessories > Face makeup"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب",
+    "en": "Beauty Products and Accessories > False nails and lashes"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > عدسات لاصقه",
+    "en": "Beauty Products and Accessories > Contact lenses"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > أدوات المكياج",
+    "en": "Beauty Products and Accessories > Makeup tools"
+  },
+  {
+    "ar": "منتجات التجميل والإكسسوارات > اكسسوارات",
+    "en": "Beauty Products and Accessories > Accessories"
+  },
+  {
+    "ar": "العطور",
+    "en": "Perfumes"
+  },
+  {
+    "ar": "العطور > عطور نسائية",
+    "en": "Perfumes > Women’s perfumes"
+  },
+  {
+    "ar": "العطور > عطور رجال",
+    "en": "Perfumes > Men’s perfumes"
+  },
+  {
+    "ar": "العطور > عطور للجنسين",
+    "en": "Perfumes > Unisex perfumes"
+  },
+  {
+    "ar": "العطور > عطور شرقيه",
+    "en": "Perfumes > Oriental perfumes"
+  },
+  {
+    "ar": "العطور > عطور فاخره",
+    "en": "Perfumes > Luxury perfumes"
+  },
+  {
+    "ar": "العطور > عطور الشعر",
+    "en": "Perfumes > Hair perfumes"
+  },
+  {
+    "ar": "العطور > معطرات للجو",
+    "en": "Perfumes > Air fresheners"
+  },
+  {
+    "ar": "العطور > مجموعات للهدايا",
+    "en": "Perfumes > Gift sets"
+  },
+  {
+    "ar": "العناية بكبار السن",
+    "en": "Elderly Care"
+  },
+  {
+    "ar": "العناية بكبار السن > حفائض كبار السن",
+    "en": "Elderly Care > Adult diapers"
+  },
+  {
+    "ar": "العناية بكبار السن > مستلزمات الرعاية",
+    "en": "Elderly Care > Care supplies"
+  },
+  {
+    "ar": "العناية بكبار السن > اجهزة العناية بكبارالسن",
+    "en": "Elderly Care > Elderly care devices"
+  },
+  {
+    "ar": "مستلزمات الأطفال",
+    "en": "Baby Supplies"
+  },
+  {
+    "ar": "مستلزمات الأطفال > عربيات الأطفال",
+    "en": "Baby Supplies > Baby strollers"
+  },
+  {
+    "ar": "مستلزمات الأطفال > العاب الأطفال",
+    "en": "Baby Supplies > Baby toys"
+  },
+  {
+    "ar": "مستلزمات الأطفال > حماله الأطفال",
+    "en": "Baby Supplies > Baby carriers"
+  },
+  {
+    "ar": "مستلزمات الأطفال > مقعد سيارة",
+    "en": "Baby Supplies > Car seats"
+  },
+  {
+    "ar": "مستلزمات الأطفال > مشاية الأطفال",
+    "en": "Baby Supplies > Baby walkers"
+  },
+  {
+    "ar": "مستلزمات الأطفال > هزازات للأطفال",
+    "en": "Baby Supplies > Baby rockers"
+  },
+  {
+    "ar": "مستلزمات الأطفال > سرير الأطفال",
+    "en": "Baby Supplies > Baby beds"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال",
+    "en": "Milk and Baby Products"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > حليب للأطفال",
+    "en": "Milk and Baby Products > Baby milk"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > طعام للأطفال",
+    "en": "Milk and Baby Products > Baby food"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > مستلزمات طعام الأطفال",
+    "en": "Milk and Baby Products > Baby feeding supplies"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > رضاعات",
+    "en": "Milk and Baby Products > Baby bottles"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > لهايات",
+    "en": "Milk and Baby Products > Pacifiers"
+  },
+  {
+    "ar": "الحليب و منتجات الأطفال > عضاضات",
+    "en": "Milk and Baby Products > Teethers"
+  },
+  {
+    "ar": "العناية الطبية والفيتامينات",
+    "en": "Medical Care and Vitamins"
+  },
+  {
+    "ar": "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات",
+    "en": "Medical Care and Vitamins > Dietary supplements and vitamins"
+  },
+  {
+    "ar": "العناية الطبية والفيتامينات > العناية الطبية",
+    "en": "Medical Care and Vitamins > Medical care"
+  },
+  {
+    "ar": "العناية الطبية والفيتامينات > اجهزة العناية الطبية",
+    "en": "Medical Care and Vitamins > Medical care devices"
+  }
+]
