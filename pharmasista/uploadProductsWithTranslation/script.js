@@ -1,5 +1,4 @@
 const fs = require('fs');
-// LAST SKU WAS ar_915
 
 // Helper to extract only the direct image URL, stripping all params and decoding if from /_next/image
 function extractDirectImage(url) {
@@ -34,11 +33,12 @@ function loadCategoryMaps(filepath) {
   const mapEn = {};
   const mapAr = {};
   mappingArr.forEach(entry => {
-    if (entry.foreigncagetgorty_en) {
-      mapEn[entry.foreigncagetgorty_en.trim().toLowerCase()] = entry.local_category_en || [];
+    // USE THE NEW PROPERTY NAMES HERE
+    if (entry.foreigncagetgory_en) {
+      mapEn[entry.foreigncagetgory_en.trim().toLowerCase()] = entry.local_category_en || [];
     }
-    if (entry.foreigncagetgorty_ar) {
-      mapAr[entry.foreigncagetgorty_ar.trim().toLowerCase()] = entry.local_category_ar || [];
+    if (entry.foreigncagetgory_ar) {
+      mapAr[entry.foreigncagetgory_ar.trim().toLowerCase()] = entry.local_category_ar || [];
     }
   });
   return { mapEn, mapAr };
@@ -59,7 +59,7 @@ function mapForeignToLocalCategories(foreignCategories, mapObj) {
 }
 
 function main() {
-  const inputFile = 'output3.json';
+  const inputFile = 'test.json';
   const mappingFile = 'categoriesMapped.json';
   const products = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
   const { mapEn, mapAr } = loadCategoryMaps(mappingFile);
@@ -68,7 +68,8 @@ function main() {
   const output_ar = [];
 
   products.forEach((product, idx) => {
-    const SKU = idx + 1 + 460;
+    const SKU = idx + 1;
+    // const SKU = idx + 1 + 899;
     // Clean images array into comma-separated string, with direct URLs only
     let cleanImages = [];
     if (Array.isArray(product.images)) {
@@ -82,32 +83,32 @@ function main() {
 
     output_en.push({
       SKU: "en_" + SKU,
-      Name: product.title_en || "",
-      Description: product.description_en || "",
-      "Short description": product.shortdescription_en || "",
-      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      foreignCategories: joinCategories(product.categories_en),
+      // Name: product.title_en || "",
+      // Description: product.description_en || "",
+      // "Short description": product.shortdescription_en || "",
+      // "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
+      // foreignCategories: joinCategories(product.categories_en),
       Categories: joinCategories(localCategoriesEn),
-      Images: imagesString,
-      Brands: product.brand_en || "",
+      // Images: imagesString,
+      // Brands: product.brand_en || "",
     });
 
     output_ar.push({
       SKU: "ar_" + SKU,
-      Name: product.title_ar || "",
-      Description: product.description_ar || "",
-      "Short description": product.shortdescription_ar || "",
-      "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
-      foreignCategories: joinCategories(product.categories_ar),
+      // Name: product.title_ar || "",
+      // Description: product.description_ar || "",
+      // "Short description": product.shortdescription_ar || "",
+      // "Regular price": product.priceInfo?.originalPrice ? Number(product.priceInfo.originalPrice) : product.priceInfo?.price ? Number(product.priceInfo.price) : "",
+      // foreignCategories: joinCategories(product.categories_ar),
       Categories: joinCategories(localCategoriesAr),
-      Images: imagesString,
-      Brands: product.brand_ar || "",
+      // Images: imagesString,
+      // Brands: product.brand_ar || "",
     });
   });
 
   fs.writeFileSync('products2_en.json', JSON.stringify(output_en, null, 2), 'utf8');
   fs.writeFileSync('products2_ar.json', JSON.stringify(output_ar, null, 2), 'utf8');
-  console.log('Done! Generated products_en.json and products_ar.json with local categories');
+  console.log('Done! Generated products2_en.json and products2_ar.json with local categories');
 }
 
 main();
