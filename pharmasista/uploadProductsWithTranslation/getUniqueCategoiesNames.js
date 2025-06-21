@@ -59,8 +59,8 @@ function main() {
   });
 
   // Write results
-  fs.writeFileSync('categories_en.txt', [...categoriesEnSet].sort().join('\n'), 'utf8');
-  fs.writeFileSync('categories_ar.txt', [...categoriesArSet].sort().join('\n'), 'utf8');
+  fs.writeFileSync('categories/categories_en.txt', [...categoriesEnSet].sort().join('\n'), 'utf8');
+  fs.writeFileSync('categories/categories_ar.txt', [...categoriesArSet].sort().join('\n'), 'utf8');
   console.log(`Extracted ${categoriesEnSet.size} unique English categories and ${categoriesArSet.size} unique Arabic categories.`);
   console.log(`See categories_en.txt and categories_ar.txt`);
 }
