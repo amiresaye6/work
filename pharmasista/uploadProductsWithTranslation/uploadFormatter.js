@@ -59,7 +59,7 @@ function mapForeignToLocalCategories(foreignCategories, mapObj) {
 }
 
 function main() {
-  const inputFile = 'output5.json';
+  const inputFile = 'output6.json';
   const mappingFile = 'categoriesMapped.json';
   const products = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
   const { mapEn, mapAr } = loadCategoryMaps(mappingFile);
@@ -69,7 +69,7 @@ function main() {
 
   products.forEach((product, idx) => {
     // const SKU = idx + 1;
-    const SKU = idx + 1 + 1387;
+    const SKU = idx + 1 + 1887;
     // Clean images array into comma-separated string, with direct URLs only
     let cleanImages = [];
     if (Array.isArray(product.images)) {
@@ -106,8 +106,8 @@ function main() {
     });
   });
 
-  fs.writeFileSync('products4_en.json', JSON.stringify(output_en, null, 2), 'utf8');
-  fs.writeFileSync('products4_ar.json', JSON.stringify(output_ar, null, 2), 'utf8');
+  fs.writeFileSync('products5_en.json', JSON.stringify(output_en, null, 2), 'utf8');
+  fs.writeFileSync('products5_ar.json', JSON.stringify(output_ar, null, 2), 'utf8');
   console.log('Done! Generated products2_en.json and products2_ar.json with local categories');
 }
 
