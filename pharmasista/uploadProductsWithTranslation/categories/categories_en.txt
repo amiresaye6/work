@@ -1,22 +1,32 @@
 Acne & Blemishes
+Acne Treatments
 Adult Diapers
+Adult Pain & Fever
 Adult Sanitary Care
 Adult Tooth Brush
 Adult Tooth Brushes
 Aerosol
+After Shave
 After Sun
 Aging & Wrinkles
 Amino Acids
 Ammonia Free
 Ampoules & Toner Water
+Antiseptic Wipes
 Apple Cider
 Ashwagandha
 BB & CC Cream
+BG Monitors & Strips & Lancets
+Baby Bath Essentials
 Baby Biscuits
 Baby Care
 Baby Cereal
+Baby Clothes
 Baby Conditioner
+Baby Cups
+Baby Feeding Essentials
 Baby Food
+Baby Grooming
 Baby Lotion
 Baby Milk
 Baby Skin Care
@@ -27,12 +37,16 @@ Bags
 Balance Your Hormones
 Bar Soap
 Bath & Body
+Bath Tub & Sponge
 Beauty Accessories
 Biotin
 Blades & Razors
 Blush & Bronzer
+Body Lotion
+Body Mist
 Body Moisturizer
 Body Scrub
+Bottles & Milk Prep
 Bracelets
 Breast Feeding Support
 Breast Pump
@@ -44,23 +58,32 @@ Category breadcrumb not found
 Cavity Prevention
 Clay Mask
 Cleansers
+Cold & Flu Relief
 Collagen Type 1 & 3
 Collagen Type 2
+Color Care
 Color Contact Lenses
 Combs
 Concealer
 Conditioner
 Condom
+Cough Cold & Allergy
+Cream
 Cream Mask
 Curling Irons
 Curly Hair Frizzing
 Daily Conditioner
 Daily Shampoo
+Dandruff Treatment
 Dental Accessories
 Deodorant
+Detergent
+Diabetes Care
+Diabetic Care
 Diaper Rash Cream & Powder
 Diapers & Changing Essentials
 Digestive Care
+Disinfectants
 Dry Shampoo
 Dryers
 Dryness & Dehydration
@@ -83,13 +106,17 @@ Eyes
 Eyeshadow
 Face
 Face Cream
+Face Oil
 Face Palette
 Face Spray
+Facial Brushes
 Facial Cleansers
 Facial Cleansing Brush
 Fat Burner
+Feeding Bottles
 Fertility support
 Fibers
+First Aid & Splints
 Flat Irons
 Flosser
 Foot Care
@@ -97,13 +124,16 @@ Foundation
 Fragrances
 Fragrances For Her
 Fragrances For Him
+Garlic
 Gel
 Gifting Sets
 Ginger
 Ginger & Moringa Tea
+Gingivitis Toothpaste
 Gloss
 Glutathione
 Glycolic Acid
+Goat Milk
 Green Tea
 Growth Support
 Gum and Candy
@@ -120,7 +150,9 @@ Hair Styling Devices
 Hair Tools
 Hair Vitamins
 Hand Cream
+Hand Sanitizers
 Hand Wash
+Healthy Devices
 Healthy Nutrition
 Healthy Snacks
 Heart Health
@@ -128,10 +160,12 @@ Heat Protection
 Herbs
 Highlighter
 Home
+Hot Oil
 Household Products
 Hyaluronic Acid
 Hygiene Soap Bar
 Hygienic & Household
+Hygienic Products
 Hyperpigmentation & Dark Spots
 Indulging Lotion
 Indulging Shower Gel
@@ -141,10 +175,12 @@ Intimate Wipes
 Jewellery
 Kids
 Kids Care
+Kids Pain & Fever
 Kids Tooth Brush
 Kids Tooth Paste
 Kids Toothbrushes
 Kids Toothpaste
+Kids Treatments
 Korean Beauty
 L-Arginine
 L-Carnitine
@@ -172,6 +208,7 @@ Masks
 Masks & Toner Pads
 Medicated Mouth Wash
 Men Care
+Men Sexual Health
 Mink Lashes
 Moisturizers
 Monthly Lenses
@@ -184,6 +221,7 @@ Nail Care
 Nail Polish
 Nail Polish Remover
 Nails
+Nasal Decongestant
 Natural Lashes
 Natural Soap Bars
 Niacinamide
@@ -196,6 +234,7 @@ Oily Skin & Enlarged Pores
 Omega 3
 Optical Care
 Oral Care
+Pacifiers
 Pain Killers
 Panty Liners
 Peel Off Mask
@@ -210,6 +249,7 @@ Pregnancy Multivitamins
 Primer
 Protein
 Protein Bars
+Protein Treatmment
 Puffes and Snacks
 Rash & Itching
 Regular Diapers
@@ -221,6 +261,7 @@ Retinol
 Roll On
 Root Touch Up
 Salicylic Acid
+Salon Hair Care
 Sanitary Care
 Sanitary Napkins
 Scrubs & Exfoliators
@@ -240,10 +281,12 @@ Sheet Mask
 Shower Gel
 Skin Brightening
 Skin Care
+Skin Patches
 Skin Repairing
 Skin Tech Tools
 Skin Treatments
 Skin Vitamins
+Skincare Tools
 Sleep, Digest, Detox Tea
 Solutions Focused Shampoo
 Specialty Milk
@@ -261,7 +304,11 @@ Styling Creams
 Sun Care
 Sunscreen
 Supplements
+Syringes & Pen Needles
+Tampons
 Tea, Coffee & Herbals
+Teethers
+Thermometers
 Toner & Micellar Water
 Toothbrushes
 Toothpaste
@@ -273,6 +320,7 @@ Vitamin B6
 Vitamin C
 Vitamins
 Water Flosser
+Wax
 Whitening Cleansers
 Whitening Creams
 Whitening Masks
@@ -282,3 +330,4 @@ Whitening Serums
 Whitening Solutions
 Whitening Strips
 Whitening Toothpaste
+Wound Care
