@@ -2,6 +2,8 @@ require('dotenv').config();
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const fs = require('fs').promises;
 
+let counter = 0
+
 // Setup Gemini API
 const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) {
@@ -100,7 +102,7 @@ async function enrichSeoStream(inputFile, outputFile, failedFile) {
                 shortdescription_ar: seo.shortdescription_ar,
                 shortdescription_en: seo.shortdescription_en
             };
-            console.log(`Enriched: ${product.productId || product.title_ar}`);
+            console.log(`Enriched product number ${counter++}: ${product.productId || product.title_ar}`);
         } catch (err) {
             isError = true;
             enrichedObject = {
