@@ -50,7 +50,7 @@ Categories (ar): ${product.categories_ar ? product.categories_ar.join(' > ') : '
 Categories (en): ${product.categories_en ? product.categories_en.join(' > ') : ''}
     `.trim();
 
-    const model = genAI.getGenerativeModel({ model: 'gemini-1.5-flash' });
+    const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite-preview-06-17' });
 
     try {
         const result = await model.generateContent(prompt);

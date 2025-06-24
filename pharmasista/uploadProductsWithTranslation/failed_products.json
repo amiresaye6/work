@@ -38,5 +38,15 @@
       "ar": "Navigation timeout of 60000 ms exceeded"
     },
     "timestamp": "2025-06-19T14:11:51.665Z"
+  },
+  {
+    "productId": "102199815",
+    "url_en": "https://www.nahdionline.com/en-sa/flormar-full-color-nail-polish-fc10/pdp/102199815",
+    "url_ar": "https://www.nahdionline.com/ar-sa/flormar-full-color-nail-polish-fc10/pdp/102199815",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": null
+    },
+    "timestamp": "2025-06-24T12:09:15.502Z"
   }
 ]

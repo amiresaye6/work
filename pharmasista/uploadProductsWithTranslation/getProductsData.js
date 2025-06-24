@@ -1,6 +1,8 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 
+let counter = 0;
+
 /**
  * Scrapes detailed product information from a given Nahdi URL.
  * @param {string} url The URL of the product page to scrape.
@@ -203,7 +205,7 @@ async function processMatchedProducts(inputFileName) {
     // --- 5. Save Progress Periodically ---
     await fs.writeFile(outputFile, JSON.stringify(finalResults, null, 2));
     await fs.writeFile(progressFile, JSON.stringify({ processedProductIds: Array.from(processedProductIds) }, null, 2));
-    console.log(`✅ Successfully saved data for product ${productId}.`);
+    console.log(`✅ Successfully saved data for product ${productId}. index: ${++counter}`);
   }
 
   await browser.close();
