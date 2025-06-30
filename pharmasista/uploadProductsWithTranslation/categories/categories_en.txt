@@ -35,6 +35,7 @@ Baby Oil
 Baby Ready Meal
 Baby Shampoo & Conditioner
 Baby Shampoos
+Baby Shower Gel
 Baby Skin Care
 Baby Tea
 Baby Wipes
@@ -96,6 +97,7 @@ Deodorant
 Detergent
 Diabetes Care
 Diabetic Care
+Diabetic Foot
 Diaper Rash Cream & Powder
 Diapers & Changing Essentials
 Diet Chocolate
@@ -140,6 +142,8 @@ First Aid & Splints
 Flat Irons
 Flosser
 Foot Care
+Foot Moisturizers
+Foot Odour Control
 Foundation
 Fragrances
 Fragrances For Her
@@ -228,6 +232,7 @@ Make Up Tools
 Make-up Tools
 Makeup
 Makeup Remover
+Makeup Removers
 Manage Your Weight
 Mascara
 Masks

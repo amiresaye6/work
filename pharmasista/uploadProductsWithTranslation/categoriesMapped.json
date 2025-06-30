@@ -4348,5 +4348,57 @@
             "العناية بالشعر"
         ],
         "foreign_category_ar": ""
+    },
+    {
+        "foreign_category_en": "Foot Odour Control",
+        "foreign_category_ar": "التحكم في رائحة القدم",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Diabetic Foot",
+        "foreign_category_ar": "القدم السكري",
+        "local_category_en": [
+            "Medical Care and Vitamins",
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات",
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Shower Gel",
+        "foreign_category_ar": "جل استحمام الأطفال",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Foot Moisturizers",
+        "foreign_category_ar": "مرطبات القدمين",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Makeup Removers",
+        "foreign_category_ar": "مزيلات المكياج",
+        "local_category_en": [
+            "Beauty Products and Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات"
+        ]
     }
 ]
