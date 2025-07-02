@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Load exported JSON file
-const data = JSON.parse(fs.readFileSync('pm (22).json', 'utf8'));
+const data = JSON.parse(fs.readFileSync('pm (23).json', 'utf8'));
 const products = data.find(d => d.type === 'table' && d.name === 'pm').data;
 
 // Build a map for quick SKU lookup
@@ -25,7 +25,7 @@ products.forEach(ar => {
 });
 
 if (updates.length) {
-  fs.writeFileSync('trid20.sql', updates.join('\n') + '\n');
+  fs.writeFileSync('trid21.sql', updates.join('\n') + '\n');
   console.log(`SQL statements written to update_trid.sql (${updates.length} updates).`);
 } else {
   console.log('No updates necessary, all trids are already matched.');
