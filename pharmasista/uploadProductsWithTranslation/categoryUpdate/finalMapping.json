@@ -1,0 +1,2752 @@
+[
+    {
+        "foreign_category_en": "Fragrances",
+        "foreign_category_ar": "العطور",
+        "local_category_en": [
+            "Perfumes"
+        ],
+        "local_category_ar": [
+            "العطور"
+        ]
+    },
+    {
+        "foreign_category_en": "Fragrances For Him",
+        "foreign_category_ar": "عطور للرجال",
+        "local_category_en": [
+            "Perfumes > Men’s perfumes"
+        ],
+        "local_category_ar": [
+            "العطور > عطور رجال"
+        ]
+    },
+    {
+        "foreign_category_en": "Deodorant",
+        "foreign_category_ar": "مزيل العرق",
+        "local_category_en": [
+            "Personal Care > Deodorants"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > مزيلات العرق"
+        ]
+    },
+    {
+        "foreign_category_en": "Roll On",
+        "foreign_category_ar": "مزيل عرق رول أون",
+        "local_category_en": [
+            "Personal Care > Deodorants"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > مزيلات العرق"
+        ]
+    },
+    {
+        "foreign_category_en": "Shower Gel",
+        "foreign_category_ar": "جل الاستحمام",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Spray",
+        "foreign_category_ar": "رذاذ",
+        "local_category_en": [
+            "Perfumes"
+        ],
+        "local_category_ar": [
+            "العطور"
+        ]
+    },
+    {
+        "foreign_category_en": "Bath & Body",
+        "foreign_category_ar": "الاستحمام والعناية بالجسم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Lady Care",
+        "foreign_category_ar": "العناية النسائية",
+        "local_category_en": [
+            "Personal Care > Women’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالمرأه"
+        ]
+    },
+    {
+        "foreign_category_en": "Sanitary Care",
+        "foreign_category_ar": "العناية الصحية",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Intimate Care",
+        "foreign_category_ar": "العناية الحميمة",
+        "local_category_en": [
+            "Personal Care > Women’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالمرأه"
+        ]
+    },
+    {
+        "foreign_category_en": "Cleansers",
+        "foreign_category_ar": "منظفات البشرة",
+        "local_category_en": [
+            "Skin Care > Skin cleansers"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Home",
+        "foreign_category_ar": "الصفحة الرئيسية",
+        "local_category_en": [],
+        "local_category_ar": []
+    },
+    {
+        "foreign_category_en": "Herbs",
+        "foreign_category_ar": "الأعشاب",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Manage Your Weight",
+        "foreign_category_ar": "إدارة/ضبط الوزن",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Green Tea",
+        "foreign_category_ar": "الشاي الأخضر",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Ginger",
+        "foreign_category_ar": "الزنجبيل",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Skin Care",
+        "foreign_category_ar": "العناية بالبشرة",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Korean Beauty",
+        "foreign_category_ar": "العناية الكورية بالبشرة",
+        "local_category_en": [
+            "Skin Care > Korean skin care products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات العناية بالبشرة الكورية"
+        ]
+    },
+    {
+        "foreign_category_en": "Serum",
+        "foreign_category_ar": "سيروم",
+        "local_category_en": [
+            "Skin Care > Skin serums"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > سيروم البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Hyperpigmentation & Dark Spots",
+        "foreign_category_ar": "التصبغات والبقع الداكنة",
+        "local_category_en": [
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Milk",
+        "foreign_category_ar": "حليب للأطفال",
+        "local_category_en": [
+            "Milk and Baby Products > Baby milk"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > حليب للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Regular Formula",
+        "foreign_category_ar": "حليب صناعي (منتظم)",
+        "local_category_en": [
+            "Milk and Baby Products > Baby milk"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > حليب للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Stage 1 (0-6 months)",
+        "foreign_category_ar": "مرحلة 1 (0-6 أشهر)",
+        "local_category_en": [
+            "Milk and Baby Products"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Care",
+        "foreign_category_ar": "العناية بالطفل",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Stage 4 (3+ years)",
+        "foreign_category_ar": "مرحلة 4 (3 سنوات فأكثر)",
+        "local_category_en": [
+            "Milk and Baby Products"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids",
+        "foreign_category_ar": "الأطفال",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Tooth Paste",
+        "foreign_category_ar": "معجون أسنان للأطفال",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Toothbrushes",
+        "foreign_category_ar": "فرش الأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Tooth Brush",
+        "foreign_category_ar": "فرشاة أسنان للأطفال",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Hygienic & Household",
+        "foreign_category_ar": "النظافة والتعقيم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Household Products",
+        "foreign_category_ar": "المستلزمات المنزلية",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Skin Brightening",
+        "foreign_category_ar": "تفتيح البشرة",
+        "local_category_en": [
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Scrubs & Exfoliators",
+        "foreign_category_ar": "المقشرات",
+        "local_category_en": [
+            "Skin Care > Skin exfoliation products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تقشير البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "OTC Treatments",
+        "foreign_category_ar": "العلاجات بدون وصفة",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Pain Killers",
+        "foreign_category_ar": "مسكنات الألم",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Oral Care",
+        "foreign_category_ar": "العناية بالفم والأسنان",
+        "local_category_en": [
+            "Oral and Dental Care"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Mouth Wash",
+        "foreign_category_ar": "غسول الفم",
+        "local_category_en": [
+            "Oral and Dental Care > Mouthwash"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > غسول الفم"
+        ]
+    },
+    {
+        "foreign_category_en": "Skin Treatments",
+        "foreign_category_ar": "علاجات البشرة",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Moisturizers",
+        "foreign_category_ar": "المرطبات (للبشرة)",
+        "local_category_en": [
+            "Skin Care > Skin moisturizing products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات ترطيب البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Hand Cream",
+        "foreign_category_ar": "كريم لليدين",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Body Moisturizer",
+        "foreign_category_ar": "مرطب للجسم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Foot Care",
+        "foreign_category_ar": "العناية بالقدمين",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Solutions",
+        "foreign_category_ar": "حلول التبييض",
+        "local_category_en": [
+            "Skin Care > Skin whitening products",
+            "Oral and Dental Care > Teeth whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تفتيح البشرة",
+            "العناية بالفم والأسنان > منتجات تبييض الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Care",
+        "foreign_category_ar": "العناية بالشعر",
+        "local_category_en": [
+            "Hair Care"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Loss Treatment",
+        "foreign_category_ar": "علاج لتساقط الشعر",
+        "local_category_en": [
+            "Hair Care > Hair treatments"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > معالجات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Nail Care",
+        "foreign_category_ar": "العناية بالأظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Indulging Lotion",
+        "foreign_category_ar": "لوشن فاخر",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Wipes & Creams",
+        "foreign_category_ar": "مناديل وكريم للأطفال",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Skin Care",
+        "foreign_category_ar": "العناية ببشرة الأطفال",
+        "local_category_en": [
+            "Baby Care > Skin care for babies"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > العناية بالبشره للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Lotion",
+        "foreign_category_ar": "لوشن الأطفال",
+        "local_category_en": [
+            "Baby Care > Skin care for babies"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > العناية بالبشره للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Dryness & Dehydration",
+        "foreign_category_ar": "الجفاف ونقص الترطيب",
+        "local_category_en": [
+            "Skin Care > Skin moisturizing products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات ترطيب البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Eczema",
+        "foreign_category_ar": "علاجات الإكزيما",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Acne & Blemishes",
+        "foreign_category_ar": "حب الشباب والعيوب",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Sensitivity & Redness",
+        "foreign_category_ar": "حساسية واحمرار البشرة",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Facial Cleansers",
+        "foreign_category_ar": "غسول الوجه",
+        "local_category_en": [
+            "Skin Care > Skin cleansers"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Color",
+        "foreign_category_ar": "صبغات الشعر",
+        "local_category_en": [
+            "Hair Care > Hair dyes"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > صبغات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Ammonia Free",
+        "foreign_category_ar": "صبغة شعر خالية من الأمونيا",
+        "local_category_en": [
+            "Hair Care > Hair dyes"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > صبغات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Men Care",
+        "foreign_category_ar": "العناية بالرجال",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Sun Care",
+        "foreign_category_ar": "العناية بالشمس",
+        "local_category_en": [
+            "Skin Care > Sun protection products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات الحماية من الشمس"
+        ]
+    },
+    {
+        "foreign_category_en": "Aging & Wrinkles",
+        "foreign_category_ar": "التجاعيد وعلامات التقدم بالعمر",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Lips",
+        "foreign_category_ar": "الشفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Lip Balm",
+        "foreign_category_ar": "بلسم الشفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Lipsticks"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أحمر شفاه"
+        ]
+    },
+    {
+        "foreign_category_en": "Hygiene Soap Bar",
+        "foreign_category_ar": "صابون صحي",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Natural Soap Bars",
+        "foreign_category_ar": "ألواح صابون طبيعية",
+        "local_category_en": [
+            "Skin Care > Natural skin care products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات طبيعية للعناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Food",
+        "foreign_category_ar": "أغذية الأطفال",
+        "local_category_en": [
+            "Milk and Baby Products > Baby food"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > طعام للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Biscuits",
+        "foreign_category_ar": "بسكويت الأطفال",
+        "local_category_en": [
+            "Milk and Baby Products > Baby food"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > طعام للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Fragrances For Her",
+        "foreign_category_ar": "عطور للنساء",
+        "local_category_en": [
+            "Perfumes > Women’s perfumes"
+        ],
+        "local_category_ar": [
+            "العطور > عطور نسائية"
+        ]
+    },
+    {
+        "foreign_category_en": "Makeup",
+        "foreign_category_ar": "المكياج",
+        "local_category_en": [
+            "Beauty Products and Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyes",
+        "foreign_category_ar": "العيون",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyebrows",
+        "foreign_category_ar": "الحواجب",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Face",
+        "foreign_category_ar": "الوجه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Lip Stick",
+        "foreign_category_ar": "أحمر شفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Lipsticks"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أحمر شفاه"
+        ]
+    },
+    {
+        "foreign_category_en": "Mascara",
+        "foreign_category_ar": "ماسكارا",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Foundation",
+        "foreign_category_ar": "كريم الأساس",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Lip Liner",
+        "foreign_category_ar": "محدد الشفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Lipsticks"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أحمر شفاه"
+        ]
+    },
+    {
+        "foreign_category_en": "Blush & Bronzer",
+        "foreign_category_ar": "بلاشر وبرونزر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Gloss",
+        "foreign_category_ar": "ملمع الشفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Lipsticks"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أحمر شفاه"
+        ]
+    },
+    {
+        "foreign_category_en": "Oily Skin & Enlarged Pores",
+        "foreign_category_ar": "بشرة دهنية ومسام واسعة",
+        "local_category_en": [
+            "Skin Care"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyeline",
+        "foreign_category_ar": "محدد العيون",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyeshadow",
+        "foreign_category_ar": "ظلال العيون",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Nails",
+        "foreign_category_ar": "الأظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Nail Polish",
+        "foreign_category_ar": "طلاء الأظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Nail Polish Remover",
+        "foreign_category_ar": "مزيل طلاء الأظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Vitamin C",
+        "foreign_category_ar": "فيتامين سي",
+        "local_category_en": [
+            "Skin Care > Skin care vitamins",
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > فيتامينات للعناية بالبشرة",
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Hyaluronic Acid",
+        "foreign_category_ar": "حمض الهيالورونيك",
+        "local_category_en": [
+            "Skin Care > Skin serums"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > سيروم البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Conditioner",
+        "foreign_category_ar": "بلسم للشعر",
+        "local_category_en": [
+            "Hair Care > Conditioner"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > البلسم"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Care",
+        "foreign_category_ar": "عناية الأطفال",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Leave In Conditioner",
+        "foreign_category_ar": "بلسم يُترك على الشعر (ليف إن)",
+        "local_category_en": [
+            "Hair Care > Conditioner"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > البلسم"
+        ]
+    },
+    {
+        "foreign_category_en": "Shampoo",
+        "foreign_category_ar": "شامبو",
+        "local_category_en": [
+            "Hair Care > Shampoo"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > الشامبو"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Styling",
+        "foreign_category_ar": "تصفيف الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Heat Protection",
+        "foreign_category_ar": "حماية الشعر من الحرارة",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Gel",
+        "foreign_category_ar": "جل",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Styling Creams",
+        "foreign_category_ar": "كريمات تصفيف الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Masks",
+        "foreign_category_ar": "ماسكات الشعر",
+        "local_category_en": [
+            "Hair Care > Hair cream bath and masks"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > حمام كريم وماسك للشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Curly Hair Frizzing",
+        "foreign_category_ar": "تحكّم بتجعد الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Oils & Serums",
+        "foreign_category_ar": "الزيوت والسيرومات للشعر",
+        "local_category_en": [
+            "Hair Care > Hair oils and serums"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > زيوت وسيروم للشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Sprays",
+        "foreign_category_ar": "بخاخات الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling products"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > منتجات تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Oil",
+        "foreign_category_ar": "زيت للشعر",
+        "local_category_en": [
+            "Hair Care > Hair oils and serums"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > زيوت وسيروم للشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Brushes & Accessories",
+        "foreign_category_ar": "فرش ومشطات شعر وإكسسوارات",
+        "local_category_en": [
+            "Hair Care > Hair styling devices",
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر",
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Toothpaste",
+        "foreign_category_ar": "معجون الأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Electrical Tooth Brush",
+        "foreign_category_ar": "فرشاة أسنان كهربائية",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Cavity Prevention",
+        "foreign_category_ar": "الوقاية من التسوس",
+        "local_category_en": [
+            "Oral and Dental Care"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Toothpaste",
+        "foreign_category_ar": "معجون أسنان مبيِّض",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste",
+            "Oral and Dental Care > Teeth whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان",
+            "العناية بالفم والأسنان > منتجات تبييض الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Serum",
+        "foreign_category_ar": "سيروم تبييض الأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Teeth whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > منتجات تبييض الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Liquid",
+        "foreign_category_ar": "سائل",
+        "local_category_en": [],
+        "local_category_ar": []
+    },
+    {
+        "foreign_category_en": "Face Cream",
+        "foreign_category_ar": "كريم للوجه",
+        "local_category_en": [
+            "Skin Care > Skin moisturizing products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات ترطيب البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Primer",
+        "foreign_category_ar": "برايمر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyelash Treatment",
+        "foreign_category_ar": "سيروم الرموش",
+        "local_category_en": [
+            "Beauty Products and Accessories > Eye makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج العيون"
+        ]
+    },
+    {
+        "foreign_category_en": "Make-up Tools",
+        "foreign_category_ar": "أدوات المكياج",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "Highlighter",
+        "foreign_category_ar": "هايلايتر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Lip Tint",
+        "foreign_category_ar": "تينت الشفاه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Lipsticks"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أحمر شفاه"
+        ]
+    },
+    {
+        "foreign_category_en": "Make Up Tools",
+        "foreign_category_ar": "أدوات مكياج",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "Brushes",
+        "foreign_category_ar": "فرش (مكياج أو شعر)",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools",
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج",
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Masks",
+        "foreign_category_ar": "أقنعة البشرة",
+        "local_category_en": [
+            "Skin Care > Skin masks"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > ماسكات للبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Jewellery",
+        "foreign_category_ar": "المجوهرات",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Bags",
+        "foreign_category_ar": "حقائب",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Sponges",
+        "foreign_category_ar": "إسفنجات",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "Makeup Remover",
+        "foreign_category_ar": "مزيل المكياج",
+        "local_category_en": [
+            "Skin Care > Skin cleansers"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Niacinamide",
+        "foreign_category_ar": "نياسيناميد",
+        "local_category_en": [
+            "Skin Care > Skin serums"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > سيروم البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Glycolic Acid",
+        "foreign_category_ar": "حمض الجليكوليك",
+        "local_category_en": [
+            "Skin Care > Skin exfoliation products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تقشير البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Shaving Cream",
+        "foreign_category_ar": "كريم الحلاقة",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Toner & Micellar Water",
+        "foreign_category_ar": "تونر وماء ميسيلار",
+        "local_category_en": [
+            "Skin Care > Skin cleansers"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Permanent",
+        "foreign_category_ar": "صبغة دائمة",
+        "local_category_en": [
+            "Hair Care > Hair dyes"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > صبغات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Sheet Mask",
+        "foreign_category_ar": "ماسك ورقي",
+        "local_category_en": [
+            "Skin Care > Skin masks"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > ماسكات للبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Removals",
+        "foreign_category_ar": "مزيلات الشعر",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Stick",
+        "foreign_category_ar": "مزيل عرق ستيك",
+        "local_category_en": [
+            "Personal Care > Deodorants"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > مزيلات العرق"
+        ]
+    },
+    {
+        "foreign_category_en": "Blades & Razors",
+        "foreign_category_ar": "شفرات الحلاقة وماكيناتها",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Pre & Post Shaving",
+        "foreign_category_ar": "عناية قبل وبعد الحلاقة",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Shaving Cream & Foams",
+        "foreign_category_ar": "كريم الحلاقة والرغوة",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Trimmers & Clippers",
+        "foreign_category_ar": "أدوات الحلاقة والتشذيب",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Breath Fresheners",
+        "foreign_category_ar": "معطرات الفم",
+        "local_category_en": [
+            "Oral and Dental Care > Mouth fresheners"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معطرات الفم"
+        ]
+    },
+    {
+        "foreign_category_en": "Sport Supplements",
+        "foreign_category_ar": "مكملات رياضية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Protein",
+        "foreign_category_ar": "البروتين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Healthy Snacks",
+        "foreign_category_ar": "وجبات خفيفة صحية",
+        "local_category_en": [
+            "Medical Care and Vitamins",
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات",
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Protein Bars",
+        "foreign_category_ar": "ألواح البروتين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Daily Shampoo",
+        "foreign_category_ar": "شامبو يومي",
+        "local_category_en": [
+            "Hair Care > Shampoo"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > الشامبو"
+        ]
+    },
+    {
+        "foreign_category_en": "Daily Conditioner",
+        "foreign_category_ar": "بلسم يومي",
+        "local_category_en": [
+            "Hair Care > Conditioner"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > البلسم"
+        ]
+    },
+    {
+        "foreign_category_en": "Oil Replacement",
+        "foreign_category_ar": "بديل الزيت للشعر",
+        "local_category_en": [
+            "Hair Care > Hair oils and serums"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > زيوت وسيروم للشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Body Scrub",
+        "foreign_category_ar": "مقشر الجسم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Breastfeeding Essentials",
+        "foreign_category_ar": "مستلزمات الرضاعة الطبيعية",
+        "local_category_en": [
+            "Milk and Baby Products > Baby feeding supplies"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > مستلزمات طعام الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Breast Pump",
+        "foreign_category_ar": "مضخة الثدي",
+        "local_category_en": [
+            "Milk and Baby Products > Baby feeding supplies"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > مستلزمات طعام الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Mother Care",
+        "foreign_category_ar": "رعاية الأم",
+        "local_category_en": [
+            "Personal Care > Women’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالمرأه"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Serums",
+        "foreign_category_ar": "سيروم التفتيح",
+        "local_category_en": [
+            "Skin Care > Skin serums",
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > سيروم البشرة",
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Eye Cream",
+        "foreign_category_ar": "كريم للعينين",
+        "local_category_en": [
+            "Skin Care > Skin moisturizing products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات ترطيب البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Cleansers",
+        "foreign_category_ar": "منظفات التفتيح",
+        "local_category_en": [
+            "Skin Care > Skin cleansers",
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة",
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Lenses",
+        "foreign_category_ar": "العدسات اللاصقة",
+        "local_category_en": [
+            "Beauty Products and Accessories > Contact lenses"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > عدسات لاصقه"
+        ]
+    },
+    {
+        "foreign_category_en": "Color Contact Lenses",
+        "foreign_category_ar": "العدسات اللاصقة الملونة",
+        "local_category_en": [
+            "Beauty Products and Accessories > Contact lenses"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > عدسات لاصقه"
+        ]
+    },
+    {
+        "foreign_category_en": "Monthly Lenses",
+        "foreign_category_ar": "عدسات شهرية",
+        "local_category_en": [
+            "Beauty Products and Accessories > Contact lenses"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > عدسات لاصقه"
+        ]
+    },
+    {
+        "foreign_category_en": "Optical Care",
+        "foreign_category_ar": "العناية بالبصريات",
+        "local_category_en": [
+            "Beauty Products and Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Hand Wash",
+        "foreign_category_ar": "غسول اليدين",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Bar Soap",
+        "foreign_category_ar": "صابون قالب",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Senior's Care",
+        "foreign_category_ar": "رعاية كبار السن",
+        "local_category_en": [
+            "Elderly Care"
+        ],
+        "local_category_ar": [
+            "العناية بكبار السن"
+        ]
+    },
+    {
+        "foreign_category_en": "Adult Sanitary Care",
+        "foreign_category_ar": "الرعاية الصحية للبالغين",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Root Touch Up",
+        "foreign_category_ar": "تلوين جذور الشعر",
+        "local_category_en": [
+            "Hair Care > Hair dyes"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > صبغات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Masks",
+        "foreign_category_ar": "أقنعة التبييض",
+        "local_category_en": [
+            "Skin Care > Skin masks",
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > ماسكات للبشرة",
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Beauty Accessories",
+        "foreign_category_ar": "إكسسوارات الجمال",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Gifting Sets",
+        "foreign_category_ar": "أطقم الإهداءات",
+        "local_category_en": [
+            "Perfumes > Gift sets"
+        ],
+        "local_category_ar": [
+            "العطور > مجموعات للهدايا"
+        ]
+    },
+    {
+        "foreign_category_en": "Sexual Care",
+        "foreign_category_ar": "العناية الجنسية",
+        "local_category_en": [
+            "Personal Care > Sexual health"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > الصحة الجنسية"
+        ]
+    },
+    {
+        "foreign_category_en": "Condom",
+        "foreign_category_ar": "واقٍ ذكري",
+        "local_category_en": [
+            "Personal Care > Sexual health"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > الصحة الجنسية"
+        ]
+    },
+    {
+        "foreign_category_en": "Dry Shampoo",
+        "foreign_category_ar": "شامبو جاف",
+        "local_category_en": [
+            "Hair Care > Shampoo"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > الشامبو"
+        ]
+    },
+    {
+        "foreign_category_en": "Skin Tech Tools",
+        "foreign_category_ar": "أدوات العناية بالبشرة (إلكترونية)",
+        "local_category_en": [
+            "Skin Care > Skin care tools"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > أدوات العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Dental Accessories",
+        "foreign_category_ar": "إكسسوارات الفم والأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Dental cleaning tools"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > أدوات تنظيف الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Adult Tooth Brush",
+        "foreign_category_ar": "فرشاة أسنان للبالغين",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Flosser",
+        "foreign_category_ar": "خيط تنظيف الأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Dental cleaning tools"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > أدوات تنظيف الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Adult Tooth Brushes",
+        "foreign_category_ar": "فرش أسنان للبالغين",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Water Flosser",
+        "foreign_category_ar": "خيط مائي للأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Dental cleaning tools"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > أدوات تنظيف الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Toothbrushes",
+        "foreign_category_ar": "فرش أسنان للأطفال",
+        "local_category_en": [
+            "Oral and Dental Care > Toothbrushes"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > فرش الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Regular Mouth Wash",
+        "foreign_category_ar": "غسول فم يومي",
+        "local_category_en": [
+            "Oral and Dental Care > Mouthwash"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > غسول الفم"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyelashes",
+        "foreign_category_ar": "الرموش",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Eyelash Glue",
+        "foreign_category_ar": "لاصق الرموش",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Natural Lashes",
+        "foreign_category_ar": "الرموش الطبيعية",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Diapers & Changing Essentials",
+        "foreign_category_ar": "مستلزمات تغيير الحفاضات",
+        "local_category_en": [
+            "Baby Care > Diapers"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > حفائض"
+        ]
+    },
+    {
+        "foreign_category_en": "Training Pants",
+        "foreign_category_ar": "سراويل التدريب",
+        "local_category_en": [
+            "Baby Care > Diapers"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > حفائض"
+        ]
+    },
+    {
+        "foreign_category_en": "Regular Diapers",
+        "foreign_category_ar": "حفاضات عادية",
+        "local_category_en": [
+            "Baby Care > Diapers"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > حفائض"
+        ]
+    },
+    {
+        "foreign_category_en": "Electrical Hair Removal",
+        "foreign_category_ar": "إزالة الشعر الكهربائية",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Styling Devices",
+        "foreign_category_ar": "أجهزة تصفيف الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Flat Irons",
+        "foreign_category_ar": "مكواة الشعر المسطحة",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Electrical Shavers",
+        "foreign_category_ar": "ماكينات الحلاقة الكهربائية",
+        "local_category_en": [
+            "Personal Care > Men’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالرجل"
+        ]
+    },
+    {
+        "foreign_category_en": "Dryers",
+        "foreign_category_ar": "مجففات الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Curling Irons",
+        "foreign_category_ar": "مكواة الشعر المجعدة",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Electric Brushes",
+        "foreign_category_ar": "فرشاة شعر كهربائية",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Tools",
+        "foreign_category_ar": "أدوات تصفيف الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Combs",
+        "foreign_category_ar": "أمشاط الشعر",
+        "local_category_en": [
+            "Hair Care > Hair styling devices"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > أجهزة تصفيف الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Vitamins",
+        "foreign_category_ar": "الفيتامينات",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Biotin",
+        "foreign_category_ar": "بيوتين للشعر",
+        "local_category_en": [
+            "Hair Care > Hair care vitamins"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > فيتامينات للعناية بالشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Apple Cider",
+        "foreign_category_ar": "خل التفاح",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Skin Vitamins",
+        "foreign_category_ar": "فيتامينات البشرة",
+        "local_category_en": [
+            "Skin Care > Skin care vitamins"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > فيتامينات للعناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Hair Vitamins",
+        "foreign_category_ar": "فيتامينات الشعر",
+        "local_category_en": [
+            "Hair Care > Hair care vitamins"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > فيتامينات للعناية بالشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Pregnancy Care",
+        "foreign_category_ar": "العناية بالحامل",
+        "local_category_en": [
+            "Personal Care > Women’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالمرأه"
+        ]
+    },
+    {
+        "foreign_category_en": "Breast Feeding Support",
+        "foreign_category_ar": "دعم الرضاعة الطبيعية",
+        "local_category_en": [
+            "Milk and Baby Products > Baby feeding supplies"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > مستلزمات طعام الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Pre-Workout",
+        "foreign_category_ar": "مكمل ما قبل التمرين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "L-Arginine",
+        "foreign_category_ar": "ل-أرجينين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Multivitamins",
+        "foreign_category_ar": "الفيتامينات المتعددة",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Post-Workout",
+        "foreign_category_ar": "مكمل ما بعد التمرين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "L-Carnitine",
+        "foreign_category_ar": "ل-كارنيتين",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Sexual Health",
+        "foreign_category_ar": "الصحة الجنسية",
+        "local_category_en": [
+            "Personal Care > Sexual health"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > الصحة الجنسية"
+        ]
+    },
+    {
+        "foreign_category_en": "Supplements",
+        "foreign_category_ar": "المكملات الغذائية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Vitamin & Supplement",
+        "foreign_category_ar": "الفيتامينات والمكملات الغذائية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Heart Health",
+        "foreign_category_ar": "صحة القلب",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Collagen Type 1 & 3",
+        "foreign_category_ar": "الكولاجين النوع 1 و3",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Digestive Care",
+        "foreign_category_ar": "العناية بالجهاز الهضمي",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Ashwagandha",
+        "foreign_category_ar": "أشواجاندا",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Balance Your Hormones",
+        "foreign_category_ar": "توازن الهرمونات",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Healthy Nutrition",
+        "foreign_category_ar": "التغذية الصحية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Tea, Coffee & Herbals",
+        "foreign_category_ar": "الشاي والقهوة والأعشاب",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Fertility support",
+        "foreign_category_ar": "دعم الخصوبة",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Sensitive Toothpaste",
+        "foreign_category_ar": "معجون أسنان للحساسية",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Category breadcrumb not found",
+        "foreign_category_ar": "معجون الأسنان",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Dandruff Treatment",
+        "foreign_category_ar": "علاج قشرة الشعر",
+        "local_category_en": [
+            "Hair Care > Hair treatments"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > معالجات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Specialty Milk",
+        "foreign_category_ar": "حليب مخصص",
+        "local_category_en": [
+            "Milk and Baby Products > Baby milk"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > حليب للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Salon Hair Care",
+        "foreign_category_ar": "عناية شعر احترافية",
+        "local_category_en": [
+            "Hair Care"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Protein Treatmment",
+        "foreign_category_ar": "علاج بروتين للشعر",
+        "local_category_en": [
+            "Hair Care > Hair treatments"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > معالجات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Color Care",
+        "foreign_category_ar": "عناية بلون الشعر",
+        "local_category_en": [
+            "Hair Care > Hair dyes"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > صبغات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Men Sexual Health",
+        "foreign_category_ar": "الصحة الجنسية للرجال",
+        "local_category_en": [
+            "Personal Care > Sexual health"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > الصحة الجنسية"
+        ]
+    },
+    {
+        "foreign_category_en": "Healthy Devices",
+        "foreign_category_ar": "الأجهزة الصحية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Diabetic Care",
+        "foreign_category_ar": "رعاية مرضى السكري",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Diabetes Care",
+        "foreign_category_ar": "رعاية مرضى السكري",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Whitening Creams",
+        "foreign_category_ar": "كريمات التفتيح",
+        "local_category_en": [
+            "Skin Care > Skin whitening products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات تفتيح البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Wax",
+        "foreign_category_ar": "شمع إزالة الشعر",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Cough Cold & Allergy",
+        "foreign_category_ar": "السعال ونزلات البرد والحساسية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Cold & Flu Relief",
+        "foreign_category_ar": "تخفيف البرد والإنفلونزا",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Treatments",
+        "foreign_category_ar": "علاجات الأطفال",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Stage 3 (1-3 years)",
+        "foreign_category_ar": "مرحلة 3 (1-3 سنوات)",
+        "local_category_en": [
+            "Milk and Baby Products"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Thermometers",
+        "foreign_category_ar": "موازين الحرارة",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Skincare Tools",
+        "foreign_category_ar": "أدوات العناية بالبشرة",
+        "local_category_en": [
+            "Skin Care > Skin care tools"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > أدوات العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Facial Cleansing Brush",
+        "foreign_category_ar": "فرشاة تنظيف الوجه",
+        "local_category_en": [
+            "Skin Care > Skin care tools"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > أدوات العناية بالبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Body Mist",
+        "foreign_category_ar": "رذاذ الجسم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Stage 2 (6-12 months)",
+        "foreign_category_ar": "مرحلة 2 (6-12 شهرًا)",
+        "local_category_en": [
+            "Milk and Baby Products"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "First Aid & Splints",
+        "foreign_category_ar": "عدة إسعافات أولية وجبائر",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Wound Care",
+        "foreign_category_ar": "العناية بالجروح",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Bottles & Milk Prep",
+        "foreign_category_ar": "تحضير الرضّاعات والحليب",
+        "local_category_en": [
+            "Milk and Baby Products > Baby bottles"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > رضاعات"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Feeding Essentials",
+        "foreign_category_ar": "أساسيات تغذية الطفل",
+        "local_category_en": [
+            "Milk and Baby Products > Baby feeding supplies"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > مستلزمات طعام الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Detergent",
+        "foreign_category_ar": "منظفات الملابس",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Bath Essentials",
+        "foreign_category_ar": "أساسيات استحمام الطفل",
+        "local_category_en": [
+            "Baby Care > Baby hygiene care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > العناية بنظافة الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Clothes",
+        "foreign_category_ar": "ملابس الأطفال",
+        "local_category_en": [
+            "Baby Care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل"
+        ]
+    },
+    {
+        "foreign_category_en": "Pacifiers",
+        "foreign_category_ar": "لهايات",
+        "local_category_en": [
+            "Milk and Baby Products > Pacifiers"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > لهايات"
+        ]
+    },
+    {
+        "foreign_category_en": "Body Lotion",
+        "foreign_category_ar": "لوشن الجسم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Sunscreen",
+        "foreign_category_ar": "واقي الشمس",
+        "local_category_en": [
+            "Skin Care > Sun protection products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات الحماية من الشمس"
+        ]
+    },
+    {
+        "foreign_category_en": "Hot Oil",
+        "foreign_category_ar": "زيت ساخن للشعر",
+        "local_category_en": [
+            "Hair Care > Hair oils and serums"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > زيوت وسيروم للشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Hygienic Products",
+        "foreign_category_ar": "منتجات النظافة والتعقيم",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Healthy Vision",
+        "foreign_category_ar": "صحة الرؤية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Ginseng",
+        "foreign_category_ar": "الجينسنغ",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Shampoos",
+        "foreign_category_ar": "شامبو الأطفال",
+        "local_category_en": [
+            "Baby Care > Baby hygiene care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > العناية بنظافة الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Heart Monitors",
+        "foreign_category_ar": "أجهزة مراقبة نبض القلب",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Kids Toothpaste",
+        "foreign_category_ar": "معجون أسنان للأطفال",
+        "local_category_en": [
+            "Oral and Dental Care > Toothpaste"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان > معجون الأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Shampoo & Conditioner",
+        "foreign_category_ar": "شامبو وبلسم للأطفال",
+        "local_category_en": [
+            "Baby Care > Baby hygiene care"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > العناية بنظافة الأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Home Health Test",
+        "foreign_category_ar": "اختبارات صحية منزلية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Body Supports",
+        "foreign_category_ar": "دعامات الجسم",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care devices"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > اجهزة العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Face Palette",
+        "foreign_category_ar": "لوحة للوجه",
+        "local_category_en": [
+            "Beauty Products and Accessories > Face makeup"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > مكياج الوجه"
+        ]
+    },
+    {
+        "foreign_category_en": "Humidifier & Air Purifier",
+        "foreign_category_ar": "جهاز الترطيب وتنقية الهواء",
+        "local_category_en": [
+            "Elderly Care > Elderly care devices"
+        ],
+        "local_category_ar": [
+            "العناية بكبار السن > اجهزة العناية بكبارالسن"
+        ]
+    },
+    {
+        "foreign_category_en": "Sun Tanning",
+        "foreign_category_ar": "تسمير بالشمس",
+        "local_category_en": [
+            "Skin Care > Sun protection products"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > منتجات الحماية من الشمس"
+        ]
+    },
+    {
+        "foreign_category_en": "Sweeteners",
+        "foreign_category_ar": "بدائل السكر",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Allergy Relief",
+        "foreign_category_ar": "تخفيف الحساسية",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Cotton",
+        "foreign_category_ar": "قطن",
+        "local_category_en": [
+            "Personal Care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية"
+        ]
+    },
+    {
+        "foreign_category_en": "Postpartum Care",
+        "foreign_category_ar": "العناية بعد الولادة",
+        "local_category_en": [
+            "Personal Care > Women’s care products"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > منتجات العناية بالمرأه"
+        ]
+    },
+    {
+        "foreign_category_en": "Eye Patches",
+        "foreign_category_ar": "لصقات العين",
+        "local_category_en": [
+            "Skin Care > Skin masks"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > ماسكات للبشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Nail Tools",
+        "foreign_category_ar": "أدوات العناية بالأظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "Pedicure Tools",
+        "foreign_category_ar": "أدوات الباديكير",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "File",
+        "foreign_category_ar": "مبرد أظافر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Makeup tools"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أدوات المكياج"
+        ]
+    },
+    {
+        "foreign_category_en": "Lice Treatment",
+        "foreign_category_ar": "علاج القمل",
+        "local_category_en": [
+            "Hair Care > Hair treatments"
+        ],
+        "local_category_ar": [
+            "العناية بالشعر > معالجات الشعر"
+        ]
+    },
+    {
+        "foreign_category_en": "Elastic Bands",
+        "foreign_category_ar": "أربطة شعر مرنة",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Necklace",
+        "foreign_category_ar": "قلادة",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "Clibs & Bobby Pins",
+        "foreign_category_ar": "مشابك ودبابيس الشعر",
+        "local_category_en": [
+            "Beauty Products and Accessories > Accessories"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > اكسسوارات"
+        ]
+    },
+    {
+        "foreign_category_en": "False Nails & Glue",
+        "foreign_category_ar": "أظافر تركيب وغراء",
+        "local_category_en": [
+            "Beauty Products and Accessories > False nails and lashes"
+        ],
+        "local_category_ar": [
+            "منتجات التجميل والإكسسوارات > أظافر و رموش تركيب"
+        ]
+    },
+    {
+        "foreign_category_en": "Indulging Shower Gel",
+        "foreign_category_ar": "جل استحمام فاخر",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Gum and Candy",
+        "foreign_category_ar": "العلكة والحلوى",
+        "local_category_en": [
+            "Oral and Dental Care"
+        ],
+        "local_category_ar": [
+            "العناية بالفم والأسنان"
+        ]
+    },
+    {
+        "foreign_category_en": "Baby Fragrance",
+        "foreign_category_ar": "عطر للأطفال",
+        "local_category_en": [
+            "Baby Care > Perfumes for babies"
+        ],
+        "local_category_ar": [
+            "العناية بالطفل > عطور للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Organic Milk",
+        "foreign_category_ar": "حليب عضوي للأطفال",
+        "local_category_en": [
+            "Milk and Baby Products > Baby milk"
+        ],
+        "local_category_ar": [
+            "الحليب و منتجات الأطفال > حليب للأطفال"
+        ]
+    },
+    {
+        "foreign_category_en": "Growth Support",
+        "foreign_category_ar": "دعم النمو",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    },
+    {
+        "foreign_category_en": "Makeup Removers",
+        "foreign_category_ar": "مزيلات المكياج",
+        "local_category_en": [
+            "Skin Care > Skin cleansers"
+        ],
+        "local_category_ar": [
+            "العناية بالبشرة > غسول البشرة"
+        ]
+    },
+    {
+        "foreign_category_en": "Foot Odour Control",
+        "foreign_category_ar": "التحكم في رائحة القدم",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Diabetic Foot",
+        "foreign_category_ar": "القدم السكري",
+        "local_category_en": [
+            "Medical Care and Vitamins > Medical care"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > العناية الطبية"
+        ]
+    },
+    {
+        "foreign_category_en": "Foot Moisturizers",
+        "foreign_category_ar": "مرطبات القدمين",
+        "local_category_en": [
+            "Personal Care > Body and shower care"
+        ],
+        "local_category_ar": [
+            "العناية الشخصية > العناية بالجسم والإستحمام"
+        ]
+    },
+    {
+        "foreign_category_en": "Sleep, Digest, Detox Tea",
+        "foreign_category_ar": "شاي النوم والهضم والديتوكس",
+        "local_category_en": [
+            "Medical Care and Vitamins > Dietary supplements and vitamins"
+        ],
+        "local_category_ar": [
+            "العناية الطبية والفيتامينات > المكملات الغذائية والفيتامينات"
+        ]
+    }
+]

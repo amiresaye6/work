@@ -1,0 +1,1144 @@
+[
+  {
+    "ar": "العطور",
+    "en": "Fragrances"
+  },
+  {
+    "ar": "عطور للرجال",
+    "en": "Fragrances For Him"
+  },
+  {
+    "ar": "مزيل العرق",
+    "en": "Deodorant"
+  },
+  {
+    "ar": "مزيل عرق رول أون",
+    "en": "Roll On"
+  },
+  {
+    "ar": "جل الاستحمام",
+    "en": "Shower Gel"
+  },
+  {
+    "ar": "رذاذ",
+    "en": "Spray"
+  },
+  {
+    "ar": "الاستحمام والعناية بالجسم",
+    "en": "Bath & Body"
+  },
+  {
+    "ar": "العناية النسائية",
+    "en": "Lady Care"
+  },
+  {
+    "ar": "العناية الصحية",
+    "en": "Sanitary Care"
+  },
+  {
+    "ar": "العناية الحميمة",
+    "en": "Intimate Care"
+  },
+  {
+    "ar": "منظفات البشرة",
+    "en": "Cleansers"
+  },
+  {
+    "ar": "الصفحة الرئيسية",
+    "en": "Home"
+  },
+  {
+    "ar": "الأعشاب",
+    "en": "Herbs"
+  },
+  {
+    "ar": "إدارة/ضبط الوزن",
+    "en": "Manage Your Weight"
+  },
+  {
+    "ar": "الشاي الأخضر",
+    "en": "Green Tea"
+  },
+  {
+    "ar": "الزنجبيل",
+    "en": "Ginger"
+  },
+  {
+    "ar": "العناية بالبشرة",
+    "en": "Skin Care"
+  },
+  {
+    "ar": "العناية الكورية بالبشرة",
+    "en": "Korean Beauty"
+  },
+  {
+    "ar": "سيروم",
+    "en": "Serum"
+  },
+  {
+    "ar": "التصبغات والبقع الداكنة",
+    "en": "Hyperpigmentation & Dark Spots"
+  },
+  {
+    "ar": "حليب للأطفال",
+    "en": "Baby Milk"
+  },
+  {
+    "ar": "حليب صناعي (منتظم)",
+    "en": "Regular Formula"
+  },
+  {
+    "ar": "مرحلة 1 (0-6 أشهر)",
+    "en": "Stage 1 (0-6 months)"
+  },
+  {
+    "ar": "العناية بالطفل",
+    "en": "Baby Care"
+  },
+  {
+    "ar": "مرحلة 4 (3 سنوات فأكثر)",
+    "en": "Stage 4 (3+ years)"
+  },
+  {
+    "ar": "الأطفال",
+    "en": "Kids"
+  },
+  {
+    "ar": "معجون أسنان للأطفال",
+    "en": "Kids Tooth Paste"
+  },
+  {
+    "ar": "فرش الأسنان",
+    "en": "Toothbrushes"
+  },
+  {
+    "ar": "فرشاة أسنان للأطفال",
+    "en": "Kids Tooth Brush"
+  },
+  {
+    "ar": "النظافة والتعقيم",
+    "en": "Hygienic & Household"
+  },
+  {
+    "ar": "المستلزمات المنزلية",
+    "en": "Household Products"
+  },
+  {
+    "ar": "تفتيح البشرة",
+    "en": "Skin Brightening"
+  },
+  {
+    "ar": "المقشرات",
+    "en": "Scrubs & Exfoliators"
+  },
+  {
+    "ar": "العلاجات بدون وصفة",
+    "en": "OTC Treatments"
+  },
+  {
+    "ar": "مسكنات الألم",
+    "en": "Pain Killers"
+  },
+  {
+    "ar": "العناية بالفم والأسنان",
+    "en": "Oral Care"
+  },
+  {
+    "ar": "غسول الفم",
+    "en": "Mouth Wash"
+  },
+  {
+    "ar": "علاجات البشرة",
+    "en": "Skin Treatments"
+  },
+  {
+    "ar": "المرطبات (للبشرة)",
+    "en": "Moisturizers"
+  },
+  {
+    "ar": "كريم لليدين",
+    "en": "Hand Cream"
+  },
+  {
+    "ar": "مرطب للجسم",
+    "en": "Body Moisturizer"
+  },
+  {
+    "ar": "العناية بالقدمين",
+    "en": "Foot Care"
+  },
+  {
+    "ar": "حلول التبييض",
+    "en": "Whitening Solutions"
+  },
+  {
+    "ar": "العناية بالشعر",
+    "en": "Hair Care"
+  },
+  {
+    "ar": "علاج لتساقط الشعر",
+    "en": "Hair Loss Treatment"
+  },
+  {
+    "ar": "العناية بالأظافر",
+    "en": "Nail Care"
+  },
+  {
+    "ar": "لوشن فاخر",
+    "en": "Indulging Lotion"
+  },
+  {
+    "ar": "مناديل وكريم للأطفال",
+    "en": "Baby Wipes & Creams"
+  },
+  {
+    "ar": "العناية ببشرة الأطفال",
+    "en": "Baby Skin Care"
+  },
+  {
+    "ar": "لوشن الأطفال",
+    "en": "Baby Lotion"
+  },
+
+
+
+
+
+  {
+    "ar": "الجفاف ونقص الترطيب",
+    "en": "Dryness & Dehydration"
+  },
+  {
+    "ar": "علاجات الإكزيما",
+    "en": "Eczema"
+  },
+  {
+    "ar": "حب الشباب والعيوب",
+    "en": "Acne & Blemishes"
+  },
+  {
+    "ar": "حساسية واحمرار البشرة",
+    "en": "Sensitivity & Redness"
+  },
+  {
+    "ar": "غسول الوجه",
+    "en": "Facial Cleansers"
+  },
+  {
+    "ar": "صبغات الشعر",
+    "en": "Hair Color"
+  },
+  {
+    "ar": "صبغة شعر خالية من الأمونيا",
+    "en": "Ammonia Free"
+  },
+  {
+    "ar": "العناية بالرجال",
+    "en": "Men Care"
+  },
+  {
+    "ar": "العناية بالشمس",
+    "en": "Sun Care"
+  },
+  {
+    "ar": "التجاعيد وعلامات التقدم بالعمر",
+    "en": "Aging & Wrinkles"
+  },
+  {
+    "ar": "الشفاه",
+    "en": "Lips"
+  },
+  {
+    "ar": "بلسم الشفاه",
+    "en": "Lip Balm"
+  },
+  {
+    "ar": "صابون صحي",
+    "en": "Hygiene Soap Bar"
+  },
+  {
+    "ar": "ألواح صابون طبيعية",
+    "en": "Natural Soap Bars"
+  },
+  {
+    "ar": "أغذية الأطفال",
+    "en": "Baby Food"
+  },
+  {
+    "ar": "بسكويت الأطفال",
+    "en": "Baby Biscuits"
+  },
+  {
+    "ar": "عطور للنساء",
+    "en": "Fragrances For Her"
+  },
+  {
+    "ar": "المكياج",
+    "en": "Makeup"
+  },
+  {
+    "ar": "العيون",
+    "en": "Eyes"
+  },
+  {
+    "ar": "الحواجب",
+    "en": "Eyebrows"
+  },
+  {
+    "ar": "الوجه",
+    "en": "Face"
+  },
+  {
+    "ar": "أحمر شفاه",
+    "en": "Lip Stick"
+  },
+  {
+    "ar": "ماسكارا",
+    "en": "Mascara"
+  },
+  {
+    "ar": "كريم الأساس",
+    "en": "Foundation"
+  },
+  {
+    "ar": "محدد الشفاه",
+    "en": "Lip Liner"
+  },
+  {
+    "ar": "بلاشر وبرونزر",
+    "en": "Blush & Bronzer"
+  },
+  {
+    "ar": "ملمع الشفاه",
+    "en": "Gloss"
+  },
+  {
+    "ar": "بشرة دهنية ومسام واسعة",
+    "en": "Oily Skin & Enlarged Pores"
+  },
+  {
+    "ar": "محدد العيون",
+    "en": "Eyeline"
+  },
+  {
+    "ar": "ظلال العيون",
+    "en": "Eyeshadow"
+  },
+  {
+    "ar": "الأظافر",
+    "en": "Nails"
+  },
+  {
+    "ar": "طلاء الأظافر",
+    "en": "Nail Polish"
+  },
+  {
+    "ar": "مزيل طلاء الأظافر",
+    "en": "Nail Polish Remover"
+  },
+  {
+    "ar": "فيتامين سي",
+    "en": "Vitamin C"
+  },
+  {
+    "ar": "حمض الهيالورونيك",
+    "en": "Hyaluronic Acid"
+  },
+  {
+    "ar": "بلسم للشعر",
+    "en": "Conditioner"
+  },
+  {
+    "ar": "عناية الأطفال",
+    "en": "Kids Care"
+  },
+  {
+    "ar": "بلسم يُترك على الشعر (ليف إن)",
+    "en": "Leave In Conditioner"
+  },
+  {
+    "ar": "شامبو",
+    "en": "Shampoo"
+  },
+  {
+    "ar": "تصفيف الشعر",
+    "en": "Hair Styling"
+  },
+  {
+    "ar": "حماية الشعر من الحرارة",
+    "en": "Heat Protection"
+  },
+  {
+    "ar": "جل",
+    "en": "Gel"
+  },
+  {
+    "ar": "كريمات تصفيف الشعر",
+    "en": "Styling Creams"
+  },
+  {
+    "ar": "ماسكات الشعر",
+    "en": "Hair Masks"
+  },
+  {
+    "ar": "تحكّم بتجعد الشعر",
+    "en": "Curly Hair Frizzing"
+  },
+  {
+    "ar": "الزيوت والسيرومات للشعر",
+    "en": "Oils & Serums"
+  },
+  {
+    "ar": "بخاخات الشعر",
+    "en": "Sprays"
+  },
+  {
+    "ar": "زيت للشعر",
+    "en": "Oil"
+  },
+  {
+    "ar": "فرش ومشطات شعر وإكسسوارات",
+    "en": "Hair Brushes & Accessories"
+  },
+  {
+    "ar": "معجون الأسنان",
+    "en": "Toothpaste"
+  },
+
+
+
+
+  {
+    "ar": "فرشاة أسنان كهربائية",
+    "en": "Electrical Tooth Brush"
+  },
+  {
+    "ar": "الوقاية من التسوس",
+    "en": "Cavity Prevention"
+  },
+  {
+    "ar": "معجون أسنان مبيِّض",
+    "en": "Whitening Toothpaste"
+  },
+  {
+    "ar": "سيروم تبييض الأسنان",
+    "en": "Whitening Serum"
+  },
+  {
+    "ar": "سائل",
+    "en": "Liquid"
+  },
+  {
+    "ar": "كريم للوجه",
+    "en": "Face Cream"
+  },
+  {
+    "ar": "برايمر",
+    "en": "Primer"
+  },
+  {
+    "ar": "سيروم الرموش",
+    "en": "Eyelash Treatment"
+  },
+  {
+    "ar": "أدوات المكياج",
+    "en": "Make-up Tools"
+  },
+  {
+    "ar": "هايلايتر",
+    "en": "Highlighter"
+  },
+  {
+    "ar": "تينت الشفاه",
+    "en": "Lip Tint"
+  },
+  {
+    "ar": "أدوات مكياج",
+    "en": "Make Up Tools"
+  },
+  {
+    "ar": "فرش (مكياج أو شعر)",
+    "en": "Brushes"
+  },
+  {
+    "ar": "أقنعة البشرة",
+    "en": "Masks"
+  },
+  {
+    "ar": "المجوهرات",
+    "en": "Jewellery"
+  },
+  {
+    "ar": "حقائب",
+    "en": "Bags"
+  },
+  {
+    "ar": "إسفنجات",
+    "en": "Sponges"
+  },
+  {
+    "ar": "مزيل المكياج",
+    "en": "Makeup Remover"
+  },
+  {
+    "ar": "نياسيناميد",
+    "en": "Niacinamide"
+  },
+  {
+    "ar": "حمض الجليكوليك",
+    "en": "Glycolic Acid"
+  },
+  {
+    "ar": "كريم الحلاقة",
+    "en": "Shaving Cream"
+  },
+  {
+    "ar": "تونر وماء ميسيلار",
+    "en": "Toner & Micellar Water"
+  },
+  {
+    "ar": "صبغة دائمة",
+    "en": "Permanent"
+  },
+  {
+    "ar": "ماسك ورقي",
+    "en": "Sheet Mask"
+  },
+  {
+    "ar": "مزيلات الشعر",
+    "en": "Hair Removals"
+  },
+  {
+    "ar": "مزيل عرق ستيك",
+    "en": "Stick"
+  },
+  {
+    "ar": "شفرات الحلاقة وماكيناتها",
+    "en": "Blades & Razors"
+  },
+  {
+    "ar": "عناية قبل وبعد الحلاقة",
+    "en": "Pre & Post Shaving"
+  },
+  {
+    "ar": "كريم الحلاقة والرغوة",
+    "en": "Shaving Cream & Foams"
+  },
+  {
+    "ar": "أدوات الحلاقة والتشذيب",
+    "en": "Trimmers & Clippers"
+  },
+  {
+    "ar": "معطرات الفم",
+    "en": "Breath Fresheners"
+  },
+  {
+    "ar": "مكملات رياضية",
+    "en": "Sport Supplements"
+  },
+  {
+    "ar": "البروتين",
+    "en": "Protein"
+  },
+  {
+    "ar": "وجبات خفيفة صحية",
+    "en": "Healthy Snacks"
+  },
+  {
+    "ar": "ألواح البروتين",
+    "en": "Protein Bars"
+  },
+  {
+    "ar": "شامبو يومي",
+    "en": "Daily Shampoo"
+  },
+  {
+    "ar": "بلسم يومي",
+    "en": "Daily Conditioner"
+  },
+  {
+    "ar": "بديل الزيت للشعر",
+    "en": "Oil Replacement"
+  },
+  {
+    "ar": "مقشر الجسم",
+    "en": "Body Scrub"
+  },
+  {
+    "ar": "مستلزمات الرضاعة الطبيعية",
+    "en": "Breastfeeding Essentials"
+  },
+  {
+    "ar": "مضخة الثدي",
+    "en": "Breast Pump"
+  },
+  {
+    "ar": "رعاية الأم",
+    "en": "Mother Care"
+  },
+  {
+    "ar": "سيروم التفتيح",
+    "en": "Whitening Serums"
+  },
+  {
+    "ar": "كريم للعينين",
+    "en": "Eye Cream"
+  },
+  {
+    "ar": "منظفات التفتيح",
+    "en": "Whitening Cleansers"
+  },
+  {
+    "ar": "العدسات اللاصقة",
+    "en": "Lenses"
+  },
+  {
+    "ar": "العدسات اللاصقة الملونة",
+    "en": "Color Contact Lenses"
+  },
+  {
+    "ar": "عدسات شهرية",
+    "en": "Monthly Lenses"
+  },
+  {
+    "ar": "العناية بالبصريات",
+    "en": "Optical Care"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "ar": "غسول اليدين",
+    "en": "Hand Wash"
+  },
+  {
+    "ar": "صابون قالب",
+    "en": "Bar Soap"
+  },
+  {
+    "ar": "رعاية كبار السن",
+    "en": "Senior's Care"
+  },
+  {
+    "ar": "الرعاية الصحية للبالغين",
+    "en": "Adult Sanitary Care"
+  },
+  {
+    "ar": "تلوين جذور الشعر",
+    "en": "Root Touch Up"
+  },
+  {
+    "ar": "أقنعة التبييض",
+    "en": "Whitening Masks"
+  },
+  {
+    "ar": "إكسسوارات الجمال",
+    "en": "Beauty Accessories"
+  },
+  {
+    "ar": "أطقم الإهداءات",
+    "en": "Gifting Sets"
+  },
+  {
+    "ar": "العناية الجنسية",
+    "en": "Sexual Care"
+  },
+  {
+    "ar": "واقٍ ذكري",
+    "en": "Condom"
+  },
+  {
+    "ar": "شامبو جاف",
+    "en": "Dry Shampoo"
+  },
+  {
+    "ar": "أدوات العناية بالبشرة (إلكترونية)",
+    "en": "Skin Tech Tools"
+  },
+  {
+    "ar": "إكسسوارات الفم والأسنان",
+    "en": "Dental Accessories"
+  },
+  {
+    "ar": "فرشاة أسنان للبالغين",
+    "en": "Adult Tooth Brush"
+  },
+  {
+    "ar": "خيط تنظيف الأسنان",
+    "en": "Flosser"
+  },
+  {
+    "ar": "فرش أسنان للبالغين",
+    "en": "Adult Tooth Brushes"
+  },
+  {
+    "ar": "خيط مائي للأسنان",
+    "en": "Water Flosser"
+  },
+  {
+    "ar": "فرش أسنان للأطفال",
+    "en": "Kids Toothbrushes"
+  },
+  {
+    "ar": "غسول فم يومي",
+    "en": "Regular Mouth Wash"
+  },
+  {
+    "ar": "الرموش",
+    "en": "Eyelashes"
+  },
+  {
+    "ar": "لاصق الرموش",
+    "en": "Eyelash Glue"
+  },
+  {
+    "ar": "الرموش الطبيعية",
+    "en": "Natural Lashes"
+  },
+  {
+    "ar": "مستلزمات تغيير الحفاضات",
+    "en": "Diapers & Changing Essentials"
+  },
+  {
+    "ar": "سراويل التدريب",
+    "en": "Training Pants"
+  },
+  {
+    "ar": "حفاضات عادية",
+    "en": "Regular Diapers"
+  },
+  {
+    "ar": "إزالة الشعر الكهربائية",
+    "en": "Electrical Hair Removal"
+  },
+  {
+    "ar": "أجهزة تصفيف الشعر",
+    "en": "Hair Styling Devices"
+  },
+  {
+    "ar": "مكواة الشعر المسطحة",
+    "en": "Flat Irons"
+  },
+  {
+    "ar": "ماكينات الحلاقة الكهربائية",
+    "en": "Electrical Shavers"
+  },
+  {
+    "ar": "مجففات الشعر",
+    "en": "Dryers"
+  },
+  {
+    "ar": "مكواة الشعر المجعدة",
+    "en": "Curling Irons"
+  },
+  {
+    "ar": "فرشاة شعر كهربائية",
+    "en": "Electric Brushes"
+  },
+  {
+    "ar": "أدوات تصفيف الشعر",
+    "en": "Hair Tools"
+  },
+  {
+    "ar": "أمشاط الشعر",
+    "en": "Combs"
+  },
+  {
+    "ar": "الفيتامينات",
+    "en": "Vitamins"
+  },
+  {
+    "ar": "بيوتين للشعر",
+    "en": "Biotin"
+  },
+  {
+    "ar": "خل التفاح",
+    "en": "Apple Cider"
+  },
+  {
+    "ar": "فيتامينات البشرة",
+    "en": "Skin Vitamins"
+  },
+  {
+    "ar": "فيتامينات الشعر",
+    "en": "Hair Vitamins"
+  },
+  {
+    "ar": "العناية بالحامل",
+    "en": "Pregnancy Care"
+  },
+  {
+    "ar": "دعم الرضاعة الطبيعية",
+    "en": "Breast Feeding Support"
+  },
+  {
+    "ar": "مكمل ما قبل التمرين",
+    "en": "Pre-Workout"
+  },
+  {
+    "ar": "ل-أرجينين",
+    "en": "L-Arginine"
+  },
+  {
+    "ar": "الفيتامينات المتعددة",
+    "en": "Multivitamins"
+  },
+  {
+    "ar": "مكمل ما بعد التمرين",
+    "en": "Post-Workout"
+  },
+  {
+    "ar": "ل-كارنيتين",
+    "en": "L-Carnitine"
+  },
+  {
+    "ar": "الصحة الجنسية",
+    "en": "Sexual Health"
+  },
+  {
+    "ar": "المكملات الغذائية",
+    "en": "Supplements"
+  },
+  {
+    "ar": "الفيتامينات والمكملات الغذائية",
+    "en": "Vitamin & Supplement"
+  },
+  {
+    "ar": "صحة القلب",
+    "en": "Heart Health"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "ar": "الكولاجين النوع 1 و3",
+    "en": "Collagen Type 1 & 3"
+  },
+  {
+    "ar": "العناية بالجهاز الهضمي",
+    "en": "Digestive Care"
+  },
+  {
+    "ar": "أشواجاندا",
+    "en": "Ashwagandha"
+  },
+  {
+    "ar": "توازن الهرمونات",
+    "en": "Balance Your Hormones"
+  },
+  {
+    "ar": "التغذية الصحية",
+    "en": "Healthy Nutrition"
+  },
+  {
+    "ar": "الشاي والقهوة والأعشاب",
+    "en": "Tea, Coffee & Herbals"
+  },
+  {
+    "ar": "دعم الخصوبة",
+    "en": "Fertility support"
+  },
+  {
+    "ar": "معجون أسنان للحساسية",
+    "en": "Sensitive Toothpaste"
+  },
+  {
+    "ar": "معجون الأسنان",
+    "en": "Category breadcrumb not found"
+  },
+  {
+    "ar": "علاج قشرة الشعر",
+    "en": "Dandruff Treatment"
+  },
+  {
+    "ar": "حليب مخصص",
+    "en": "Specialty Milk"
+  },
+  {
+    "ar": "عناية شعر احترافية",
+    "en": "Salon Hair Care"
+  },
+  {
+    "ar": "علاج بروتين للشعر",
+    "en": "Protein Treatmment"
+  },
+  {
+    "ar": "عناية بلون الشعر",
+    "en": "Color Care"
+  },
+  {
+    "ar": "الصحة الجنسية للرجال",
+    "en": "Men Sexual Health"
+  },
+  {
+    "ar": "الأجهزة الصحية",
+    "en": "Healthy Devices"
+  },
+  {
+    "ar": "رعاية مرضى السكري",
+    "en": "Diabetic Care"
+  },
+  {
+    "ar": "رعاية مرضى السكري",
+    "en": "Diabetes Care"
+  },
+  {
+    "ar": "كريمات التفتيح",
+    "en": "Whitening Creams"
+  },
+  {
+    "ar": "شمع إزالة الشعر",
+    "en": "Wax"
+  },
+  {
+    "ar": "السعال ونزلات البرد والحساسية",
+    "en": "Cough Cold & Allergy"
+  },
+  {
+    "ar": "تخفيف البرد والإنفلونزا",
+    "en": "Cold & Flu Relief"
+  },
+  {
+    "ar": "علاجات الأطفال",
+    "en": "Kids Treatments"
+  },
+  {
+    "ar": "مرحلة 3 (1-3 سنوات)",
+    "en": "Stage 3 (1-3 years)"
+  },
+  {
+    "ar": "موازين الحرارة",
+    "en": "Thermometers"
+  },
+  {
+    "ar": "أدوات العناية بالبشرة",
+    "en": "Skincare Tools"
+  },
+  {
+    "ar": "فرشاة تنظيف الوجه",
+    "en": "Facial Cleansing Brush"
+  },
+  {
+    "ar": "رذاذ الجسم",
+    "en": "Body Mist"
+  },
+  {
+    "ar": "مرحلة 2 (6-12 شهرًا)",
+    "en": "Stage 2 (6-12 months)"
+  },
+  {
+    "ar": "عدة إسعافات أولية وجبائر",
+    "en": "First Aid & Splints"
+  },
+  {
+    "ar": "العناية بالجروح",
+    "en": "Wound Care"
+  },
+  {
+    "ar": "تحضير الرضّاعات والحليب",
+    "en": "Bottles & Milk Prep"
+  },
+  {
+    "ar": "أساسيات تغذية الطفل",
+    "en": "Baby Feeding Essentials"
+  },
+  {
+    "ar": "منظفات الملابس",
+    "en": "Detergent"
+  },
+  {
+    "ar": "أساسيات استحمام الطفل",
+    "en": "Baby Bath Essentials"
+  },
+  {
+    "ar": "ملابس الأطفال",
+    "en": "Baby Clothes"
+  },
+  {
+    "ar": "لهايات",
+    "en": "Pacifiers"
+  },
+  {
+    "ar": "لوشن الجسم",
+    "en": "Body Lotion"
+  },
+  {
+    "ar": "واقي الشمس",
+    "en": "Sunscreen"
+  },
+  {
+    "ar": "زيت ساخن للشعر",
+    "en": "Hot Oil"
+  },
+  {
+    "ar": "منتجات النظافة والتعقيم",
+    "en": "Hygienic Products"
+  },
+  {
+    "ar": "صحة الرؤية",
+    "en": "Healthy Vision"
+  },
+  {
+    "ar": "الجينسنغ",
+    "en": "Ginseng"
+  },
+  {
+    "ar": "شامبو الأطفال",
+    "en": "Baby Shampoos"
+  },
+  {
+    "ar": "أجهزة مراقبة نبض القلب",
+    "en": "Heart Monitors"
+  },
+  {
+    "ar": "معجون أسنان للأطفال",
+    "en": "Kids Toothpaste"
+  },
+  {
+    "ar": "شامبو وبلسم للأطفال",
+    "en": "Baby Shampoo & Conditioner"
+  },
+  {
+    "ar": "اختبارات صحية منزلية",
+    "en": "Home Health Test"
+  },
+  {
+    "ar": "دعامات الجسم",
+    "en": "Body Supports"
+  },
+
+
+
+
+
+
+
+
+
+  
+  {
+    "ar": "لوحة للوجه",
+    "en": "Face Palette"
+  },
+  {
+    "ar": "جهاز الترطيب وتنقية الهواء",
+    "en": "Humidifier & Air Purifier"
+  },
+  {
+    "ar": "تسمير بالشمس",
+    "en": "Sun Tanning"
+  },
+  {
+    "ar": "بدائل السكر",
+    "en": "Sweeteners"
+  },
+  {
+    "ar": "تخفيف الحساسية",
+    "en": "Allergy Relief"
+  },
+  {
+    "ar": "قطن",
+    "en": "Cotton"
+  },
+  {
+    "ar": "العناية بعد الولادة",
+    "en": "Postpartum Care"
+  },
+  {
+    "ar": "لصقات العين",
+    "en": "Eye Patches"
+  },
+  {
+    "ar": "أدوات العناية بالأظافر",
+    "en": "Nail Tools"
+  },
+  {
+    "ar": "أدوات الباديكير",
+    "en": "Pedicure Tools"
+  },
+  {
+    "ar": "مبرد أظافر",
+    "en": "File"
+  },
+  {
+    "ar": "علاج القمل",
+    "en": "Lice Treatment"
+  },
+  {
+    "ar": "أربطة شعر مرنة",
+    "en": "Elastic Bands"
+  },
+  {
+    "ar": "قلادة",
+    "en": "Necklace"
+  },
+  {
+    "ar": "مشابك ودبابيس الشعر",
+    "en": "Clibs & Bobby Pins"
+  },
+  {
+    "ar": "أظافر تركيب وغراء",
+    "en": "False Nails & Glue"
+  },
+  {
+    "ar": "جل استحمام فاخر",
+    "en": "Indulging Shower Gel"
+  },
+  {
+    "ar": "العلكة والحلوى",
+    "en": "Gum and Candy"
+  },
+  {
+    "ar": "عطر للأطفال",
+    "en": "Baby Fragrance"
+  },
+  {
+    "ar": "حليب عضوي للأطفال",
+    "en": "Organic Milk"
+  },
+  {
+    "ar": "دعم النمو",
+    "en": "Growth Support"
+  },
+  {
+    "ar": "مزيلات المكياج",
+    "en": "Makeup Removers"
+  },
+  {
+    "ar": "التحكم في رائحة القدم",
+    "en": "Foot Odour Control"
+  },
+  {
+    "ar": "القدم السكري",
+    "en": "Diabetic Foot"
+  },
+  {
+    "ar": "مرطبات القدمين",
+    "en": "Foot Moisturizers"
+  },
+  {
+    "ar": "شاي النوم والهضم والديتوكس",
+    "en": "Sleep, Digest, Detox Tea"
+  }
+]
