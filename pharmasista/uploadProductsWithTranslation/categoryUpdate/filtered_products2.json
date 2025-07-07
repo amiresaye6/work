@@ -1,0 +1,798 @@
+[
+  {
+    "SKU": "en_3395",
+    "Category": "Skin care: skin whitening products"
+  },
+  {
+    "SKU": "en_3589",
+    "Category": "Hair care: hair cream bath and hair mask"
+  },
+  {
+    "SKU": "en_3601",
+    "Category": "Hair care: hair cream bath and hair mask"
+  },
+  {
+    "SKU": "en_3602",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_3604",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_3625",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_3629",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_3631",
+    "Category": "Hair care: hair cream bath and hair mask"
+  },
+  {
+    "SKU": "en_3632",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_3633",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_3635",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_3636",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_3638",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_3639",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_4034",
+    "Category": "Personal care: sexual health"
+  },
+  {
+    "SKU": "en_4629",
+    "Category": "Personal care: body care and bathing"
+  },
+  {
+    "SKU": "en_4632",
+    "Category": "Personal care: body care and bathing"
+  },
+  {
+    "SKU": "en_4633",
+    "Category": "Personal care: body care and bathing"
+  },
+  {
+    "SKU": "en_4634",
+    "Category": "Personal care: body care and bathing"
+  },
+  {
+    "SKU": "en_4682",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4694",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4704",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4705",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4706",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4707",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_4708",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_5011",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5101",
+    "Category": "Diet products"
+  },
+  {
+    "SKU": "en_5105",
+    "Category": "Diet products"
+  },
+  {
+    "SKU": "en_5110",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5115",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5116",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5117",
+    "Category": "Hair care: shampoo"
+  },
+  {
+    "SKU": "en_5118",
+    "Category": "Hair care: hair cream bath and hair mask"
+  },
+  {
+    "SKU": "en_5120",
+    "Category": "Hair care: shampoo"
+  },
+  {
+    "SKU": "en_5121",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5122",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5133",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_5154",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_5155",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_5156",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_5157",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_5593",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_5594",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_5596",
+    "Category": "Hair care: shampoo"
+  },
+  {
+    "SKU": "en_5597",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_5618",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_5619",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_5620",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_5621",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_5862",
+    "Category": "Oral care: mouth fresheners"
+  },
+  {
+    "SKU": "en_5863",
+    "Category": "Oral care: mouth fresheners"
+  },
+  {
+    "SKU": "en_5883",
+    "Category": "Baby care: baby skin care"
+  },
+  {
+    "SKU": "en_6266",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_6289",
+    "Category": "Milk and baby products: baby milk"
+  },
+  {
+    "SKU": "en_82",
+    "Category": "Diet products"
+  },
+  {
+    "SKU": "en_85",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_234",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_247",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_268",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_269",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_270",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_275",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_289",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_291",
+    "Category": "Women care products"
+  },
+  {
+    "SKU": "en_6381",
+    "Category": "Milk and baby products: baby milk"
+  },
+  {
+    "SKU": "en_6384",
+    "Category": "Milk and baby products: baby milk"
+  },
+  {
+    "SKU": "en_6515",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_6516",
+    "Category": "Skin care: sun protection products"
+  },
+  {
+    "SKU": "en_6535",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6537",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6538",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6539",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6540",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6541",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6542",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6543",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6544",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6545",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6546",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6547",
+    "Category": "Medical care"
+  },
+  {
+    "SKU": "en_6647",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_6657",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_6659",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_6660",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_6661",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_6662",
+    "Category": "Men care products"
+  },
+  {
+    "SKU": "en_6663",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6664",
+    "Category": "Perfumes: men's perfumes"
+  },
+  {
+    "SKU": "en_6665",
+    "Category": "Personal care: body care and showering"
+  },
+  {
+    "SKU": "en_6666",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6667",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6668",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6669",
+    "Category": "Perfumes: men's perfumes"
+  },
+  {
+    "SKU": "en_6670",
+    "Category": "Perfumes: men's perfumes"
+  },
+  {
+    "SKU": "en_6671",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_6672",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6673",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6674",
+    "Category": "Personal care: deodorants"
+  },
+  {
+    "SKU": "en_6675",
+    "Category": "Perfumes: women's perfumes"
+  },
+  {
+    "SKU": "en_6676",
+    "Category": "Perfumes: men's perfumes"
+  },
+  {
+    "SKU": "en_6677",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_6678",
+    "Category": "Personal care: scented powder"
+  },
+  {
+    "SKU": "en_6679",
+    "Category": "Personal care: scented powder"
+  },
+  {
+    "SKU": "en_6681",
+    "Category": "Personal care: scented powder"
+  },
+  {
+    "SKU": "en_6708",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_6710",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_6711",
+    "Category": "Skin care: skin whitening products"
+  },
+  {
+    "SKU": "en_591",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_593",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_604",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_607",
+    "Category": "Hair care: hair mist"
+  },
+  {
+    "SKU": "en_729",
+    "Category": "Skin care: skin moisturizing products"
+  },
+  {
+    "SKU": "en_1096",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1100",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1101",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1102",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1103",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1104",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1105",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1106",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1107",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1108",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1109",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1110",
+    "Category": "Beauty and accessories: eye makeup"
+  },
+  {
+    "SKU": "en_1219",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_1422",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_1423",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_1509",
+    "Category": "Hair care: shampoo"
+  },
+  {
+    "SKU": "en_1520",
+    "Category": "Skin care: skin exfoliation products"
+  },
+  {
+    "SKU": "en_1585",
+    "Category": "Skin care: anti-wrinkle products"
+  },
+  {
+    "SKU": "en_1699",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_1719",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1744",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1745",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1746",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1747",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1748",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1749",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1750",
+    "Category": "Beauty and accessories: lipstick"
+  },
+  {
+    "SKU": "en_1751",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1762",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1765",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1770",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1774",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1778",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1807",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1811",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1860",
+    "Category": "Beauty and accessories: face makeup"
+  },
+  {
+    "SKU": "en_1877",
+    "Category": "dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_1879",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_1881",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_1882",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_1887",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_1889",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_1892",
+    "Category": "Hair care: hair treatments"
+  },
+  {
+    "SKU": "en_2176",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2177",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2178",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2179",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2180",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2181",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2182",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2183",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2184",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2185",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2186",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2187",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2188",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2190",
+    "Category": "Baby care: diapers"
+  },
+  {
+    "SKU": "en_2276",
+    "Category": "Baby care: medical supplies"
+  },
+  {
+    "SKU": "en_2309",
+    "Category": "Dietary supplements and vitamins"
+  },
+  {
+    "SKU": "en_2374",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2376",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2620",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2645",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2648",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2652",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2660",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2663",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2666",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2689",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2691",
+    "Category": "Hair care: conditioner"
+  },
+  {
+    "SKU": "en_2706",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2867",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2871",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2873",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2874",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2875",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2876",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2877",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2878",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2879",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2880",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2881",
+    "Category": "Hair care: hair styling products"
+  },
+  {
+    "SKU": "en_2882",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2895",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_2897",
+    "Category": "Hair care: hair oils and serums"
+  },
+  {
+    "SKU": "en_3079",
+    "Category": "Baby care: baby hygiene care"
+  }
+]
