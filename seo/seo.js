@@ -13,11 +13,20 @@ if (!apiKey) {
 }
 const genAI = new GoogleGenerativeAI(apiKey);
 
+// Function to clean the description with regex
+function cleanDescription(description) {
+    if (!description) return description;
+
+    // Replace any pattern of '>' followed by any number of newlines/spaces, followed by '<'
+    return description.replace(/>\s*\n+\s*</g, '><');
+}
+
 // Main function to get enriched fields using the new JSON-structured Arabic prompt
 async function getSeoFields(product) {
     // Compose the prompt using the imported function
     const prompt = generateAIPrompt({
-        oldDescription: product.se || '',
+        oldDescription: product.oldDescription || '',
+        oldTitle: product.Name || '',
         keywords: product.keywords || [],
         relatedLinkText: product.relatedLinkText || '',
         relatedLinkURL: product.relatedLinkURL || '',
@@ -40,7 +49,15 @@ async function getSeoFields(product) {
         } else {
             jsonContent = text.trim();
         }
-        return JSON.parse(jsonContent);
+
+        const parsedJson = JSON.parse(jsonContent);
+
+        // Apply regex formatter to description field if it exists
+        if (parsedJson.description) {
+            parsedJson.description = cleanDescription(parsedJson.description);
+        }
+
+        return parsedJson;
     } catch (err) {
         console.error('Gemini error:', err);
         throw err;

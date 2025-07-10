@@ -1,5 +1,6 @@
 function generateAIPrompt({
   oldDescription,
+  oldTitle,
   keywords = [],
   relatedLinkText = 'المزيد من المنتجات',
   relatedLinkURL = 'https://ivitasa.com/'
@@ -30,6 +31,8 @@ Reformat the provided product description into an Arabic marketing-style format 
 - Continue the rest of the description as described below the <code>&lt;h2&gt;</code>.<br/>
 <hr/>
 
+<strong>🔁 INPUT OLD TITLE:</strong><br/>
+<pre>${oldTitle}</pre>
 <strong>🔁 INPUT OLD DESCRIPTION:</strong><br/>
 <pre>${oldDescription}</pre>
   `.trim();
