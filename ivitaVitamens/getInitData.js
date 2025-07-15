@@ -13,9 +13,9 @@ const fs = require('fs').promises;
 
 // -------- CONFIG ---------
 
-const BASE_URL = 'https://www.nahdionline.com/en-sa/%D9%85%D9%83%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/plp/72121'; // <-- BASE URL, no page param
-const END_PAGE = 72; // <-- UPDATE THIS!
-const OUTPUT_FILE = 'supplements_products.json';
+const BASE_URL = 'https://www.nahdionline.com/en-sa/healthy-nutrition/plp/72118'; // <-- BASE URL, no page param
+const END_PAGE = 36; // <-- UPDATE THIS!
+const OUTPUT_FILE = 'healthy-nutrition_products.json';
 const PROGRESS_FILE = 'progress.json';
 const FAILED_PAGES_FILE = 'FailedPages.json';
 const SCRAPER_USER = 'amiresaye6';
