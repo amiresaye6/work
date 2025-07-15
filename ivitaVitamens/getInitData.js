@@ -13,9 +13,9 @@ const fs = require('fs').promises;
 
 // -------- CONFIG ---------
 
-const BASE_URL = 'https://www.nahdionline.com/en-sa/%D8%A7%D9%84%D9%81%D9%8A%D8%AA%D8%A7%D9%85%D9%8A%D9%86%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%83%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9/plp/70396'; // <-- BASE URL, no page param
-const END_PAGE = 200; // <-- UPDATE THIS!
-const OUTPUT_FILE = 'product.json';
+const BASE_URL = 'https://www.nahdionline.com/en-sa/%D9%85%D9%83%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9/plp/72121'; // <-- BASE URL, no page param
+const END_PAGE = 72; // <-- UPDATE THIS!
+const OUTPUT_FILE = 'supplements_products.json';
 const PROGRESS_FILE = 'progress.json';
 const FAILED_PAGES_FILE = 'FailedPages.json';
 const SCRAPER_USER = 'amiresaye6';
@@ -96,7 +96,7 @@ async function saveFailedPage(pageUrl, file = FAILED_PAGES_FILE) {
 
 async function gatherProductInfo(page) {
     try {
-        await page.waitForSelector('.js-plp-product', { timeout: 60000 });
+        await page.waitForSelector('.js-plp-product', { timeout: 120000 });
         const products = await page.evaluate(() => {
             const productElements = document.querySelectorAll('.js-plp-product');
             const productData = [];
@@ -173,7 +173,9 @@ async function openSingleUrl(baseUrl, outputFile, startPage = 1, endPage = END_P
 
         let pageProducts = [];
         try {
-            await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 60000 });
+            console.log(`Navigating to page ${currentPage}...`);
+            
+            await page.goto(pageUrl, { waitUntil: 'networkidle2', timeout: 120000 });
             pageProducts = await gatherProductInfo(page);
         } catch (error) {
             logWithTime(`Failed to fetch page ${currentPage}: ${error.message}`);

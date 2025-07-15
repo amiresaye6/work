@@ -1,14 +1,11 @@
 /**
- * Script to extract all unique values for a given identifier from a JSON file.
+ * Script to extract all unique product objects for a given identifier from a JSON file.
  * 
  * Usage:
  *   node extractUniqueValues.js input.json identifier output.json
  * 
  * Example:
  *   node extractUniqueValues.js products.json brand products_unique.json
- * 
- * This will look for the key "brand" in each object of products.json,
- * collect all unique values, and write them to products_unique.json as an array.
  */
 
 const fs = require('fs');
@@ -25,17 +22,30 @@ try {
     // Read and parse input file
     const data = JSON.parse(fs.readFileSync(inputFile, 'utf8'));
 
-    // Collect values for the identifier key
-    const values = (Array.isArray(data) ? data : Object.values(data))
-        .map(item => item[identifier])
-        .filter(val => typeof val !== 'undefined' && val !== null);
+    // Create a map to store unique products by identifier value
+    const uniqueProductsMap = {};
+    
+    // Process each item
+    (Array.isArray(data) ? data : Object.values(data)).forEach(item => {
+        const identifierValue = item[identifier];
+        
+        // Skip if identifier value is undefined or null
+        if (typeof identifierValue === 'undefined' || identifierValue === null) {
+            return;
+        }
+        
+        // Store the full product object for each unique identifier value
+        if (!uniqueProductsMap[identifierValue]) {
+            uniqueProductsMap[identifierValue] = item;
+        }
+    });
+    
+    // Convert map to array of product objects
+    const uniqueProducts = Object.values(uniqueProductsMap);
 
-    // Get unique values
-    const uniqueValues = Array.from(new Set(values));
-
-    // Write unique values to output file
-    fs.writeFileSync(outputFile, JSON.stringify(uniqueValues, null, 2), 'utf8');
-    console.log(`Extracted ${uniqueValues.length} unique values for "${identifier}" into ${outputFile}`);
+    // Write unique product objects to output file
+    fs.writeFileSync(outputFile, JSON.stringify(uniqueProducts, null, 2), 'utf8');
+    console.log(`Extracted ${uniqueProducts.length} unique products for "${identifier}" into ${outputFile}`);
 } catch (err) {
     console.error('Error:', err.message);
     process.exit(1);
