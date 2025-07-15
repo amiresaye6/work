@@ -100,7 +100,7 @@ async function processMatchedProducts(inputFileName) {
     return;
   }
 
-  const outputFile = 'scraped_product_details.json';
+  const outputFile = 'productsFullData.json';
   const progressFile = 'progress.json';
   const failedFile = 'failed_products.json';
 
@@ -215,5 +215,5 @@ async function processMatchedProducts(inputFileName) {
 // --- Script Execution ---
 (async () => {
   // The input file is the output from your Python script
-  await processMatchedProducts("deduplicated_products.json");
+  await processMatchedProducts("products.json");
 })();

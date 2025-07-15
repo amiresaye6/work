@@ -1,0 +1,22 @@
+[
+  {
+    "productId": "102290635",
+    "url_en": "https://www.nahdionline.com/en-sa/natures-way-primadophilus-bifidus-adults-5-billion-90-capsules/pdp/102290635",
+    "url_ar": "https://www.nahdionline.com/ar-sa/natures-way-primadophilus-bifidus-adults-5-billion-90-capsules/pdp/102290635",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": null
+    },
+    "timestamp": "2025-07-15T12:36:25.354Z"
+  },
+  {
+    "productId": "102956370",
+    "url_en": "https://www.nahdionline.com/en-sa/limitless-milga-mix-30-bi-layer-tabs/pdp/102956370",
+    "url_ar": "https://www.nahdionline.com/ar-sa/limitless-milga-mix-30-bi-layer-tabs/pdp/102956370",
+    "error": {
+      "en": "Navigation timeout of 60000 ms exceeded",
+      "ar": null
+    },
+    "timestamp": "2025-07-15T12:51:41.936Z"
+  }
+]
