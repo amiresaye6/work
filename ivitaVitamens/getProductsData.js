@@ -12,7 +12,7 @@ async function getProductData(url, browser) {
   let page;
   try {
     page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 }); // Increased timeout
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 120000 }); // Increased timeout
 
     const productData = await page.evaluate(() => {
       // Helper to select an element and get its text content safely
@@ -41,7 +41,7 @@ async function getProductData(url, browser) {
       if (sectionElement) {
         // This simplified logic just gets all the text content from the description section.
         // You can restore your complex processNode function here if needed.
-        description = sectionElement.innerText.trim();
+        description = sectionElement.innerText.trim();60
       }
 
       // Scrape Images
