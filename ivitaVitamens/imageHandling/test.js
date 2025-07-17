@@ -6,6 +6,7 @@ const { uploadFile, createFolder, createSharedLink } = require('./dropbox');
 
 const INPUT_JSON = path.join(__dirname, 'products.json');
 const OUTPUT_JSON = path.join(__dirname, 'products_with_dropbox_links.json');
+const FAILED_JSON = path.join(__dirname, 'failed_products.json');
 const TEMP_DIR = path.join(os.tmpdir(), 'images_for_dropbox');
 
 // Ensure temp dir exists
@@ -28,6 +29,21 @@ function saveProgress(products) {
     console.log('[LOG] Progress saved to output file.');
 }
 
+// Save failed products
+function saveFailedProduct(product) {
+    let failedProducts = [];
+    if (fs.existsSync(FAILED_JSON)) {
+        try {
+            failedProducts = JSON.parse(fs.readFileSync(FAILED_JSON, 'utf8'));
+        } catch {
+            failedProducts = [];
+        }
+    }
+    failedProducts.push(product);
+    fs.writeFileSync(FAILED_JSON, JSON.stringify(failedProducts, null, 2), 'utf8');
+    console.log(`[LOG] Added product ${product.productId} to failed_products file.`);
+}
+
 async function processProductImages() {
     const originalProducts = JSON.parse(fs.readFileSync(INPUT_JSON, 'utf8'));
     let products;
@@ -42,6 +58,8 @@ async function processProductImages() {
 
     for (let p = 0; p < products.length; p++) {
         let product = products[p];
+        let failed = false;
+
         // If images are already dropbox links, skip
         if (
             product.images &&
@@ -57,10 +75,16 @@ async function processProductImages() {
         const dropboxFolder = `/products/${product.productId}`;
         console.log(`[LOG] Creating folder in Dropbox: ${dropboxFolder}`);
 
-        await createFolder(dropboxFolder);
+        try {
+            await createFolder(dropboxFolder);
+        } catch (err) {
+            console.error(`[ERROR] Failed to create folder for product ${product.productId}:`, err);
+            failed = true;
+        }
+
         const newImageLinks = [];
 
-        for (let i = 0; i < product.images.length; i++) {
+        for (let i = 0; i < product.images.length && !failed; i++) {
             const imageUrl = product.images[i];
             try {
                 let ext = path.extname(imageUrl.split('?')[0]);
@@ -83,12 +107,20 @@ async function processProductImages() {
                 console.log(`[LOG] Image #${i + 1} processed and temp file deleted.`);
             } catch (err) {
                 console.error(`[ERROR] Processing image #${i + 1} for product ${product.productId}:`, err);
-                newImageLinks.push(imageUrl);
+                failed = true;
             }
             // Save progress after each image
             product.images = newImageLinks.concat(product.images.slice(newImageLinks.length));
             saveProgress(products);
         }
+
+        if (failed) {
+            saveFailedProduct(product);
+            // Optionally, you can skip updating images for failed product in the main list
+            // product.images = [];
+            continue; // skip final save for failed product
+        }
+
         // Save after all images for this product
         product.images = newImageLinks;
         saveProgress(products);
