@@ -12,7 +12,7 @@ async function getProductData(url, browser) {
   let page;
   try {
     page = await browser.newPage();
-    await page.goto(url, { waitUntil: 'networkidle2', timeout: 120000 }); // Increased timeout
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 1200000 }); // Increased timeout
 
     const productData = await page.evaluate(() => {
       // Helper to select an element and get its text content safely
