@@ -121,9 +121,9 @@ async function enrichSeoStream(inputFile, outputFile, failedFile) {
 
 // USAGE: node seo_enrich_gemini_stream.js input.json output.json
 const [, , inputFile, outputFile] = process.argv;
-const failedFile = "seo_failed_products.json";
+const failedFile = "failed_seo_products.json";
 if (!inputFile || !outputFile) {
-    console.error('Usage: node seo_enrich_gemini_stream.js input.json output.json');
+    console.error('Usage: node seo.js input.json output.json');
     process.exit(1);
 }
 
