@@ -1,0 +1,40 @@
+[
+  {
+    "ID": 32889,
+    "Type": "simple",
+    "Name": "amir test global",
+    "Published": 1,
+    "Is featured?": 0,
+    "Visibility in catalog": "visible",
+    "Tax status": "taxable",
+    "In stock?": 1,
+    "Backorders allowed?": 0,
+    "Sold individually?": 0,
+    "Allow customer reviews?": 1,
+    "Categories": "التسوق حسب الهدف",
+    "Position": 0,
+    "Attribute 1 name": "طريقة الشحن",
+    "Attribute 1 value(s)": "global",
+    "Attribute 1 visible": 1,
+    "Attribute 1 global": 1
+  },
+  {
+    "ID": 32892,
+    "Type": "simple",
+    "Name": "amir test local",
+    "Published": 1,
+    "Is featured?": 0,
+    "Visibility in catalog": "visible",
+    "Tax status": "taxable",
+    "In stock?": 1,
+    "Backorders allowed?": 0,
+    "Sold individually?": 0,
+    "Allow customer reviews?": 1,
+    "Categories": "التسوق حسب الهدف",
+    "Position": 0,
+    "Attribute 1 name": "طريقة الشحن",
+    "Attribute 1 value(s)": "local",
+    "Attribute 1 visible": 1,
+    "Attribute 1 global": 1
+  }
+]
