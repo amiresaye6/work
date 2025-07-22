@@ -1,41 +1,64 @@
-function generateAIPrompt({
+function generateSeoLangPrompt({
   oldDescription,
   oldTitle,
   keywords = [],
   relatedLinkText = 'المزيد من المنتجات',
-  relatedLinkURL = 'https://ivitasa.com/'
+  relatedLinkURL = 'https://ivitasa.com/',
+  brand = '',
+  language = 'ar'
 }) {
-  const keywordStr = keywords.join(', ');
-
-  // Build the custom link HTML as described in your example
-  const linkHTML = `<p style="cursor: pointer"><span>🔗</span> <a href="${relatedLinkURL}" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:inherit;"></a> ${relatedLinkText}</p>`;
+  const isArabic = language === 'ar';
+  const titleField = isArabic ? 'new_title_ar' : 'new_title_en';
+  const descField = isArabic ? 'new_description_ar' : 'new_description_en';
+  const shortDescField = isArabic ? 'short_description_ar' : 'short_description_en';
+  const seoKeywordField = isArabic ? 'seo_keyword_ar' : 'seo_keyword_en';
+  const internalLinkField = isArabic ? 'internal_link_ar' : 'internal_link_en';
+  const internalLinkText = isArabic ? relatedLinkText : 'See more products';
 
   return `
-You are an AI assistant transforming old supplement product descriptions into modern, SEO-optimized, structured JSON format.<br/><br/>
+You are an AI assistant transforming old supplement product descriptions into modern, SEO-optimized, structured JSON format in ${isArabic ? 'Arabic' : 'English'}.
 
-<strong>🎯 TASK:</strong><br/>
-Reformat the provided product description into an Arabic marketing-style format with strong structure and SEO value. Follow the exact structure below and return a valid JSON object. Remove all emojis, hashtags, and unstructured elements.<br/>
-<hr/>
+🎯 TASK:
+- Receive old product title and description in ${isArabic ? 'Arabic' : 'English'}.
+- Generate new SEO-optimized title and description, addressing the following roles (text only):
 
-<strong>🧱 JSON OUTPUT STRUCTURE</strong><br/>
-<pre><code>{
-  "title": "Formatted product name with brand – brief health benefit",
-  "description": "&lt;h2&gt;[title]: [extra benefit headline]&lt;/h2&gt;<br/>&lt;p&gt;Engaging intro describing the health need this product solves.&lt;/p&gt;<br/><br/>&lt;p&gt;Followed by a short paragraph introducing the brand and product quality.&lt;/p&gt;<br/><br/>&lt;h2&gt;مواصفات المنتج&lt;/h2&gt;<br/>&lt;ul&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Main ingredient and dosage (e.g., يحتوي كل قرص على...)&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Suitability (vegan, gluten-free, etc.)&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Package size or daily usage duration&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Manufacturing or quality assurance info&lt;/li&gt;<br/>&lt;/ul&gt;<br/><br/>&lt;h2&gt;فوائد المنتج&lt;/h2&gt;<br/>&lt;ul&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Health benefit 1&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Health benefit 2&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Health benefit 3&lt;/li&gt;<br/>&nbsp; &nbsp; &lt;li&gt;Health benefit 4&lt;/li&gt;<br/>&lt;/ul&gt;<br/><br/>&lt;p&gt;Closing summary paragraph encouraging daily use for better health.&lt;/p&gt;<br/><br/>${linkHTML.replace(/"/g, '&quot;')}",
-  "keywords": "${keywordStr}"
+  1. For the new title (${titleField}), follow this strict structure:
+     - [Brand] [Product Name] [Dosage/Size] [Type/Format] [Target] (as in "اديداس فرش انديورنس رول مزيل عرق للرجال 50 مل" or "Adidas Fresh Endurance Roll-on Deodorant for Men 50ml").
+     - Make sure the title is natural, readable, and contains the Focus Keyword as a full slice, not a joined phrase.
+  2. Choose a strong Focus Keyword (${seoKeywordField}) for this product in ${isArabic ? 'Arabic' : 'English'}. This should be a natural slice of the new title and the keyword must appear in the new title exactly as it is.
+  3. Ensure the Focus Keyword is in the meta description, URL, first 10% of content, and subheading(s).
+  4. Write at least 600 words per description if possible.
+  5. Use Focus Keyword in short paragraphs and at least one subheading.
+  6. Ensure the title uses the Focus Keyword at the beginning, contains a power word, and has either a positive/negative sentiment.
+  7. Generate a short description (max 35 words), summarizing the product, using HTML only.
+  8. Add internal linking text referencing related products ("${internalLinkText}")—this must be appended at the end of the description HTML.
+  9. Use the Focus Keyword in the first 10% of the content.
+  10. Use at least one bulleted list in the description.
+  11. Write in a marketing style, clear, concise, and readable.
+
+🧱 Output Format (JSON):
+{
+  "${titleField}": "...",
+  "${descField}": "<div>...</div>", // HTML only, ends with internal link HTML!
+  "${shortDescField}": "<p>...</p>", // HTML only
+  "${seoKeywordField}": "..." ,
+  "${internalLinkField}": "<a href='${relatedLinkURL}' ...>${internalLinkText}</a>"
 }
-</code></pre>
-<br/>
-<strong>🔤 FORMAT NOTES:</strong><br/>
-- The value of <code>title</code> must be in the format: <b>Product Name Brand – Brief Health Benefit</b> (for example: فيتامين ص شركة س – الحل الأمثل لدعم مناعتك)<br/>
-- The value of <code>description</code> must begin with an <code>&lt;h2&gt;</code> and contain the product name, brand, and a concise benefit headline, like: <code>&lt;h2&gt;فيتامين ص شركة س: الحل الأمثل لدعم مناعتك بطريقة طبيعية&lt;/h2&gt;</code>.<br/>
-- Continue the rest of the description as described below the <code>&lt;h2&gt;</code>.<br/>
-<hr/>
 
-<strong>🔁 INPUT OLD TITLE:</strong><br/>
-<pre>${oldTitle}</pre>
-<strong>🔁 INPUT OLD DESCRIPTION:</strong><br/>
-<pre>${oldDescription}</pre>
-  `.trim();
+🔤 FORMAT NOTES:
+- All description and short_description fields MUST be valid HTML. DO NOT use markdown.
+- Structure all descriptions using <h2>, <ul>, <li>, <p>, etc. as appropriate for web content.
+- Append the internal_link HTML to the END of the description field.
+- Do not include markdown anywhere.
+- Return only valid JSON, no markdown, no explanation.
+
+Input Data:
+-----------
+Brand: ${brand}
+Old Title: ${oldTitle}
+Old Description: ${oldDescription}
+-----------
+    `.trim();
 }
 
-module.exports = { generateAIPrompt };
+module.exports = { generateSeoLangPrompt };

@@ -1,8 +1,7 @@
 require('dotenv').config();
 const { GoogleGenerativeAI } = require('@google/generative-ai');
-const { generateAIPrompt } = require('./promptGenerator');
+const { generateSeoLangPrompt } = require('./promptGenerator');
 const fs = require('fs').promises;
-
 
 let counter = 0;
 
@@ -16,21 +15,19 @@ const genAI = new GoogleGenerativeAI(apiKey);
 // Function to clean the description with regex
 function cleanDescription(description) {
     if (!description) return description;
-
-    // Replace any pattern of '>' followed by any number of newlines/spaces, followed by '<'
     return description.replace(/>\s*\n+\s*</g, '><');
 }
 
-// Main function to get enriched fields using the new JSON-structured Arabic prompt
-async function getSeoFields(product) {
-    // Compose the prompt using the imported function
-    const prompt = generateAIPrompt({
-        oldDescription: product.oldDescription || '',
-        oldTitle: product.Name || '',
+// --- API CALL FOR SINGLE LANGUAGE ---
+async function getSeoLangFields(product, language) {
+    const prompt = generateSeoLangPrompt({
+        oldDescription: language === 'ar' ? (product.description_ar || '') : (product.description_en || ''),
+        oldTitle: language === 'ar' ? (product.title_ar || '') : (product.title_en || ''),
+        brand: language === 'ar' ? (product.brand_ar || '') : (product.brand_en || ''),
         keywords: product.keywords || [],
-        relatedLinkText: product.relatedLinkText || '',
-        relatedLinkURL: product.relatedLinkURL || '',
-        ID: product.ID
+        relatedLinkText: product.relatedLinkText || 'المزيد من المنتجات',
+        relatedLinkURL: product.relatedLinkURL || 'https://ivitasa.com/',
+        language
     });
 
     const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash-lite-preview-06-17' });
@@ -52,14 +49,23 @@ async function getSeoFields(product) {
 
         const parsedJson = JSON.parse(jsonContent);
 
-        // Apply regex formatter to description field if it exists
-        if (parsedJson.description) {
-            parsedJson.description = cleanDescription(parsedJson.description);
+        // Clean description fields
+        if (parsedJson.new_description_en) {
+            parsedJson.new_description_en = cleanDescription(parsedJson.new_description_en);
+        }
+        if (parsedJson.new_description_ar) {
+            parsedJson.new_description_ar = cleanDescription(parsedJson.new_description_ar);
+        }
+        if (parsedJson.short_description_en) {
+            parsedJson.short_description_en = cleanDescription(parsedJson.short_description_en);
+        }
+        if (parsedJson.short_description_ar) {
+            parsedJson.short_description_ar = cleanDescription(parsedJson.short_description_ar);
         }
 
         return parsedJson;
     } catch (err) {
-        console.error('Gemini error:', err);
+        console.error(`Gemini error (${language}):`, err);
         throw err;
     }
 }
@@ -83,19 +89,24 @@ async function enrichSeoStream(inputFile, outputFile, failedFile) {
         let enrichedObject;
         let isError = false;
         try {
-            const seo = await getSeoFields(product);
+            // --- Separate API calls ---
+            const seoEn = await getSeoLangFields(product, 'en');
+            await new Promise(r => setTimeout(r, 1500)); // Rate-limit delay
+            const seoAr = await getSeoLangFields(product, 'ar');
+
             enrichedObject = {
                 ...product,
-                ...seo // merge fields from AI JSON (title, description, etc.)
+                ...seoEn,
+                ...seoAr
             };
-            console.log(`Enriched product number ${counter++}: ${product.ID}`);
+            console.log(`Enriched product number ${counter++}: ${product.productId || product.ID}`);
         } catch (err) {
             isError = true;
             enrichedObject = {
                 ...product,
                 seo_error: err.message
             };
-            console.error(`Failed: ${product.ID}`);
+            console.error(`Failed: ${product.productId || product.ID}`);
         }
 
         if (!isError) {
@@ -107,7 +118,7 @@ async function enrichSeoStream(inputFile, outputFile, failedFile) {
             await failedHandle.write(toWriteFailed);
             firstFailed = false;
         }
-        // Delay to avoid Gemini rate-limits
+        // Delay to avoid Gemini rate-limits between products
         await new Promise(r => setTimeout(r, 1500));
     }
 
@@ -123,7 +134,7 @@ async function enrichSeoStream(inputFile, outputFile, failedFile) {
 const [, , inputFile, outputFile] = process.argv;
 const failedFile = "failed_seo_products.json";
 if (!inputFile || !outputFile) {
-    console.error('Usage: node seo.js input.json output.json');
+    console.error('Usage: node seo_enrich_gemini_stream.js input.json output.json');
     process.exit(1);
 }
 
