@@ -1,0 +1,4338 @@
+[
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Diabetic Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Diabetes Care",
+    "sub_category_ar": "رعاية مرضى السكري",
+    "sub_sub_category_en": "BG Monitors & Strips & Lancets",
+    "sub_sub_category_ar": "أجهزة قياس سكر الدم والشرائط وإبر الوخز"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Biotin",
+    "sub_category_ar": "بيوتين للشعر",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin C",
+    "sub_sub_category_ar": "فيتامين سي"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Vitamin C",
+    "sub_category_ar": "فيتامين سي",
+    "sub_sub_category_en": "Zinc",
+    "sub_sub_category_ar": "الزنك"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Apple Cider",
+    "sub_category_ar": "خل التفاح",
+    "sub_sub_category_en": "Fat Burner",
+    "sub_sub_category_ar": "حارق الدهون"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Berberine",
+    "sub_category_ar": "بربرين",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Breast Feeding Support",
+    "sub_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "L-Arginine",
+    "sub_category_ar": "ل-أرجينين",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Heart Monitors",
+    "main_category_ar": "أجهزة مراقبة نبض القلب",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Blood Pressure Monitors",
+    "sub_sub_category_ar": "أجهزة قياس ضغط الدم"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Ashwagandha",
+    "sub_sub_category_ar": "أشواجاندا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Sexual Health",
+    "sub_category_ar": "الصحة الجنسية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Collagen Type 1 & 3",
+    "sub_category_ar": "الكولاجين النوع 1 و3",
+    "sub_sub_category_en": "Beauty Collagen",
+    "sub_sub_category_ar": "كولاجين الجمال"
+  },
+  {
+    "main_category_en": "Peaceful Sleep",
+    "main_category_ar": "نوم هادئ",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Melatonin",
+    "sub_sub_category_ar": "الميلاتونين"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Digestive Care",
+    "main_category_ar": "العناية بالجهاز الهضمي",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "Melatonin",
+    "sub_sub_category_ar": "الميلاتونين"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Zinc",
+    "sub_sub_category_ar": "الزنك"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Amino Acids",
+    "sub_category_ar": "الأحماض الأمينية",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Diabetic Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Diabetes Care",
+    "sub_category_ar": "رعاية مرضى السكري",
+    "sub_sub_category_en": "Syringes & Pen Needles",
+    "sub_sub_category_ar": "المحاقن وإبر الأقلام"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Biotin",
+    "main_category_ar": "بيوتين للشعر",
+    "sub_category_en": "Hair Collagen",
+    "sub_category_ar": "كولاجين للشعر",
+    "sub_sub_category_en": "Beauty Collagen",
+    "sub_sub_category_ar": "كولاجين الجمال"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Curcumin",
+    "sub_sub_category_ar": "الكركمين"
+  },
+  {
+    "main_category_en": "Multivitamins",
+    "main_category_ar": "الفيتامينات المتعددة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Royal Jelly",
+    "sub_sub_category_ar": "غذاء ملكات النحل"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Heart Monitors",
+    "sub_category_ar": "أجهزة مراقبة نبض القلب",
+    "sub_sub_category_en": "Blood Pressure Monitors",
+    "sub_sub_category_ar": "أجهزة قياس ضغط الدم"
+  },
+  {
+    "main_category_en": "Digestive Care",
+    "main_category_ar": "العناية بالجهاز الهضمي",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Enzymes",
+    "sub_sub_category_ar": "الإنزيمات"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Glutathione",
+    "sub_sub_category_ar": "جلوتاثيون"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Ashwagandha",
+    "sub_sub_category_ar": "أشواجاندا"
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Kids Health",
+    "sub_sub_category_ar": "صحة الأطفال"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Fibers",
+    "sub_sub_category_ar": "الألياف"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Breast Feeding Support",
+    "sub_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_sub_category_en": "Fenugreek",
+    "sub_sub_category_ar": "الحلبة"
+  },
+  {
+    "main_category_en": "Peaceful Sleep",
+    "main_category_ar": "نوم هادئ",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Melatonin",
+    "sub_sub_category_ar": "الميلاتونين"
+  },
+  {
+    "main_category_en": "Beauty Multivitamins",
+    "main_category_ar": "فيتامينات الجمال المتعددة",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Coenzyme - Q10",
+    "sub_category_ar": "كوانزيم كيو10",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "Ginkgo Biloba",
+    "sub_sub_category_ar": "الجنكو بيلوبا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Diet Meal Replacement",
+    "sub_category_ar": "بدائل الوجبات الغذائية",
+    "sub_sub_category_en": "Bar Meals",
+    "sub_sub_category_ar": "وجبات البار"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Maca Extract",
+    "sub_sub_category_ar": "مستخلص الماكا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Hair Multivitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "L-Carnitine",
+    "sub_category_ar": "ل-كارنيتين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Collagen Type 1 & 3",
+    "sub_category_ar": "الكولاجين النوع 1 و3",
+    "sub_sub_category_en": "Collagen Type 2",
+    "sub_sub_category_ar": "الكولاجين النوع 2"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Liver Protection",
+    "main_category_ar": "حماية الكبد",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Milk Thistle",
+    "sub_sub_category_ar": "حليب الشوك (سيليمارين)"
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Fenugreek",
+    "sub_sub_category_ar": "الحلبة"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Collagen Type 2",
+    "sub_sub_category_ar": "الكولاجين النوع 2"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin K",
+    "sub_sub_category_ar": "فيتامين ك"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Hair Care",
+    "main_category_ar": "العناية بالشعر",
+    "sub_category_en": "Vitamin & Supplement",
+    "sub_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_sub_category_en": "Hair Vitamins",
+    "sub_sub_category_ar": "فيتامينات الشعر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin E",
+    "sub_sub_category_ar": "فيتامين هـ"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin C",
+    "sub_sub_category_ar": "فيتامين سي"
+  },
+  {
+    "main_category_en": "Multivitamins",
+    "main_category_ar": "الفيتامينات المتعددة",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Cranberry",
+    "sub_category_ar": "التوت البري",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Bladder & Urinary Support",
+    "main_category_ar": "دعم المثانة والمسالك البولية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Weighting Scales",
+    "sub_category_ar": "موازين قياس الوزن",
+    "sub_sub_category_en": "Manage Your Weight",
+    "sub_sub_category_ar": "إدارة/ضبط الوزن"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Royal Jelly",
+    "sub_sub_category_ar": "غذاء ملكات النحل"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Fuel Your Day",
+    "sub_category_ar": "زوّد يومك بالطاقة",
+    "sub_sub_category_en": "Antioxidants",
+    "sub_sub_category_ar": "مضادات الأكسدة"
+  },
+  {
+    "main_category_en": "Balance Your Hormones",
+    "main_category_ar": "توازن الهرمونات",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Balance Your Hormones",
+    "sub_sub_category_ar": "توازن الهرمونات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Hair Vitamins",
+    "sub_sub_category_ar": "فيتامينات الشعر"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Glucosamine",
+    "sub_category_ar": "الجلوكوزامين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Glucosamine",
+    "sub_sub_category_ar": "الجلوكوزامين"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Royal Jelly",
+    "sub_sub_category_ar": "غذاء ملكات النحل"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Dhea",
+    "sub_sub_category_ar": "ديهيا (DHEA)"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Diabetes Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin B Complex",
+    "sub_sub_category_ar": "فيتامين ب المركب"
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "L-Carnitine",
+    "sub_sub_category_ar": "ل-كارنيتين"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Alpha Lipoic Acid",
+    "sub_category_ar": "حمض ألفا ليبويك",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Pregnancy Care",
+    "sub_category_ar": "العناية بالحامل",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "Valerian",
+    "sub_sub_category_ar": "فاليريان"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Resveratrol & Grape Seed",
+    "sub_sub_category_ar": "ريسفيراترول وبذور العنب"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Breast Feeding Support",
+    "sub_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Circulation Boost",
+    "main_category_ar": "تعزيز الدورة الدموية",
+    "sub_category_en": "Ginkgo Biloba",
+    "sub_category_ar": "الجنكو بيلوبا",
+    "sub_sub_category_en": "Brain & Memory Boost",
+    "sub_sub_category_ar": "تعزيز الدماغ والذاكرة"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Folic Acid",
+    "sub_category_ar": "حمض الفوليك",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Garlic",
+    "sub_sub_category_ar": "الثوم"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Evening Primrose Oil",
+    "sub_category_ar": "زيت زهرة الربيع المسائية",
+    "sub_sub_category_en": "Balance Your Hormones",
+    "sub_sub_category_ar": "توازن الهرمونات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Superfood",
+    "sub_sub_category_ar": "سوبرفود"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Royal Jelly",
+    "sub_category_ar": "غذاء ملكات النحل",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Diabetes Multivitamins",
+    "main_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_category_en": "Vitamin B Complex",
+    "sub_category_ar": "فيتامين ب المركب",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Balance Your Hormones",
+    "sub_category_ar": "توازن الهرمونات",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Enzymes",
+    "sub_sub_category_ar": "الإنزيمات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Fuel Your Day",
+    "sub_category_ar": "زوّد يومك بالطاقة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Isoflavones",
+    "sub_category_ar": "إيزوفلافونات",
+    "sub_sub_category_en": "Balance Your Hormones",
+    "sub_sub_category_ar": "توازن الهرمونات"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Saw Palmetto",
+    "sub_category_ar": "نخيل المنشار",
+    "sub_sub_category_en": "Prostate Care",
+    "sub_sub_category_ar": "العناية بالبروستاتا"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Green Tea",
+    "sub_category_ar": "الشاي الأخضر",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin B1",
+    "sub_sub_category_ar": "فيتامين ب1"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Sexual Health",
+    "sub_category_ar": "الصحة الجنسية",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin B6",
+    "sub_sub_category_ar": "فيتامين ب6"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin B3",
+    "sub_sub_category_ar": "فيتامين ب3"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Melatonin",
+    "sub_sub_category_ar": "الميلاتونين"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Garlic",
+    "sub_sub_category_ar": "الثوم"
+  },
+  {
+    "main_category_en": "L-Arginine",
+    "main_category_ar": "ل-أرجينين",
+    "sub_category_en": "L-Arginine",
+    "sub_category_ar": "ل-أرجينين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Fibers",
+    "sub_sub_category_ar": "الألياف"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "5-HTP",
+    "sub_sub_category_ar": "5-هيدروكسي تربتوفان"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Breast Feeding Support",
+    "sub_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_sub_category_en": "Fenugreek",
+    "sub_sub_category_ar": "الحلبة"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Omega 3",
+    "sub_category_ar": "أوميغا 3",
+    "sub_sub_category_en": "Brain & Memory Boost",
+    "sub_sub_category_ar": "تعزيز الدماغ والذاكرة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "Bar Meals",
+    "sub_sub_category_ar": "وجبات البار"
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Zinc",
+    "sub_sub_category_ar": "الزنك"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Vitamin A",
+    "sub_category_ar": "فيتامين أ",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Vitamin D",
+    "sub_category_ar": "فيتامين د",
+    "sub_sub_category_en": "Vitamin K",
+    "sub_sub_category_ar": "فيتامين ك"
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Biotin",
+    "sub_category_ar": "بيوتين للشعر",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Body Supports",
+    "sub_category_ar": "دعامات الجسم",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Sports Vitamins",
+    "sub_category_ar": "الفيتامينات الرياضية",
+    "sub_sub_category_en": "Fat Burner",
+    "sub_sub_category_ar": "حارق الدهون"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Collagen Type 1 & 3",
+    "sub_sub_category_ar": "الكولاجين النوع 1 و3"
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Folic Acid",
+    "sub_category_ar": "حمض الفوليك",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Seniors Health",
+    "sub_sub_category_ar": "صحة كبار السن"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "St.John's Wort",
+    "sub_sub_category_ar": "عشبة القديس يوحنا"
+  },
+  {
+    "main_category_en": "Glutamine",
+    "main_category_ar": "غلوتامين",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Garcinia Cambogia",
+    "sub_sub_category_ar": "غارسينيا كامبوغيا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Heart Monitors",
+    "sub_category_ar": "أجهزة مراقبة نبض القلب",
+    "sub_sub_category_en": "Vital Signs & Oximeter",
+    "sub_sub_category_ar": "أجهزة قياس العلامات الحيوية والأكسجين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Foot Care",
+    "sub_category_ar": "العناية بالقدمين",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Yeast",
+    "sub_sub_category_ar": "خميرة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Ginkgo Biloba",
+    "sub_sub_category_ar": "الجنكو بيلوبا"
+  },
+  {
+    "main_category_en": "Eye Patches",
+    "main_category_ar": "لصقات العين",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Eye Mask",
+    "sub_sub_category_ar": "قناع العين"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Digestive Care",
+    "main_category_ar": "العناية بالجهاز الهضمي",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Charcoal",
+    "sub_sub_category_ar": "الفحم"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Echinacea",
+    "sub_sub_category_ar": "الإشيناسيا"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Prostate Care",
+    "sub_category_ar": "العناية بالبروستاتا",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Glucosamine",
+    "sub_sub_category_ar": "الجلوكوزامين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin K",
+    "sub_sub_category_ar": "فيتامين ك"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "5-HTP",
+    "sub_sub_category_ar": "5-هيدروكسي تربتوفان"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Coenzyme - Q10",
+    "sub_sub_category_ar": "كوانزيم كيو10"
+  },
+  {
+    "main_category_en": "Liver Protection",
+    "main_category_ar": "حماية الكبد",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Folic Acid",
+    "sub_category_ar": "حمض الفوليك",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Pregnancy Care",
+    "main_category_ar": "العناية بالحامل",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Fuel Your Day",
+    "sub_category_ar": "زوّد يومك بالطاقة",
+    "sub_sub_category_en": "Ginseng",
+    "sub_sub_category_ar": "الجينسنغ"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "L-Theanine",
+    "sub_sub_category_ar": "ل-ثيانين"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Fat Burner",
+    "sub_category_ar": "حارق الدهون",
+    "sub_sub_category_en": "Apple Cider",
+    "sub_sub_category_ar": "خل التفاح"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Hair Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الشعر"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Beauty Multivitamins",
+    "sub_category_ar": "فيتامينات الجمال المتعددة",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Maca Extract",
+    "sub_sub_category_ar": "مستخلص الماكا"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "L-Theanine",
+    "sub_category_ar": "ل-ثيانين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Liver Protection",
+    "sub_category_ar": "حماية الكبد",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Omega 3",
+    "sub_category_ar": "أوميغا 3",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Muscle Recovery",
+    "sub_category_ar": "استشفاء العضلات",
+    "sub_sub_category_en": "Muscle Booster",
+    "sub_sub_category_ar": "معزز العضلات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin B2",
+    "sub_sub_category_ar": "فيتامين ب2"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Quercetin",
+    "sub_sub_category_ar": "كيرسيتين"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Mushroom",
+    "sub_sub_category_ar": "المشروم"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Elderberry",
+    "sub_sub_category_ar": "البلسان"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "L-Lysine",
+    "sub_category_ar": "ل-ليسين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Lutein",
+    "sub_category_ar": "لوتين",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Diet Meal Replacement",
+    "sub_category_ar": "بدائل الوجبات الغذائية",
+    "sub_sub_category_en": "Shakes Meals",
+    "sub_sub_category_ar": "وجبات المخفوقات"
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Sports Vitamins",
+    "sub_category_ar": "الفيتامينات الرياضية",
+    "sub_sub_category_en": "Fat Burner",
+    "sub_sub_category_ar": "حارق الدهون"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Elderberry",
+    "sub_sub_category_ar": "البلسان"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "Heart Health",
+    "sub_sub_category_ar": "صحة القلب"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Lutein",
+    "sub_sub_category_ar": "لوتين"
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Beauty Multivitamins",
+    "sub_category_ar": "فيتامينات الجمال المتعددة",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "L-Theanine",
+    "sub_sub_category_ar": "ل-ثيانين"
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Tribulus",
+    "sub_sub_category_ar": "تريبولوس"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Mushroom",
+    "sub_sub_category_ar": "المشروم"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Charcoal",
+    "sub_sub_category_ar": "الفحم"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Echinacea",
+    "sub_sub_category_ar": "الإشيناسيا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "Kids Health",
+    "sub_sub_category_ar": "صحة الأطفال"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Alpha Lipoic Acid",
+    "sub_category_ar": "حمض ألفا ليبويك",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Circulation Boost",
+    "sub_sub_category_ar": "تعزيز الدورة الدموية"
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Resveratrol & Grape Seed",
+    "sub_category_ar": "ريسفيراترول وبذور العنب",
+    "sub_sub_category_en": "Grape Seed Extract",
+    "sub_sub_category_ar": "مستخلص بذور العنب"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Glucosamine",
+    "sub_sub_category_ar": "الجلوكوزامين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Glutathione",
+    "sub_sub_category_ar": "جلوتاثيون"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Seniors Health",
+    "sub_sub_category_ar": "صحة كبار السن"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Balance Your Hormones",
+    "main_category_ar": "توازن الهرمونات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Antioxidants",
+    "sub_category_ar": "مضادات الأكسدة",
+    "sub_sub_category_en": "Immunity Boosters",
+    "sub_sub_category_ar": "معززات المناعة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Evening Primrose Oil",
+    "sub_sub_category_ar": "زيت زهرة الربيع المسائية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Fuel Your Day",
+    "sub_category_ar": "زوّد يومك بالطاقة",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Balance Your Thyroid",
+    "sub_category_ar": "توازن الغدة الدرقية",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Kids Health",
+    "main_category_ar": "صحة الأطفال",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Fibers",
+    "sub_sub_category_ar": "الألياف"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "Diet Meal Replacement",
+    "sub_sub_category_ar": "بدائل الوجبات الغذائية"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "St.John's Wort",
+    "sub_sub_category_ar": "عشبة القديس يوحنا"
+  },
+  {
+    "main_category_en": "Coenzyme - Q10",
+    "main_category_ar": "كوانزيم كيو10",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Glutathione",
+    "sub_sub_category_ar": "جلوتاثيون"
+  },
+  {
+    "main_category_en": "Healthy Vision",
+    "main_category_ar": "صحة الرؤية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Curcumin",
+    "sub_sub_category_ar": "الكركمين"
+  },
+  {
+    "main_category_en": "Breast Feeding Support",
+    "main_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Peaceful Sleep",
+    "main_category_ar": "نوم هادئ",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Valerian",
+    "sub_sub_category_ar": "فاليريان"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Msm",
+    "sub_sub_category_ar": "إم إس إم"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Sports Vitamins",
+    "sub_category_ar": "الفيتامينات الرياضية",
+    "sub_sub_category_en": "Ultimate muscle Endurance",
+    "sub_sub_category_ar": "قوة تحمّل العضلات"
+  },
+  {
+    "main_category_en": "Foot Care",
+    "main_category_ar": "العناية بالقدمين",
+    "sub_category_en": "Cushions & Pillows",
+    "sub_category_ar": "الوسائد والمخدات",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Fibers",
+    "sub_sub_category_ar": "الألياف"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Bladder & Urinary Support",
+    "sub_sub_category_ar": "دعم المثانة والمسالك البولية"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "L-Theanine",
+    "sub_sub_category_ar": "ل-ثيانين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Collagen Type 2",
+    "sub_sub_category_ar": "الكولاجين النوع 2"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Fuel Your Day",
+    "sub_category_ar": "زوّد يومك بالطاقة",
+    "sub_sub_category_en": "Liver Protection",
+    "sub_sub_category_ar": "حماية الكبد"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Gaba",
+    "sub_sub_category_ar": "جابا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Ginkgo Biloba",
+    "sub_sub_category_ar": "الجنكو بيلوبا"
+  },
+  {
+    "main_category_en": "Liver Protection",
+    "main_category_ar": "حماية الكبد",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Seniors Health",
+    "sub_sub_category_ar": "صحة كبار السن"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Balance Your Thyroid",
+    "sub_category_ar": "توازن الغدة الدرقية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Glucosamine",
+    "sub_category_ar": "الجلوكوزامين",
+    "sub_sub_category_en": "Msm",
+    "sub_sub_category_ar": "إم إس إم"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Creatine",
+    "sub_category_ar": "الكرياتين",
+    "sub_sub_category_en": "Muscle Booster",
+    "sub_sub_category_ar": "معزز العضلات"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Hair Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الشعر"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Diet Meal Replacement",
+    "sub_category_ar": "بدائل الوجبات الغذائية",
+    "sub_sub_category_en": "Soup Meals",
+    "sub_sub_category_ar": "وجبات الحساء"
+  },
+  {
+    "main_category_en": "Skin Vitamins",
+    "main_category_ar": "فيتامينات البشرة",
+    "sub_category_en": "Beauty Collagen",
+    "sub_category_ar": "كولاجين الجمال",
+    "sub_sub_category_en": "Glutathione",
+    "sub_sub_category_ar": "جلوتاثيون"
+  },
+  {
+    "main_category_en": "Diabetic Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Diabetes Care",
+    "sub_category_ar": "رعاية مرضى السكري",
+    "sub_sub_category_en": "Diabetic Foot",
+    "sub_sub_category_ar": "القدم السكري"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Hair Vitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Cystine",
+    "sub_sub_category_ar": "سيستين"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Seniors Health",
+    "sub_sub_category_ar": "صحة كبار السن"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Beauty Collagen",
+    "sub_sub_category_ar": "كولاجين الجمال"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Ease the Stress",
+    "main_category_ar": "تخفيف التوتر",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Ashwagandha",
+    "sub_sub_category_ar": "أشواجاندا"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Cinnamon",
+    "sub_category_ar": "القرفة",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Glutamine",
+    "sub_category_ar": "غلوتامين",
+    "sub_sub_category_en": "Muscle Booster",
+    "sub_sub_category_ar": "معزز العضلات"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Gaba",
+    "sub_category_ar": "جابا",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "Gaba",
+    "sub_sub_category_ar": "جابا"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Ginger",
+    "sub_sub_category_ar": "الزنجبيل"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Sports Vitamins",
+    "sub_category_ar": "الفيتامينات الرياضية",
+    "sub_sub_category_en": "Fat Burner",
+    "sub_sub_category_ar": "حارق الدهون"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "L-Carnitine",
+    "sub_sub_category_ar": "ل-كارنيتين"
+  },
+  {
+    "main_category_en": "Moisturizers",
+    "main_category_ar": "المرطبات (للبشرة)",
+    "sub_category_en": "Skin Patches",
+    "sub_category_ar": "لصقات البشرة",
+    "sub_sub_category_en": "Eye Mask",
+    "sub_sub_category_ar": "قناع العين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Ultimate muscle Endurance",
+    "sub_category_ar": "قوة تحمّل العضلات",
+    "sub_sub_category_en": "Creatine",
+    "sub_sub_category_ar": "الكرياتين"
+  },
+  {
+    "main_category_en": "Healthy Vision",
+    "main_category_ar": "صحة الرؤية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Diabetes Multivitamins",
+    "sub_sub_category_ar": "فيتامينات متعددة لمرضى السكري"
+  },
+  {
+    "main_category_en": "Diabetes Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Gaba",
+    "sub_sub_category_ar": "جابا"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin A",
+    "sub_sub_category_ar": "فيتامين أ"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Glutathione",
+    "sub_category_ar": "جلوتاثيون",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Balance Your Hormones",
+    "sub_category_ar": "توازن الهرمونات",
+    "sub_sub_category_en": "Herbs",
+    "sub_sub_category_ar": "الأعشاب"
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Brain & Memory Boost",
+    "sub_sub_category_ar": "تعزيز الدماغ والذاكرة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Electrolytes",
+    "sub_sub_category_ar": "إلكتروليتات"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Enzymes",
+    "sub_sub_category_ar": "الإنزيمات"
+  },
+  {
+    "main_category_en": "Peaceful Sleep",
+    "main_category_ar": "نوم هادئ",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "5-HTP",
+    "sub_sub_category_ar": "5-هيدروكسي تربتوفان"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Tribulus",
+    "sub_category_ar": "تريبولوس",
+    "sub_sub_category_en": "Ultimate muscle Endurance",
+    "sub_sub_category_ar": "قوة تحمّل العضلات"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Ashwagandha",
+    "sub_category_ar": "أشواجاندا",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Breathe Easy",
+    "sub_category_ar": "تنفس بسهولة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Liver Protection",
+    "sub_sub_category_ar": "حماية الكبد"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Prostate Care",
+    "main_category_ar": "العناية بالبروستاتا",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Prostate Care",
+    "sub_sub_category_ar": "العناية بالبروستاتا"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Vitamin B1",
+    "sub_category_ar": "فيتامين ب1",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Milk Thistle",
+    "sub_category_ar": "حليب الشوك (سيليمارين)",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "Ease the Stress",
+    "sub_sub_category_ar": "تخفيف التوتر"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Superfood",
+    "sub_category_ar": "سوبرفود",
+    "sub_sub_category_en": "Tribulus",
+    "sub_sub_category_ar": "تريبولوس"
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin B1",
+    "sub_sub_category_ar": "فيتامين ب1"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Electrolytes",
+    "sub_category_ar": "إلكتروليتات",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Garlic",
+    "sub_sub_category_ar": "الثوم"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin C",
+    "sub_sub_category_ar": "فيتامين سي"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Resveratrol & Grape Seed",
+    "sub_sub_category_ar": "ريسفيراترول وبذور العنب"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Superfood",
+    "sub_sub_category_ar": "سوبرفود"
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "Valerian",
+    "sub_sub_category_ar": "فاليريان"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Zinc",
+    "sub_sub_category_ar": "الزنك"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "Ginkgo Biloba",
+    "sub_sub_category_ar": "الجنكو بيلوبا"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Body Supports",
+    "sub_category_ar": "دعامات الجسم",
+    "sub_sub_category_en": "Cushions & Pillows",
+    "sub_sub_category_ar": "الوسائد والمخدات"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Fibers",
+    "sub_sub_category_ar": "الألياف"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Peaceful Sleep",
+    "sub_category_ar": "نوم هادئ",
+    "sub_sub_category_en": "5-HTP",
+    "sub_sub_category_ar": "5-هيدروكسي تربتوفان"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Ashwagandha",
+    "sub_category_ar": "أشواجاندا",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Milk Thistle",
+    "sub_category_ar": "حليب الشوك (سيليمارين)",
+    "sub_sub_category_en": "Glutathione",
+    "sub_sub_category_ar": "جلوتاثيون"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "BCAA",
+    "sub_category_ar": "بي سي إيه إيه (BCAA)",
+    "sub_sub_category_en": "Muscle Booster",
+    "sub_sub_category_ar": "معزز العضلات"
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Boswellia",
+    "sub_sub_category_ar": "البوسويليا"
+  },
+  {
+    "main_category_en": "Multivitamins",
+    "main_category_ar": "الفيتامينات المتعددة",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Ashwagandha",
+    "sub_sub_category_ar": "أشواجاندا"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "L-Lysine",
+    "sub_sub_category_ar": "ل-ليسين"
+  },
+  {
+    "main_category_en": "Breathe Easy",
+    "main_category_ar": "تنفس بسهولة",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Quercetin",
+    "sub_sub_category_ar": "كيرسيتين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Zinc",
+    "sub_category_ar": "الزنك",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "5-HTP",
+    "sub_category_ar": "5-هيدروكسي تربتوفان",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Bladder & Urinary Support",
+    "sub_category_ar": "دعم المثانة والمسالك البولية",
+    "sub_sub_category_en": "Digestive Care",
+    "sub_sub_category_ar": "العناية بالجهاز الهضمي"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Cushions & Pillows",
+    "sub_category_ar": "الوسائد والمخدات",
+    "sub_sub_category_en": "Body Supports",
+    "sub_sub_category_ar": "دعامات الجسم"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Vitamin K",
+    "sub_sub_category_ar": "فيتامين ك"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Melatonin",
+    "sub_sub_category_ar": "الميلاتونين"
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Vitamin D",
+    "sub_category_ar": "فيتامين د",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Collagen Type 2",
+    "sub_sub_category_ar": "الكولاجين النوع 2"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Healthy Vision",
+    "sub_sub_category_ar": "صحة الرؤية"
+  },
+  {
+    "main_category_en": "Sports Vitamins",
+    "main_category_ar": "الفيتامينات الرياضية",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Ultimate muscle Endurance",
+    "sub_sub_category_ar": "قوة تحمّل العضلات"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "L-Arginine",
+    "sub_category_ar": "ل-أرجينين",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "Folic Acid",
+    "sub_sub_category_ar": "حمض الفوليك"
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin E",
+    "sub_sub_category_ar": "فيتامين هـ"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Cod Liver Oil",
+    "sub_sub_category_ar": "زيت كبد القد"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Bladder & Urinary Support",
+    "sub_category_ar": "دعم المثانة والمسالك البولية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin B6",
+    "sub_sub_category_ar": "فيتامين ب6"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin A",
+    "sub_sub_category_ar": "فيتامين أ"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Fenugreek",
+    "sub_sub_category_ar": "الحلبة"
+  },
+  {
+    "main_category_en": "Rehydration & Electrolytes",
+    "main_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_category_en": "Electrolytes",
+    "sub_category_ar": "إلكتروليتات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Diabetes Care",
+    "main_category_ar": "رعاية مرضى السكري",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Pregnancy Care",
+    "sub_category_ar": "العناية بالحامل",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Breast Feeding Support",
+    "sub_category_ar": "دعم الرضاعة الطبيعية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Biotin",
+    "sub_sub_category_ar": "بيوتين للشعر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Melatonin",
+    "sub_category_ar": "الميلاتونين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Diabetes Multivitamins",
+    "main_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_category_en": "Vitamin B Complex",
+    "sub_category_ar": "فيتامين ب المركب",
+    "sub_sub_category_en": "Electrolytes",
+    "sub_sub_category_ar": "إلكتروليتات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Antioxidants",
+    "sub_category_ar": "مضادات الأكسدة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Omega 3",
+    "sub_category_ar": "أوميغا 3",
+    "sub_sub_category_en": "Pregnancy Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الحمل المتعددة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Resveratrol & Grape Seed",
+    "sub_category_ar": "ريسفيراترول وبذور العنب",
+    "sub_sub_category_en": "Grape Seed Extract",
+    "sub_sub_category_ar": "مستخلص بذور العنب"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "L-Carnitine",
+    "sub_category_ar": "ل-كارنيتين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Msm",
+    "sub_sub_category_ar": "إم إس إم"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Coenzyme - Q10",
+    "sub_sub_category_ar": "كوانزيم كيو10"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Ashwagandha",
+    "sub_category_ar": "أشواجاندا",
+    "sub_sub_category_en": "Vitamin B6",
+    "sub_sub_category_ar": "فيتامين ب6"
+  },
+  {
+    "main_category_en": "Peaceful Sleep",
+    "main_category_ar": "نوم هادئ",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Vitamin B6",
+    "sub_sub_category_ar": "فيتامين ب6"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Antioxidants",
+    "sub_sub_category_ar": "مضادات الأكسدة"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Eye Patches",
+    "main_category_ar": "لصقات العين",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Skin Patches",
+    "sub_sub_category_ar": "لصقات البشرة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Milk Thistle",
+    "sub_category_ar": "حليب الشوك (سيليمارين)",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Glucosamine",
+    "sub_sub_category_ar": "الجلوكوزامين"
+  },
+  {
+    "main_category_en": "Muscle Booster",
+    "main_category_ar": "معزز العضلات",
+    "sub_category_en": "Electrolytes",
+    "sub_category_ar": "إلكتروليتات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Hair Vitamins",
+    "main_category_ar": "فيتامينات الشعر",
+    "sub_category_en": "Hair Multivitamins",
+    "sub_category_ar": "فيتامينات الشعر",
+    "sub_sub_category_en": "Beauty Multivitamins",
+    "sub_sub_category_ar": "فيتامينات الجمال المتعددة"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin B Complex",
+    "sub_sub_category_ar": "فيتامين ب المركب"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Sports Vitamins",
+    "sub_category_ar": "الفيتامينات الرياضية",
+    "sub_sub_category_en": "Muscle Recovery",
+    "sub_sub_category_ar": "استشفاء العضلات"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Saw Palmetto",
+    "sub_category_ar": "نخيل المنشار",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Skin Care",
+    "main_category_ar": "العناية بالبشرة",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Beauty Collagen",
+    "sub_sub_category_ar": "كولاجين الجمال"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Collagen Type 1 & 3",
+    "sub_sub_category_ar": "الكولاجين النوع 1 و3"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "BCAA",
+    "sub_category_ar": "بي سي إيه إيه (BCAA)",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Diabetes Care",
+    "sub_category_ar": "رعاية مرضى السكري",
+    "sub_sub_category_en": "Antioxidants",
+    "sub_sub_category_ar": "مضادات الأكسدة"
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Seniors Health",
+    "sub_category_ar": "صحة كبار السن",
+    "sub_sub_category_en": "Fuel Your Day",
+    "sub_sub_category_ar": "زوّد يومك بالطاقة"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Grape Seed Extract",
+    "sub_sub_category_ar": "مستخلص بذور العنب"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Coenzyme - Q10",
+    "sub_sub_category_ar": "كوانزيم كيو10"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Coenzyme - Q10",
+    "sub_sub_category_ar": "كوانزيم كيو10"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Ease the Stress",
+    "sub_category_ar": "تخفيف التوتر",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Pregnancy Care",
+    "sub_category_ar": "العناية بالحامل",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Seniors Health",
+    "main_category_ar": "صحة كبار السن",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Isoflavones",
+    "sub_sub_category_ar": "إيزوفلافونات"
+  },
+  {
+    "main_category_en": "Multivitamins",
+    "main_category_ar": "الفيتامينات المتعددة",
+    "sub_category_en": "Digestive Care",
+    "sub_category_ar": "العناية بالجهاز الهضمي",
+    "sub_sub_category_en": "Probiotics",
+    "sub_sub_category_ar": "بروبيوتيك"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Healthy Vision",
+    "sub_category_ar": "صحة الرؤية",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Skin Vitamins",
+    "sub_category_ar": "فيتامينات البشرة",
+    "sub_sub_category_en": "Yeast",
+    "sub_sub_category_ar": "خميرة"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Maca Extract",
+    "sub_category_ar": "مستخلص الماكا",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "L-Theanine",
+    "sub_sub_category_ar": "ل-ثيانين"
+  },
+  {
+    "main_category_en": "Vitamins",
+    "main_category_ar": "الفيتامينات",
+    "sub_category_en": "Diabetes Multivitamins",
+    "sub_category_ar": "فيتامينات متعددة لمرضى السكري",
+    "sub_sub_category_en": "Vitamin B2",
+    "sub_sub_category_ar": "فيتامين ب2"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Balance Your Hormones",
+    "sub_category_ar": "توازن الهرمونات",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Valerian",
+    "sub_category_ar": "فاليريان",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Immunity Boosters",
+    "main_category_ar": "معززات المناعة",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Vitamin D",
+    "sub_sub_category_ar": "فيتامين د"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Amino Acids",
+    "sub_category_ar": "الأحماض الأمينية",
+    "sub_sub_category_en": "Muscle Booster",
+    "sub_sub_category_ar": "معزز العضلات"
+  },
+  {
+    "main_category_en": "First Aid & Splints",
+    "main_category_ar": "عدة إسعافات أولية وجبائر",
+    "sub_category_en": "Vitamin & Supplement",
+    "sub_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_sub_category_en": "Bone, Muscle & Joints",
+    "sub_sub_category_ar": "العظام والعضلات والمفاصل"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "Dha",
+    "sub_sub_category_ar": "دي إتش إيه"
+  },
+  {
+    "main_category_en": "Fuel Your Day",
+    "main_category_ar": "زوّد يومك بالطاقة",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Fertility support",
+    "sub_sub_category_ar": "دعم الخصوبة"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Fenugreek",
+    "sub_category_ar": "الحلبة",
+    "sub_sub_category_en": "Ultimate muscle Endurance",
+    "sub_sub_category_ar": "قوة تحمّل العضلات"
+  },
+  {
+    "main_category_en": "Bladder & Urinary Support",
+    "main_category_ar": "دعم المثانة والمسالك البولية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Saw Palmetto",
+    "sub_sub_category_ar": "نخيل المنشار"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Ginseng",
+    "sub_category_ar": "الجينسنغ",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "Fuel Your Day",
+    "sub_sub_category_ar": "زوّد يومك بالطاقة"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Bone, Muscle & Joints",
+    "sub_category_ar": "العظام والعضلات والمفاصل",
+    "sub_sub_category_en": "Healthy Vision",
+    "sub_sub_category_ar": "صحة الرؤية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Prostate Care",
+    "sub_category_ar": "العناية بالبروستاتا",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Balance Your Hormones",
+    "main_category_ar": "توازن الهرمونات",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Supplements",
+    "sub_category_ar": "المكملات الغذائية",
+    "sub_sub_category_en": "L-Lysine",
+    "sub_sub_category_ar": "ل-ليسين"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Multivitamins",
+    "sub_sub_category_ar": "الفيتامينات المتعددة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Heart Health",
+    "sub_category_ar": "صحة القلب",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Bone, Muscle & Joints",
+    "main_category_ar": "العظام والعضلات والمفاصل",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Boswellia",
+    "sub_sub_category_ar": "البوسويليا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamins",
+    "sub_category_ar": "الفيتامينات",
+    "sub_sub_category_en": "Folic Acid",
+    "sub_sub_category_ar": "حمض الفوليك"
+  },
+  {
+    "main_category_en": "Heart Health",
+    "main_category_ar": "صحة القلب",
+    "sub_category_en": "Brain & Memory Boost",
+    "sub_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Breathe Easy",
+    "sub_sub_category_ar": "تنفس بسهولة"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Sexual Health",
+    "sub_category_ar": "الصحة الجنسية",
+    "sub_sub_category_en": "Bladder & Urinary Support",
+    "sub_sub_category_ar": "دعم المثانة والمسالك البولية"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Vitamin C",
+    "sub_category_ar": "فيتامين سي",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Brain & Memory Boost",
+    "main_category_ar": "تعزيز الدماغ والذاكرة",
+    "sub_category_en": "Kids Health",
+    "sub_category_ar": "صحة الأطفال",
+    "sub_sub_category_en": "Omega 3",
+    "sub_sub_category_ar": "أوميغا 3"
+  },
+  {
+    "main_category_en": "Antioxidants",
+    "main_category_ar": "مضادات الأكسدة",
+    "sub_category_en": "Immunity Boosters",
+    "sub_category_ar": "معززات المناعة",
+    "sub_sub_category_en": "Kids Health",
+    "sub_sub_category_ar": "صحة الأطفال"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Diabetes Care",
+    "sub_category_ar": "رعاية مرضى السكري",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Circulation Boost",
+    "sub_category_ar": "تعزيز الدورة الدموية",
+    "sub_sub_category_en": "Antioxidants",
+    "sub_sub_category_ar": "مضادات الأكسدة"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Glucosamine",
+    "sub_category_ar": "الجلوكوزامين",
+    "sub_sub_category_en": "Msm",
+    "sub_sub_category_ar": "إم إس إم"
+  },
+  {
+    "main_category_en": "Rehydration & Electrolytes",
+    "main_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_category_en": "Fertility support",
+    "sub_category_ar": "دعم الخصوبة",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Fat Burner",
+    "sub_category_ar": "حارق الدهون",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Sports Accessories",
+    "sub_category_ar": "المستلزمات الرياضية",
+    "sub_sub_category_en": "Slimming Wears",
+    "sub_sub_category_ar": "ملابس التنحيف"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Slimming Wears",
+    "sub_category_ar": "ملابس التنحيف",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "L-Carnitine",
+    "main_category_ar": "ل-كارنيتين",
+    "sub_category_en": "Zinc",
+    "sub_category_ar": "الزنك",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Whey Protein",
+    "sub_sub_category_ar": "واي بروتين"
+  },
+  {
+    "main_category_en": "Protein",
+    "main_category_ar": "البروتين",
+    "sub_category_en": "Iso Whey Protein",
+    "sub_category_ar": "آيزو واي بروتين",
+    "sub_sub_category_en": "Whey Protein",
+    "sub_sub_category_ar": "واي بروتين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Sports Accessories",
+    "sub_category_ar": "المستلزمات الرياضية",
+    "sub_sub_category_en": "Sauna",
+    "sub_sub_category_ar": "ساونا"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Mass Gainer",
+    "sub_sub_category_ar": "مكمل زيادة الوزن"
+  },
+  {
+    "main_category_en": "Sports Accessories",
+    "main_category_ar": "المستلزمات الرياضية",
+    "sub_category_en": "Slimming Wears",
+    "sub_category_ar": "ملابس التنحيف",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Sports Accessories",
+    "sub_category_ar": "المستلزمات الرياضية",
+    "sub_sub_category_en": "Shakers",
+    "sub_sub_category_ar": "شيكرات"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sexual Health",
+    "main_category_ar": "الصحة الجنسية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Casein Protein",
+    "sub_sub_category_ar": "بروتين الكازين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Mass Gainer",
+    "sub_category_ar": "مكمل زيادة الوزن",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Fertility support",
+    "main_category_ar": "دعم الخصوبة",
+    "sub_category_en": "Maca Extract",
+    "sub_category_ar": "مستخلص الماكا",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Pre-workout Formula",
+    "main_category_ar": "تركيبة ما قبل التمرين",
+    "sub_category_en": "Amino Acids",
+    "sub_category_ar": "الأحماض الأمينية",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Caffeine",
+    "sub_category_ar": "الكافيين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Pre-workout Formula",
+    "sub_sub_category_ar": "تركيبة ما قبل التمرين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Iso Whey Protein",
+    "sub_sub_category_ar": "آيزو واي بروتين"
+  },
+  {
+    "main_category_en": "BCAA",
+    "main_category_ar": "بي سي إيه إيه (BCAA)",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Multivitamins",
+    "sub_category_ar": "الفيتامينات المتعددة",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Amino Acids",
+    "sub_category_ar": "الأحماض الأمينية",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Pre-workout Formula",
+    "sub_category_ar": "تركيبة ما قبل التمرين",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Sports Accessories",
+    "sub_category_ar": "المستلزمات الرياضية",
+    "sub_sub_category_en": "Training Equipment",
+    "sub_sub_category_ar": "معدات التدريب"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Carb Blend",
+    "sub_sub_category_ar": "مزيج الكربوهيدرات"
+  },
+  {
+    "main_category_en": "L-Arginine",
+    "main_category_ar": "ل-أرجينين",
+    "sub_category_en": "L-Carnitine",
+    "sub_category_ar": "ل-كارنيتين",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Whey Protein",
+    "sub_category_ar": "واي بروتين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Creatine",
+    "sub_sub_category_ar": "الكرياتين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Caffeine",
+    "sub_sub_category_ar": "الكافيين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Ice Tea",
+    "sub_sub_category_ar": "الشاي المثلج"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Vegan Protein",
+    "sub_sub_category_ar": "البروتين النباتي"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Vegan Protein",
+    "sub_category_ar": "البروتين النباتي",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "BCAA",
+    "main_category_ar": "بي سي إيه إيه (BCAA)",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Electrolytes",
+    "sub_sub_category_ar": "إلكتروليتات"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Iso Whey Protein",
+    "sub_sub_category_ar": "آيزو واي بروتين"
+  },
+  {
+    "main_category_en": "Post-Workout",
+    "main_category_ar": "مكمل ما بعد التمرين",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Glutamine",
+    "sub_sub_category_ar": "غلوتامين"
+  },
+  {
+    "main_category_en": "Dryness & Dehydration",
+    "main_category_ar": "الجفاف ونقص الترطيب",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Protein",
+    "main_category_ar": "البروتين",
+    "sub_category_en": "Vegan Protein",
+    "sub_category_ar": "البروتين النباتي",
+    "sub_sub_category_en": "Whey Protein",
+    "sub_sub_category_ar": "واي بروتين"
+  },
+  {
+    "main_category_en": "Protein",
+    "main_category_ar": "البروتين",
+    "sub_category_en": "Whey Protein",
+    "sub_category_ar": "واي بروتين",
+    "sub_sub_category_en": "Vegan Protein",
+    "sub_sub_category_ar": "البروتين النباتي"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Iso Whey Protein",
+    "sub_category_ar": "آيزو واي بروتين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Manage Your Weight",
+    "sub_category_ar": "إدارة/ضبط الوزن",
+    "sub_sub_category_en": "Protein",
+    "sub_sub_category_ar": "البروتين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Pre-Workout",
+    "sub_sub_category_ar": "مكمل ما قبل التمرين"
+  },
+  {
+    "main_category_en": "Muscle Recovery",
+    "main_category_ar": "استشفاء العضلات",
+    "sub_category_en": "Muscle Booster",
+    "sub_category_ar": "معزز العضلات",
+    "sub_sub_category_en": "Casein Protein",
+    "sub_sub_category_ar": "بروتين الكازين"
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Amino Acids",
+    "sub_sub_category_ar": "الأحماض الأمينية"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Protein",
+    "sub_category_ar": "البروتين",
+    "sub_sub_category_en": "Bar Meals",
+    "sub_sub_category_ar": "وجبات البار"
+  },
+  {
+    "main_category_en": "Protein",
+    "main_category_ar": "البروتين",
+    "sub_category_en": "Bar Meals",
+    "sub_category_ar": "وجبات البار",
+    "sub_sub_category_en": "Vegan Protein",
+    "sub_sub_category_ar": "البروتين النباتي"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Caffeine",
+    "sub_category_ar": "الكافيين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "L-Arginine",
+    "sub_sub_category_ar": "ل-أرجينين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Glutamine",
+    "sub_category_ar": "غلوتامين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Creatine",
+    "sub_category_ar": "الكرياتين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Pre-Workout",
+    "main_category_ar": "مكمل ما قبل التمرين",
+    "sub_category_en": "Sports Accessories",
+    "sub_category_ar": "المستلزمات الرياضية",
+    "sub_sub_category_en": "Pre-workout Formula",
+    "sub_sub_category_ar": "تركيبة ما قبل التمرين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "BCAA",
+    "sub_sub_category_ar": "بي سي إيه إيه (BCAA)"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-Workout",
+    "sub_category_ar": "مكمل ما قبل التمرين",
+    "sub_sub_category_en": "Glutamine",
+    "sub_sub_category_ar": "غلوتامين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Post-Workout",
+    "sub_category_ar": "مكمل ما بعد التمرين",
+    "sub_sub_category_en": "Glutamine",
+    "sub_sub_category_ar": "غلوتامين"
+  },
+  {
+    "main_category_en": "Supplements",
+    "main_category_ar": "المكملات الغذائية",
+    "sub_category_en": "Iso Whey Protein",
+    "sub_category_ar": "آيزو واي بروتين",
+    "sub_sub_category_en": "L-Carnitine",
+    "sub_sub_category_ar": "ل-كارنيتين"
+  },
+  {
+    "main_category_en": "Sport Supplements",
+    "main_category_ar": "مكملات رياضية",
+    "sub_category_en": "Pre-workout Formula",
+    "sub_category_ar": "تركيبة ما قبل التمرين",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Cough Cold & Allergy",
+    "main_category_ar": "السعال ونزلات البرد والحساسية",
+    "sub_category_en": "Honey Lozenges",
+    "sub_category_ar": "أقراص العسل",
+    "sub_sub_category_en": "Throat Care",
+    "sub_sub_category_ar": "العناية بالحلق"
+  },
+  {
+    "main_category_en": "Cough Cold & Allergy",
+    "main_category_ar": "السعال ونزلات البرد والحساسية",
+    "sub_category_en": "Throat Care",
+    "sub_category_ar": "العناية بالحلق",
+    "sub_sub_category_en": "Honey Lozenges",
+    "sub_sub_category_ar": "أقراص العسل"
+  },
+  {
+    "main_category_en": "Home",
+    "main_category_ar": "الصفحة الرئيسية",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Sweeteners",
+    "sub_category_ar": "بدائل السكر",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Vitality Manuka (1000+)",
+    "sub_sub_category_ar": "مانوكا فيتاليتي (1000+)"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Honey Lozenges",
+    "sub_sub_category_ar": "أقراص العسل"
+  },
+  {
+    "main_category_en": "Protein Bars",
+    "main_category_ar": "ألواح البروتين",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Everyday Manuka (300+)",
+    "sub_sub_category_ar": "مانوكا اليومي (300+)"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Protein Bars",
+    "sub_sub_category_ar": "ألواح البروتين"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Remedy Manuka (1500+)",
+    "sub_sub_category_ar": "مانوكا ريميدي (1500+)"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Natural Water",
+    "sub_category_ar": "المياه الطبيعية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "Slimming Tea",
+    "sub_category_ar": "شاي التخسيس",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Diet Chocolate",
+    "sub_sub_category_ar": "شوكولاتة دايت"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Honey",
+    "main_category_ar": "العسل",
+    "sub_category_en": "Remedy Manuka (1500+)",
+    "sub_category_ar": "مانوكا ريميدي (1500+)",
+    "sub_sub_category_en": "Vitality Manuka (1000+)",
+    "sub_sub_category_ar": "مانوكا فيتاليتي (1000+)"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Sidr Honey",
+    "sub_sub_category_ar": "عسل السدر"
+  },
+  {
+    "main_category_en": "Sweeteners",
+    "main_category_ar": "بدائل السكر",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Sugar Free coffee",
+    "sub_sub_category_ar": "قهوة خالية من السكر"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Fiber-Rich Snacks",
+    "sub_sub_category_ar": "وجبات خفيفة غنية بالألياف"
+  },
+  {
+    "main_category_en": "Diet Chocolate",
+    "main_category_ar": "شوكولاتة دايت",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Electrolytes",
+    "sub_sub_category_ar": "إلكتروليتات"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Sleep, Digest, Detox Tea",
+    "sub_sub_category_ar": "شاي النوم والهضم والديتوكس"
+  },
+  {
+    "main_category_en": "Healthy Chips",
+    "main_category_ar": "رقائق صحية",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Natural Water",
+    "sub_sub_category_ar": "المياه الطبيعية"
+  },
+  {
+    "main_category_en": "Nuts & Dried Fruits",
+    "main_category_ar": "مكسرات وفواكه مجففة",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Nuts & Dried Fruits",
+    "sub_sub_category_ar": "مكسرات وفواكه مجففة"
+  },
+  {
+    "main_category_en": "Sleep, Digest, Detox Tea",
+    "main_category_ar": "شاي النوم والهضم والديتوكس",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Leave In Conditioner",
+    "sub_sub_category_ar": "بلسم يُترك على الشعر (ليف إن)"
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "Ginger",
+    "sub_category_ar": "الزنجبيل",
+    "sub_sub_category_en": "Ginger & Moringa Tea",
+    "sub_sub_category_ar": "شاي الزنجبيل والمورينجا"
+  },
+  {
+    "main_category_en": "Manage Your Weight",
+    "main_category_ar": "إدارة/ضبط الوزن",
+    "sub_category_en": "Green Tea",
+    "sub_category_ar": "الشاي الأخضر",
+    "sub_sub_category_en": "Green Tea",
+    "sub_sub_category_ar": "الشاي الأخضر"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Ginger",
+    "sub_category_ar": "الزنجبيل",
+    "sub_sub_category_en": "Ginger & Moringa Tea",
+    "sub_sub_category_ar": "شاي الزنجبيل والمورينجا"
+  },
+  {
+    "main_category_en": "Electrolytes",
+    "main_category_ar": "إلكتروليتات",
+    "sub_category_en": "Hydration Drinks",
+    "sub_category_ar": "مشروبات الترطيب",
+    "sub_sub_category_en": "Vitamin B12",
+    "sub_sub_category_ar": "فيتامين ب12"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Nuts & Dried Fruits",
+    "sub_category_ar": "مكسرات وفواكه مجففة",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Energy Bars",
+    "sub_category_ar": "انرجي بار",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Ice Tea",
+    "sub_sub_category_ar": "الشاي المثلج"
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Honey On-The-Go",
+    "sub_sub_category_ar": "عسل جاهز للاستخدام"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Slimming Tea",
+    "sub_sub_category_ar": "شاي التخسيس"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Manage Your Weight",
+    "sub_sub_category_ar": "إدارة/ضبط الوزن"
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Fiber-Rich Snacks",
+    "sub_category_ar": "وجبات خفيفة غنية بالألياف",
+    "sub_sub_category_en": "Nuts & Dried Fruits",
+    "sub_sub_category_ar": "مكسرات وفواكه مجففة"
+  },
+  {
+    "main_category_en": "Vitamin C",
+    "main_category_ar": "فيتامين سي",
+    "sub_category_en": "Electrolytes",
+    "sub_category_ar": "إلكتروليتات",
+    "sub_sub_category_en": "Hydration Drinks",
+    "sub_sub_category_ar": "مشروبات الترطيب"
+  },
+  {
+    "main_category_en": "Honey",
+    "main_category_ar": "العسل",
+    "sub_category_en": "Remedy Manuka (1500+)",
+    "sub_category_ar": "مانوكا ريميدي (1500+)",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Honey",
+    "main_category_ar": "العسل",
+    "sub_category_en": "Everyday Manuka (300+)",
+    "sub_category_ar": "مانوكا اليومي (300+)",
+    "sub_sub_category_en": "Honey On-The-Go",
+    "sub_sub_category_ar": "عسل جاهز للاستخدام"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Ginger & Moringa Tea",
+    "sub_sub_category_ar": "شاي الزنجبيل والمورينجا"
+  },
+  {
+    "main_category_en": "Ginger",
+    "main_category_ar": "الزنجبيل",
+    "sub_category_en": "Green Tea",
+    "sub_category_ar": "الشاي الأخضر",
+    "sub_sub_category_en": "Ginger & Moringa Tea",
+    "sub_sub_category_ar": "شاي الزنجبيل والمورينجا"
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "Green Tea",
+    "sub_category_ar": "الشاي الأخضر",
+    "sub_sub_category_en": "Ginger & Moringa Tea",
+    "sub_sub_category_ar": "شاي الزنجبيل والمورينجا"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Herbs",
+    "sub_category_ar": "الأعشاب",
+    "sub_sub_category_en": "Tea, Coffee & Herbals",
+    "sub_sub_category_ar": "الشاي والقهوة والأعشاب"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "Cinnamon",
+    "sub_category_ar": "القرفة",
+    "sub_sub_category_en": "Ginger",
+    "sub_sub_category_ar": "الزنجبيل"
+  },
+  {
+    "main_category_en": "Herbs",
+    "main_category_ar": "الأعشاب",
+    "sub_category_en": "Tea, Coffee & Herbals",
+    "sub_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_sub_category_en": "Ginger",
+    "sub_sub_category_ar": "الزنجبيل"
+  },
+  {
+    "main_category_en": "Honey",
+    "main_category_ar": "العسل",
+    "sub_category_en": "Everyday Manuka (300+)",
+    "sub_category_ar": "مانوكا اليومي (300+)",
+    "sub_sub_category_en": "Honey Lozenges",
+    "sub_sub_category_ar": "أقراص العسل"
+  },
+  {
+    "main_category_en": "Vitamin & Supplement",
+    "main_category_ar": "الفيتامينات والمكملات الغذائية",
+    "sub_category_en": "Honey",
+    "sub_category_ar": "العسل",
+    "sub_sub_category_en": "Immunity Boosters",
+    "sub_sub_category_ar": "معززات المناعة"
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Fiber-Rich Snacks",
+    "sub_category_ar": "وجبات خفيفة غنية بالألياف",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "Electrolytes",
+    "sub_category_ar": "إلكتروليتات",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Tea, Coffee & Herbals",
+    "main_category_ar": "الشاي والقهوة والأعشاب",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Healthy Chips",
+    "sub_sub_category_ar": "رقائق صحية"
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Diet Chocolate",
+    "sub_category_ar": "شوكولاتة دايت",
+    "sub_sub_category_en": "Fiber-Rich Snacks",
+    "sub_sub_category_ar": "وجبات خفيفة غنية بالألياف"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Fiber-Rich Snacks",
+    "sub_category_ar": "وجبات خفيفة غنية بالألياف",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Hydration Drinks",
+    "main_category_ar": "مشروبات الترطيب",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Kids Digestive Care",
+    "sub_sub_category_ar": "العناية بهضم الأطفال"
+  },
+  {
+    "main_category_en": "Energy Bars",
+    "main_category_ar": "انرجي بار",
+    "sub_category_en": "",
+    "sub_category_ar": "",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Diet Meal Replacement",
+    "sub_category_ar": "بدائل الوجبات الغذائية",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Healthy Snacks",
+    "sub_category_ar": "وجبات خفيفة صحية",
+    "sub_sub_category_en": "Energy Bars",
+    "sub_sub_category_ar": "انرجي بار"
+  },
+  {
+    "main_category_en": "Digestive Care",
+    "main_category_ar": "العناية بالجهاز الهضمي",
+    "sub_category_en": "Ginger",
+    "sub_category_ar": "الزنجبيل",
+    "sub_sub_category_en": "Honey On-The-Go",
+    "sub_sub_category_ar": "عسل جاهز للاستخدام"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Rehydration & Electrolytes",
+    "sub_category_ar": "تعويض السوائل والإلكتروليتات",
+    "sub_sub_category_en": "Ready-To-Drink",
+    "sub_sub_category_ar": "جاهز للشرب"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Diet Chocolate",
+    "sub_category_ar": "شوكولاتة دايت",
+    "sub_sub_category_en": "Protein Bars",
+    "sub_sub_category_ar": "ألواح البروتين"
+  },
+  {
+    "main_category_en": "Healthy Snacks",
+    "main_category_ar": "وجبات خفيفة صحية",
+    "sub_category_en": "Diet Chocolate",
+    "sub_category_ar": "شوكولاتة دايت",
+    "sub_sub_category_en": "Protein Bars",
+    "sub_sub_category_ar": "ألواح البروتين"
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Ready-To-Drink",
+    "sub_category_ar": "جاهز للشرب",
+    "sub_sub_category_en": "",
+    "sub_sub_category_ar": ""
+  },
+  {
+    "main_category_en": "Healthy Nutrition",
+    "main_category_ar": "التغذية الصحية",
+    "sub_category_en": "Sexual Health",
+    "sub_category_ar": "الصحة الجنسية",
+    "sub_sub_category_en": "Tea, Coffee & Herbals",
+    "sub_sub_category_ar": "الشاي والقهوة والأعشاب"
+  }
+]
