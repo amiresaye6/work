@@ -3,7 +3,7 @@ function generateSeoLangPrompt({
   oldTitle,
   keywords = [],
   relatedLinkText = 'المزيد من المنتجات',
-  relatedLinkURL = 'https://ivitasa.com/',
+  relatedLinkURL = 'https://ivitasa.com/product-category/%d8%a7%d9%84%d8%aa%d8%b3%d9%88%d9%82-%d8%ad%d8%b3%d8%a8-%d8%a7%d9%84%d9%87%d8%af%d9%81/',
   brand = '',
   language = 'ar'
 }) {
