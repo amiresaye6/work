@@ -16,12 +16,16 @@ const uniqueRows = [];
 products.forEach(prod => {
   // up to 3 levels; expand if needed
   const row = {
-    main_category_en: prod.categories_en?.[0] || "",
-    main_category_ar: prod.categories_ar?.[0] || "",
-    sub_category_en: prod.categories_en?.[1] || "",
-    sub_category_ar: prod.categories_ar?.[1] || "",
-    sub_sub_category_en: prod.categories_en?.[2] || "",
-    sub_sub_category_ar: prod.categories_ar?.[2] || ""
+    // main_category_en: prod.categories_en?.[0] || "",
+    // main_category_ar: prod.categories_ar?.[0] || "",
+    // sub_category_en: prod.categories_en?.[1] || "",
+    // sub_category_ar: prod.categories_ar?.[1] || "",
+    // sub_sub_category_en: prod.categories_en?.[2] || "",
+    // sub_sub_category_ar: prod.categories_ar?.[2] || "",
+    // catStringAr: `${prod.categories_ar?.[0]} > ${prod.categories_ar?.[1]} > ${prod.categories_ar?.[2]}`,
+    // catStringEn: `${prod.categories_en?.[0]} > ${prod.categories_en?.[1]} > ${prod.categories_en?.[2]}`
+    catStringAr: prod.categories_ar?.join(" > ") || "",
+    catStringEn: prod.categories_en?.join(" > ") || "",
   };
   // Stringify for uniqueness (order matters)
   const key = JSON.stringify(row);

@@ -1,0 +1,484 @@
+[
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Children's health",
+            "Children's brain and body"
+        ],
+        "category_en_string": "Shop By Goal > Children's health > Children's brain and body",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة الاطفال",
+            "دماغ وجسم الاطفال"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة الاطفال > دماغ وجسم الاطفال"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Children's health",
+            "Children's vitamins and minerals"
+        ],
+        "category_en_string": "Shop By Goal > Children's health > Children's vitamins and minerals",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة الاطفال",
+            "فيتامينات ومعادن الاطفال"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة الاطفال > فيتامينات ومعادن الاطفال"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Children's health",
+            "Immune support"
+        ],
+        "category_en_string": "Shop By Goal > Children's health > Immune support",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة الاطفال",
+            "دعم المناعة"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة الاطفال > دعم المناعة"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Brain and Body"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Brain and Body",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "الدماغ والجسم"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > الدماغ والجسم"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Diabetes Supplements"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Diabetes Supplements",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "مكملات مرض السكرى"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Heart and Circulation"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Heart and Circulation",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "القلب والدورة الدموية"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Immunity Support"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Immunity Support",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "دعم المناعة"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > دعم المناعة"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Sleep and Relaxation"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Sleep and Relaxation",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "النوم والاسترخاء"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "General Health",
+            "Vitamins and Minerals"
+        ],
+        "category_en_string": "Shop By Goal > General Health > Vitamins and Minerals",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الصحة العامة",
+            "الفيتامينات والمعادن"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Healthy Nutrition",
+            "Healthy Foods"
+        ],
+        "category_en_string": "Shop By Goal > Healthy Nutrition > Healthy Foods",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "التغذية الصحية",
+            "الأطعمة الصحية"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > التغذية الصحية > الأطعمة الصحية"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Healthy Nutrition",
+            "Honey"
+        ],
+        "category_en_string": "Shop By Goal > Healthy Nutrition > Honey",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "التغذية الصحية",
+            "العسل"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > التغذية الصحية > العسل"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Healthy Nutrition",
+            "Sweeteners and Drinks"
+        ],
+        "category_en_string": "Shop By Goal > Healthy Nutrition > Sweeteners and Drinks",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "التغذية الصحية",
+            "المحليات والمشروبات"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > التغذية الصحية > المحليات والمشروبات"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Men Health",
+            "Energy and Virility"
+        ],
+        "category_en_string": "Shop By Goal > Men Health > Energy and Virility",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة الرجل",
+            "الطاقة والقدرة"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة الرجل > الطاقة والقدرة"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Men Health",
+            "Men Supplements"
+        ],
+        "category_en_string": "Shop By Goal > Men Health > Men Supplements",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة الرجل",
+            "مكملات الرجل"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة الرجل > مكملات الرجل"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Sports and Fitness",
+            "Sports Accessories"
+        ],
+        "category_en_string": "Shop By Goal > Sports and Fitness > Sports Accessories",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الرياضة واللياقة البدنية",
+            "ملحقات الرياضة"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الرياضة واللياقة البدنية > ملحقات الرياضة"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Sports and Fitness",
+            "Sports Performance"
+        ],
+        "category_en_string": "Shop By Goal > Sports and Fitness > Sports Performance",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الرياضة واللياقة البدنية",
+            "الأداء الرياضي"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الرياضة واللياقة البدنية > الأداء الرياضي"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Sports and Fitness",
+            "Sports Protein"
+        ],
+        "category_en_string": "Shop By Goal > Sports and Fitness > Sports Protein",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "الرياضة واللياقة البدنية",
+            "بروتينات الرياضة"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > الرياضة واللياقة البدنية > بروتينات الرياضة"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Women Health",
+            "Hair Skin and Nails"
+        ],
+        "category_en_string": "Shop By Goal > Women Health > Hair Skin and Nails",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة المرأة",
+            "الشعر والبشرة والأظافر"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر"
+    },
+    {
+        "category_en": [
+            "Shop By Goal",
+            "Women Health",
+            "Mother Vitamins"
+        ],
+        "category_en_string": "Shop By Goal > Women Health > Mother Vitamins",
+        "category_ar": [
+            "التسوق حسب الهدف",
+            "صحة المرأة",
+            "فيتامينات الأم"
+        ],
+        "category_ar_string": "التسوق حسب الهدف > صحة المرأة > فيتامينات الأم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Ashwagandha"
+        ],
+        "category_en_string": "Shopping by vitamins > Ashwagandha",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "أشواغاندا"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > أشواغاندا"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Calcium"
+        ],
+        "category_en_string": "Shopping by vitamins > Calcium",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الكالسيوم"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الكالسيوم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Coenzyme Q10"
+        ],
+        "category_en_string": "Shopping by vitamins > Coenzyme Q10",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "إنزيم كيو 10"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > إنزيم كيو 10"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Collagen"
+        ],
+        "category_en_string": "Shopping by vitamins > Collagen",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الكولاجين"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الكولاجين"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Fish oil"
+        ],
+        "category_en_string": "Shopping by vitamins > Fish oil",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "زيت السمك"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > زيت السمك"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Garlic"
+        ],
+        "category_en_string": "Shopping by vitamins > Garlic",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الثوم"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الثوم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Glucosamine"
+        ],
+        "category_en_string": "Shopping by vitamins > Glucosamine",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الجلوكوزامين"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الجلوكوزامين"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Iron"
+        ],
+        "category_en_string": "Shopping by vitamins > Iron",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الحديد"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الحديد"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Jamjoom"
+        ],
+        "category_en_string": "Shopping by vitamins > Jamjoom",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "جامجوم"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > جامجوم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Magnesium"
+        ],
+        "category_en_string": "Shopping by vitamins > Magnesium",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "المغنسيوم"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > المغنسيوم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Melatonin"
+        ],
+        "category_en_string": "Shopping by vitamins > Melatonin",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "الميلاتونين"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > الميلاتونين"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Potassium"
+        ],
+        "category_en_string": "Shopping by vitamins > Potassium",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "البوتاسيوم"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > البوتاسيوم"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Vitamin B"
+        ],
+        "category_en_string": "Shopping by vitamins > Vitamin B",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "فيتامين ب"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > فيتامين ب"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Vitamin C"
+        ],
+        "category_en_string": "Shopping by vitamins > Vitamin C",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "فيتامين سي"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > فيتامين سي"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Vitamin D"
+        ],
+        "category_en_string": "Shopping by vitamins > Vitamin D",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "فيتامين د"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > فيتامين د"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Vitamin K"
+        ],
+        "category_en_string": "Shopping by vitamins > Vitamin K",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "فيتامين ك"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > فيتامين ك"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Zinc"
+        ],
+        "category_en_string": "Shopping by vitamins > Zinc",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "زينك"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > زينك"
+    },
+    {
+        "category_en": [
+            "Shopping by vitamins",
+            "Vitamin E"
+        ],
+        "category_en_string": "Shopping by vitamins > Vitamin E",
+        "category_ar": [
+            "التسوق حسب الفيتامينات",
+            "فيتامين هـ"
+        ],
+        "category_ar_string": "التسوق حسب الفيتامينات > فيتامين هـ"
+    }
+]

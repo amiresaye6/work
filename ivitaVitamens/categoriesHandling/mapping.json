@@ -1,0 +1,3248 @@
+[
+    {
+        "foreignCategoryAr": "دعم الخصوبة > فيتامينات متعددة لمرضى السكري > فيتامين ب12",
+        "foreignCategoryEn": "Fertility support > Diabetes Multivitamins > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > رعاية مرضى السكري > أجهزة قياس سكر الدم والشرائط وإبر الوخز",
+        "foreignCategoryEn": "Diabetic Care > Diabetes Care > BG Monitors & Strips & Lancets",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > بيوتين للشعر > بيوتين للشعر",
+        "foreignCategoryEn": "Vitamins > Biotin > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الخصوبة > فيتامين سي",
+        "foreignCategoryEn": "Vitamins > Fertility support > Vitamin C",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين سي",
+        "localCategoryEn": "Shopping by vitamins > Vitamin C"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة الأطفال",
+        "foreignCategoryEn": "Vitamin & Supplement > Kids Health",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > فيتامين سي > الزنك",
+        "foreignCategoryEn": "Fertility support > Vitamin C > Zinc",
+        "localCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "localCategoryEn": "Shopping by vitamins > Zinc"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > خل التفاح > حارق الدهون",
+        "foreignCategoryEn": "Herbs > Apple Cider > Fat Burner",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Fertility support > Omega 3",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > بربرين > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Berberine > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > دعم الرضاعة الطبيعية > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Pregnancy Care > Breast Feeding Support > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > دعم الخصوبة > أوميغا 3",
+        "foreignCategoryEn": "Kids Health > Fertility support > Omega 3",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > صحة الأطفال > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamins > Kids Health > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال > فيتامينات ومعادن الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health > Children's vitamins and minerals"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات الشعر",
+        "foreignCategoryEn": "Vitamin & Supplement > Hair Vitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > ل-أرجينين > ل-أرجينين",
+        "foreignCategoryEn": "Fertility support > L-Arginine > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "أجهزة مراقبة نبض القلب > صحة القلب > أجهزة قياس ضغط الدم",
+        "foreignCategoryEn": "Heart Monitors > Heart Health > Blood Pressure Monitors",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > دعم الخصوبة > أشواجاندا",
+        "foreignCategoryEn": "Ease the Stress > Fertility support > Ashwagandha",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الصحة الجنسية",
+        "foreignCategoryEn": "Vitamin & Supplement > Sexual Health",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > معززات المناعة",
+        "foreignCategoryEn": "Vitamin & Supplement > Immunity Boosters",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > الكولاجين النوع 1 و3 > كولاجين الجمال",
+        "foreignCategoryEn": "Hair Vitamins > Collagen Type 1 & 3 > Beauty Collagen",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "نوم هادئ > المكملات الغذائية > الميلاتونين",
+        "foreignCategoryEn": "Peaceful Sleep > Supplements > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > دعم الخصوبة > أوميغا 3",
+        "foreignCategoryEn": "Heart Health > Fertility support > Omega 3",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "العناية بالجهاز الهضمي > المكملات الغذائية > بروبيوتيك",
+        "foreignCategoryEn": "Digestive Care > Supplements > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > نوم هادئ > الميلاتونين",
+        "foreignCategoryEn": "Supplements > Peaceful Sleep > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > فيتامينات الشعر > الزنك",
+        "foreignCategoryEn": "Immunity Boosters > Hair Vitamins > Zinc",
+        "localCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "localCategoryEn": "Shopping by vitamins > Zinc"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > الأحماض الأمينية > الكافيين",
+        "foreignCategoryEn": "Pre-Workout > Amino Acids > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > دعم الخصوبة > أوميغا 3",
+        "foreignCategoryEn": "Pregnancy Care > Fertility support > Omega 3",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > رعاية مرضى السكري > المحاقن وإبر الأقلام",
+        "foreignCategoryEn": "Diabetic Care > Diabetes Care > Syringes & Pen Needles",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدورة الدموية",
+        "foreignCategoryEn": "Vitamin & Supplement > Circulation Boost",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > دعم الخصوبة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Breast Feeding Support > Fertility support > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "بيوتين للشعر > كولاجين للشعر > كولاجين الجمال",
+        "foreignCategoryEn": "Biotin > Hair Collagen > Beauty Collagen",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > الكركمين",
+        "foreignCategoryEn": "Seniors Health > Supplements > Curcumin",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات المتعددة > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Multivitamins > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > دعم الخصوبة > غذاء ملكات النحل",
+        "foreignCategoryEn": "Fuel Your Day > Fertility support > Royal Jelly",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > أجهزة مراقبة نبض القلب > أجهزة قياس ضغط الدم",
+        "foreignCategoryEn": "Heart Health > Heart Monitors > Blood Pressure Monitors",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "العناية بالجهاز الهضمي > المكملات الغذائية > الإنزيمات",
+        "foreignCategoryEn": "Digestive Care > Supplements > Enzymes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > فيتامينات الشعر > جلوتاثيون",
+        "foreignCategoryEn": "Skin Vitamins > Hair Vitamins > Glutathione",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > دعم الخصوبة > أشواجاندا",
+        "foreignCategoryEn": "Herbs > Fertility support > Ashwagandha",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة كبار السن > صحة الأطفال",
+        "foreignCategoryEn": "Brain & Memory Boost > Seniors Health > Kids Health",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > فيتامينات الشعر > بيوتين للشعر",
+        "foreignCategoryEn": "Skin Vitamins > Hair Vitamins > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > المكملات الغذائية > الألياف",
+        "foreignCategoryEn": "Manage Your Weight > Supplements > Fibers",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > دعم الرضاعة الطبيعية > الحلبة",
+        "foreignCategoryEn": "Pregnancy Care > Breast Feeding Support > Fenugreek",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "نوم هادئ > صحة الأطفال > الميلاتونين",
+        "foreignCategoryEn": "Peaceful Sleep > Kids Health > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الجمال المتعددة > الفيتامينات المتعددة > بيوتين للشعر",
+        "foreignCategoryEn": "Beauty Multivitamins > Multivitamins > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > كوانزيم كيو10 > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Fertility support > Coenzyme - Q10 > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الخصوبة > فيتامين د",
+        "foreignCategoryEn": "Vitamins > Fertility support > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > الفيتامينات > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Breast Feeding Support > Vitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > الفيتامينات المتعددة > فيتامين د",
+        "foreignCategoryEn": "Kids Health > Multivitamins > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > العناية بالجهاز الهضمي > بروبيوتيك",
+        "foreignCategoryEn": "Kids Health > Digestive Care > Probiotics",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > تعزيز الدورة الدموية > الجنكو بيلوبا",
+        "foreignCategoryEn": "Heart Health > Circulation Boost > Ginkgo Biloba",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Vitamin & Supplement > Bone, Muscle & Joints",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > بدائل الوجبات الغذائية > وجبات البار",
+        "foreignCategoryEn": "Manage Your Weight > Diet Meal Replacement > Bar Meals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > دعم الخصوبة > مستخلص الماكا",
+        "foreignCategoryEn": "Herbs > Fertility support > Maca Extract",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العناية بالجهاز الهضمي",
+        "foreignCategoryEn": "Vitamin & Supplement > Digestive Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > المكملات الغذائية > بروبيوتيك",
+        "foreignCategoryEn": "Sexual Health > Supplements > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات الشعر",
+        "foreignCategoryEn": "Vitamin & Supplement > Hair Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > ل-كارنيتين > الأحماض الأمينية",
+        "foreignCategoryEn": "Fertility support > L-Carnitine > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > الفيتامينات المتعددة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Pregnancy Care > Multivitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > الكولاجين النوع 1 و3 > الكولاجين النوع 2",
+        "foreignCategoryEn": "Supplements > Collagen Type 1 & 3 > Collagen Type 2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "حماية الكبد > المكملات الغذائية > حليب الشوك (سيليمارين)",
+        "foreignCategoryEn": "Liver Protection > Supplements > Milk Thistle",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > الأعشاب > الحلبة",
+        "foreignCategoryEn": "Breast Feeding Support > Herbs > Fenugreek",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > الكولاجين النوع 2",
+        "foreignCategoryEn": "Seniors Health > Supplements > Collagen Type 2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الفيتامينات > فيتامين ك",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Vitamins > Vitamin K",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ك",
+        "localCategoryEn": "Shopping by vitamins > Vitamin K"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > دعم الخصوبة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Pregnancy Care > Fertility support > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالشعر > الفيتامينات والمكملات الغذائية > فيتامينات الشعر",
+        "foreignCategoryEn": "Hair Care > Vitamin & Supplement > Hair Vitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > إدارة/ضبط الوزن",
+        "foreignCategoryEn": "Vitamin & Supplement > Manage Your Weight",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الخصوبة > فيتامين هـ",
+        "foreignCategoryEn": "Vitamins > Fertility support > Vitamin E",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين هـ",
+        "localCategoryEn": "Shopping by vitamins > Vitamin E"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > دعم الخصوبة > فيتامين سي",
+        "foreignCategoryEn": "Kids Health > Fertility support > Vitamin C",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين سي",
+        "localCategoryEn": "Shopping by vitamins > Vitamin C"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات المتعددة > دعم الخصوبة > فيتامين د",
+        "foreignCategoryEn": "Multivitamins > Fertility support > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > التوت البري > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Cranberry > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "دعم المثانة والمسالك البولية > الفيتامينات > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Bladder & Urinary Support > Vitamins > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > موازين قياس الوزن > إدارة/ضبط الوزن",
+        "foreignCategoryEn": "Vitamin & Supplement > Weighting Scales > Manage Your Weight",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > غذاء ملكات النحل",
+        "foreignCategoryEn": "Supplements > Fertility support > Royal Jelly",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > دعم الخصوبة > دي إتش إيه",
+        "foreignCategoryEn": "Kids Health > Fertility support > Dha",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > زوّد يومك بالطاقة > مضادات الأكسدة",
+        "foreignCategoryEn": "Vitamin & Supplement > Fuel Your Day > Antioxidants",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "توازن الهرمونات > صحة كبار السن > توازن الهرمونات",
+        "foreignCategoryEn": "Balance Your Hormones > Seniors Health > Balance Your Hormones",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة > فيتامينات الشعر",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins > Hair Vitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > الجلوكوزامين > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > Glucosamine > Amino Acids",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > الجلوكوزامين",
+        "foreignCategoryEn": "Seniors Health > Supplements > Glucosamine",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العناية بالجهاز الهضمي > بروبيوتيك",
+        "foreignCategoryEn": "Supplements > Digestive Care > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > دعم الخصوبة > غذاء ملكات النحل",
+        "foreignCategoryEn": "Kids Health > Fertility support > Royal Jelly",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > ديهيا (DHEA)",
+        "foreignCategoryEn": "Supplements > Fertility support > Dhea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العظام والعضلات والمفاصل > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Bone, Muscle & Joints > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > فيتامينات متعددة لمرضى السكري > فيتامين ب المركب",
+        "foreignCategoryEn": "Diabetes Care > Diabetes Multivitamins > Vitamin B Complex",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > دعم الخصوبة > فيتامين د",
+        "foreignCategoryEn": "Breast Feeding Support > Fertility support > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > ل-كارنيتين",
+        "foreignCategoryEn": "Supplements > Fertility support > L-Carnitine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > حمض ألفا ليبويك > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Alpha Lipoic Acid > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية",
+        "foreignCategoryEn": "Vitamin & Supplement",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > العناية بالحامل > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Pregnancy Care > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > نوم هادئ > فاليريان",
+        "foreignCategoryEn": "Herbs > Peaceful Sleep > Valerian",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > فيتامينات الشعر > ريسفيراترول وبذور العنب",
+        "foreignCategoryEn": "Skin Vitamins > Hair Vitamins > Resveratrol & Grape Seed",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الرضاعة الطبيعية > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Breast Feeding Support > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدورة الدموية > الجنكو بيلوبا > تعزيز الدماغ والذاكرة",
+        "foreignCategoryEn": "Circulation Boost > Ginkgo Biloba > Brain & Memory Boost",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > حمض الفوليك > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Folic Acid > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > الأعشاب > الثوم",
+        "foreignCategoryEn": "Heart Health > Herbs > Garlic",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الثوم",
+        "localCategoryEn": "Shopping by vitamins > Garlic"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > زيت زهرة الربيع المسائية > توازن الهرمونات",
+        "foreignCategoryEn": "Herbs > Evening Primrose Oil > Balance Your Hormones",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > سوبرفود",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Superfood",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > غذاء ملكات النحل > الأحماض الأمينية",
+        "foreignCategoryEn": "Fertility support > Royal Jelly > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات متعددة لمرضى السكري > فيتامين ب المركب > فيتامين ب12",
+        "foreignCategoryEn": "Diabetes Multivitamins > Vitamin B Complex > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > توازن الهرمونات > بروبيوتيك",
+        "foreignCategoryEn": "Supplements > Balance Your Hormones > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > العناية بالجهاز الهضمي > الإنزيمات",
+        "foreignCategoryEn": "Kids Health > Digestive Care > Enzymes",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > زوّد يومك بالطاقة",
+        "foreignCategoryEn": "Vitamin & Supplement > Fuel Your Day",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الخصوبة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Fertility support > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > إيزوفلافونات > توازن الهرمونات",
+        "foreignCategoryEn": "Herbs > Isoflavones > Balance Your Hormones",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > نخيل المنشار > العناية بالبروستاتا",
+        "foreignCategoryEn": "Herbs > Saw Palmetto > Prostate Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > الشاي الأخضر > الكافيين",
+        "foreignCategoryEn": "Pre-Workout > Green Tea > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين ب1",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin B1",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الصحة الجنسية > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Sexual Health > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > دعم الخصوبة > فيتامين ب6",
+        "foreignCategoryEn": "Vitamins > Fertility support > Vitamin B6",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين ب3",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin B3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة الأطفال > الميلاتونين",
+        "foreignCategoryEn": "Supplements > Kids Health > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > صحة القلب > الثوم",
+        "foreignCategoryEn": "Herbs > Heart Health > Garlic",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الثوم",
+        "localCategoryEn": "Shopping by vitamins > Garlic"
+    },
+    {
+        "foreignCategoryAr": "ل-أرجينين > ل-أرجينين > الأحماض الأمينية",
+        "foreignCategoryEn": "L-Arginine > L-Arginine > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العناية بالجهاز الهضمي > الألياف",
+        "foreignCategoryEn": "Supplements > Digestive Care > Fibers",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > المكملات الغذائية > زيت كبد القد",
+        "foreignCategoryEn": "Heart Health > Supplements > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > تخفيف التوتر > 5-هيدروكسي تربتوفان",
+        "foreignCategoryEn": "Supplements > Ease the Stress > 5-HTP",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > الأعشاب > الشاي الأخضر",
+        "foreignCategoryEn": "Manage Your Weight > Herbs > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > دعم الرضاعة الطبيعية > الحلبة",
+        "foreignCategoryEn": "Herbs > Breast Feeding Support > Fenugreek",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > أوميغا 3 > تعزيز الدماغ والذاكرة",
+        "foreignCategoryEn": "Fertility support > Omega 3 > Brain & Memory Boost",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > إدارة/ضبط الوزن > وجبات البار",
+        "foreignCategoryEn": "Vitamin & Supplement > Manage Your Weight > Bar Meals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > الفيتامينات المتعددة > الزنك",
+        "foreignCategoryEn": "Hair Vitamins > Multivitamins > Zinc",
+        "localCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "localCategoryEn": "Shopping by vitamins > Zinc"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامين أ > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Vitamin A > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > فيتامين د > فيتامين ك",
+        "foreignCategoryEn": "Fertility support > Vitamin D > Vitamin K",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > بيوتين للشعر > بيوتين للشعر",
+        "foreignCategoryEn": "Hair Vitamins > Biotin > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > دعامات الجسم > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Vitamin & Supplement > Body Supports > Bone, Muscle & Joints",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > الفيتامينات الرياضية > حارق الدهون",
+        "foreignCategoryEn": "Manage Your Weight > Sports Vitamins > Fat Burner",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > المكملات الغذائية > الكولاجين النوع 1 و3",
+        "foreignCategoryEn": "Skin Vitamins > Supplements > Collagen Type 1 & 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > حمض الفوليك > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Breast Feeding Support > Folic Acid > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدماغ والذاكرة > صحة كبار السن",
+        "foreignCategoryEn": "Vitamin & Supplement > Brain & Memory Boost > Seniors Health",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > تخفيف التوتر > عشبة القديس يوحنا",
+        "foreignCategoryEn": "Herbs > Ease the Stress > St.John's Wort",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "غلوتامين > معزز العضلات > الأحماض الأمينية",
+        "foreignCategoryEn": "Glutamine > Muscle Booster > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > الأعشاب > غارسينيا كامبوغيا",
+        "foreignCategoryEn": "Manage Your Weight > Herbs > Garcinia Cambogia",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تخفيف التوتر",
+        "foreignCategoryEn": "Vitamin & Supplement > Ease the Stress",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > أجهزة مراقبة نبض القلب > أجهزة قياس العلامات الحيوية والأكسجين",
+        "foreignCategoryEn": "Vitamin & Supplement > Heart Monitors > Vital Signs & Oximeter",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > نوم هادئ",
+        "foreignCategoryEn": "Vitamin & Supplement > Peaceful Sleep",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العناية بالقدمين > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Vitamin & Supplement > Foot Care > Bone, Muscle & Joints",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > فيتامينات الشعر > خميرة",
+        "foreignCategoryEn": "Skin Vitamins > Hair Vitamins > Yeast",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > صحة القلب > الجنكو بيلوبا",
+        "foreignCategoryEn": "Herbs > Heart Health > Ginkgo Biloba",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "لصقات العين > العظام والعضلات والمفاصل > قناع العين",
+        "foreignCategoryEn": "Eye Patches > Bone, Muscle & Joints > Eye Mask",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > زيت كبد القد",
+        "foreignCategoryEn": "Seniors Health > Supplements > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة الأطفال > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Kids Health > Fertility support",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > دي إتش إيه",
+        "foreignCategoryEn": "Supplements > Fertility support > Dha",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالجهاز الهضمي > الأعشاب > الفحم",
+        "foreignCategoryEn": "Digestive Care > Herbs > Charcoal",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الأعشاب > الإشيناسيا",
+        "foreignCategoryEn": "Immunity Boosters > Herbs > Echinacea",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العناية بالبروستاتا > بروبيوتيك",
+        "foreignCategoryEn": "Supplements > Prostate Care > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العظام والعضلات والمفاصل > الجلوكوزامين",
+        "foreignCategoryEn": "Supplements > Bone, Muscle & Joints > Glucosamine",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين ك",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin K",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ك",
+        "localCategoryEn": "Shopping by vitamins > Vitamin K"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > المكملات الغذائية > 5-هيدروكسي تربتوفان",
+        "foreignCategoryEn": "Ease the Stress > Supplements > 5-HTP",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Seniors Health > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > دعم الخصوبة > كوانزيم كيو10",
+        "foreignCategoryEn": "Supplements > Fertility support > Coenzyme - Q10",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "حماية الكبد > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Liver Protection > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > حمض الفوليك > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Pregnancy Care > Folic Acid > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالحامل > الفيتامينات > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Pregnancy Care > Vitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > زوّد يومك بالطاقة > الجينسنغ",
+        "foreignCategoryEn": "Herbs > Fuel Your Day > Ginseng",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > المكملات الغذائية > ل-ثيانين",
+        "foreignCategoryEn": "Ease the Stress > Supplements > L-Theanine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > حارق الدهون > خل التفاح",
+        "foreignCategoryEn": "Herbs > Fat Burner > Apple Cider",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات الشعر > فيتامينات الشعر",
+        "foreignCategoryEn": "Vitamin & Supplement > Hair Vitamins > Hair Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامينات الجمال المتعددة > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamins > Beauty Multivitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > الأعشاب > مستخلص الماكا",
+        "foreignCategoryEn": "Sexual Health > Herbs > Maca Extract",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > ل-ثيانين > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > L-Theanine > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > الفيتامينات > بيوتين للشعر",
+        "foreignCategoryEn": "Skin Vitamins > Vitamins > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > حماية الكبد",
+        "foreignCategoryEn": "Vitamin & Supplement > Liver Protection",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > أوميغا 3 > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Fertility support > Omega 3 > Pregnancy Multivitamins",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة القلب > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Vitamin & Supplement > Heart Health > Bone, Muscle & Joints",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > استشفاء العضلات > معزز العضلات",
+        "foreignCategoryEn": "Pre-Workout > Muscle Recovery > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين ب2",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin B2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > مكمل ما قبل التمرين > الكافيين",
+        "foreignCategoryEn": "Fuel Your Day > Pre-Workout > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > المكملات الغذائية > كيرسيتين",
+        "foreignCategoryEn": "Immunity Boosters > Supplements > Quercetin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الأعشاب > المشروم",
+        "foreignCategoryEn": "Immunity Boosters > Herbs > Mushroom",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة كبار السن > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Seniors Health > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الأعشاب > البلسان",
+        "foreignCategoryEn": "Immunity Boosters > Herbs > Elderberry",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة القلب",
+        "foreignCategoryEn": "Vitamin & Supplement > Heart Health",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > ل-ليسين > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > L-Lysine > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > لوتين > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Lutein > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Sexual Health > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > بدائل الوجبات الغذائية > وجبات المخفوقات",
+        "foreignCategoryEn": "Manage Your Weight > Diet Meal Replacement > Shakes Meals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > الفيتامينات الرياضية > حارق الدهون",
+        "foreignCategoryEn": "Sexual Health > Sports Vitamins > Fat Burner",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > صحة الأطفال > البلسان",
+        "foreignCategoryEn": "Herbs > Kids Health > Elderberry",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدورة الدموية > صحة القلب",
+        "foreignCategoryEn": "Vitamin & Supplement > Circulation Boost > Heart Health",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة الأطفال > لوتين",
+        "foreignCategoryEn": "Supplements > Kids Health > Lutein",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > فيتامينات الجمال المتعددة > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Hair Vitamins > Beauty Multivitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > ل-ثيانين",
+        "foreignCategoryEn": "Seniors Health > Supplements > L-Theanine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > الأعشاب > تريبولوس",
+        "foreignCategoryEn": "Sexual Health > Herbs > Tribulus",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > الأعشاب > المشروم",
+        "foreignCategoryEn": "Seniors Health > Herbs > Mushroom",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > المكملات الغذائية > بروبيوتيك",
+        "foreignCategoryEn": "Ease the Stress > Supplements > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > العناية بالجهاز الهضمي > الفحم",
+        "foreignCategoryEn": "Herbs > Digestive Care > Charcoal",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > صحة الأطفال > الإشيناسيا",
+        "foreignCategoryEn": "Herbs > Kids Health > Echinacea",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > نوم هادئ > صحة الأطفال",
+        "foreignCategoryEn": "Vitamin & Supplement > Peaceful Sleep > Kids Health",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > حمض ألفا ليبويك > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Manage Your Weight > Alpha Lipoic Acid > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة القلب > تعزيز الدورة الدموية",
+        "foreignCategoryEn": "Vitamin & Supplement > Heart Health > Circulation Boost",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > ريسفيراترول وبذور العنب > مستخلص بذور العنب",
+        "foreignCategoryEn": "Hair Vitamins > Resveratrol & Grape Seed > Grape Seed Extract",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > الفيتامينات المتعددة > الجلوكوزامين",
+        "foreignCategoryEn": "Supplements > Multivitamins > Glucosamine",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة > جلوتاثيون",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins > Glutathione",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Fuel Your Day > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العظام والعضلات والمفاصل > صحة كبار السن",
+        "foreignCategoryEn": "Vitamin & Supplement > Bone, Muscle & Joints > Seniors Health",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > الفيتامينات > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Seniors Health > Vitamins > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "توازن الهرمونات > دعم الخصوبة > ل-أرجينين",
+        "foreignCategoryEn": "Balance Your Hormones > Fertility support > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > مضادات الأكسدة > معززات المناعة",
+        "foreignCategoryEn": "Vitamin & Supplement > Antioxidants > Immunity Boosters",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > زيت زهرة الربيع المسائية",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Evening Primrose Oil",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > زوّد يومك بالطاقة > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamin & Supplement > Fuel Your Day > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Seniors Health > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > توازن الغدة الدرقية > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Balance Your Thyroid > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الأطفال > العناية بالجهاز الهضمي > الألياف",
+        "foreignCategoryEn": "Kids Health > Digestive Care > Fibers",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > إدارة/ضبط الوزن > بدائل الوجبات الغذائية",
+        "foreignCategoryEn": "Vitamin & Supplement > Manage Your Weight > Diet Meal Replacement",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > الأعشاب > عشبة القديس يوحنا",
+        "foreignCategoryEn": "Ease the Stress > Herbs > St.John's Wort",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "كوانزيم كيو10 > فيتامينات متعددة لمرضى السكري > جلوتاثيون",
+        "foreignCategoryEn": "Coenzyme - Q10 > Diabetes Multivitamins > Glutathione",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "صحة الرؤية > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Healthy Vision > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > المكملات الغذائية > الكركمين",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Supplements > Curcumin",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الرضاعة الطبيعية > الفيتامينات المتعددة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Breast Feeding Support > Multivitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "نوم هادئ > الأعشاب > فاليريان",
+        "foreignCategoryEn": "Peaceful Sleep > Herbs > Valerian",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > إم إس إم",
+        "foreignCategoryEn": "Seniors Health > Supplements > Msm",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات الرياضية > قوة تحمّل العضلات",
+        "foreignCategoryEn": "Vitamin & Supplement > Sports Vitamins > Ultimate muscle Endurance",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالقدمين > الوسائد والمخدات > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Foot Care > Cushions & Pillows > Bone, Muscle & Joints",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > العناية بالجهاز الهضمي > الألياف",
+        "foreignCategoryEn": "Manage Your Weight > Digestive Care > Fibers",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات المتعددة > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Multivitamins > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > معززات المناعة > دعم المثانة والمسالك البولية",
+        "foreignCategoryEn": "Antioxidants > Immunity Boosters > Bladder & Urinary Support",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > تخفيف التوتر > ل-ثيانين",
+        "foreignCategoryEn": "Supplements > Ease the Stress > L-Theanine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة كبار السن",
+        "foreignCategoryEn": "Vitamin & Supplement > Seniors Health",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > الكولاجين النوع 2",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Collagen Type 2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > المكملات الغذائية > أوميغا 3",
+        "foreignCategoryEn": "Heart Health > Supplements > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > زوّد يومك بالطاقة > حماية الكبد",
+        "foreignCategoryEn": "Vitamin & Supplement > Fuel Your Day > Liver Protection",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > المكملات الغذائية > جابا",
+        "foreignCategoryEn": "Ease the Stress > Supplements > Gaba",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > أوميغا 3",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > الجنكو بيلوبا",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Ginkgo Biloba",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "حماية الكبد > تعزيز الدماغ والذاكرة > صحة كبار السن",
+        "foreignCategoryEn": "Liver Protection > Brain & Memory Boost > Seniors Health",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > توازن الغدة الدرقية",
+        "foreignCategoryEn": "Vitamin & Supplement > Balance Your Thyroid",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الجلوكوزامين > إم إس إم",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Glucosamine > Msm",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > الكرياتين > معزز العضلات",
+        "foreignCategoryEn": "Muscle Recovery > Creatine > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > فيتامينات الشعر > فيتامينات الشعر",
+        "foreignCategoryEn": "Skin Vitamins > Hair Vitamins > Hair Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > بدائل الوجبات الغذائية > وجبات الحساء",
+        "foreignCategoryEn": "Manage Your Weight > Diet Meal Replacement > Soup Meals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات البشرة > كولاجين الجمال > جلوتاثيون",
+        "foreignCategoryEn": "Skin Vitamins > Beauty Collagen > Glutathione",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > رعاية مرضى السكري > القدم السكري",
+        "foreignCategoryEn": "Diabetic Care > Diabetes Care > Diabetic Foot",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > تعزيز الدماغ والذاكرة > أوميغا 3",
+        "foreignCategoryEn": "Fertility support > Brain & Memory Boost > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات الشعر > سيستين",
+        "foreignCategoryEn": "Vitamin & Supplement > Hair Vitamins > Cystine",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > تعزيز الدماغ والذاكرة > صحة كبار السن",
+        "foreignCategoryEn": "Immunity Boosters > Brain & Memory Boost > Seniors Health",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة > كولاجين الجمال",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins > Beauty Collagen",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة الأطفال > زيت كبد القد",
+        "foreignCategoryEn": "Supplements > Kids Health > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "تخفيف التوتر > الأعشاب > أشواجاندا",
+        "foreignCategoryEn": "Ease the Stress > Herbs > Ashwagandha",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة القلب > زيت كبد القد",
+        "foreignCategoryEn": "Supplements > Heart Health > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > القرفة > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Vitamins > Cinnamon > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > غلوتامين > معزز العضلات",
+        "foreignCategoryEn": "Muscle Recovery > Glutamine > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > جابا > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > Gaba > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامينات متعددة لمرضى السكري > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamins > Diabetes Multivitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > تخفيف التوتر > جابا",
+        "foreignCategoryEn": "Supplements > Ease the Stress > Gaba",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > العناية بالجهاز الهضمي > الزنجبيل",
+        "foreignCategoryEn": "Herbs > Digestive Care > Ginger",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الفيتامينات الرياضية > حارق الدهون",
+        "foreignCategoryEn": "Immunity Boosters > Sports Vitamins > Fat Burner",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > دعم الخصوبة > ل-كارنيتين",
+        "foreignCategoryEn": "Fuel Your Day > Fertility support > L-Carnitine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المرطبات (للبشرة) > لصقات البشرة > قناع العين",
+        "foreignCategoryEn": "Moisturizers > Skin Patches > Eye Mask",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > قوة تحمّل العضلات > الكرياتين",
+        "foreignCategoryEn": "Pre-Workout > Ultimate muscle Endurance > Creatine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة الرؤية > الفيتامينات > فيتامينات متعددة لمرضى السكري",
+        "foreignCategoryEn": "Healthy Vision > Vitamins > Diabetes Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > فيتامينات متعددة لمرضى السكري > فيتامين ب12",
+        "foreignCategoryEn": "Diabetes Care > Diabetes Multivitamins > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > جابا",
+        "foreignCategoryEn": "Seniors Health > Supplements > Gaba",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > الفيتامينات المتعددة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Multivitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين أ",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin A",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين أ",
+        "localCategoryEn": "Shopping by vitamins > Vitamin A"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > جلوتاثيون",
+        "foreignCategoryEn": "Vitamin & Supplement > Glutathione",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > توازن الهرمونات > الأعشاب",
+        "foreignCategoryEn": "Vitamin & Supplement > Balance Your Hormones > Herbs",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة كبار السن > تعزيز الدماغ والذاكرة",
+        "foreignCategoryEn": "Brain & Memory Boost > Seniors Health > Brain & Memory Boost",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > زيت كبد القد",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة القلب > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Heart Health > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة الأطفال > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Kids Health > Omega 3",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > معزز العضلات > الأحماض الأمينية",
+        "foreignCategoryEn": "Muscle Recovery > Muscle Booster > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > معزز العضلات > إلكتروليتات",
+        "foreignCategoryEn": "Muscle Recovery > Muscle Booster > Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العناية بالجهاز الهضمي > الإنزيمات",
+        "foreignCategoryEn": "Supplements > Digestive Care > Enzymes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "نوم هادئ > المكملات الغذائية > 5-هيدروكسي تربتوفان",
+        "foreignCategoryEn": "Peaceful Sleep > Supplements > 5-HTP",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > تريبولوس > قوة تحمّل العضلات",
+        "foreignCategoryEn": "Herbs > Tribulus > Ultimate muscle Endurance",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > أشواجاندا > الشاي الأخضر",
+        "foreignCategoryEn": "Fertility support > Ashwagandha > Green Tea",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > الفيتامينات المتعددة > فيتامين د",
+        "foreignCategoryEn": "Vitamins > Multivitamins > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تنفس بسهولة",
+        "foreignCategoryEn": "Vitamin & Supplement > Breathe Easy",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > معززات المناعة > حماية الكبد",
+        "foreignCategoryEn": "Antioxidants > Immunity Boosters > Liver Protection",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamin & Supplement > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "العناية بالبروستاتا > صحة كبار السن > العناية بالبروستاتا",
+        "foreignCategoryEn": "Prostate Care > Seniors Health > Prostate Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > فيتامين ب1 > فيتامين ب12",
+        "foreignCategoryEn": "Fertility support > Vitamin B1 > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > حليب الشوك (سيليمارين) > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > Milk Thistle > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > نوم هادئ > تخفيف التوتر",
+        "foreignCategoryEn": "Vitamin & Supplement > Peaceful Sleep > Ease the Stress",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > سوبرفود > تريبولوس",
+        "foreignCategoryEn": "Herbs > Superfood > Tribulus",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > الفيتامينات > فيتامين ب1",
+        "foreignCategoryEn": "Antioxidants > Vitamins > Vitamin B1",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Fuel Your Day > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > إلكتروليتات",
+        "foreignCategoryEn": "Vitamin & Supplement > Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > الثوم",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Garlic",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الثوم",
+        "localCategoryEn": "Shopping by vitamins > Garlic"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الفيتامينات > فيتامين سي",
+        "foreignCategoryEn": "Immunity Boosters > Vitamins > Vitamin C",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين سي",
+        "localCategoryEn": "Shopping by vitamins > Vitamin C"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة > ريسفيراترول وبذور العنب",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins > Resveratrol & Grape Seed",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الأعشاب > سوبرفود",
+        "foreignCategoryEn": "Immunity Boosters > Herbs > Superfood",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة الأطفال > دي إتش إيه",
+        "foreignCategoryEn": "Brain & Memory Boost > Kids Health > Dha",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > بروبيوتيك",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > تخفيف التوتر > فاليريان",
+        "foreignCategoryEn": "Herbs > Ease the Stress > Valerian",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الفيتامينات > الزنك",
+        "foreignCategoryEn": "Immunity Boosters > Vitamins > Zinc",
+        "localCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "localCategoryEn": "Shopping by vitamins > Zinc"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدماغ والذاكرة",
+        "foreignCategoryEn": "Vitamin & Supplement > Brain & Memory Boost",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > الفيتامينات المتعددة > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Seniors Health > Multivitamins > Pregnancy Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > تعزيز الدورة الدموية > الجنكو بيلوبا",
+        "foreignCategoryEn": "Herbs > Circulation Boost > Ginkgo Biloba",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > دعامات الجسم > الوسائد والمخدات",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Body Supports > Cushions & Pillows",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > المكملات الغذائية > الألياف",
+        "foreignCategoryEn": "Immunity Boosters > Supplements > Fibers",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > نوم هادئ > 5-هيدروكسي تربتوفان",
+        "foreignCategoryEn": "Supplements > Peaceful Sleep > 5-HTP",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > أشواجاندا",
+        "foreignCategoryEn": "Vitamin & Supplement > Ashwagandha",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > حليب الشوك (سيليمارين) > جلوتاثيون",
+        "foreignCategoryEn": "Supplements > Milk Thistle > Glutathione",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > بي سي إيه إيه (BCAA) > معزز العضلات",
+        "foreignCategoryEn": "Muscle Recovery > BCAA > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > الأعشاب > البوسويليا",
+        "foreignCategoryEn": "Seniors Health > Herbs > Boswellia",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات المتعددة > دعم الخصوبة > أشواجاندا",
+        "foreignCategoryEn": "Multivitamins > Fertility support > Ashwagandha",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > المكملات الغذائية > ل-ليسين",
+        "foreignCategoryEn": "Immunity Boosters > Supplements > L-Lysine",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "تنفس بسهولة > المكملات الغذائية > كيرسيتين",
+        "foreignCategoryEn": "Breathe Easy > Supplements > Quercetin",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الزنك",
+        "foreignCategoryEn": "Vitamin & Supplement > Zinc",
+        "localCategoryAr": "التسوق حسب الفيتامينات > زينك",
+        "localCategoryEn": "Shopping by vitamins > Zinc"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > 5-هيدروكسي تربتوفان",
+        "foreignCategoryEn": "Vitamin & Supplement > 5-HTP",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > دعم المثانة والمسالك البولية > العناية بالجهاز الهضمي",
+        "foreignCategoryEn": "Vitamin & Supplement > Bladder & Urinary Support > Digestive Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الوسائد والمخدات > دعامات الجسم",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Cushions & Pillows > Body Supports",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > العظام والعضلات والمفاصل > فيتامين ك",
+        "foreignCategoryEn": "Vitamins > Bone, Muscle & Joints > Vitamin K",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ك",
+        "localCategoryEn": "Shopping by vitamins > Vitamin K"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > الميلاتونين",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > فيتامين د > فيتامين ب12",
+        "foreignCategoryEn": "Fertility support > Vitamin D > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > المكملات الغذائية > الكولاجين النوع 2",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Supplements > Collagen Type 2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > تعزيز الدماغ والذاكرة > دي إتش إيه",
+        "foreignCategoryEn": "Supplements > Brain & Memory Boost > Dha",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > تعزيز الدماغ والذاكرة > صحة الرؤية",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Brain & Memory Boost > Healthy Vision",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات الرياضية > تعزيز الدماغ والذاكرة > قوة تحمّل العضلات",
+        "foreignCategoryEn": "Sports Vitamins > Brain & Memory Boost > Ultimate muscle Endurance",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > العظام والعضلات والمفاصل > فيتامين د",
+        "foreignCategoryEn": "Vitamins > Bone, Muscle & Joints > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > ل-أرجينين > ل-أرجينين",
+        "foreignCategoryEn": "Pre-Workout > L-Arginine > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > تخفيف التوتر > حمض الفوليك",
+        "foreignCategoryEn": "Vitamins > Ease the Stress > Folic Acid",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > الفيتامينات > فيتامين هـ",
+        "foreignCategoryEn": "Antioxidants > Vitamins > Vitamin E",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين هـ",
+        "localCategoryEn": "Shopping by vitamins > Vitamin E"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > المكملات الغذائية > زيت كبد القد",
+        "foreignCategoryEn": "Manage Your Weight > Supplements > Cod Liver Oil",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > دعم المثانة والمسالك البولية",
+        "foreignCategoryEn": "Vitamin & Supplement > Bladder & Urinary Support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > صحة كبار السن > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamin & Supplement > Seniors Health > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > دعم الخصوبة > فيتامين ب6",
+        "foreignCategoryEn": "Fuel Your Day > Fertility support > Vitamin B6",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامينات متعددة لمرضى السكري > فيتامين أ",
+        "foreignCategoryEn": "Vitamins > Diabetes Multivitamins > Vitamin A",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين أ",
+        "localCategoryEn": "Shopping by vitamins > Vitamin A"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > فيتامين د",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > الحلبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Fenugreek",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تعويض السوائل والإلكتروليتات > إلكتروليتات > مشروبات الترطيب",
+        "foreignCategoryEn": "Rehydration & Electrolytes > Electrolytes > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "رعاية مرضى السكري > الفيتامينات > فيتامين ب12",
+        "foreignCategoryEn": "Diabetes Care > Vitamins > Vitamin B12",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > معزز العضلات > مشروبات الترطيب",
+        "foreignCategoryEn": "Muscle Recovery > Muscle Booster > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العناية بالحامل > دي إتش إيه",
+        "foreignCategoryEn": "Supplements > Pregnancy Care > Dha",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > دعم الرضاعة الطبيعية",
+        "foreignCategoryEn": "Vitamin & Supplement > Breast Feeding Support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > الفيتامينات المتعددة > بيوتين للشعر",
+        "foreignCategoryEn": "Vitamins > Multivitamins > Biotin",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الميلاتونين",
+        "foreignCategoryEn": "Vitamin & Supplement > Melatonin",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > صحة كبار السن > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Vitamins > Seniors Health > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > العظام والعضلات والمفاصل > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Bone, Muscle & Joints > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات متعددة لمرضى السكري > فيتامين ب المركب > إلكتروليتات",
+        "foreignCategoryEn": "Diabetes Multivitamins > Vitamin B Complex > Electrolytes",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > مضادات الأكسدة",
+        "foreignCategoryEn": "Vitamin & Supplement > Antioxidants",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الفيتامينات > فيتامين د",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Vitamins > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > أوميغا 3 > فيتامينات الحمل المتعددة",
+        "foreignCategoryEn": "Vitamins > Omega 3 > Pregnancy Multivitamins",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > ريسفيراترول وبذور العنب > مستخلص بذور العنب",
+        "foreignCategoryEn": "Herbs > Resveratrol & Grape Seed > Grape Seed Extract",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > ل-كارنيتين",
+        "foreignCategoryEn": "Vitamin & Supplement > L-Carnitine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > المكملات الغذائية > إم إس إم",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Supplements > Msm",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > دعم الخصوبة > كوانزيم كيو10",
+        "foreignCategoryEn": "Heart Health > Fertility support > Coenzyme - Q10",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > أشواجاندا > فيتامين ب6",
+        "foreignCategoryEn": "Vitamins > Ashwagandha > Vitamin B6",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أشواغاندا",
+        "localCategoryEn": "Shopping by vitamins > Ashwagandha"
+    },
+    {
+        "foreignCategoryAr": "نوم هادئ > دعم الخصوبة > فيتامين ب6",
+        "foreignCategoryEn": "Peaceful Sleep > Fertility support > Vitamin B6",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > معززات المناعة > مضادات الأكسدة",
+        "foreignCategoryEn": "Vitamin & Supplement > Immunity Boosters > Antioxidants",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > إدارة/ضبط الوزن > الشاي الأخضر",
+        "foreignCategoryEn": "Fuel Your Day > Manage Your Weight > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "لصقات العين > العظام والعضلات والمفاصل > لصقات البشرة",
+        "foreignCategoryEn": "Eye Patches > Bone, Muscle & Joints > Skin Patches",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > حليب الشوك (سيليمارين)",
+        "foreignCategoryEn": "Vitamin & Supplement > Milk Thistle",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > المكملات الغذائية > الجلوكوزامين",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Supplements > Glucosamine",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "معزز العضلات > إلكتروليتات > مشروبات الترطيب",
+        "foreignCategoryEn": "Muscle Booster > Electrolytes > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامينات الشعر > فيتامينات الشعر > فيتامينات الجمال المتعددة",
+        "foreignCategoryEn": "Hair Vitamins > Hair Multivitamins > Beauty Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > صحة المرأة > الشعر والبشرة والأظافر",
+        "localCategoryEn": "Shop By Goal > Women Health > Hair Skin and Nails"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامينات متعددة لمرضى السكري > فيتامين ب المركب",
+        "foreignCategoryEn": "Vitamins > Diabetes Multivitamins > Vitamin B Complex",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات الرياضية > استشفاء العضلات",
+        "foreignCategoryEn": "Vitamin & Supplement > Sports Vitamins > Muscle Recovery",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > نخيل المنشار",
+        "foreignCategoryEn": "Vitamin & Supplement > Saw Palmetto",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالبشرة > فيتامينات البشرة > كولاجين الجمال",
+        "foreignCategoryEn": "Skin Care > Skin Vitamins > Beauty Collagen",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > المكملات الغذائية > الكولاجين النوع 1 و3",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Supplements > Collagen Type 1 & 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الكولاجين",
+        "localCategoryEn": "Shopping by vitamins > Collagen"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > بي سي إيه إيه (BCAA) > الأحماض الأمينية",
+        "foreignCategoryEn": "Fuel Your Day > BCAA > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > رعاية مرضى السكري > مضادات الأكسدة",
+        "foreignCategoryEn": "Vitamin & Supplement > Diabetes Care > Antioxidants",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة كبار السن > زوّد يومك بالطاقة",
+        "foreignCategoryEn": "Brain & Memory Boost > Seniors Health > Fuel Your Day",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > معززات المناعة > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "Heart Health > Immunity Boosters > Bone, Muscle & Joints",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > القلب والدورة الدموية",
+        "localCategoryEn": "Shop By Goal > General Health > Heart and Circulation"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الأعشاب > مستخلص بذور العنب",
+        "foreignCategoryEn": "Immunity Boosters > Herbs > Grape Seed Extract",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > دعم المناعة",
+        "localCategoryEn": "Shop By Goal > General Health > Immunity Support"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة القلب > كوانزيم كيو10",
+        "foreignCategoryEn": "Supplements > Heart Health > Coenzyme - Q10",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > كوانزيم كيو10",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Coenzyme - Q10",
+        "localCategoryAr": "التسوق حسب الفيتامينات > إنزيم كيو 10",
+        "localCategoryEn": "Shopping by vitamins > Coenzyme Q10"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تخفيف التوتر > دعم الخصوبة",
+        "foreignCategoryEn": "Vitamin & Supplement > Ease the Stress > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العناية بالحامل",
+        "foreignCategoryEn": "Vitamin & Supplement > Pregnancy Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة كبار السن > المكملات الغذائية > بروبيوتيك",
+        "foreignCategoryEn": "Seniors Health > Supplements > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > إيزوفلافونات",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Isoflavones",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات المتعددة > العناية بالجهاز الهضمي > بروبيوتيك",
+        "foreignCategoryEn": "Multivitamins > Digestive Care > Probiotics",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > صحة الرؤية > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Healthy Vision > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامينات البشرة > خميرة",
+        "foreignCategoryEn": "Vitamin & Supplement > Skin Vitamins > Yeast",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > مستخلص الماكا > ل-أرجينين",
+        "foreignCategoryEn": "Pre-Workout > Maca Extract > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > ل-ثيانين",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > L-Theanine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات > فيتامينات متعددة لمرضى السكري > فيتامين ب2",
+        "foreignCategoryEn": "Vitamins > Diabetes Multivitamins > Vitamin B2",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين ب",
+        "localCategoryEn": "Shopping by vitamins > Vitamin B"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > توازن الهرمونات",
+        "foreignCategoryEn": "Vitamin & Supplement > Balance Your Hormones",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فاليريان",
+        "foreignCategoryEn": "Vitamin & Supplement > Valerian",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > النوم والاسترخاء",
+        "localCategoryEn": "Shop By Goal > General Health > Sleep and Relaxation"
+    },
+    {
+        "foreignCategoryAr": "معززات المناعة > الفيتامينات > فيتامين د",
+        "foreignCategoryEn": "Immunity Boosters > Vitamins > Vitamin D",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين د",
+        "localCategoryEn": "Shopping by vitamins > Vitamin D"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > الأحماض الأمينية > معزز العضلات",
+        "foreignCategoryEn": "Muscle Recovery > Amino Acids > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "عدة إسعافات أولية وجبائر > الفيتامينات والمكملات الغذائية > العظام والعضلات والمفاصل",
+        "foreignCategoryEn": "First Aid & Splints > Vitamin & Supplement > Bone, Muscle & Joints",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > دي إتش إيه",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > Dha",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "زوّد يومك بالطاقة > العظام والعضلات والمفاصل > دعم الخصوبة",
+        "foreignCategoryEn": "Fuel Your Day > Bone, Muscle & Joints > Fertility support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > الحلبة > قوة تحمّل العضلات",
+        "foreignCategoryEn": "Herbs > Fenugreek > Ultimate muscle Endurance",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم المثانة والمسالك البولية > الأعشاب > نخيل المنشار",
+        "foreignCategoryEn": "Bladder & Urinary Support > Herbs > Saw Palmetto",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > الشاي الأخضر",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الجينسنغ",
+        "foreignCategoryEn": "Vitamin & Supplement > Ginseng",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدورة الدموية > زوّد يومك بالطاقة",
+        "foreignCategoryEn": "Vitamin & Supplement > Circulation Boost > Fuel Your Day",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > العظام والعضلات والمفاصل > صحة الرؤية",
+        "foreignCategoryEn": "Heart Health > Bone, Muscle & Joints > Healthy Vision",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العناية بالبروستاتا",
+        "foreignCategoryEn": "Vitamin & Supplement > Prostate Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "توازن الهرمونات > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Balance Your Hormones > Vitamins > Multivitamins",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > المكملات الغذائية > ل-ليسين",
+        "foreignCategoryEn": "Vitamin & Supplement > Supplements > L-Lysine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > الفيتامينات > الفيتامينات المتعددة",
+        "foreignCategoryEn": "Manage Your Weight > Vitamins > Multivitamins",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > الفيتامينات والمعادن",
+        "localCategoryEn": "Shop By Goal > General Health > Vitamins and Minerals"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > تعزيز الدماغ والذاكرة > أوميغا 3",
+        "foreignCategoryEn": "Supplements > Brain & Memory Boost > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة القلب > أوميغا 3",
+        "foreignCategoryEn": "Brain & Memory Boost > Heart Health > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > إدارة/ضبط الوزن > الشاي الأخضر",
+        "foreignCategoryEn": "Herbs > Manage Your Weight > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العظام والعضلات والمفاصل > الأعشاب > البوسويليا",
+        "foreignCategoryEn": "Bone, Muscle & Joints > Herbs > Boswellia",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الفيتامينات > حمض الفوليك",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamins > Folic Acid",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "صحة القلب > تعزيز الدماغ والذاكرة > أوميغا 3",
+        "foreignCategoryEn": "Heart Health > Brain & Memory Boost > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > الأعشاب > الشاي الأخضر",
+        "foreignCategoryEn": "Antioxidants > Herbs > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > معززات المناعة > تنفس بسهولة",
+        "foreignCategoryEn": "Vitamin & Supplement > Immunity Boosters > Breathe Easy",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الصحة الجنسية > دعم المثانة والمسالك البولية",
+        "foreignCategoryEn": "Vitamin & Supplement > Sexual Health > Bladder & Urinary Support",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > فيتامين سي",
+        "foreignCategoryEn": "Vitamin & Supplement > Vitamin C",
+        "localCategoryAr": "التسوق حسب الفيتامينات > فيتامين سي",
+        "localCategoryEn": "Shopping by vitamins > Vitamin C"
+    },
+    {
+        "foreignCategoryAr": "تعزيز الدماغ والذاكرة > صحة الأطفال > أوميغا 3",
+        "foreignCategoryEn": "Brain & Memory Boost > Kids Health > Omega 3",
+        "localCategoryAr": "التسوق حسب الفيتامينات > أوميغا 3",
+        "localCategoryEn": "Shopping by vitamins > Fish oil"
+    },
+    {
+        "foreignCategoryAr": "مضادات الأكسدة > معززات المناعة > صحة الأطفال",
+        "foreignCategoryEn": "Antioxidants > Immunity Boosters > Kids Health",
+        "localCategoryAr": "التسوق حسب الهدف > صحة الاطفال",
+        "localCategoryEn": "Shop By Goal > Children's health"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > رعاية مرضى السكري",
+        "foreignCategoryEn": "Vitamin & Supplement > Diabetes Care",
+        "localCategoryAr": "التسوق حسب الهدف > الصحة العامة > مكملات مرض السكرى",
+        "localCategoryEn": "Shop By Goal > General Health > Diabetes Supplements"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > تعزيز الدورة الدموية > مضادات الأكسدة",
+        "foreignCategoryEn": "Vitamin & Supplement > Circulation Boost > Antioxidants",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > الجلوكوزامين > إم إس إم",
+        "foreignCategoryEn": "Supplements > Glucosamine > Msm",
+        "localCategoryAr": "التسوق حسب الفيتامينات > الجلوكوزامين",
+        "localCategoryEn": "Shopping by vitamins > Glucosamine"
+    },
+    {
+        "foreignCategoryAr": "تعويض السوائل والإلكتروليتات > دعم الخصوبة > مشروبات الترطيب",
+        "foreignCategoryEn": "Rehydration & Electrolytes > Fertility support > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > حارق الدهون > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > Fat Burner > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > المستلزمات الرياضية > ملابس التنحيف",
+        "foreignCategoryEn": "Sport Supplements > Sports Accessories > Slimming Wears",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > ملابس التنحيف",
+        "foreignCategoryEn": "Sport Supplements > Slimming Wears",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "ل-كارنيتين > الزنك > الأحماض الأمينية",
+        "foreignCategoryEn": "L-Carnitine > Zinc > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > واي بروتين",
+        "foreignCategoryEn": "Sport Supplements > Protein > Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "البروتين > آيزو واي بروتين > واي بروتين",
+        "foreignCategoryEn": "Protein > Iso Whey Protein > Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > المستلزمات الرياضية > ساونا",
+        "foreignCategoryEn": "Sport Supplements > Sports Accessories > Sauna",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > مكمل زيادة الوزن",
+        "foreignCategoryEn": "Sport Supplements > Protein > Mass Gainer",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المستلزمات الرياضية > ملابس التنحيف",
+        "foreignCategoryEn": "Sports Accessories > Slimming Wears",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > المستلزمات الرياضية > شيكرات",
+        "foreignCategoryEn": "Sport Supplements > Sports Accessories > Shakers",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين",
+        "foreignCategoryEn": "Sport Supplements > Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الصحة الجنسية > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Sexual Health > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > بروتين الكازين",
+        "foreignCategoryEn": "Sport Supplements > Protein > Casein Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل زيادة الوزن",
+        "foreignCategoryEn": "Sport Supplements > Mass Gainer",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "دعم الخصوبة > مستخلص الماكا > الأحماض الأمينية",
+        "foreignCategoryEn": "Fertility support > Maca Extract > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "تركيبة ما قبل التمرين > الأحماض الأمينية > الكافيين",
+        "foreignCategoryEn": "Pre-workout Formula > Amino Acids > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > مكمل ما قبل التمرين > الكافيين",
+        "foreignCategoryEn": "Manage Your Weight > Pre-Workout > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > الكافيين > الأحماض الأمينية",
+        "foreignCategoryEn": "Pre-Workout > Caffeine > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > تركيبة ما قبل التمرين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > Pre-workout Formula",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > آيزو واي بروتين",
+        "foreignCategoryEn": "Sport Supplements > Protein > Iso Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "بي سي إيه إيه (BCAA) > معزز العضلات > الأحماض الأمينية",
+        "foreignCategoryEn": "BCAA > Muscle Booster > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > الفيتامينات المتعددة > الأحماض الأمينية",
+        "foreignCategoryEn": "Post-Workout > Multivitamins > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > الأحماض الأمينية > الكافيين",
+        "foreignCategoryEn": "Post-Workout > Amino Acids > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > تركيبة ما قبل التمرين > الكافيين",
+        "foreignCategoryEn": "Pre-Workout > Pre-workout Formula > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > معزز العضلات > الكافيين",
+        "foreignCategoryEn": "Muscle Recovery > Muscle Booster > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Sport Supplements > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > المستلزمات الرياضية > معدات التدريب",
+        "foreignCategoryEn": "Sport Supplements > Sports Accessories > Training Equipment",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > مزيج الكربوهيدرات",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > Carb Blend",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "ل-أرجينين > ل-كارنيتين > ل-أرجينين",
+        "foreignCategoryEn": "L-Arginine > L-Carnitine > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > واي بروتين",
+        "foreignCategoryEn": "Sport Supplements > Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > الكرياتين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > Creatine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > الكافيين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > الشاي والقهوة والأعشاب > الشاي المثلج",
+        "foreignCategoryEn": "Pre-Workout > Tea, Coffee & Herbals > Ice Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > البروتين النباتي",
+        "foreignCategoryEn": "Sport Supplements > Protein > Vegan Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين النباتي",
+        "foreignCategoryEn": "Sport Supplements > Vegan Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "بي سي إيه إيه (BCAA) > معزز العضلات > إلكتروليتات",
+        "foreignCategoryEn": "BCAA > Muscle Booster > Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > البروتين > آيزو واي بروتين",
+        "foreignCategoryEn": "Healthy Nutrition > Protein > Iso Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما بعد التمرين > مكمل ما قبل التمرين > غلوتامين",
+        "foreignCategoryEn": "Post-Workout > Pre-Workout > Glutamine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الجفاف ونقص الترطيب > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Dryness & Dehydration > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما بعد التمرين",
+        "foreignCategoryEn": "Sport Supplements > Post-Workout",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "البروتين > البروتين النباتي > واي بروتين",
+        "foreignCategoryEn": "Protein > Vegan Protein > Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "البروتين > واي بروتين > البروتين النباتي",
+        "foreignCategoryEn": "Protein > Whey Protein > Vegan Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > معزز العضلات",
+        "foreignCategoryEn": "Sport Supplements > Muscle Booster",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > آيزو واي بروتين",
+        "foreignCategoryEn": "Sport Supplements > Iso Whey Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > إدارة/ضبط الوزن > البروتين",
+        "foreignCategoryEn": "Vitamin & Supplement > Manage Your Weight > Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > تعويض السوائل والإلكتروليتات > مشروبات الترطيب",
+        "foreignCategoryEn": "Pre-Workout > Rehydration & Electrolytes > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما بعد التمرين > مكمل ما قبل التمرين",
+        "foreignCategoryEn": "Sport Supplements > Post-Workout > Pre-Workout",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "استشفاء العضلات > معزز العضلات > بروتين الكازين",
+        "foreignCategoryEn": "Muscle Recovery > Muscle Booster > Casein Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > مكمل ما بعد التمرين > الأحماض الأمينية",
+        "foreignCategoryEn": "Pre-Workout > Post-Workout > Amino Acids",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > البروتين > وجبات البار",
+        "foreignCategoryEn": "Sport Supplements > Protein > Bar Meals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "البروتين > وجبات البار > البروتين النباتي",
+        "foreignCategoryEn": "Protein > Bar Meals > Vegan Protein",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > الكافيين",
+        "foreignCategoryEn": "Sport Supplements > Caffeine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > ل-أرجينين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > L-Arginine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > غلوتامين",
+        "foreignCategoryEn": "Sport Supplements > Glutamine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > الكرياتين",
+        "foreignCategoryEn": "Sport Supplements > Creatine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكمل ما قبل التمرين > المستلزمات الرياضية > تركيبة ما قبل التمرين",
+        "foreignCategoryEn": "Pre-Workout > Sports Accessories > Pre-workout Formula",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما بعد التمرين > بي سي إيه إيه (BCAA)",
+        "foreignCategoryEn": "Sport Supplements > Post-Workout > BCAA",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما قبل التمرين > غلوتامين",
+        "foreignCategoryEn": "Sport Supplements > Pre-Workout > Glutamine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > مكمل ما بعد التمرين > غلوتامين",
+        "foreignCategoryEn": "Sport Supplements > Post-Workout > Glutamine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "المكملات الغذائية > آيزو واي بروتين > ل-كارنيتين",
+        "foreignCategoryEn": "Supplements > Iso Whey Protein > L-Carnitine",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكملات رياضية > تركيبة ما قبل التمرين",
+        "foreignCategoryEn": "Sport Supplements > Pre-workout Formula",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "السعال ونزلات البرد والحساسية > أقراص العسل > العناية بالحلق",
+        "foreignCategoryEn": "Cough Cold & Allergy > Honey Lozenges > Throat Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "السعال ونزلات البرد والحساسية > العناية بالحلق > أقراص العسل",
+        "foreignCategoryEn": "Cough Cold & Allergy > Throat Care > Honey Lozenges",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > بدائل السكر",
+        "foreignCategoryEn": "Healthy Nutrition > Sweeteners",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > مانوكا فيتاليتي (1000+)",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Vitality Manuka (1000+)",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > أقراص العسل",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Honey Lozenges",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "ألواح البروتين",
+        "foreignCategoryEn": "Protein Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل",
+        "foreignCategoryEn": "Healthy Nutrition > Honey",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > مانوكا اليومي (300+)",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Everyday Manuka (300+)",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > ألواح البروتين",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Protein Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > مانوكا ريميدي (1500+)",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Remedy Manuka (1500+)",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > المياه الطبيعية",
+        "foreignCategoryEn": "Healthy Nutrition > Natural Water",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب > شاي التخسيس",
+        "foreignCategoryEn": "Tea, Coffee & Herbals > Slimming Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > شوكولاتة دايت",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Diet Chocolate",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية",
+        "foreignCategoryEn": "Healthy Nutrition",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العسل > مانوكا ريميدي (1500+) > مانوكا فيتاليتي (1000+)",
+        "foreignCategoryEn": "Honey > Remedy Manuka (1500+) > Vitality Manuka (1000+)",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > عسل السدر",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Sidr Honey",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "بدائل السكر",
+        "foreignCategoryEn": "Sweeteners",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب > قهوة خالية من السكر",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals > Sugar Free coffee",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > وجبات خفيفة غنية بالألياف",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Fiber-Rich Snacks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "شوكولاتة دايت",
+        "foreignCategoryEn": "Diet Chocolate",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات > إلكتروليتات",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes > Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب > شاي النوم والهضم والديتوكس",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals > Sleep, Digest, Detox Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "رقائق صحية",
+        "foreignCategoryEn": "Healthy Chips",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات > المياه الطبيعية",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes > Natural Water",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مكسرات وفواكه مجففة",
+        "foreignCategoryEn": "Nuts & Dried Fruits",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > مكسرات وفواكه مجففة",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Nuts & Dried Fruits",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "شاي النوم والهضم والديتوكس",
+        "foreignCategoryEn": "Sleep, Digest, Detox Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات > بلسم يُترك على الشعر (ليف إن)",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes > Leave In Conditioner",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب > الزنجبيل > شاي الزنجبيل والمورينجا",
+        "foreignCategoryEn": "Tea, Coffee & Herbals > Ginger > Ginger & Moringa Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إدارة/ضبط الوزن > الشاي الأخضر > الشاي الأخضر",
+        "foreignCategoryEn": "Manage Your Weight > Green Tea > Green Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > الزنجبيل > شاي الزنجبيل والمورينجا",
+        "foreignCategoryEn": "Herbs > Ginger > Ginger & Moringa Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "إلكتروليتات > مشروبات الترطيب > فيتامين ب12",
+        "foreignCategoryEn": "Electrolytes > Hydration Drinks > Vitamin B12",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > مكسرات وفواكه مجففة",
+        "foreignCategoryEn": "Healthy Nutrition > Nuts & Dried Fruits",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > انرجي بار",
+        "foreignCategoryEn": "Healthy Snacks > Energy Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب > الشاي المثلج",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals > Ice Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > الشاي والقهوة والأعشاب",
+        "foreignCategoryEn": "Healthy Snacks > Tea, Coffee & Herbals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات > مشروبات الترطيب",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > العسل > عسل جاهز للاستخدام",
+        "foreignCategoryEn": "Healthy Nutrition > Honey > Honey On-The-Go",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب > شاي التخسيس",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals > Slimming Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الشاي والقهوة والأعشاب > إدارة/ضبط الوزن",
+        "foreignCategoryEn": "Vitamin & Supplement > Tea, Coffee & Herbals > Manage Your Weight",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > وجبات خفيفة غنية بالألياف > مكسرات وفواكه مجففة",
+        "foreignCategoryEn": "Healthy Snacks > Fiber-Rich Snacks > Nuts & Dried Fruits",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "فيتامين سي > إلكتروليتات > مشروبات الترطيب",
+        "foreignCategoryEn": "Vitamin C > Electrolytes > Hydration Drinks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العسل > مانوكا ريميدي (1500+)",
+        "foreignCategoryEn": "Honey > Remedy Manuka (1500+)",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العسل > مانوكا اليومي (300+) > عسل جاهز للاستخدام",
+        "foreignCategoryEn": "Honey > Everyday Manuka (300+) > Honey On-The-Go",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الشاي والقهوة والأعشاب > شاي الزنجبيل والمورينجا",
+        "foreignCategoryEn": "Healthy Nutrition > Tea, Coffee & Herbals > Ginger & Moringa Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الزنجبيل > الشاي الأخضر > شاي الزنجبيل والمورينجا",
+        "foreignCategoryEn": "Ginger > Green Tea > Ginger & Moringa Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب > الشاي الأخضر > شاي الزنجبيل والمورينجا",
+        "foreignCategoryEn": "Tea, Coffee & Herbals > Green Tea > Ginger & Moringa Tea",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > الأعشاب > الشاي والقهوة والأعشاب",
+        "foreignCategoryEn": "Vitamin & Supplement > Herbs > Tea, Coffee & Herbals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب > القرفة > الزنجبيل",
+        "foreignCategoryEn": "Tea, Coffee & Herbals > Cinnamon > Ginger",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الأعشاب > الشاي والقهوة والأعشاب > الزنجبيل",
+        "foreignCategoryEn": "Herbs > Tea, Coffee & Herbals > Ginger",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العسل > مانوكا اليومي (300+) > أقراص العسل",
+        "foreignCategoryEn": "Honey > Everyday Manuka (300+) > Honey Lozenges",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الفيتامينات والمكملات الغذائية > العسل > معززات المناعة",
+        "foreignCategoryEn": "Vitamin & Supplement > Honey > Immunity Boosters",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > وجبات خفيفة غنية بالألياف",
+        "foreignCategoryEn": "Healthy Snacks > Fiber-Rich Snacks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب > إلكتروليتات",
+        "foreignCategoryEn": "Tea, Coffee & Herbals > Electrolytes",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "الشاي والقهوة والأعشاب",
+        "foreignCategoryEn": "Tea, Coffee & Herbals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > رقائق صحية",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Healthy Chips",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > شوكولاتة دايت > وجبات خفيفة غنية بالألياف",
+        "foreignCategoryEn": "Healthy Snacks > Diet Chocolate > Fiber-Rich Snacks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة غنية بالألياف",
+        "foreignCategoryEn": "Healthy Nutrition > Fiber-Rich Snacks",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "مشروبات الترطيب > تعويض السوائل والإلكتروليتات > العناية بهضم الأطفال",
+        "foreignCategoryEn": "Hydration Drinks > Rehydration & Electrolytes > Kids Digestive Care",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "انرجي بار",
+        "foreignCategoryEn": "Energy Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > بدائل الوجبات الغذائية",
+        "foreignCategoryEn": "Healthy Nutrition > Diet Meal Replacement",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > وجبات خفيفة صحية > انرجي بار",
+        "foreignCategoryEn": "Healthy Nutrition > Healthy Snacks > Energy Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "العناية بالجهاز الهضمي > الزنجبيل > عسل جاهز للاستخدام",
+        "foreignCategoryEn": "Digestive Care > Ginger > Honey On-The-Go",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > تعويض السوائل والإلكتروليتات > جاهز للشرب",
+        "foreignCategoryEn": "Healthy Nutrition > Rehydration & Electrolytes > Ready-To-Drink",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > شوكولاتة دايت > ألواح البروتين",
+        "foreignCategoryEn": "Healthy Nutrition > Diet Chocolate > Protein Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "وجبات خفيفة صحية > شوكولاتة دايت > ألواح البروتين",
+        "foreignCategoryEn": "Healthy Snacks > Diet Chocolate > Protein Bars",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > جاهز للشرب",
+        "foreignCategoryEn": "Healthy Nutrition > Ready-To-Drink",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    },
+    {
+        "foreignCategoryAr": "التغذية الصحية > الصحة الجنسية > الشاي والقهوة والأعشاب",
+        "foreignCategoryEn": "Healthy Nutrition > Sexual Health > Tea, Coffee & Herbals",
+        "localCategoryAr": "أخرى",
+        "localCategoryEn": "Other"
+    }
+]

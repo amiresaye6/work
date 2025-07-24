@@ -17,10 +17,23 @@ function extractDirectImage(url) {
   return match ? match[1] : url;
 }
 
-// Helper: Join categories array as comma-separated string
-function joinCategories(categories) {
-  if (Array.isArray(categories)) return categories.join(', ');
-  return typeof categories === "string" ? categories : "";
+// Helper: Given an array of categories, join to a chain string
+function arrayToCategoryChain(arr) {
+  if (!Array.isArray(arr)) return "";
+  return arr.map(s => s.trim()).filter(Boolean).join(' > ');
+}
+
+// Helper: Given a category chain string, return the chain string format
+// For example: "cat1 > cat2 > cat3" becomes "cat1, cat1 > cat2, cat1 > cat2 > cat3"
+function categoryChainString(category) {
+  if (!category || typeof category !== "string") return "";
+  const parts = category.split('>').map(s => s.trim()).filter(s => s.length > 0);
+  if (parts.length === 0) return "";
+  const result = [];
+  for (let i = 0; i < parts.length; i++) {
+    result.push(parts.slice(0, i + 1).join(' > '));
+  }
+  return result.join(', ');
 }
 
 // Helper: Join images array as comma-separated string
@@ -29,34 +42,27 @@ function joinImages(images) {
   return typeof images === "string" ? images : "";
 }
 
-// Loads category mappings and returns lookup maps (EN & AR)
+// Loads category mappings and returns lookup maps (EN & AR) for the correct mapping shape
 function loadCategoryMaps(filepath) {
   const mappingArr = JSON.parse(fs.readFileSync(filepath, 'utf8'));
   const mapEn = {};
   const mapAr = {};
   mappingArr.forEach(entry => {
-    if (entry.foreigncagetgory_en) {
-      mapEn[entry.foreigncagetgory_en.trim().toLowerCase()] = entry.local_category_en || [];
+    // Mapping file keys and values should be chain strings!
+    if (entry.foreignCategoryEn) {
+      mapEn[entry.foreignCategoryEn.trim()] = entry.localCategoryEn || "";
     }
-    if (entry.foreigncagetgory_ar) {
-      mapAr[entry.foreigncagetgory_ar.trim().toLowerCase()] = entry.local_category_ar || [];
+    if (entry.foreignCategoryAr) {
+      mapAr[entry.foreignCategoryAr.trim()] = entry.localCategoryAr || "";
     }
   });
   return { mapEn, mapAr };
 }
 
-// Map foreign category array to local categories using lookup map
-function mapForeignToLocalCategories(foreignCategories, mapObj) {
-  if (!Array.isArray(foreignCategories)) foreignCategories = [foreignCategories];
-  const localSet = new Set();
-  foreignCategories.forEach(cat => {
-    if (!cat) return;
-    const lookup = mapObj[cat.trim().toLowerCase()];
-    if (Array.isArray(lookup)) {
-      lookup.forEach(lc => localSet.add(lc));
-    }
-  });
-  return Array.from(localSet);
+// Map foreign category chain to local category chain using lookup map
+function mapForeignChainToLocal(foreignChain, mapObj) {
+  if (!foreignChain) return "";
+  return mapObj[foreignChain.trim()] || "";
 }
 
 // Read SKU counter from file or start from 1
@@ -78,7 +84,7 @@ function main() {
   // Args: [node, script, inputFile, mappingFile, outputEn, outputAr, skuFile]
   const args = process.argv;
   if (args.length < 7) {
-    console.error('Usage: node products_export_full_args.js input.json mapping.json output_en.json output_ar.json sku_counter.txt');
+    console.error('Usage: node uploadFormatter.js input.json mapping.json output_en.json output_ar.json sku_counter.txt');
     process.exit(1);
   }
   const inputFile = args[2];
@@ -109,48 +115,63 @@ function main() {
     }
     const imagesString = joinImages(cleanImages);
 
-    // Map foreign categories to local categories
-    const localCategoriesEn = mapForeignToLocalCategories(product.categories_en, mapEn);
-    const localCategoriesAr = mapForeignToLocalCategories(product.categories_ar, mapAr);
+    // --- CATEGORY LOGIC ---
+    // 1. Build chain from arrays
+    const foreignChainEn = arrayToCategoryChain(product.categories_en);
+    const foreignChainAr = arrayToCategoryChain(product.categories_ar);
+
+    // 2. Build chain string for output (chained format)
+    const foreignChainStringEn = categoryChainString(foreignChainEn);
+    const foreignChainStringAr = categoryChainString(foreignChainAr);
+
+    // 3. Lookup local mapped chain by foreign chain
+    const localChainEn = mapForeignChainToLocal(foreignChainEn, mapEn);
+    const localChainAr = mapForeignChainToLocal(foreignChainAr, mapAr);
+
+    // 4. Format local as chain string for output (chained format)
+    const localChainStringEn = categoryChainString(localChainEn);
+    const localChainStringAr = categoryChainString(localChainAr);
 
     // --- English ---
     output_en.push({
       SKU: "en_" + SKU,
-      Name: product.title_en || "",
-      Description: product.description_en || "",
+      Name: product.new_title_en || "",
+      Description: product.new_description_en || "",
+      seo_keyword_en: product.seo_keyword_en || "",
       "Short description": product.short_description_en || "",
       "Regular price": product.priceInfo?.originalPrice
         ? Number(product.priceInfo.originalPrice)
         : product.priceInfo?.price
           ? Number(product.priceInfo.price)
           : "",
-      foreignCategories: joinCategories(product.categories_en),
-      Categories: joinCategories(localCategoriesEn),
+      foreignCategories: foreignChainStringEn,
+      Categories: localChainStringEn,
       Images: imagesString,
       Brands: product.brand_en || "",
       isExpress: product.isExpress,
       "Attribute 1 name": "shipping",
-      "Attribute 1 value(s)": isExpress ? "local" : "world",
+      "Attribute 1 value(s)": product.isExpress ? "local" : "world",
     });
 
     // --- Arabic ---
     output_ar.push({
       SKU: "ar_" + SKU,
-      Name: product.title_ar || "",
-      Description: product.description_ar || "",
+      Name: product.new_title_ar || "",
+      Description: product.new_description_ar || "",
+      seo_keyword_ar: product.seo_keyword_ar || "",
       "Short description": product.short_description_ar || "",
       "Regular price": product.priceInfo?.originalPrice
         ? Number(product.priceInfo.originalPrice)
         : product.priceInfo?.price
           ? Number(product.priceInfo.price)
           : "",
-      foreignCategories: joinCategories(product.categories_ar),
-      Categories: joinCategories(localCategoriesAr),
+      foreignCategories: foreignChainStringAr,
+      Categories: localChainStringAr,
       Images: imagesString,
       Brands: product.brand_ar || "",
       isExpress: product.isExpress,
       "Attribute 1 name": "طريقة الشحن",
-      "Attribute 1 value(s)": isExpress ? "local" : "world",
+      "Attribute 1 value(s)": product.isExpress ? "local" : "world",
     });
   });
 
